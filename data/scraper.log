@@ -1,0 +1,991 @@
+2026-05-12 15:25:56,183 [INFO] Fetching sitemap…
+2026-05-12 15:25:56,817 [INFO] HTTP Request: GET https://idea-milanicreative.beehiiv.com/sitemap.xml "HTTP/1.1 200 OK"
+2026-05-12 15:25:56,823 [INFO] Found 89 post URLs in sitemap
+2026-05-12 15:25:56,823 [INFO] 89 new posts to scrape (0 already done)
+2026-05-12 15:25:56,823 [INFO] [1/89] Scraping https://idea-milanicreative.beehiiv.com/p/the-2-types-of-talent
+2026-05-12 15:25:57,609 [INFO] HTTP Request: GET https://idea-milanicreative.beehiiv.com/p/the-2-types-of-talent "HTTP/1.1 200 OK"
+2026-05-12 15:25:57,667 [INFO]   → 0 entries (0 image failures)
+2026-05-12 15:25:58,167 [INFO] [2/89] Scraping https://idea-milanicreative.beehiiv.com/p/the-power-of-mistakes-and-discipline
+2026-05-12 15:25:58,909 [INFO] HTTP Request: GET https://idea-milanicreative.beehiiv.com/p/the-power-of-mistakes-and-discipline "HTTP/1.1 200 OK"
+2026-05-12 15:25:58,971 [INFO]   → 0 entries (0 image failures)
+2026-05-12 15:25:59,472 [INFO] [3/89] Scraping https://idea-milanicreative.beehiiv.com/p/how-emotions-are-like-threads
+2026-05-12 15:26:00,299 [INFO] HTTP Request: GET https://idea-milanicreative.beehiiv.com/p/how-emotions-are-like-threads "HTTP/1.1 200 OK"
+2026-05-12 15:26:00,363 [INFO]   → 0 entries (0 image failures)
+2026-05-12 15:26:00,864 [INFO] [4/89] Scraping https://idea-milanicreative.beehiiv.com/p/the-myth-of-being-ready
+2026-05-12 15:26:01,743 [INFO] HTTP Request: GET https://idea-milanicreative.beehiiv.com/p/the-myth-of-being-ready "HTTP/1.1 200 OK"
+2026-05-12 15:26:01,861 [INFO]   → 0 entries (0 image failures)
+2026-05-12 15:26:02,362 [INFO] [5/89] Scraping https://idea-milanicreative.beehiiv.com/p/how-purpose-is-like-a-candle
+2026-05-12 15:26:03,353 [INFO] HTTP Request: GET https://idea-milanicreative.beehiiv.com/p/how-purpose-is-like-a-candle "HTTP/1.1 200 OK"
+2026-05-12 15:26:03,486 [INFO]   → 0 entries (0 image failures)
+2026-05-12 15:26:03,987 [INFO] [6/89] Scraping https://idea-milanicreative.beehiiv.com/p/why-you-should-always-root-for-yourself
+2026-05-12 15:26:05,045 [INFO] HTTP Request: GET https://idea-milanicreative.beehiiv.com/p/why-you-should-always-root-for-yourself "HTTP/1.1 200 OK"
+2026-05-12 15:26:05,245 [INFO]   → 0 entries (0 image failures)
+2026-05-12 15:26:05,745 [INFO] [7/89] Scraping https://idea-milanicreative.beehiiv.com/p/you-re-not-the-problem-the-problem-is-the-problem
+2026-05-12 15:26:06,491 [INFO] HTTP Request: GET https://idea-milanicreative.beehiiv.com/p/you-re-not-the-problem-the-problem-is-the-problem "HTTP/1.1 200 OK"
+2026-05-12 15:26:06,567 [INFO]   → 0 entries (0 image failures)
+2026-05-12 15:26:07,068 [INFO] [8/89] Scraping https://idea-milanicreative.beehiiv.com/p/the-bumps-you-re-feeling-doesn-t-mean-you-re-on-the-wrong-road
+2026-05-12 15:26:08,202 [INFO] HTTP Request: GET https://idea-milanicreative.beehiiv.com/p/the-bumps-you-re-feeling-doesn-t-mean-you-re-on-the-wrong-road "HTTP/1.1 200 OK"
+2026-05-12 15:26:08,400 [INFO]   → 0 entries (0 image failures)
+2026-05-12 15:26:08,900 [INFO] [9/89] Scraping https://idea-milanicreative.beehiiv.com/p/how-to-use-evidence-to-build-confidence
+2026-05-12 15:26:09,700 [INFO] HTTP Request: GET https://idea-milanicreative.beehiiv.com/p/how-to-use-evidence-to-build-confidence "HTTP/1.1 200 OK"
+2026-05-12 15:26:09,828 [INFO]   → 0 entries (0 image failures)
+2026-05-12 15:26:10,328 [INFO] [10/89] Scraping https://idea-milanicreative.beehiiv.com/p/what-s-the-difference-between-generosity-and-strategy
+2026-05-12 15:26:11,389 [INFO] HTTP Request: GET https://idea-milanicreative.beehiiv.com/p/what-s-the-difference-between-generosity-and-strategy "HTTP/1.1 200 OK"
+2026-05-12 15:26:11,420 [INFO]   → 0 entries (0 image failures)
+2026-05-12 15:26:11,920 [INFO] [11/89] Scraping https://idea-milanicreative.beehiiv.com/p/are-you-preparing-or-are-you-procrastinating
+2026-05-12 15:26:12,709 [INFO] HTTP Request: GET https://idea-milanicreative.beehiiv.com/p/are-you-preparing-or-are-you-procrastinating "HTTP/1.1 200 OK"
+2026-05-12 15:26:12,837 [INFO]   → 0 entries (0 image failures)
+2026-05-12 15:26:13,338 [INFO] [12/89] Scraping https://idea-milanicreative.beehiiv.com/p/there-s-a-difference-between-what-s-cool-and-what-s-meaningful
+2026-05-12 15:26:14,186 [INFO] HTTP Request: GET https://idea-milanicreative.beehiiv.com/p/there-s-a-difference-between-what-s-cool-and-what-s-meaningful "HTTP/1.1 200 OK"
+2026-05-12 15:26:14,306 [INFO]   → 0 entries (0 image failures)
+2026-05-12 15:26:14,806 [INFO] [13/89] Scraping https://idea-milanicreative.beehiiv.com/p/why-showing-up-doesn-t-mean-showing-up-perfectly
+2026-05-12 15:26:15,688 [INFO] HTTP Request: GET https://idea-milanicreative.beehiiv.com/p/why-showing-up-doesn-t-mean-showing-up-perfectly "HTTP/1.1 200 OK"
+2026-05-12 15:26:15,812 [INFO]   → 0 entries (0 image failures)
+2026-05-12 15:26:16,313 [INFO] [14/89] Scraping https://idea-milanicreative.beehiiv.com/p/what-is-the-most-important-thing-you-should-do-next
+2026-05-12 15:26:17,062 [INFO] HTTP Request: GET https://idea-milanicreative.beehiiv.com/p/what-is-the-most-important-thing-you-should-do-next "HTTP/1.1 200 OK"
+2026-05-12 15:26:17,184 [INFO]   → 0 entries (0 image failures)
+2026-05-12 15:26:17,685 [INFO] [15/89] Scraping https://idea-milanicreative.beehiiv.com/p/what-is-the-big-picture-paradox-9e51f321f10fd4b3
+2026-05-12 15:26:18,617 [INFO] HTTP Request: GET https://idea-milanicreative.beehiiv.com/p/what-is-the-big-picture-paradox-9e51f321f10fd4b3 "HTTP/1.1 200 OK"
+2026-05-12 15:26:18,686 [INFO]   → 0 entries (0 image failures)
+2026-05-12 15:26:19,187 [INFO] [16/89] Scraping https://idea-milanicreative.beehiiv.com/p/why-i-m-not-worried-about-ai-images-0a7328d7cce3d1f3
+2026-05-12 15:26:20,490 [INFO] HTTP Request: GET https://idea-milanicreative.beehiiv.com/p/why-i-m-not-worried-about-ai-images-0a7328d7cce3d1f3 "HTTP/1.1 200 OK"
+2026-05-12 15:26:20,619 [INFO]   → 0 entries (0 image failures)
+2026-05-12 15:26:21,119 [INFO] [17/89] Scraping https://idea-milanicreative.beehiiv.com/p/why-friendships-get-harder-as-we-get-older-145694ca01590ce6
+2026-05-12 15:26:21,910 [INFO] HTTP Request: GET https://idea-milanicreative.beehiiv.com/p/why-friendships-get-harder-as-we-get-older-145694ca01590ce6 "HTTP/1.1 200 OK"
+2026-05-12 15:26:21,942 [INFO]   → 0 entries (0 image failures)
+2026-05-12 15:26:22,442 [INFO] [18/89] Scraping https://idea-milanicreative.beehiiv.com/p/the-time-saving-power-of-one-simple-word
+2026-05-12 15:26:23,353 [INFO] HTTP Request: GET https://idea-milanicreative.beehiiv.com/p/the-time-saving-power-of-one-simple-word "HTTP/1.1 200 OK"
+2026-05-12 15:26:23,479 [INFO]   → 0 entries (0 image failures)
+2026-05-12 15:26:23,980 [INFO] [19/89] Scraping https://idea-milanicreative.beehiiv.com/p/why-low-hanging-fruit-are-dangerous
+2026-05-12 15:26:25,933 [INFO] HTTP Request: GET https://idea-milanicreative.beehiiv.com/p/why-low-hanging-fruit-are-dangerous "HTTP/1.1 200 OK"
+2026-05-12 15:26:26,002 [INFO]   → 0 entries (0 image failures)
+2026-05-12 15:26:26,503 [INFO] [20/89] Scraping https://idea-milanicreative.beehiiv.com/p/how-progress-is-like-crossing-a-river
+2026-05-12 15:26:27,406 [INFO] HTTP Request: GET https://idea-milanicreative.beehiiv.com/p/how-progress-is-like-crossing-a-river "HTTP/1.1 200 OK"
+2026-05-12 15:26:27,465 [INFO]   → 0 entries (0 image failures)
+2026-05-12 15:26:27,965 [INFO] [21/89] Scraping https://idea-milanicreative.beehiiv.com/p/the-myth-of-doing-it-all
+2026-05-12 15:26:29,096 [INFO] HTTP Request: GET https://idea-milanicreative.beehiiv.com/p/the-myth-of-doing-it-all "HTTP/1.1 200 OK"
+2026-05-12 15:26:29,295 [INFO]   → 0 entries (0 image failures)
+2026-05-12 15:26:29,795 [INFO] [22/89] Scraping https://idea-milanicreative.beehiiv.com/p/why-failing-is-not-what-you-think
+2026-05-12 15:26:30,515 [INFO] HTTP Request: GET https://idea-milanicreative.beehiiv.com/p/why-failing-is-not-what-you-think "HTTP/1.1 200 OK"
+2026-05-12 15:26:30,589 [INFO]   → 0 entries (0 image failures)
+2026-05-12 15:26:31,090 [INFO] [23/89] Scraping https://idea-milanicreative.beehiiv.com/p/how-to-look-at-your-fears-differently
+2026-05-12 15:26:31,832 [INFO] HTTP Request: GET https://idea-milanicreative.beehiiv.com/p/how-to-look-at-your-fears-differently "HTTP/1.1 200 OK"
+2026-05-12 15:26:31,990 [INFO]   → 0 entries (0 image failures)
+2026-05-12 15:26:32,491 [INFO] [24/89] Scraping https://idea-milanicreative.beehiiv.com/p/how-risks-are-like-being-stranded-on-a-boat
+2026-05-12 15:26:33,249 [INFO] HTTP Request: GET https://idea-milanicreative.beehiiv.com/p/how-risks-are-like-being-stranded-on-a-boat "HTTP/1.1 200 OK"
+2026-05-12 15:26:33,370 [INFO]   → 0 entries (0 image failures)
+2026-05-12 15:26:33,871 [INFO] [25/89] Scraping https://idea-milanicreative.beehiiv.com/p/how-money-is-like-water
+2026-05-12 15:26:34,757 [INFO] HTTP Request: GET https://idea-milanicreative.beehiiv.com/p/how-money-is-like-water "HTTP/1.1 200 OK"
+2026-05-12 15:26:34,884 [INFO]   → 0 entries (0 image failures)
+2026-05-12 15:26:35,385 [INFO] [26/89] Scraping https://idea-milanicreative.beehiiv.com/p/why-friendships-are-like-trees
+2026-05-12 15:26:36,157 [INFO] HTTP Request: GET https://idea-milanicreative.beehiiv.com/p/why-friendships-are-like-trees "HTTP/1.1 200 OK"
+2026-05-12 15:26:36,245 [INFO]   → 0 entries (0 image failures)
+2026-05-12 15:26:36,746 [INFO] [27/89] Scraping https://idea-milanicreative.beehiiv.com/p/what-does-it-mean-to-have-character
+2026-05-12 15:26:38,101 [INFO] HTTP Request: GET https://idea-milanicreative.beehiiv.com/p/what-does-it-mean-to-have-character "HTTP/1.1 200 OK"
+2026-05-12 15:26:38,173 [INFO]   → 0 entries (0 image failures)
+2026-05-12 15:26:38,673 [INFO] [28/89] Scraping https://idea-milanicreative.beehiiv.com/p/how-happiness-is-like-a-butterfly
+2026-05-12 15:26:39,389 [INFO] HTTP Request: GET https://idea-milanicreative.beehiiv.com/p/how-happiness-is-like-a-butterfly "HTTP/1.1 200 OK"
+2026-05-12 15:26:39,460 [INFO]   → 0 entries (0 image failures)
+2026-05-12 15:26:39,961 [INFO] [29/89] Scraping https://idea-milanicreative.beehiiv.com/p/putting-it-all-into-perspective
+2026-05-12 15:26:40,724 [INFO] HTTP Request: GET https://idea-milanicreative.beehiiv.com/p/putting-it-all-into-perspective "HTTP/1.1 200 OK"
+2026-05-12 15:26:40,840 [INFO]   → 0 entries (0 image failures)
+2026-05-12 15:26:41,341 [INFO] [30/89] Scraping https://idea-milanicreative.beehiiv.com/p/building-a-creative-habit-in-2025
+2026-05-12 15:26:42,143 [INFO] HTTP Request: GET https://idea-milanicreative.beehiiv.com/p/building-a-creative-habit-in-2025 "HTTP/1.1 200 OK"
+2026-05-12 15:26:42,283 [INFO]   → 0 entries (0 image failures)
+2026-05-12 15:26:42,784 [INFO] [31/89] Scraping https://idea-milanicreative.beehiiv.com/p/the-problem-with-low-hanging-fruit
+2026-05-12 15:26:43,742 [INFO] HTTP Request: GET https://idea-milanicreative.beehiiv.com/p/the-problem-with-low-hanging-fruit "HTTP/1.1 200 OK"
+2026-05-12 15:26:43,860 [INFO]   → 0 entries (0 image failures)
+2026-05-12 15:26:44,361 [INFO] [32/89] Scraping https://idea-milanicreative.beehiiv.com/p/the-art-of-remixing-ideas
+2026-05-12 15:26:45,068 [INFO] HTTP Request: GET https://idea-milanicreative.beehiiv.com/p/the-art-of-remixing-ideas "HTTP/1.1 200 OK"
+2026-05-12 15:26:45,185 [INFO]   → 0 entries (0 image failures)
+2026-05-12 15:26:45,685 [INFO] [33/89] Scraping https://idea-milanicreative.beehiiv.com/p/are-you-reaching-your-full-potential
+2026-05-12 15:26:46,533 [INFO] HTTP Request: GET https://idea-milanicreative.beehiiv.com/p/are-you-reaching-your-full-potential "HTTP/1.1 200 OK"
+2026-05-12 15:26:46,564 [INFO]   → 0 entries (0 image failures)
+2026-05-12 15:26:47,064 [INFO] [34/89] Scraping https://idea-milanicreative.beehiiv.com/p/what-tea-can-teach-us-about-overthinking
+2026-05-12 15:26:47,795 [INFO] HTTP Request: GET https://idea-milanicreative.beehiiv.com/p/what-tea-can-teach-us-about-overthinking "HTTP/1.1 200 OK"
+2026-05-12 15:26:47,916 [INFO]   → 0 entries (0 image failures)
+2026-05-12 15:26:48,417 [INFO] [35/89] Scraping https://idea-milanicreative.beehiiv.com/p/why-there-s-no-shortcut-to-getting-wiser
+2026-05-12 15:26:49,794 [INFO] HTTP Request: GET https://idea-milanicreative.beehiiv.com/p/why-there-s-no-shortcut-to-getting-wiser "HTTP/1.1 200 OK"
+2026-05-12 15:26:49,865 [INFO]   → 0 entries (0 image failures)
+2026-05-12 15:26:50,365 [INFO] [36/89] Scraping https://idea-milanicreative.beehiiv.com/p/embrace-fomo
+2026-05-12 15:26:51,100 [INFO] HTTP Request: GET https://idea-milanicreative.beehiiv.com/p/embrace-fomo "HTTP/1.1 200 OK"
+2026-05-12 15:26:51,173 [INFO]   → 0 entries (0 image failures)
+2026-05-12 15:26:51,674 [INFO] [37/89] Scraping https://idea-milanicreative.beehiiv.com/p/visual-ideas-understand-deeply
+2026-05-12 15:26:52,472 [INFO] HTTP Request: GET https://idea-milanicreative.beehiiv.com/p/visual-ideas-understand-deeply "HTTP/1.1 200 OK"
+2026-05-12 15:26:52,529 [INFO]   → 0 entries (0 image failures)
+2026-05-12 15:26:53,029 [INFO] [38/89] Scraping https://idea-milanicreative.beehiiv.com/p/visual-ideas-shouldnt-present-data-instead
+2026-05-12 15:26:53,780 [INFO] HTTP Request: GET https://idea-milanicreative.beehiiv.com/p/visual-ideas-shouldnt-present-data-instead "HTTP/1.1 200 OK"
+2026-05-12 15:26:53,905 [INFO]   → 0 entries (0 image failures)
+2026-05-12 15:26:54,405 [INFO] [39/89] Scraping https://idea-milanicreative.beehiiv.com/p/visual-ideas-making-daily-visuals-superpower
+2026-05-12 15:26:55,123 [INFO] HTTP Request: GET https://idea-milanicreative.beehiiv.com/p/visual-ideas-making-daily-visuals-superpower "HTTP/1.1 200 OK"
+2026-05-12 15:26:55,240 [INFO]   → 0 entries (0 image failures)
+2026-05-12 15:26:55,741 [INFO] [40/89] Scraping https://idea-milanicreative.beehiiv.com/p/visual-ideas-stepping-off-sidelines
+2026-05-12 15:26:56,612 [INFO] HTTP Request: GET https://idea-milanicreative.beehiiv.com/p/visual-ideas-stepping-off-sidelines "HTTP/1.1 200 OK"
+2026-05-12 15:26:56,641 [INFO]   → 0 entries (0 image failures)
+2026-05-12 15:26:57,141 [INFO] [41/89] Scraping https://idea-milanicreative.beehiiv.com/p/visual-ideas-james-clear-teaches-fighting-perfectionism
+2026-05-12 15:26:57,951 [INFO] HTTP Request: GET https://idea-milanicreative.beehiiv.com/p/visual-ideas-james-clear-teaches-fighting-perfectionism "HTTP/1.1 200 OK"
+2026-05-12 15:26:58,066 [INFO]   → 0 entries (0 image failures)
+2026-05-12 15:26:58,566 [INFO] [42/89] Scraping https://idea-milanicreative.beehiiv.com/p/visual-ideas-people-get-wrong-stand-creator
+2026-05-12 15:26:59,314 [INFO] HTTP Request: GET https://idea-milanicreative.beehiiv.com/p/visual-ideas-people-get-wrong-stand-creator "HTTP/1.1 200 OK"
+2026-05-12 15:26:59,435 [INFO]   → 0 entries (0 image failures)
+2026-05-12 15:26:59,936 [INFO] [43/89] Scraping https://idea-milanicreative.beehiiv.com/p/visual-ideas-focusing-one-thing-time-superpower
+2026-05-12 15:27:02,161 [INFO] HTTP Request: GET https://idea-milanicreative.beehiiv.com/p/visual-ideas-focusing-one-thing-time-superpower "HTTP/1.1 200 OK"
+2026-05-12 15:27:02,222 [INFO]   → 0 entries (0 image failures)
+2026-05-12 15:27:02,723 [INFO] [44/89] Scraping https://idea-milanicreative.beehiiv.com/p/visual-ideas-focus-attention-improve-quality-life
+2026-05-12 15:27:03,520 [INFO] HTTP Request: GET https://idea-milanicreative.beehiiv.com/p/visual-ideas-focus-attention-improve-quality-life "HTTP/1.1 200 OK"
+2026-05-12 15:27:03,582 [INFO]   → 0 entries (0 image failures)
+2026-05-12 15:27:04,083 [INFO] [45/89] Scraping https://idea-milanicreative.beehiiv.com/p/visual-ideas-question-people-dont-ask-matters
+2026-05-12 15:27:04,844 [INFO] HTTP Request: GET https://idea-milanicreative.beehiiv.com/p/visual-ideas-question-people-dont-ask-matters "HTTP/1.1 200 OK"
+2026-05-12 15:27:04,965 [INFO]   → 0 entries (0 image failures)
+2026-05-12 15:27:05,466 [INFO] [46/89] Scraping https://idea-milanicreative.beehiiv.com/p/visual-ideas-japanese-philosophy-got-perfectionism
+2026-05-12 15:27:06,211 [INFO] HTTP Request: GET https://idea-milanicreative.beehiiv.com/p/visual-ideas-japanese-philosophy-got-perfectionism "HTTP/1.1 200 OK"
+2026-05-12 15:27:06,278 [INFO]   → 0 entries (0 image failures)
+2026-05-12 15:27:06,779 [INFO] [47/89] Scraping https://idea-milanicreative.beehiiv.com/p/accomplish-less-wantbut-think
+2026-05-12 15:27:07,575 [INFO] HTTP Request: GET https://idea-milanicreative.beehiiv.com/p/accomplish-less-wantbut-think "HTTP/1.1 200 OK"
+2026-05-12 15:27:07,694 [INFO]   → 0 entries (0 image failures)
+2026-05-12 15:27:08,195 [INFO] [48/89] Scraping https://idea-milanicreative.beehiiv.com/p/people-get-wrong-iteration-change
+2026-05-12 15:27:09,023 [INFO] HTTP Request: GET https://idea-milanicreative.beehiiv.com/p/people-get-wrong-iteration-change "HTTP/1.1 200 OK"
+2026-05-12 15:27:09,054 [INFO]   → 0 entries (0 image failures)
+2026-05-12 15:27:09,555 [INFO] [49/89] Scraping https://idea-milanicreative.beehiiv.com/p/visual-ideas-simple-shift-thinking-got-started-posting-online
+2026-05-12 15:27:10,487 [INFO] HTTP Request: GET https://idea-milanicreative.beehiiv.com/p/visual-ideas-simple-shift-thinking-got-started-posting-online "HTTP/1.1 200 OK"
+2026-05-12 15:27:10,607 [INFO]   → 0 entries (0 image failures)
+2026-05-12 15:27:11,108 [INFO] [50/89] Scraping https://idea-milanicreative.beehiiv.com/p/frame-failure-paves-road-success
+2026-05-12 15:27:11,866 [INFO] HTTP Request: GET https://idea-milanicreative.beehiiv.com/p/frame-failure-paves-road-success "HTTP/1.1 200 OK"
+2026-05-12 15:27:11,941 [INFO]   → 0 entries (0 image failures)
+2026-05-12 15:27:12,442 [INFO] [51/89] Scraping https://idea-milanicreative.beehiiv.com/p/dad-taught-fixing-whats-broke-not-knowing
+2026-05-12 15:27:13,238 [INFO] HTTP Request: GET https://idea-milanicreative.beehiiv.com/p/dad-taught-fixing-whats-broke-not-knowing "HTTP/1.1 200 OK"
+2026-05-12 15:27:13,271 [INFO]   → 0 entries (0 image failures)
+2026-05-12 15:27:13,771 [INFO] [52/89] Scraping https://idea-milanicreative.beehiiv.com/p/solve-problems-using-ancient-zen-buddhist-mindset-shoshin
+2026-05-12 15:27:14,554 [INFO] HTTP Request: GET https://idea-milanicreative.beehiiv.com/p/solve-problems-using-ancient-zen-buddhist-mindset-shoshin "HTTP/1.1 200 OK"
+2026-05-12 15:27:14,685 [INFO]   → 0 entries (0 image failures)
+2026-05-12 15:27:15,186 [INFO] [53/89] Scraping https://idea-milanicreative.beehiiv.com/p/feel-lost-think-youre-going
+2026-05-12 15:27:16,152 [INFO] HTTP Request: GET https://idea-milanicreative.beehiiv.com/p/feel-lost-think-youre-going "HTTP/1.1 200 OK"
+2026-05-12 15:27:16,274 [INFO]   → 0 entries (0 image failures)
+2026-05-12 15:27:16,774 [INFO] [54/89] Scraping https://idea-milanicreative.beehiiv.com/p/visual-ideas-habit-tracking-comparisons-accuracy-overrated
+2026-05-12 15:27:17,696 [INFO] HTTP Request: GET https://idea-milanicreative.beehiiv.com/p/visual-ideas-habit-tracking-comparisons-accuracy-overrated "HTTP/1.1 200 OK"
+2026-05-12 15:27:17,770 [INFO]   → 0 entries (0 image failures)
+2026-05-12 15:27:18,271 [INFO] [55/89] Scraping https://idea-milanicreative.beehiiv.com/p/teaching-breakdowns-true-wealth-insights
+2026-05-12 15:27:19,002 [INFO] HTTP Request: GET https://idea-milanicreative.beehiiv.com/p/teaching-breakdowns-true-wealth-insights "HTTP/1.1 200 OK"
+2026-05-12 15:27:19,079 [INFO]   → 0 entries (0 image failures)
+2026-05-12 15:27:19,579 [INFO] [56/89] Scraping https://idea-milanicreative.beehiiv.com/p/commitment-game-speed-ally-not-way-think
+2026-05-12 15:27:20,321 [INFO] HTTP Request: GET https://idea-milanicreative.beehiiv.com/p/commitment-game-speed-ally-not-way-think "HTTP/1.1 200 OK"
+2026-05-12 15:27:20,392 [INFO]   → 0 entries (0 image failures)
+2026-05-12 15:27:20,892 [INFO] [57/89] Scraping https://idea-milanicreative.beehiiv.com/p/2-types-burnout
+2026-05-12 15:27:21,669 [INFO] HTTP Request: GET https://idea-milanicreative.beehiiv.com/p/2-types-burnout "HTTP/1.1 200 OK"
+2026-05-12 15:27:21,786 [INFO]   → 0 entries (0 image failures)
+2026-05-12 15:27:22,287 [INFO] [58/89] Scraping https://idea-milanicreative.beehiiv.com/p/difference-thinking-overthinking
+2026-05-12 15:27:23,070 [INFO] HTTP Request: GET https://idea-milanicreative.beehiiv.com/p/difference-thinking-overthinking "HTTP/1.1 200 OK"
+2026-05-12 15:27:23,185 [INFO]   → 0 entries (0 image failures)
+2026-05-12 15:27:23,686 [INFO] [59/89] Scraping https://idea-milanicreative.beehiiv.com/p/visual-ideas-system-capture-ideas-organizing-chaos-storytelling
+2026-05-12 15:27:24,910 [INFO] HTTP Request: GET https://idea-milanicreative.beehiiv.com/p/visual-ideas-system-capture-ideas-organizing-chaos-storytelling "HTTP/1.1 200 OK"
+2026-05-12 15:27:25,039 [INFO]   → 0 entries (0 image failures)
+2026-05-12 15:27:25,540 [INFO] [60/89] Scraping https://idea-milanicreative.beehiiv.com/p/multitasking-myth-passion-connected-legacy
+2026-05-12 15:27:26,261 [INFO] HTTP Request: GET https://idea-milanicreative.beehiiv.com/p/multitasking-myth-passion-connected-legacy "HTTP/1.1 200 OK"
+2026-05-12 15:27:26,378 [INFO]   → 0 entries (0 image failures)
+2026-05-12 15:27:26,879 [INFO] [61/89] Scraping https://idea-milanicreative.beehiiv.com/p/maximizing-vs-optimizing-day
+2026-05-12 15:27:27,710 [INFO] HTTP Request: GET https://idea-milanicreative.beehiiv.com/p/maximizing-vs-optimizing-day "HTTP/1.1 200 OK"
+2026-05-12 15:27:27,843 [INFO]   → 0 entries (0 image failures)
+2026-05-12 15:27:28,343 [INFO] [62/89] Scraping https://idea-milanicreative.beehiiv.com/p/setbacks-sheerans-law
+2026-05-12 15:27:29,464 [INFO] HTTP Request: GET https://idea-milanicreative.beehiiv.com/p/setbacks-sheerans-law "HTTP/1.1 200 OK"
+2026-05-12 15:27:29,524 [INFO]   → 0 entries (0 image failures)
+2026-05-12 15:27:30,025 [INFO] [63/89] Scraping https://idea-milanicreative.beehiiv.com/p/notemaking-stability-identity
+2026-05-12 15:27:30,877 [INFO] HTTP Request: GET https://idea-milanicreative.beehiiv.com/p/notemaking-stability-identity "HTTP/1.1 200 OK"
+2026-05-12 15:27:30,913 [INFO]   → 0 entries (0 image failures)
+2026-05-12 15:27:31,414 [INFO] [64/89] Scraping https://idea-milanicreative.beehiiv.com/p/growth-minded-celebrations-disagreements
+2026-05-12 15:27:32,205 [INFO] HTTP Request: GET https://idea-milanicreative.beehiiv.com/p/growth-minded-celebrations-disagreements "HTTP/1.1 200 OK"
+2026-05-12 15:27:32,263 [INFO]   → 0 entries (0 image failures)
+2026-05-12 15:27:32,763 [INFO] [65/89] Scraping https://idea-milanicreative.beehiiv.com/p/get-morning-gunk-head
+2026-05-12 15:27:33,786 [INFO] HTTP Request: GET https://idea-milanicreative.beehiiv.com/p/get-morning-gunk-head "HTTP/1.1 200 OK"
+2026-05-12 15:27:33,905 [INFO]   → 0 entries (0 image failures)
+2026-05-12 15:27:34,406 [INFO] [66/89] Scraping https://idea-milanicreative.beehiiv.com/p/authenticity
+2026-05-12 15:27:35,129 [INFO] HTTP Request: GET https://idea-milanicreative.beehiiv.com/p/authenticity "HTTP/1.1 200 OK"
+2026-05-12 15:27:35,205 [INFO]   → 0 entries (0 image failures)
+2026-05-12 15:27:35,705 [INFO] [67/89] Scraping https://idea-milanicreative.beehiiv.com/p/hard-decisions-clarity-humility
+2026-05-12 15:27:36,392 [INFO] HTTP Request: GET https://idea-milanicreative.beehiiv.com/p/hard-decisions-clarity-humility "HTTP/1.1 200 OK"
+2026-05-12 15:27:36,515 [INFO]   → 0 entries (0 image failures)
+2026-05-12 15:27:37,015 [INFO] [68/89] Scraping https://idea-milanicreative.beehiiv.com/p/telephoto-thinking-vs-wideangle-thinking
+2026-05-12 15:27:37,728 [INFO] HTTP Request: GET https://idea-milanicreative.beehiiv.com/p/telephoto-thinking-vs-wideangle-thinking "HTTP/1.1 200 OK"
+2026-05-12 15:27:37,847 [INFO]   → 0 entries (0 image failures)
+2026-05-12 15:27:38,348 [INFO] [69/89] Scraping https://idea-milanicreative.beehiiv.com/p/mental-models-setting-priority
+2026-05-12 15:27:39,050 [INFO] HTTP Request: GET https://idea-milanicreative.beehiiv.com/p/mental-models-setting-priority "HTTP/1.1 200 OK"
+2026-05-12 15:27:39,165 [INFO]   → 0 entries (0 image failures)
+2026-05-12 15:27:39,666 [INFO] [70/89] Scraping https://idea-milanicreative.beehiiv.com/p/finding-inspiration-and-hofstadter-s-law
+2026-05-12 15:27:40,397 [INFO] HTTP Request: GET https://idea-milanicreative.beehiiv.com/p/finding-inspiration-and-hofstadter-s-law "HTTP/1.1 200 OK"
+2026-05-12 15:27:40,459 [INFO]   → 0 entries (0 image failures)
+2026-05-12 15:27:40,959 [INFO] [71/89] Scraping https://idea-milanicreative.beehiiv.com/p/fluid-vs-crystalized-intelligence
+2026-05-12 15:27:41,709 [INFO] HTTP Request: GET https://idea-milanicreative.beehiiv.com/p/fluid-vs-crystalized-intelligence "HTTP/1.1 200 OK"
+2026-05-12 15:27:41,831 [INFO]   → 0 entries (0 image failures)
+2026-05-12 15:27:42,332 [INFO] [72/89] Scraping https://idea-milanicreative.beehiiv.com/p/idea-18-collecting-ideas-vs-creating-outcomes
+2026-05-12 15:27:43,103 [INFO] HTTP Request: GET https://idea-milanicreative.beehiiv.com/p/idea-18-collecting-ideas-vs-creating-outcomes "HTTP/1.1 200 OK"
+2026-05-12 15:27:43,217 [INFO]   → 0 entries (0 image failures)
+2026-05-12 15:27:43,717 [INFO] [73/89] Scraping https://idea-milanicreative.beehiiv.com/p/idea-17-americans-spend-time-shiny-object-syndrome
+2026-05-12 15:27:44,671 [INFO] HTTP Request: GET https://idea-milanicreative.beehiiv.com/p/idea-17-americans-spend-time-shiny-object-syndrome "HTTP/1.1 200 OK"
+2026-05-12 15:27:44,883 [INFO]   → 0 entries (0 image failures)
+2026-05-12 15:27:45,383 [INFO] [74/89] Scraping https://idea-milanicreative.beehiiv.com/p/idea-16-creative-resistance-finding-purpose
+2026-05-12 15:27:46,083 [INFO] HTTP Request: GET https://idea-milanicreative.beehiiv.com/p/idea-16-creative-resistance-finding-purpose "HTTP/1.1 200 OK"
+2026-05-12 15:27:46,155 [INFO]   → 0 entries (0 image failures)
+2026-05-12 15:27:46,655 [INFO] [75/89] Scraping https://idea-milanicreative.beehiiv.com/p/idea-15-hard-decisions-deep-work
+2026-05-12 15:27:47,382 [INFO] HTTP Request: GET https://idea-milanicreative.beehiiv.com/p/idea-15-hard-decisions-deep-work "HTTP/1.1 200 OK"
+2026-05-12 15:27:47,439 [INFO]   → 0 entries (0 image failures)
+2026-05-12 15:27:47,940 [INFO] [76/89] Scraping https://idea-milanicreative.beehiiv.com/p/idea-14-cycle-growth-intentionality
+2026-05-12 15:27:48,658 [INFO] HTTP Request: GET https://idea-milanicreative.beehiiv.com/p/idea-14-cycle-growth-intentionality "HTTP/1.1 200 OK"
+2026-05-12 15:27:48,771 [INFO]   → 0 entries (0 image failures)
+2026-05-12 15:27:49,271 [INFO] [77/89] Scraping https://idea-milanicreative.beehiiv.com/p/new-post
+2026-05-12 15:27:50,219 [INFO] HTTP Request: GET https://idea-milanicreative.beehiiv.com/p/new-post "HTTP/1.1 200 OK"
+2026-05-12 15:27:50,277 [INFO]   → 0 entries (0 image failures)
+2026-05-12 15:27:50,777 [INFO] [78/89] Scraping https://idea-milanicreative.beehiiv.com/p/idea-12-risks-throbbers-ego
+2026-05-12 15:27:51,443 [INFO] HTTP Request: GET https://idea-milanicreative.beehiiv.com/p/idea-12-risks-throbbers-ego "HTTP/1.1 200 OK"
+2026-05-12 15:27:51,552 [INFO]   → 0 entries (0 image failures)
+2026-05-12 15:27:52,053 [INFO] [79/89] Scraping https://idea-milanicreative.beehiiv.com/p/idea-newsletter-11-online-mindsets-pruning-commitments
+2026-05-12 15:27:52,784 [INFO] HTTP Request: GET https://idea-milanicreative.beehiiv.com/p/idea-newsletter-11-online-mindsets-pruning-commitments "HTTP/1.1 200 OK"
+2026-05-12 15:27:52,852 [INFO]   → 0 entries (0 image failures)
+2026-05-12 15:27:53,353 [INFO] [80/89] Scraping https://idea-milanicreative.beehiiv.com/p/idea-newsletter-10-read-build-momentum
+2026-05-12 15:27:54,035 [INFO] HTTP Request: GET https://idea-milanicreative.beehiiv.com/p/idea-newsletter-10-read-build-momentum "HTTP/1.1 200 OK"
+2026-05-12 15:27:54,097 [INFO]   → 0 entries (0 image failures)
+2026-05-12 15:27:54,598 [INFO] [81/89] Scraping https://idea-milanicreative.beehiiv.com/p/idea-newsletter-9-storytelling-comfort-zones
+2026-05-12 15:27:55,460 [INFO] HTTP Request: GET https://idea-milanicreative.beehiiv.com/p/idea-newsletter-9-storytelling-comfort-zones "HTTP/1.1 200 OK"
+2026-05-12 15:27:55,582 [INFO]   → 0 entries (0 image failures)
+2026-05-12 15:27:56,083 [INFO] [82/89] Scraping https://idea-milanicreative.beehiiv.com/p/idea-newsletter-8-cycle-growth-stoic-philosophy
+2026-05-12 15:27:56,779 [INFO] HTTP Request: GET https://idea-milanicreative.beehiiv.com/p/idea-newsletter-8-cycle-growth-stoic-philosophy "HTTP/1.1 200 OK"
+2026-05-12 15:27:56,915 [INFO]   → 0 entries (0 image failures)
+2026-05-12 15:27:57,415 [INFO] [83/89] Scraping https://idea-milanicreative.beehiiv.com/p/idea-newsletter-7-beginners-mind-finding-clarity
+2026-05-12 15:27:58,235 [INFO] HTTP Request: GET https://idea-milanicreative.beehiiv.com/p/idea-newsletter-7-beginners-mind-finding-clarity "HTTP/1.1 200 OK"
+2026-05-12 15:27:58,348 [INFO]   → 0 entries (0 image failures)
+2026-05-12 15:27:58,848 [INFO] [84/89] Scraping https://idea-milanicreative.beehiiv.com/p/idea-newsletter-6-keystone-habits-growth-zones
+2026-05-12 15:27:59,522 [INFO] HTTP Request: GET https://idea-milanicreative.beehiiv.com/p/idea-newsletter-6-keystone-habits-growth-zones "HTTP/1.1 200 OK"
+2026-05-12 15:27:59,638 [INFO]   → 0 entries (0 image failures)
+2026-05-12 15:28:00,139 [INFO] [85/89] Scraping https://idea-milanicreative.beehiiv.com/p/idea-newsletter-5-providing-value-finding-harmony
+2026-05-12 15:28:01,747 [INFO] HTTP Request: GET https://idea-milanicreative.beehiiv.com/p/idea-newsletter-5-providing-value-finding-harmony "HTTP/1.1 200 OK"
+2026-05-12 15:28:01,967 [INFO]   → 0 entries (0 image failures)
+2026-05-12 15:28:02,467 [INFO] [86/89] Scraping https://idea-milanicreative.beehiiv.com/p/idea-newsletter-4-surprising-knowledge-ships-service
+2026-05-12 15:28:03,308 [INFO] HTTP Request: GET https://idea-milanicreative.beehiiv.com/p/idea-newsletter-4-surprising-knowledge-ships-service "HTTP/1.1 200 OK"
+2026-05-12 15:28:03,420 [INFO]   → 0 entries (0 image failures)
+2026-05-12 15:28:03,921 [INFO] [87/89] Scraping https://idea-milanicreative.beehiiv.com/p/idea-newsletter-issue-3
+2026-05-12 15:28:04,693 [INFO] HTTP Request: GET https://idea-milanicreative.beehiiv.com/p/idea-newsletter-issue-3 "HTTP/1.1 200 OK"
+2026-05-12 15:28:04,720 [INFO]   → 0 entries (0 image failures)
+2026-05-12 15:28:05,221 [INFO] [88/89] Scraping https://idea-milanicreative.beehiiv.com/p/idea-newsletter-issue-2
+2026-05-12 15:28:06,030 [INFO] HTTP Request: GET https://idea-milanicreative.beehiiv.com/p/idea-newsletter-issue-2 "HTTP/1.1 200 OK"
+2026-05-12 15:28:06,152 [INFO]   → 0 entries (0 image failures)
+2026-05-12 15:28:06,653 [INFO] [89/89] Scraping https://idea-milanicreative.beehiiv.com/p/idea-newsletter-issue-1
+2026-05-12 15:28:07,369 [INFO] HTTP Request: GET https://idea-milanicreative.beehiiv.com/p/idea-newsletter-issue-1 "HTTP/1.1 200 OK"
+2026-05-12 15:28:07,432 [INFO]   → 0 entries (0 image failures)
+2026-05-12 15:28:07,933 [INFO] Scraping complete
+2026-05-12 16:15:31,597 [INFO] Fetching sitemap…
+2026-05-12 16:15:32,198 [INFO] HTTP Request: GET https://idea-milanicreative.beehiiv.com/sitemap.xml "HTTP/1.1 200 OK"
+2026-05-12 16:15:32,203 [INFO] Found 89 post URLs in sitemap
+2026-05-12 16:15:32,203 [INFO] 0 new posts to scrape (89 already done)
+2026-05-12 16:15:32,203 [INFO] Scraping complete
+2026-05-12 16:16:39,317 [INFO] Fetching sitemap…
+2026-05-12 16:16:40,201 [INFO] HTTP Request: GET https://idea-milanicreative.beehiiv.com/sitemap.xml "HTTP/1.1 200 OK"
+2026-05-12 16:16:40,206 [INFO] Found 89 post URLs in sitemap
+2026-05-12 16:16:40,206 [INFO] 89 new posts to scrape (0 already done)
+2026-05-12 16:16:40,206 [INFO] [1/89] Scraping https://idea-milanicreative.beehiiv.com/p/the-2-types-of-talent
+2026-05-12 16:16:41,479 [INFO] HTTP Request: GET https://idea-milanicreative.beehiiv.com/p/the-2-types-of-talent "HTTP/1.1 200 OK"
+2026-05-12 16:16:41,875 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/a5703db7-5f8c-46f9-a48b-05dcd928987a/Natural_Talent_vs_Earned_Talent.png "HTTP/1.1 200 OK"
+2026-05-12 16:16:43,538 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/5847ab16-7563-496e-9403-a35287148fab/j-curve.png "HTTP/1.1 200 OK"
+2026-05-12 16:16:43,867 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/ca9a1c73-f145-48f4-9cfb-8ca69dd80b76/adaptive_guilt__1_.png "HTTP/1.1 200 OK"
+2026-05-12 16:16:44,258 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/7bec7898-167f-4067-8b7b-c1f3f6ef514f/You_and_your_peers.png "HTTP/1.1 200 OK"
+2026-05-12 16:16:44,640 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/b7622587-9410-4cf2-b909-57478b79c7d9/Busy_but_not_productive_focused_keeping_the_main_thing_arrows_target_goal_bullseye.png "HTTP/1.1 200 OK"
+2026-05-12 16:16:44,994 [INFO]   → 5 entries (0 image failures)
+2026-05-12 16:16:45,494 [INFO] [2/89] Scraping https://idea-milanicreative.beehiiv.com/p/the-power-of-mistakes-and-discipline
+2026-05-12 16:16:46,263 [INFO] HTTP Request: GET https://idea-milanicreative.beehiiv.com/p/the-power-of-mistakes-and-discipline "HTTP/1.1 200 OK"
+2026-05-12 16:16:46,787 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/f52fbb85-9c48-4a05-9778-3417797981f7/how_much_you_learn_from_theory_practice_and_mistakes.png "HTTP/1.1 200 OK"
+2026-05-12 16:16:47,285 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/de0b5e3d-c90d-4290-9bda-416aafee78ba/exponential_curve.png "HTTP/1.1 200 OK"
+2026-05-12 16:16:48,132 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/7e222bd0-7f0a-47f6-bbd8-c7ee5c9e2eed/exponential_curve_example.png "HTTP/1.1 200 OK"
+2026-05-12 16:16:48,511 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/0aec102e-9bd4-4799-a967-f561526b1cce/How_Much_You_Grow_Talent_Effort_Discipline_Trees.png "HTTP/1.1 200 OK"
+2026-05-12 16:16:49,066 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/b985447c-adf8-47cc-a301-d501d5dd7d33/Reacting_When_You_re_Upset_Matches_Vs_Pausing_To_Respond_Burning_.png "HTTP/1.1 200 OK"
+2026-05-12 16:16:49,346 [INFO]   → 5 entries (0 image failures)
+2026-05-12 16:16:49,847 [INFO] [3/89] Scraping https://idea-milanicreative.beehiiv.com/p/how-emotions-are-like-threads
+2026-05-12 16:16:51,600 [INFO] HTTP Request: GET https://idea-milanicreative.beehiiv.com/p/how-emotions-are-like-threads "HTTP/1.1 200 OK"
+2026-05-12 16:16:52,394 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/91b8c2c0-b032-4963-b183-c4fcee76cf1e/2_How_much_you_learn_from_mistakes_books.png "HTTP/1.1 200 OK"
+2026-05-12 16:16:53,833 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/e1383ac6-4e37-49cf-8f83-cb8562c2cf2e/damped_oscillation.png "HTTP/1.1 200 OK"
+2026-05-12 16:16:54,165 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/2cc6cd96-46be-4a95-acf5-d6193a256893/hedonic_adaptation.png "HTTP/1.1 200 OK"
+2026-05-12 16:16:54,873 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/dd073f7c-db04-4369-a630-d1b26e13b730/8_Emotions_Ignored_vs_Emotions_Named.png "HTTP/1.1 200 OK"
+2026-05-12 16:16:55,420 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/61d1ed3c-99e1-4ce9-92fa-a3395864f127/Grief_Moving_On_Moving_With_Hearts_Expectation_Reality.png "HTTP/1.1 200 OK"
+2026-05-12 16:16:55,666 [INFO]   → 5 entries (0 image failures)
+2026-05-12 16:16:56,167 [INFO] [4/89] Scraping https://idea-milanicreative.beehiiv.com/p/the-myth-of-being-ready
+2026-05-12 16:16:57,048 [INFO] HTTP Request: GET https://idea-milanicreative.beehiiv.com/p/the-myth-of-being-ready "HTTP/1.1 200 OK"
+2026-05-12 16:16:57,422 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/9e58ce2d-6305-4923-8fdb-054fe388b40f/March_Calendar_Year.png "HTTP/1.1 200 OK"
+2026-05-12 16:16:58,060 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/274d34df-e9e2-4038-91aa-d5bb3495b7e5/Think_Ready_Act_Bar__1_.png "HTTP/1.1 200 OK"
+2026-05-12 16:16:58,531 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/3ade914c-c066-4f8f-aaff-ce2655d54d21/SXSW_Present.jpg "HTTP/1.1 200 OK"
+2026-05-12 16:16:59,470 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/3c7d4ed8-a351-466d-b534-8e201737d5a8/SXSW_Presentation.jpg "HTTP/1.1 200 OK"
+2026-05-12 16:17:00,389 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/e2e6ee8a-d11b-4dfc-84fa-9f7b3cb3d3fd/IMG_8628.jpg "HTTP/1.1 200 OK"
+2026-05-12 16:17:01,359 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/568f6612-cb13-485b-a1a6-5f167de3a264/self_grace.png "HTTP/1.1 200 OK"
+2026-05-12 16:17:01,894 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/7e651ba3-aa05-417b-9c2b-17865e4ddd24/thinking_vs_writing_gardening.png "HTTP/1.1 200 OK"
+2026-05-12 16:17:02,329 [INFO]   → 7 entries (0 image failures)
+2026-05-12 16:17:02,830 [INFO] [5/89] Scraping https://idea-milanicreative.beehiiv.com/p/how-purpose-is-like-a-candle
+2026-05-12 16:17:03,763 [INFO] HTTP Request: GET https://idea-milanicreative.beehiiv.com/p/how-purpose-is-like-a-candle "HTTP/1.1 200 OK"
+2026-05-12 16:17:04,191 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/9657f47e-69aa-420a-b4dd-fbae6f3d20b6/Daily_Motivation_Inspiration_Habits_Balloons_Heart_Idea_Lightbulb_Brain.png "HTTP/1.1 200 OK"
+2026-05-12 16:17:04,702 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/209c8e5a-06b3-4ecd-99d5-c12abf61abb4/Sometimes_You_Have_To_Let_Go_And_Start_Again.png "HTTP/1.1 200 OK"
+2026-05-12 16:17:05,296 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/e8e58ba0-da6d-422a-b4ba-562fa229d5f9/1.png "HTTP/1.1 200 OK"
+2026-05-12 16:17:05,625 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/8c5975db-5056-433e-b0ae-cdeb1260cdcb/2.png "HTTP/1.1 200 OK"
+2026-05-12 16:17:06,243 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/d43779ea-6bf7-419a-b00e-16b525ffc346/3_Types_Of_Friendship_Leaves_Branches_Roots.png "HTTP/1.1 200 OK"
+2026-05-12 16:17:07,015 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/128d5ad9-39fa-4336-a647-c08d1ce27eef/Sometimes_Letting_Go_Of_Perfection_Helps_You_Find_Your_Purpose_Candles_Flame.png "HTTP/1.1 200 OK"
+2026-05-12 16:17:07,242 [INFO]   → 6 entries (0 image failures)
+2026-05-12 16:17:07,743 [INFO] [6/89] Scraping https://idea-milanicreative.beehiiv.com/p/why-you-should-always-root-for-yourself
+2026-05-12 16:17:08,702 [INFO] HTTP Request: GET https://idea-milanicreative.beehiiv.com/p/why-you-should-always-root-for-yourself "HTTP/1.1 200 OK"
+2026-05-12 16:17:09,736 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/9d35d565-756c-4d7f-aa12-5fd9f7b7f249/Sometimes_it_s_difficult_but_not_impossible_seed_ground_dirt_rock_sprout_plant_growing.png "HTTP/1.1 200 OK"
+2026-05-12 16:17:10,121 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/00617bdb-9b41-4d0c-8b4f-ea914357022d/Showing_Up_Every_Day_Hearts.png "HTTP/1.1 200 OK"
+2026-05-12 16:17:10,449 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/4d317f58-02c8-4e2e-93e4-5ccc9c619a4b/generosity_vs_strategy_visual_2026-02-08.png "HTTP/1.1 200 OK"
+2026-05-12 16:17:10,741 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/65b52dd5-9ec7-418d-9838-70ad228d1752/relationship_types_visual_2026-02-08.png "HTTP/1.1 200 OK"
+2026-05-12 16:17:11,041 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/4a6027fe-30e6-4174-a829-fe03ba188eb4/letting_go_visual_pj_milani_2026-02-08.png "HTTP/1.1 200 OK"
+2026-05-12 16:17:11,335 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/096377f4-6db2-416e-84b4-3058ad2a7e54/sunk_cost_fallacy_comic_2026-02-08.png "HTTP/1.1 200 OK"
+2026-05-12 16:17:11,929 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/cc39d99b-0ae3-45bd-87ba-147fb94696ca/When_You_re_Younger_Vs_When_You_re_Older_Your_Weirdness.png "HTTP/1.1 200 OK"
+2026-05-12 16:17:12,226 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/79747c95-73c5-4c70-adde-34bf140e0ba2/February.png "HTTP/1.1 200 OK"
+2026-05-12 16:17:12,255 [INFO]   → 8 entries (0 image failures)
+2026-05-12 16:17:12,755 [INFO] [7/89] Scraping https://idea-milanicreative.beehiiv.com/p/you-re-not-the-problem-the-problem-is-the-problem
+2026-05-12 16:17:13,528 [INFO] HTTP Request: GET https://idea-milanicreative.beehiiv.com/p/you-re-not-the-problem-the-problem-is-the-problem "HTTP/1.1 200 OK"
+2026-05-12 16:17:14,557 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/60e3f6ac-237c-4dc2-847d-913169cf27e9/Fighting_each_other_vs_fighting_the_problem_top_down_head_perspective.png "HTTP/1.1 200 OK"
+2026-05-12 16:17:15,322 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/25ba5506-a1c2-4486-a8aa-b8a3fdab302d/If_People_Pleaser_Was_An_Emoji_Inflatable_Stick_Man.png "HTTP/1.1 200 OK"
+2026-05-12 16:17:16,025 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/9d63e28a-9be9-4e2d-adf2-ca1c503744f0/Grass_Is_Greener_Where_You_Water_It_What_People_Want_What_People_Don_t_See.png "HTTP/1.1 200 OK"
+2026-05-12 16:17:16,061 [INFO]   → 3 entries (0 image failures)
+2026-05-12 16:17:16,561 [INFO] [8/89] Scraping https://idea-milanicreative.beehiiv.com/p/the-bumps-you-re-feeling-doesn-t-mean-you-re-on-the-wrong-road
+2026-05-12 16:17:17,369 [INFO] HTTP Request: GET https://idea-milanicreative.beehiiv.com/p/the-bumps-you-re-feeling-doesn-t-mean-you-re-on-the-wrong-road "HTTP/1.1 200 OK"
+2026-05-12 16:17:17,708 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/bbd0f4a7-2e3d-417e-b4fe-5f7e6e045b0c/January_Happy_New_Years.png "HTTP/1.1 200 OK"
+2026-05-12 16:17:17,992 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/19ac72e4-b6d3-4a79-906d-6236968798cf/New_Habits.png "HTTP/1.1 200 OK"
+2026-05-12 16:17:18,273 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/72583357-32f5-4ee1-ae34-533cad9ed7d3/There_s_Always_A_Mess_Before_Success_Space_Shuttle_Smoke_Hockey_Stick.png "HTTP/1.1 200 OK"
+2026-05-12 16:17:18,593 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/bc9a1528-9aab-4850-8927-c97183b121ce/I_made_a_mistake.png "HTTP/1.1 200 OK"
+2026-05-12 16:17:18,625 [INFO]   → 4 entries (0 image failures)
+2026-05-12 16:17:19,126 [INFO] [9/89] Scraping https://idea-milanicreative.beehiiv.com/p/how-to-use-evidence-to-build-confidence
+2026-05-12 16:17:19,926 [INFO] HTTP Request: GET https://idea-milanicreative.beehiiv.com/p/how-to-use-evidence-to-build-confidence "HTTP/1.1 200 OK"
+2026-05-12 16:17:20,692 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/27a37efe-c11f-4686-834a-8cf1c0731426/I_can_t_but_you_did_red_light_green_traffic_lights_janis.png "HTTP/1.1 200 OK"
+2026-05-12 16:17:21,309 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/14469d7d-a68d-4f7b-8540-f43996ad25ca/complaining_bts.jpg "HTTP/1.1 200 OK"
+2026-05-12 16:17:21,829 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/2fa9b699-5690-4c63-b8a1-e3cb93e98932/stockdale_paradox_bts.jpg "HTTP/1.1 200 OK"
+2026-05-12 16:17:22,418 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/7346c632-65d7-4d06-bd46-bd1c161789aa/Complaining__1_.png "HTTP/1.1 200 OK"
+2026-05-12 16:17:23,227 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/cd249b24-3967-4200-94ac-5f18ed4b64c2/Stockdale_Paradox.png "HTTP/1.1 200 OK"
+2026-05-12 16:17:23,531 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/f5590ab3-ca77-499a-a09a-19500a6f864f/happiness_bar_graph__1_.png "HTTP/1.1 200 OK"
+2026-05-12 16:17:23,865 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/49681c1d-398c-4a83-bb98-636b0fa9dadc/dodge-neo.gif "HTTP/1.1 200 OK"
+2026-05-12 16:17:24,222 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/23291be3-2ae3-4183-ad56-8a81df600db5/Arrogance_vs_Humility_Open_Closed_Jars_Water_Faucet.png "HTTP/1.1 200 OK"
+2026-05-12 16:17:24,246 [INFO]   → 8 entries (0 image failures)
+2026-05-12 16:17:24,747 [INFO] [10/89] Scraping https://idea-milanicreative.beehiiv.com/p/what-s-the-difference-between-generosity-and-strategy
+2026-05-12 16:17:25,515 [INFO] HTTP Request: GET https://idea-milanicreative.beehiiv.com/p/what-s-the-difference-between-generosity-and-strategy "HTTP/1.1 200 OK"
+2026-05-12 16:17:25,912 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/8910d7c5-b395-4867-a7a0-52feaf870972/4_approaches_to_relationships_unconditional_transactional_reciprocal_maniuplative_puzzle_pieces_figma.png "HTTP/1.1 200 OK"
+2026-05-12 16:17:26,217 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/50858847-3a27-48f4-b387-7535b3c2b112/familiar_unfamiliar.png "HTTP/1.1 200 OK"
+2026-05-12 16:17:26,660 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/452f6082-76ff-497d-afef-b1b63f21f2ca/relational_bridge.png "HTTP/1.1 200 OK"
+2026-05-12 16:17:27,167 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/d21db7e5-f0f8-4be1-a650-1fdfabcabdbf/You_Can_t_Catch_Happiness_Butterfly_Garden.png "HTTP/1.1 200 OK"
+2026-05-12 16:17:27,719 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/1d56a8a8-1993-4190-83be-99e9255394ef/Can_Do_Anything_but_not_Everything.png "HTTP/1.1 200 OK"
+2026-05-12 16:17:28,013 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/75d5ecb5-b27e-4966-a750-ae3c029b10b7/Talent_Hits_A_Target_No_One_Else_Can_Hit_Genius_Archer_Arrow_Cliff.png "HTTP/1.1 200 OK"
+2026-05-12 16:17:28,069 [INFO]   → 6 entries (0 image failures)
+2026-05-12 16:17:28,570 [INFO] [11/89] Scraping https://idea-milanicreative.beehiiv.com/p/are-you-preparing-or-are-you-procrastinating
+2026-05-12 16:17:29,686 [INFO] HTTP Request: GET https://idea-milanicreative.beehiiv.com/p/are-you-preparing-or-are-you-procrastinating "HTTP/1.1 200 OK"
+2026-05-12 16:17:30,182 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/f05bc50c-04fa-4020-93ac-8e6472e67287/Untitled_Artwork_8.png "HTTP/1.1 200 OK"
+2026-05-12 16:17:30,852 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/ad08558e-db40-4e2c-a553-6b75d4862e85/I_Write_To_I_Am_A_Writer_Identity_Habit_Practice.png "HTTP/1.1 200 OK"
+2026-05-12 16:17:31,469 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/f867df28-03ca-45ae-9252-88abeb908605/Productive_Vs_Productive_Procrastination_Books_Cliff_V2.png "HTTP/1.1 200 OK"
+2026-05-12 16:17:31,566 [INFO]   → 3 entries (0 image failures)
+2026-05-12 16:17:32,066 [INFO] [12/89] Scraping https://idea-milanicreative.beehiiv.com/p/there-s-a-difference-between-what-s-cool-and-what-s-meaningful
+2026-05-12 16:17:32,924 [INFO] HTTP Request: GET https://idea-milanicreative.beehiiv.com/p/there-s-a-difference-between-what-s-cool-and-what-s-meaningful "HTTP/1.1 200 OK"
+2026-05-12 16:17:33,629 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/1d42853b-1e27-408d-a2dc-deb3c4b01f41/November_2025_Year_Candle_Wax_Melting_The_Year_Is_Not_Over_Yet.png "HTTP/1.1 200 OK"
+2026-05-12 16:17:33,938 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/c6a3023a-790c-4617-b1a2-146059d0e109/Stone_In_Water_Drowning_Sometimes_It_s_Better_To_Let_Go.png "HTTP/1.1 200 OK"
+2026-05-12 16:17:34,825 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/e64108b6-d00f-4421-8d4f-36b1ede6a27f/How_Deeply_You_Understand_From_Teaching_Books_V2.png "HTTP/1.1 200 OK"
+2026-05-12 16:17:34,862 [INFO]   → 3 entries (0 image failures)
+2026-05-12 16:17:35,362 [INFO] [13/89] Scraping https://idea-milanicreative.beehiiv.com/p/why-showing-up-doesn-t-mean-showing-up-perfectly
+2026-05-12 16:17:36,138 [INFO] HTTP Request: GET https://idea-milanicreative.beehiiv.com/p/why-showing-up-doesn-t-mean-showing-up-perfectly "HTTP/1.1 200 OK"
+2026-05-12 16:17:36,750 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/b8181f9b-e826-46cc-801b-e2f4ea167cf6/consistency_heart.png "HTTP/1.1 200 OK"
+2026-05-12 16:17:37,045 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/2930b355-444b-4178-92fb-5f1eec1f32fb/Dream_Big_Start_Small_Castle_Build_Bricks.png "HTTP/1.1 200 OK"
+2026-05-12 16:17:37,364 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/e3a693fd-9473-4719-9bf3-38e068a3b038/Results__Effort__and_Process.png "HTTP/1.1 200 OK"
+2026-05-12 16:17:37,397 [INFO]   → 3 entries (0 image failures)
+2026-05-12 16:17:37,898 [INFO] [14/89] Scraping https://idea-milanicreative.beehiiv.com/p/what-is-the-most-important-thing-you-should-do-next
+2026-05-12 16:17:38,866 [INFO] HTTP Request: GET https://idea-milanicreative.beehiiv.com/p/what-is-the-most-important-thing-you-should-do-next "HTTP/1.1 200 OK"
+2026-05-12 16:17:39,268 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/9316329b-6013-4fe2-a9a0-33456dd33765/priority_destination_map.png "HTTP/1.1 200 OK"
+2026-05-12 16:17:39,585 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/cf810197-8982-4887-8eb2-8a01e3651d93/priority_floating_water.png "HTTP/1.1 200 OK"
+2026-05-12 16:17:39,935 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/bed402cf-b305-4f6d-9d6e-3006256646f4/Subtract_to_Grow_Prune_Plants.png "HTTP/1.1 200 OK"
+2026-05-12 16:17:39,961 [INFO]   → 3 entries (0 image failures)
+2026-05-12 16:17:40,462 [INFO] [15/89] Scraping https://idea-milanicreative.beehiiv.com/p/what-is-the-big-picture-paradox-9e51f321f10fd4b3
+2026-05-12 16:17:41,268 [INFO] HTTP Request: GET https://idea-milanicreative.beehiiv.com/p/what-is-the-big-picture-paradox-9e51f321f10fd4b3 "HTTP/1.1 200 OK"
+2026-05-12 16:17:41,737 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/3f5b19d2-0763-418f-9f32-427318ff19e4/Life_Ocean_Wave_Victim_Mindset_Opportunity_Mindset_Surfing.png "HTTP/1.1 200 OK"
+2026-05-12 16:17:42,270 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/edbe4af9-c33c-4184-85ce-3b4d7fc0e983/Creator_Alchemy.png "HTTP/1.1 200 OK"
+2026-05-12 16:17:42,567 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/7f436d87-3d94-4d32-8e6e-88f01936dfcd/Aim_Here_Diamond_Focus_Here_Stepping_Stones_River_Blur.png "HTTP/1.1 200 OK"
+2026-05-12 16:17:43,238 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/7e48c214-e8d0-4db4-8e42-25bd4bf93280/Grass_Is_Greener_Where_You_Water_It_What_People_Want_What_People_Don_t_See.png "HTTP/1.1 200 OK"
+2026-05-12 16:17:43,269 [INFO]   → 4 entries (0 image failures)
+2026-05-12 16:17:43,770 [INFO] [16/89] Scraping https://idea-milanicreative.beehiiv.com/p/why-i-m-not-worried-about-ai-images-0a7328d7cce3d1f3
+2026-05-12 16:17:44,478 [INFO] HTTP Request: GET https://idea-milanicreative.beehiiv.com/p/why-i-m-not-worried-about-ai-images-0a7328d7cce3d1f3 "HTTP/1.1 200 OK"
+2026-05-12 16:17:44,864 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/88080d37-243c-4437-826d-325a1e737f7e/You_Can_t_Use_Other_People_s_Keys_To_Unlock_Your_Doors.png "HTTP/1.1 200 OK"
+2026-05-12 16:17:45,401 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/b68be05b-d32b-4066-a816-e56464690f4c/Thumbnail_AI_Can_t_Help_You_Newsletter.png "HTTP/1.1 200 OK"
+2026-05-12 16:17:45,692 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/580d0f7b-aab6-4e11-87d0-880abb3ffead/Fear_in_Imagination_Vs_Reality_Dragon_Yarn.png "HTTP/1.1 200 OK"
+2026-05-12 16:17:45,978 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/a0c508fe-2d1a-477f-b23c-b7fd76cda5b9/Path_To_Success_Straight_Vs_Curvy_Train_Tracks_Expectation_Reality.png "HTTP/1.1 200 OK"
+2026-05-12 16:17:45,998 [INFO]   → 4 entries (0 image failures)
+2026-05-12 16:17:46,499 [INFO] [17/89] Scraping https://idea-milanicreative.beehiiv.com/p/why-friendships-get-harder-as-we-get-older-145694ca01590ce6
+2026-05-12 16:17:47,259 [INFO] HTTP Request: GET https://idea-milanicreative.beehiiv.com/p/why-friendships-get-harder-as-we-get-older-145694ca01590ce6 "HTTP/1.1 200 OK"
+2026-05-12 16:17:47,601 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/01156f6c-ffbf-495c-bffa-0b96b9f3b407/Friendships_as_a_Kid_vs_friendships_as_an_adult_dial_milestones.png "HTTP/1.1 200 OK"
+2026-05-12 16:17:47,891 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/ae492a07-0948-496f-bbdd-b93fe69bc992/Teaching_Thumbnail.png "HTTP/1.1 200 OK"
+2026-05-12 16:17:48,184 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/c93ed2df-eb6a-4cca-9847-d02f4a1e0734/If_Nothing_Changes_Boat_Circle_Water.png "HTTP/1.1 200 OK"
+2026-05-12 16:17:48,518 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/e40fc4a5-e6de-49bf-9c7a-86cf7869e552/Preparation_procrastination.png "HTTP/1.1 200 OK"
+2026-05-12 16:17:48,545 [INFO]   → 4 entries (0 image failures)
+2026-05-12 16:17:49,046 [INFO] [18/89] Scraping https://idea-milanicreative.beehiiv.com/p/the-time-saving-power-of-one-simple-word
+2026-05-12 16:17:49,918 [INFO] HTTP Request: GET https://idea-milanicreative.beehiiv.com/p/the-time-saving-power-of-one-simple-word "HTTP/1.1 200 OK"
+2026-05-12 16:17:50,335 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/7440d7b7-5028-48f1-9363-4aa9d627595a/Entrepreneur_s_Mindset_Target_Better_Than_Yesterday.png "HTTP/1.1 200 OK"
+2026-05-12 16:17:50,837 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/b85e0ec7-0ec7-46f0-b4c5-64ef761dc45a/Visual_IDEAs_Banner_Iteration.jpg "HTTP/1.1 200 OK"
+2026-05-12 16:17:51,243 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/59b469e2-be46-415c-bb07-e44164c6bc10/Idea_Newsletter_Icon_v3.PNG "HTTP/1.1 200 OK"
+2026-05-12 16:17:51,542 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/3b97722f-49bb-465b-9dc2-f4e6bca7148a/V10_copy.png "HTTP/1.1 200 OK"
+2026-05-12 16:17:51,826 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/18ef9fe9-40d8-41db-8e90-341aeee24743/I_Don_t_Have_Time_Hourglass_Pouring_Sand_Learning_To_Say_No.png "HTTP/1.1 200 OK"
+2026-05-12 16:17:52,129 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/b47375b7-7776-45a0-af72-c814ffb0eff4/Grudge_Stone_Holding_On_Vs_Moving_On.png "HTTP/1.1 200 OK"
+2026-05-12 16:17:52,142 [INFO]   → 6 entries (0 image failures)
+2026-05-12 16:17:52,643 [INFO] [19/89] Scraping https://idea-milanicreative.beehiiv.com/p/why-low-hanging-fruit-are-dangerous
+2026-05-12 16:17:53,746 [INFO] HTTP Request: GET https://idea-milanicreative.beehiiv.com/p/why-low-hanging-fruit-are-dangerous "HTTP/1.1 200 OK"
+2026-05-12 16:17:54,425 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/a696a00b-9d6b-4e73-a654-f81a7b3424ec/Low_Hanging_Fruit_Tree_Too_Full_To_Reach_Higher.png "HTTP/1.1 200 OK"
+2026-05-12 16:17:54,718 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/728d2b23-9880-4d96-8134-e04fea36935e/You_Don_t_Need_More_Speed_You_Need_Direction.png "HTTP/1.1 200 OK"
+2026-05-12 16:17:54,990 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/e81a7781-3555-41cd-b4a5-e4c05d941ff8/You_Don_t_Need_More_Time_You_Need_Focus.png "HTTP/1.1 200 OK"
+2026-05-12 16:17:55,279 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/e8574275-5a38-4d8e-bf98-281d5c6a3aac/You_Don_t_Need_More_Ideas_You_Need_More_Execution_.png "HTTP/1.1 200 OK"
+2026-05-12 16:17:55,567 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/cb78ea2e-69da-4d17-98a5-aefe92a337ce/You_Don_t_Need_More_Ideas_You_Need_More_Execution.png "HTTP/1.1 200 OK"
+2026-05-12 16:17:55,954 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/cbc1f39c-6271-4da3-b08e-cff37c211969/You_Don_t_Need_More_Ideas_You_Need_More_Execution_.png "HTTP/1.1 200 OK"
+2026-05-12 16:17:56,234 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/7d832558-e63a-47c0-ae50-272f0b96602e/Reaching_Goals_With_Support_Ladder.png "HTTP/1.1 200 OK"
+2026-05-12 16:17:56,510 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/02bb8c17-3858-49fb-b00c-9825f0cc00cf/New_Habits_Big_Small_Basketball_Goal_Day_1_Day_30.png "HTTP/1.1 200 OK"
+2026-05-12 16:17:56,528 [INFO]   → 8 entries (0 image failures)
+2026-05-12 16:17:57,029 [INFO] [20/89] Scraping https://idea-milanicreative.beehiiv.com/p/how-progress-is-like-crossing-a-river
+2026-05-12 16:17:57,768 [INFO] HTTP Request: GET https://idea-milanicreative.beehiiv.com/p/how-progress-is-like-crossing-a-river "HTTP/1.1 200 OK"
+2026-05-12 16:17:58,576 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/af536ea6-4f50-4435-941b-07cc682bc738/Fear_What_If_Success_Even_If_Victoria_Hand_Punch_Through_Letters.png "HTTP/1.1 200 OK"
+2026-05-12 16:17:59,165 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/56bc036b-618a-481e-b8bd-045709143978/square_pizza_slice_framework.jpeg "HTTP/1.1 200 OK"
+2026-05-12 16:17:59,448 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/62b76d8a-9530-406a-b07b-6a41a355c3ba/Friendly_Reminder_Your_Emotions_Feelings_Dark_Cloud_Will_Pass_Sunlight_Rain.png "HTTP/1.1 200 OK"
+2026-05-12 16:18:00,319 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/ef5f7586-5645-4204-b2f8-2991eb37273c/Untitled_Artwork_2.png "HTTP/1.1 200 OK"
+2026-05-12 16:18:00,334 [INFO]   → 4 entries (0 image failures)
+2026-05-12 16:18:00,835 [INFO] [21/89] Scraping https://idea-milanicreative.beehiiv.com/p/the-myth-of-doing-it-all
+2026-05-12 16:18:01,626 [INFO] HTTP Request: GET https://idea-milanicreative.beehiiv.com/p/the-myth-of-doing-it-all "HTTP/1.1 200 OK"
+2026-05-12 16:18:02,154 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/9c6d4f0c-5093-4acd-ac53-471bac5dfe04/You_Can_Do_Anything_But_Not_Everything_Lightbulbs.png "HTTP/1.1 200 OK"
+2026-05-12 16:18:02,445 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/6b32bbb2-72cf-4dea-ace2-d16fc58fdfb6/fancy_vs_simple_preview.png "HTTP/1.1 200 OK"
+2026-05-12 16:18:02,961 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/a41dae86-6d36-41ed-b9c5-979b9fdf9ab9/What_We_See_Sharp_Pencil_Skills_What_We_Don_t_See_Sharpening_Shavings.png "HTTP/1.1 200 OK"
+2026-05-12 16:18:03,280 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/808c508b-9b6d-4d82-aa11-aa8cb8b64102/What_People_Hear_Clearest_Volume_Action_Words_Figma.png "HTTP/1.1 200 OK"
+2026-05-12 16:18:03,292 [INFO]   → 4 entries (0 image failures)
+2026-05-12 16:18:03,792 [INFO] [22/89] Scraping https://idea-milanicreative.beehiiv.com/p/why-failing-is-not-what-you-think
+2026-05-12 16:18:04,933 [INFO] HTTP Request: GET https://idea-milanicreative.beehiiv.com/p/why-failing-is-not-what-you-think "HTTP/1.1 200 OK"
+2026-05-12 16:18:05,300 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/7c9e1d0f-0c45-4c44-8ae9-0dba4db9634e/What_Got_You_Here_Won_t_Get_You_There_Ladder_Help.PNG.png "HTTP/1.1 200 OK"
+2026-05-12 16:18:05,573 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/97d129cd-b144-4aae-8139-c1873e5e253e/zone_of_ambiguity_thumbnail.png "HTTP/1.1 200 OK"
+2026-05-12 16:18:05,853 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/30048c02-e656-41c5-9d11-eb2f7f7a326a/I_ll_be_Happy_When_I_Grow_Up_Progress_Bar.png "HTTP/1.1 200 OK"
+2026-05-12 16:18:06,124 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/420e0c04-fab6-41ed-b8e6-63f5a3096d85/Pain_Of_Discipline_Regret_Steps_Old_Man_Broken_Staircase.png "HTTP/1.1 200 OK"
+2026-05-12 16:18:06,419 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/85260793-ddfa-47e8-b0f1-3e72402eca58/Archer_Target_Cliff_This_Is_Not_Failure_This_Is.png "HTTP/1.1 200 OK"
+2026-05-12 16:18:06,445 [INFO]   → 5 entries (0 image failures)
+2026-05-12 16:18:06,946 [INFO] [23/89] Scraping https://idea-milanicreative.beehiiv.com/p/how-to-look-at-your-fears-differently
+2026-05-12 16:18:07,692 [INFO] HTTP Request: GET https://idea-milanicreative.beehiiv.com/p/how-to-look-at-your-fears-differently "HTTP/1.1 200 OK"
+2026-05-12 16:18:08,090 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/098e9c66-7df0-4f92-ba07-289a78733806/Depth_of_Self_Doubt_First_Step_After_Taking_Action_Perception_Splash.png "HTTP/1.1 200 OK"
+2026-05-12 16:18:08,408 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/88928080-ac26-487e-a47c-7dcc69e18b75/Which_takes_longer.png "HTTP/1.1 200 OK"
+2026-05-12 16:18:08,676 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/008b03c9-e412-43dc-a6db-d4fa378760f8/Which_makes_a_stronger_connection.png "HTTP/1.1 200 OK"
+2026-05-12 16:18:09,172 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/2daf2651-974e-4e0b-b0fe-c1db3282a1ff/Which_has_a_bigger_transformation.png "HTTP/1.1 200 OK"
+2026-05-12 16:18:09,469 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/014afcd6-ab7a-4f57-913b-7c7f5ba4a466/When_Overwhelmed_With_To_Do_List_Remember_Have_Done_List_Paper.png "HTTP/1.1 200 OK"
+2026-05-12 16:18:09,747 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/a40272e3-cdc3-4d7a-bc58-2c37069a10ae/Fear_Of_Failure_In_Your_Head_In_Reality.png "HTTP/1.1 200 OK"
+2026-05-12 16:18:09,762 [INFO]   → 6 entries (0 image failures)
+2026-05-12 16:18:10,263 [INFO] [24/89] Scraping https://idea-milanicreative.beehiiv.com/p/how-risks-are-like-being-stranded-on-a-boat
+2026-05-12 16:18:11,243 [INFO] HTTP Request: GET https://idea-milanicreative.beehiiv.com/p/how-risks-are-like-being-stranded-on-a-boat "HTTP/1.1 200 OK"
+2026-05-12 16:18:11,644 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/638206c8-ab85-4e6f-b281-46f30f2676ab/Risk_Of_Making_Change_Vs_Staying_Same_Boat_Sharks.png "HTTP/1.1 200 OK"
+2026-05-12 16:18:11,923 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/dbd4c260-bfe0-43f6-80b9-9a9d654d74b5/Daily_Practice_Thumbnail.png "HTTP/1.1 200 OK"
+2026-05-12 16:18:12,211 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/32ab9812-39a3-4dfe-ba07-af05d8a2b922/Friendly_Reminder_Impossible_To_Fill_All_Cups_Work_Partner_Family_Friends.png "HTTP/1.1 200 OK"
+2026-05-12 16:18:12,523 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/25f37302-b9d6-4643-ab12-c482e638b317/What_We_See_In_The_Game_Basketball_Hoop_Misses_Before.png "HTTP/1.1 200 OK"
+2026-05-12 16:18:12,543 [INFO]   → 4 entries (0 image failures)
+2026-05-12 16:18:13,044 [INFO] [25/89] Scraping https://idea-milanicreative.beehiiv.com/p/how-money-is-like-water
+2026-05-12 16:18:14,218 [INFO] HTTP Request: GET https://idea-milanicreative.beehiiv.com/p/how-money-is-like-water "HTTP/1.1 200 OK"
+2026-05-12 16:18:14,596 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/c1126369-7b79-4e79-9ea7-ee4a72df47e0/someday_is_today_by_milanicreative.png "HTTP/1.1 200 OK"
+2026-05-12 16:18:14,857 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/2deb5306-84d4-4f73-85e7-a49a5d300003/amplified_thumbnail.png "HTTP/1.1 200 OK"
+2026-05-12 16:18:15,160 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/62126188-d513-4ec8-a1e9-d3443b7fcf38/Failures_As_Obstacles_Vs_Lessons_Cliff_And_Bricks.png "HTTP/1.1 200 OK"
+2026-05-12 16:18:15,460 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/cbcd6348-b21e-4366-87c8-44f38dfe4717/money_is_a_means_to_an_end.png "HTTP/1.1 200 OK"
+2026-05-12 16:18:15,836 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/49627784-160e-4ac0-be45-2a18347ceb52/money_buckets.jpg "HTTP/1.1 200 OK"
+2026-05-12 16:18:15,849 [INFO]   → 5 entries (0 image failures)
+2026-05-12 16:18:16,349 [INFO] [26/89] Scraping https://idea-milanicreative.beehiiv.com/p/why-friendships-are-like-trees
+2026-05-12 16:18:17,105 [INFO] HTTP Request: GET https://idea-milanicreative.beehiiv.com/p/why-friendships-are-like-trees "HTTP/1.1 200 OK"
+2026-05-12 16:18:17,429 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/997e80e9-6ac8-4ec3-ab9a-19fa11ce19e3/easy_decisions_vs_hard_decisions.png "HTTP/1.1 200 OK"
+2026-05-12 16:18:17,717 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/398ceb69-b56b-43d9-b59c-b47a8220ebd4/thumbnail.png "HTTP/1.1 200 OK"
+2026-05-12 16:18:18,163 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/d6bb5e3f-5c2c-4d7b-b57b-f464b1bbe415/The_World_Is_Hard_Trees_We_Don_t_Have_To_Make_It_Worse.png "HTTP/1.1 200 OK"
+2026-05-12 16:18:18,462 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/e5b87e95-d9b1-4275-998d-80354fd14a99/3_Types_Of_Friendship_Leaves_Branches_Roots.png "HTTP/1.1 200 OK"
+2026-05-12 16:18:18,493 [INFO]   → 4 entries (0 image failures)
+2026-05-12 16:18:18,993 [INFO] [27/89] Scraping https://idea-milanicreative.beehiiv.com/p/what-does-it-mean-to-have-character
+2026-05-12 16:18:20,643 [INFO] HTTP Request: GET https://idea-milanicreative.beehiiv.com/p/what-does-it-mean-to-have-character "HTTP/1.1 200 OK"
+2026-05-12 16:18:21,071 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/3f909969-cd7f-4d3e-b9dd-c6ffc6a1d332/This_Doesn_t_Define_Your_Character_Bullseye_Arrow_Archer.png "HTTP/1.1 200 OK"
+2026-05-12 16:18:21,390 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/5c822df1-261c-4fe0-9bb5-727a5730ff8d/Garbage_in_garbage_out_thumbnail.png "HTTP/1.1 200 OK"
+2026-05-12 16:18:21,702 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/8f63c9ee-69c3-4fbd-8694-741ea6040a62/Thinking_in_Visual_Metaphors_2.PNG "HTTP/1.1 200 OK"
+2026-05-12 16:18:21,959 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/9c9da1b1-a8a7-47f1-92ea-541eccae52a5/We_are_not_so_different_iceberg.png "HTTP/1.1 200 OK"
+2026-05-12 16:18:22,259 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/c92d31a1-28f9-4219-947b-92cc3c2313bb/This_Is_Not_Failure_Paper_Typewriter_Trash_can_milanicreative_visual_metaphor.png "HTTP/1.1 200 OK"
+2026-05-12 16:18:22,274 [INFO]   → 5 entries (0 image failures)
+2026-05-12 16:18:22,774 [INFO] [28/89] Scraping https://idea-milanicreative.beehiiv.com/p/how-happiness-is-like-a-butterfly
+2026-05-12 16:18:23,523 [INFO] HTTP Request: GET https://idea-milanicreative.beehiiv.com/p/how-happiness-is-like-a-butterfly "HTTP/1.1 200 OK"
+2026-05-12 16:18:24,267 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/19720447-cea5-4daf-890d-178d5ef1d6c5/Work_Life_Shapes.png "HTTP/1.1 200 OK"
+2026-05-12 16:18:24,541 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/1ce1513a-edc5-4e4e-a653-564f9d9e08ba/AI_Skills_Thumbnail.png "HTTP/1.1 200 OK"
+2026-05-12 16:18:24,818 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/477f1684-2004-4359-809e-af91a8de690f/You_Can_t_Catch_Happiness_Butterfly_Garden.png "HTTP/1.1 200 OK"
+2026-05-12 16:18:25,126 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/b1c8838f-6995-4a07-9bcf-afbf9f577a9e/Environment_Bounce_Back_Basketball_Water_Concrete.png "HTTP/1.1 200 OK"
+2026-05-12 16:18:25,144 [INFO]   → 4 entries (0 image failures)
+2026-05-12 16:18:25,644 [INFO] [29/89] Scraping https://idea-milanicreative.beehiiv.com/p/putting-it-all-into-perspective
+2026-05-12 16:18:26,415 [INFO] HTTP Request: GET https://idea-milanicreative.beehiiv.com/p/putting-it-all-into-perspective "HTTP/1.1 200 OK"
+2026-05-12 16:18:26,967 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/a5ecb6c9-74b9-4d1e-8956-c97065463456/Perfectionist_Vs_ITERATOR_Paper_Plane_Cliff.png "HTTP/1.1 200 OK"
+2026-05-12 16:18:27,367 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/6d92bb7b-01b9-40a2-b5ea-b1feba832014/Untitled_design.png "HTTP/1.1 200 OK"
+2026-05-12 16:18:27,638 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/8e03a790-6dcd-40d3-8e80-c17334eaa7d7/What_s_Behind_You_Is_Far_Smaller_Than_What_s_Ahead_Road_Windshield_Rear_view_Mirror.png "HTTP/1.1 200 OK"
+2026-05-12 16:18:27,913 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/6125ee76-4799-467e-ace1-13f80a59e752/Fixed_Vs_Growth_Mindset_Wrench_Adjustable.png "HTTP/1.1 200 OK"
+2026-05-12 16:18:27,928 [INFO]   → 4 entries (0 image failures)
+2026-05-12 16:18:28,429 [INFO] [30/89] Scraping https://idea-milanicreative.beehiiv.com/p/building-a-creative-habit-in-2025
+2026-05-12 16:18:29,211 [INFO] HTTP Request: GET https://idea-milanicreative.beehiiv.com/p/building-a-creative-habit-in-2025 "HTTP/1.1 200 OK"
+2026-05-12 16:18:29,531 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/86914a75-5335-43a5-a07e-fd453cfc2b7b/SONDER_What_We_See_In_Someone_s_Life_Vs_What_We_Don_t_Heart_Iceberg.png "HTTP/1.1 200 OK"
+2026-05-12 16:18:29,823 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/aa9b6f53-6700-43f3-bbd4-8e14e586d691/creative_practice_thumbnail_2.png "HTTP/1.1 200 OK"
+2026-05-12 16:18:30,126 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/9cff8654-1d8a-4ef9-908c-6b7f4187bfdb/When_Tired_Don_t_Quit_Rest_Stairs.png "HTTP/1.1 200 OK"
+2026-05-12 16:18:30,415 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/e3bc0d4e-0590-4437-a699-5b3579781b09/Thinking_Vs_Overthinking_Plant_Flower_Watering_Poison_In_Dosage.png "HTTP/1.1 200 OK"
+2026-05-12 16:18:30,431 [INFO]   → 4 entries (0 image failures)
+2026-05-12 16:18:30,932 [INFO] [31/89] Scraping https://idea-milanicreative.beehiiv.com/p/the-problem-with-low-hanging-fruit
+2026-05-12 16:18:31,693 [INFO] HTTP Request: GET https://idea-milanicreative.beehiiv.com/p/the-problem-with-low-hanging-fruit "HTTP/1.1 200 OK"
+2026-05-12 16:18:32,246 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/55c2d173-9a44-48a6-9e66-838264c441e5/Gathering_More_Information_Vs_Acting_Geyser_Water_Puddle.png "HTTP/1.1 200 OK"
+2026-05-12 16:18:32,525 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/d24b0169-1c7d-4b3d-9400-96d6e70f0237/Community_Tree_What_You_Accomplish_Together.png "HTTP/1.1 200 OK"
+2026-05-12 16:18:32,821 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/1fd25553-63a9-4483-9ffc-67870fe820d0/Doesn_t_Matter_How_High_You_Clumb_Wrong_Mountain_Volcano_Status.png "HTTP/1.1 200 OK"
+2026-05-12 16:18:32,839 [INFO]   → 3 entries (0 image failures)
+2026-05-12 16:18:33,340 [INFO] [32/89] Scraping https://idea-milanicreative.beehiiv.com/p/the-art-of-remixing-ideas
+2026-05-12 16:18:34,072 [INFO] HTTP Request: GET https://idea-milanicreative.beehiiv.com/p/the-art-of-remixing-ideas "HTTP/1.1 200 OK"
+2026-05-12 16:18:34,521 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/b197e890-cf52-4ffd-a30f-d237d526e9c2/Beginners_talking_masters_listening.png "HTTP/1.1 200 OK"
+2026-05-12 16:18:34,794 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/47d48a41-babd-4897-9f17-25b96bdd53d3/Photograph_Negatives_What_We_See_Vs_Don_t_See.png "HTTP/1.1 200 OK"
+2026-05-12 16:18:35,360 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/8a0d41f8-3c48-493d-a53d-2278415f7f2f/How_Time_Feels_Surrounded_By_Right_Vs_Wrong_People_Clock.png "HTTP/1.1 200 OK"
+2026-05-12 16:18:35,658 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/bfa8f1be-0f50-4059-81c4-27dd2bb19f4f/Twitter_Profile_Picture_Cut_Out_v2.png "HTTP/1.1 200 OK"
+2026-05-12 16:18:35,938 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/format=auto/static_assets/subscription_dummy_avatar_0.svg "HTTP/1.1 200 OK"
+2026-05-12 16:18:36,577 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/format=auto,fit=scale-down,onerror=redirect/uploads/publication/logo/e536e355-b579-422a-b7d7-66caa8d8c506/Idea_Newsletter_Icon_v2.PNG "HTTP/1.1 200 OK"
+2026-05-12 16:18:36,620 [INFO]   → 6 entries (1 image failures)
+2026-05-12 16:18:37,120 [INFO] [33/89] Scraping https://idea-milanicreative.beehiiv.com/p/are-you-reaching-your-full-potential
+2026-05-12 16:18:38,006 [INFO] HTTP Request: GET https://idea-milanicreative.beehiiv.com/p/are-you-reaching-your-full-potential "HTTP/1.1 200 OK"
+2026-05-12 16:18:38,580 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/1dbbd015-33bd-4b04-88ce-dfa5c2b06209/Reaching_Potential_Stairs_With_A_Goal_Vs_System.png "HTTP/1.1 200 OK"
+2026-05-12 16:18:39,003 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/b58a0446-83d9-4fc1-9d41-77b9932a56f9/02b522900c4ea44e4d1ea3090c3b4390.jpg "HTTP/1.1 200 OK"
+2026-05-12 16:18:39,294 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/f0f626ff-ed62-4ecb-85d8-89bb5b9438c1/passion.png "HTTP/1.1 200 OK"
+2026-05-12 16:18:39,660 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/e2c8eae4-8811-4e84-afcb-5d2bd8cbc3cc/Happiness_Candles.gif "HTTP/1.1 307 Temporary Redirect"
+2026-05-12 16:18:39,774 [INFO] HTTP Request: GET https://media.beehiiv.com/uploads/asset/file/e2c8eae4-8811-4e84-afcb-5d2bd8cbc3cc/Happiness_Candles.gif "HTTP/1.1 200 OK"
+2026-05-12 16:18:40,435 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/1df05b43-bf1b-4da9-ab86-1b5bf783fcfc/Motion_Vs_Action_Electric_Globe_Mistake.png "HTTP/1.1 200 OK"
+2026-05-12 16:18:40,998 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/0ff86ba7-33d2-426a-b11e-b6bf73a448d9/This_Not_Leadership_Apple_Tree_Climb.png "HTTP/1.1 200 OK"
+2026-05-12 16:18:41,023 [INFO]   → 6 entries (0 image failures)
+2026-05-12 16:18:41,523 [INFO] [34/89] Scraping https://idea-milanicreative.beehiiv.com/p/what-tea-can-teach-us-about-overthinking
+2026-05-12 16:18:42,353 [INFO] HTTP Request: GET https://idea-milanicreative.beehiiv.com/p/what-tea-can-teach-us-about-overthinking "HTTP/1.1 200 OK"
+2026-05-12 16:18:42,773 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/0dab47ac-1b6e-47c9-b663-834365553fa6/Thinking_Vs_Overthinking_-_Zone_Tea_Cup.png "HTTP/1.1 200 OK"
+2026-05-12 16:18:43,096 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/6cca96e9-accf-4e15-86a6-b4a7aaa0e82b/How_Much_You_Respect_Yourself_Graph.png "HTTP/1.1 200 OK"
+2026-05-12 16:18:43,464 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/7aa62256-49bf-4142-b407-8f9d27f126b6/How_Much_You_Respect_Yourself_Graph.png "HTTP/1.1 200 OK"
+2026-05-12 16:18:43,830 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/4f9dba9d-cf19-4b51-9cd9-3864ac5f19e1/Screenshot_2024-10-14_at_8.26.06_PM.png "HTTP/1.1 200 OK"
+2026-05-12 16:18:44,111 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/91ed74c1-50f9-4595-ad1c-763ba92d6e89/Kindness_Is_Contagious_Flame.PNG.png "HTTP/1.1 200 OK"
+2026-05-12 16:18:44,410 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/2c607e88-54f7-44eb-a8ff-9a4f350a137f/What_We_See_Sharp_Pencil_Skills_What_We_Don_t_See_Sharpening_Shavings.png "HTTP/1.1 200 OK"
+2026-05-12 16:18:44,441 [INFO]   → 6 entries (0 image failures)
+2026-05-12 16:18:44,942 [INFO] [35/89] Scraping https://idea-milanicreative.beehiiv.com/p/why-there-s-no-shortcut-to-getting-wiser
+2026-05-12 16:18:46,032 [INFO] HTTP Request: GET https://idea-milanicreative.beehiiv.com/p/why-there-s-no-shortcut-to-getting-wiser "HTTP/1.1 200 OK"
+2026-05-12 16:18:46,764 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/7ad433b3-fcc5-4ec9-a30c-f0144886dbbb/Wisdom_Is_Not_Learned_Letters_Its_Earned.png "HTTP/1.1 200 OK"
+2026-05-12 16:18:47,065 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/595eb23c-360d-465c-9d3d-fce0a0175bcb/Photograph_Negatives_What_We_See_Vs_Don_t_See.png "HTTP/1.1 200 OK"
+2026-05-12 16:18:47,813 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/61d5e0f8-8b93-4ace-8fd3-fdf899e2d652/How_Much_You_Respect_Yourself_Graph.png "HTTP/1.1 200 OK"
+2026-05-12 16:18:48,095 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/cb2312b4-6215-4b60-958c-7f6c9e35c4b7/How_Much_You_Respect_Yourself_Graph.png "HTTP/1.1 200 OK"
+2026-05-12 16:18:48,607 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/789950c0-2e8d-4657-82db-53d37ba249ed/Fill_Your_Cup_Normal_Cup.png "HTTP/1.1 200 OK"
+2026-05-12 16:18:49,338 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/909cebc9-a123-42d9-a1e8-03b62fc7401b/IMG_2953.PNG "HTTP/1.1 200 OK"
+2026-05-12 16:18:49,361 [INFO]   → 6 entries (0 image failures)
+2026-05-12 16:18:49,861 [INFO] [36/89] Scraping https://idea-milanicreative.beehiiv.com/p/embrace-fomo
+2026-05-12 16:18:50,608 [INFO] HTTP Request: GET https://idea-milanicreative.beehiiv.com/p/embrace-fomo "HTTP/1.1 200 OK"
+2026-05-12 16:18:50,943 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/1d12b600-5c55-4496-a0ff-b9e1d89d7a07/what_teaching_is_not_vessel_vs_lighting_a_match.PNG.png "HTTP/1.1 200 OK"
+2026-05-12 16:18:51,226 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/6145b36d-c7f1-47d7-a387-4b30eda9ffa3/Burden_Discipline_Vs_Regret_Weight_Kettlebell.png "HTTP/1.1 200 OK"
+2026-05-12 16:18:51,498 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/bd762aa5-1196-42ae-a9e2-626b97325fd1/Value_Of_Your_Money_Vs_Time_Gems_Diamond.png "HTTP/1.1 200 OK"
+2026-05-12 16:18:52,066 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/872913fe-6f58-4ad3-9e12-10a196205d2e/What_People_Remember_Most_Highest_Salary_Kept_Word_Grave_Tombstone.png "HTTP/1.1 200 OK"
+2026-05-12 16:18:52,469 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/465c0f3d-1e17-4215-9068-94e57f1fb26b/Your_Energy_Fear_Of_Missing_Out_Joy_Matches_Burning.png "HTTP/1.1 200 OK"
+2026-05-12 16:18:52,491 [INFO]   → 5 entries (0 image failures)
+2026-05-12 16:18:52,991 [INFO] [37/89] Scraping https://idea-milanicreative.beehiiv.com/p/visual-ideas-understand-deeply
+2026-05-12 16:18:53,775 [INFO] HTTP Request: GET https://idea-milanicreative.beehiiv.com/p/visual-ideas-understand-deeply "HTTP/1.1 200 OK"
+2026-05-12 16:18:54,588 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/5e3ae601-ae15-4ad8-b9a6-840c18fc40d8/How_Deeply_You_Understand_From_Teaching_Books.png "HTTP/1.1 200 OK"
+2026-05-12 16:18:55,002 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/86d53059-ede4-4799-b7f1-001417458a06/Fear_Curtain_Everything_You_Want.png "HTTP/1.1 200 OK"
+2026-05-12 16:18:55,404 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/59290546-247f-4748-a77c-b2e2027cca2b/Listening_To_Win_Vs_Learn_Open_Blocked_Doors.png "HTTP/1.1 200 OK"
+2026-05-12 16:18:55,425 [INFO]   → 3 entries (0 image failures)
+2026-05-12 16:18:55,926 [INFO] [38/89] Scraping https://idea-milanicreative.beehiiv.com/p/visual-ideas-shouldnt-present-data-instead
+2026-05-12 16:18:56,758 [INFO] HTTP Request: GET https://idea-milanicreative.beehiiv.com/p/visual-ideas-shouldnt-present-data-instead "HTTP/1.1 200 OK"
+2026-05-12 16:18:57,168 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/9105fb43-081a-415c-8522-dd2ddcdf7ae2/I_m_Sorry_But_Bridge_Broken_Cliff_Punch_v2.png "HTTP/1.1 200 OK"
+2026-05-12 16:18:57,462 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/0250ccd0-a054-4d09-b0e9-646e244b97b7/Peter_Attia_Graph_Lean_Muscle.PNG "HTTP/1.1 200 OK"
+2026-05-12 16:18:57,766 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/d1e6847d-7db3-455f-8233-872bda7a1b56/Peter_Attia_s_Graph.png "HTTP/1.1 200 OK"
+2026-05-12 16:18:58,035 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/954953a5-1d28-45de-ac94-9204abcfcb5c/happiness_gratitutde_desire_gem_visual_metaphor.png "HTTP/1.1 200 OK"
+2026-05-12 16:18:58,318 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/2f20b8c3-9fc1-4ba8-9bc7-74f7fb945517/first_step_to_action_from_idea_cliff.png "HTTP/1.1 200 OK"
+2026-05-12 16:18:58,345 [INFO]   → 5 entries (0 image failures)
+2026-05-12 16:18:58,846 [INFO] [39/89] Scraping https://idea-milanicreative.beehiiv.com/p/visual-ideas-making-daily-visuals-superpower
+2026-05-12 16:18:59,704 [INFO] HTTP Request: GET https://idea-milanicreative.beehiiv.com/p/visual-ideas-making-daily-visuals-superpower "HTTP/1.1 200 OK"
+2026-05-12 16:19:00,111 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/9d0f0b2a-21fe-42a5-b817-cb2dab2c8f83/Untitled_Artwork_6.png "HTTP/1.1 200 OK"
+2026-05-12 16:19:00,462 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/176235c8-52f4-47ba-9abd-b3ef6e3aa01f/21_firefly.jpeg "HTTP/1.1 200 OK"
+2026-05-12 16:19:00,744 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/7ec12b9f-626a-44a4-8282-8b2a171cd500/Firefly_Ideas_in_your_Feed.PNG.png "HTTP/1.1 200 OK"
+2026-05-12 16:19:01,034 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/8284eb67-aac2-4d52-825b-add0979159ac/3.png "HTTP/1.1 200 OK"
+2026-05-12 16:19:01,346 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/fdcddee6-3f90-4005-8cfb-b076bbe46ced/Swan_Swimming_What_We_Don_t_See.png "HTTP/1.1 200 OK"
+2026-05-12 16:19:01,689 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/c7686ac7-558f-4be0-a624-4ee59268b8be/Failure_Golf_Trash_can.png "HTTP/1.1 200 OK"
+2026-05-12 16:19:01,706 [INFO]   → 6 entries (0 image failures)
+2026-05-12 16:19:02,207 [INFO] [40/89] Scraping https://idea-milanicreative.beehiiv.com/p/visual-ideas-stepping-off-sidelines
+2026-05-12 16:19:02,979 [INFO] HTTP Request: GET https://idea-milanicreative.beehiiv.com/p/visual-ideas-stepping-off-sidelines "HTTP/1.1 200 OK"
+2026-05-12 16:19:03,395 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/2df57c4d-bddd-407d-a62d-484d504a4056/Businesses_Grow_Like_Bamboo_2.png "HTTP/1.1 200 OK"
+2026-05-12 16:19:03,693 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/9511c2ad-03f1-49ba-ab9c-51943f68d5b2/Leadership_From_Me_To_We_Hand_Letters.png "HTTP/1.1 200 OK"
+2026-05-12 16:19:03,993 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/9d05ef9c-dfa4-46ab-9bc1-d348d2776626/Grudge_Stone_Holding_On_Vs_Moving_On.png "HTTP/1.1 200 OK"
+2026-05-12 16:19:04,330 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/c72e503a-58fb-4e0a-98ef-f019335a2b2a/Maven_100.png "HTTP/1.1 200 OK"
+2026-05-12 16:19:04,372 [INFO]   → 4 entries (0 image failures)
+2026-05-12 16:19:04,873 [INFO] [41/89] Scraping https://idea-milanicreative.beehiiv.com/p/visual-ideas-james-clear-teaches-fighting-perfectionism
+2026-05-12 16:19:05,652 [INFO] HTTP Request: GET https://idea-milanicreative.beehiiv.com/p/visual-ideas-james-clear-teaches-fighting-perfectionism "HTTP/1.1 200 OK"
+2026-05-12 16:19:06,038 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/c6b518b8-773b-4a4e-868b-40304bb93d5b/2_Day_Rule_Bike_Habit.png "HTTP/1.1 200 OK"
+2026-05-12 16:19:06,336 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/73219648-90d6-4500-97ec-1b8d25fd7e7b/draw_with_a_pen.gif "HTTP/1.1 200 OK"
+2026-05-12 16:19:07,003 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/c27098c8-c221-47cf-962f-b71fabd51eb1/Photograph_Negatives_What_We_See_Vs_Don_t_See.png "HTTP/1.1 200 OK"
+2026-05-12 16:19:07,332 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/ff1ec4eb-49f7-4ea6-b6ff-4d12689d4afd/What_Routines_Feel_Like_Primrose_Steps.png "HTTP/1.1 200 OK"
+2026-05-12 16:19:07,349 [INFO]   → 4 entries (0 image failures)
+2026-05-12 16:19:07,849 [INFO] [42/89] Scraping https://idea-milanicreative.beehiiv.com/p/visual-ideas-people-get-wrong-stand-creator
+2026-05-12 16:19:08,548 [INFO] HTTP Request: GET https://idea-milanicreative.beehiiv.com/p/visual-ideas-people-get-wrong-stand-creator "HTTP/1.1 200 OK"
+2026-05-12 16:19:08,956 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/0487a5ff-b604-4daa-83d2-a76fab4128b6/Being_Perfect_vs_Being_Interesting_Fingerprint.png "HTTP/1.1 200 OK"
+2026-05-12 16:19:09,681 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/24f8719e-ee31-4d38-8b04-7db31680566e/IMG_2858.PNG "HTTP/1.1 200 OK"
+2026-05-12 16:19:10,289 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/72f13a92-4d6b-4132-ba77-c94b6563a562/IMG_2856.PNG "HTTP/1.1 200 OK"
+2026-05-12 16:19:10,839 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/ddd918e8-b76b-4bd9-a034-14a68d30e1cd/IMG_2857.PNG "HTTP/1.1 200 OK"
+2026-05-12 16:19:11,121 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/eec5ef57-4200-416b-8e5d-d02cc22546ae/First_4_Cohorts.png "HTTP/1.1 200 OK"
+2026-05-12 16:19:11,442 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/a5d08736-2463-45fc-8793-91eeaefce58e/Chapter_1_And_20_Castles.png "HTTP/1.1 200 OK"
+2026-05-12 16:19:11,727 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/feac04e5-6fd1-4470-817d-97d70589772b/Hard_Work_Straight_Path_Road_Expectation_Vs_Reality.png "HTTP/1.1 200 OK"
+2026-05-12 16:19:11,747 [INFO]   → 7 entries (0 image failures)
+2026-05-12 16:19:12,248 [INFO] [43/89] Scraping https://idea-milanicreative.beehiiv.com/p/visual-ideas-focusing-one-thing-time-superpower
+2026-05-12 16:19:12,946 [INFO] HTTP Request: GET https://idea-milanicreative.beehiiv.com/p/visual-ideas-focusing-one-thing-time-superpower "HTTP/1.1 200 OK"
+2026-05-12 16:19:13,346 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/7459026b-4202-46e9-b258-f776fa517fde/You_Can_Do_Anything_But_Not_Everything_Water_Balls.png "HTTP/1.1 200 OK"
+2026-05-12 16:19:13,791 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/6c8c9766-623d-4119-a021-a549ee9752c3/IMG_0835.PNG.png "HTTP/1.1 200 OK"
+2026-05-12 16:19:14,074 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/c2de8f32-2569-4481-80e0-e96f1bfed611/08_30_August.PNG.png "HTTP/1.1 200 OK"
+2026-05-12 16:19:14,479 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/877f2e4f-60a7-43d9-977e-944090d1b80c/IMG_1454.PNG.png "HTTP/1.1 200 OK"
+2026-05-12 16:19:14,789 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/d24eaa95-b0e7-468d-8b5b-99462ecbe3ca/Long_Distances_to_Travel.png "HTTP/1.1 200 OK"
+2026-05-12 16:19:15,065 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/87bea07d-7351-497e-8a2e-417dc38341df/value_of_focus.jpeg "HTTP/1.1 200 OK"
+2026-05-12 16:19:15,088 [INFO]   → 6 entries (0 image failures)
+2026-05-12 16:19:15,589 [INFO] [44/89] Scraping https://idea-milanicreative.beehiiv.com/p/visual-ideas-focus-attention-improve-quality-life
+2026-05-12 16:19:16,327 [INFO] HTTP Request: GET https://idea-milanicreative.beehiiv.com/p/visual-ideas-focus-attention-improve-quality-life "HTTP/1.1 200 OK"
+2026-05-12 16:19:16,743 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/8b3f036b-d14e-4cac-9b95-53c6f05cca75/Quality_Of_Life_Impact_Of_Accomplishments_Vs_Relationships.png "HTTP/1.1 200 OK"
+2026-05-12 16:19:17,050 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/74cb39b5-a0fd-443a-81b3-506d71b1ff14/Communication_Maze_Lawnmower_Fancy_Vs_Simple_Words.png "HTTP/1.1 200 OK"
+2026-05-12 16:19:17,333 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/dc2e756c-e37f-4696-a242-8181805f3645/Stained_Glass_Communication.png "HTTP/1.1 200 OK"
+2026-05-12 16:19:17,620 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/87e1b023-e621-41c9-aaf0-8a5de8d22117/Fancy_Words_Vs_Simple_Words_Communication.png "HTTP/1.1 200 OK"
+2026-05-12 16:19:17,874 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/3372a621-d113-40ac-99fa-3c2ad51d051a/Hidden_Potential_Iceberg_Reveal_Good_Teacher.png "HTTP/1.1 200 OK"
+2026-05-12 16:19:18,173 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/990446de-873e-4a27-a334-5707a36094e9/Beginner_Master_Has_Failed_More_Than_Beginner_Has_Tried.png "HTTP/1.1 200 OK"
+2026-05-12 16:19:18,205 [INFO]   → 6 entries (0 image failures)
+2026-05-12 16:19:18,705 [INFO] [45/89] Scraping https://idea-milanicreative.beehiiv.com/p/visual-ideas-question-people-dont-ask-matters
+2026-05-12 16:19:19,435 [INFO] HTTP Request: GET https://idea-milanicreative.beehiiv.com/p/visual-ideas-question-people-dont-ask-matters "HTTP/1.1 200 OK"
+2026-05-12 16:19:19,803 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/518ec9f1-ba86-495c-9796-525e878b092c/Step_Out_Comfort_Zone_Fish_Bowl.png "HTTP/1.1 200 OK"
+2026-05-12 16:19:20,091 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/f949b600-09a2-4002-ac3c-02bc73aa4bbd/7.png "HTTP/1.1 200 OK"
+2026-05-12 16:19:20,481 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/7264cf4a-c50f-42f7-a3a1-0f2ebef5e4b1/8.png "HTTP/1.1 200 OK"
+2026-05-12 16:19:20,774 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/56e24aca-ab87-42e3-866d-1db1c34e951b/9.png "HTTP/1.1 200 OK"
+2026-05-12 16:19:21,081 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/62cb727b-fc37-4dda-a713-be1ca71bf71a/Where_To_Invest_Skills_Family_Community__2.png "HTTP/1.1 200 OK"
+2026-05-12 16:19:21,376 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/ea46770d-6642-4452-9760-5ba5d0114115/Photograph_Negatives_What_We_See_Vs_Don_t_See.png "HTTP/1.1 200 OK"
+2026-05-12 16:19:21,407 [INFO]   → 6 entries (0 image failures)
+2026-05-12 16:19:21,907 [INFO] [46/89] Scraping https://idea-milanicreative.beehiiv.com/p/visual-ideas-japanese-philosophy-got-perfectionism
+2026-05-12 16:19:22,699 [INFO] HTTP Request: GET https://idea-milanicreative.beehiiv.com/p/visual-ideas-japanese-philosophy-got-perfectionism "HTTP/1.1 200 OK"
+2026-05-12 16:19:23,056 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/b0c097e9-5c4b-4d64-b4c5-a78d0ef891ba/Listening_To_Respond_Vs_Listening_To_Understand.png "HTTP/1.1 200 OK"
+2026-05-12 16:19:23,339 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/3aa66141-7ffb-40b1-9dc2-cb33764602c8/Kintsugi_World_Breaks_Everyone_Heart.png "HTTP/1.1 200 OK"
+2026-05-12 16:19:23,789 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/d370bfda-5ca0-401c-97f9-12930e9c5a79/logo2.png "HTTP/1.1 200 OK"
+2026-05-12 16:19:24,203 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/bc8b13a3-0009-452e-8511-7ae25c044b81/Growth_Mindset_Imposter_Syndrome_Chess_Pawn_Queen_V2.png "HTTP/1.1 200 OK"
+2026-05-12 16:19:24,495 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/b2136e24-38d5-457f-8a59-6fa082730f80/work_life_shattered_ball_its_always_messy.PNG "HTTP/1.1 200 OK"
+2026-05-12 16:19:24,517 [INFO]   → 5 entries (0 image failures)
+2026-05-12 16:19:25,018 [INFO] [47/89] Scraping https://idea-milanicreative.beehiiv.com/p/accomplish-less-wantbut-think
+2026-05-12 16:19:25,794 [INFO] HTTP Request: GET https://idea-milanicreative.beehiiv.com/p/accomplish-less-wantbut-think "HTTP/1.1 200 OK"
+2026-05-12 16:19:26,117 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/43246733-5dca-47e7-8258-d33b31e7406c/how_much_you_learn_from_mistakes_waterfall_rock.PNG "HTTP/1.1 200 OK"
+2026-05-12 16:19:26,466 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/96649059-9de6-4f50-8479-25c0c1ce6506/success_target_path_to_success_looks_like_arrows.PNG.png "HTTP/1.1 200 OK"
+2026-05-12 16:19:26,814 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/d219b012-c20c-4b73-9473-3ebca3c2d2db/failure.png "HTTP/1.1 200 OK"
+2026-05-12 16:19:27,585 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/8de84231-6181-4fe6-8a3f-08b2cf3c6bf6/IMG_2694.PNG "HTTP/1.1 200 OK"
+2026-05-12 16:19:28,260 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/be362ec1-bfb1-4259-8cf6-b37f1e48dd4d/IMG_2714.PNG "HTTP/1.1 200 OK"
+2026-05-12 16:19:28,606 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/08b9534e-9399-4859-b93a-80babb54cf8e/what_you_can_accomplish_bottles_in_a_day_week_year.PNG "HTTP/1.1 200 OK"
+2026-05-12 16:19:28,910 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/2fd238f7-fead-4a08-865a-4e8d6cd9b13f/swan_paradox_swimming_social_media_what_we_see.PNG.png "HTTP/1.1 200 OK"
+2026-05-12 16:19:28,930 [INFO]   → 7 entries (0 image failures)
+2026-05-12 16:19:29,431 [INFO] [48/89] Scraping https://idea-milanicreative.beehiiv.com/p/people-get-wrong-iteration-change
+2026-05-12 16:19:30,214 [INFO] HTTP Request: GET https://idea-milanicreative.beehiiv.com/p/people-get-wrong-iteration-change "HTTP/1.1 200 OK"
+2026-05-12 16:19:30,821 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/ed9fa8fb-d3d6-464d-9b34-4f5f9f62988e/IMG_2665.PNG "HTTP/1.1 200 OK"
+2026-05-12 16:19:31,566 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/6dab6e38-6a6c-4f77-b5f6-2ea740623e60/IMG_2666.PNG "HTTP/1.1 200 OK"
+2026-05-12 16:19:31,863 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/b371bcf3-c541-42e8-adff-5510078eb6d5/relationshipknots.PNG.png "HTTP/1.1 200 OK"
+2026-05-12 16:19:32,717 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/ce6aef67-6b75-40cd-8892-2ed13f16f383/IMG_2670.PNG "HTTP/1.1 200 OK"
+2026-05-12 16:19:33,428 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/cb9155ad-8e75-4c0e-a5ac-fd529a1283aa/IMG_2669.PNG "HTTP/1.1 200 OK"
+2026-05-12 16:19:33,718 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/df106819-32b0-45ca-9197-79e1e5b31db2/change_when_you_first_start_when_you_look_back_yarn_messy.PNG "HTTP/1.1 200 OK"
+2026-05-12 16:19:33,765 [INFO]   → 9 entries (1 image failures)
+2026-05-12 16:19:34,265 [INFO] [49/89] Scraping https://idea-milanicreative.beehiiv.com/p/visual-ideas-simple-shift-thinking-got-started-posting-online
+2026-05-12 16:19:35,263 [INFO] HTTP Request: GET https://idea-milanicreative.beehiiv.com/p/visual-ideas-simple-shift-thinking-got-started-posting-online "HTTP/1.1 200 OK"
+2026-05-12 16:19:36,040 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/9acc5ce5-801d-4a99-9e77-e803f088834c/IMG_2621.PNG.png "HTTP/1.1 200 OK"
+2026-05-12 16:19:36,465 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/201d731c-0285-4114-9ff0-be16bb7ab89b/IMG_2614.PNG "HTTP/1.1 200 OK"
+2026-05-12 16:19:37,195 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/0fdcaa26-d13e-4d5d-b3e5-88bcd0b6e836/growth_is_not_a_destination_its_a_journey_book_steps_run.PNG.png "HTTP/1.1 200 OK"
+2026-05-12 16:19:37,932 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/35f7bd8a-6502-40f2-93dc-5c0b2fd0db13/IMG_2613.PNG "HTTP/1.1 200 OK"
+2026-05-12 16:19:37,963 [INFO]   → 4 entries (0 image failures)
+2026-05-12 16:19:38,464 [INFO] [50/89] Scraping https://idea-milanicreative.beehiiv.com/p/frame-failure-paves-road-success
+2026-05-12 16:19:39,239 [INFO] HTTP Request: GET https://idea-milanicreative.beehiiv.com/p/frame-failure-paves-road-success "HTTP/1.1 200 OK"
+2026-05-12 16:19:39,704 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/5ca55de9-3c78-4345-ad99-34bb6e9049c1/dunning_kruger_effect.PNG "HTTP/1.1 200 OK"
+2026-05-12 16:19:40,381 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/64ce2dc0-b079-43fa-b942-17244b9e8c98/IMG_0119.PNG.png "HTTP/1.1 200 OK"
+2026-05-12 16:19:41,016 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/9e62882a-eb89-437d-87e1-18bb472c8dce/Deep_Work_Ice_1.jpg "HTTP/1.1 200 OK"
+2026-05-12 16:19:41,630 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/7ef0e3c0-8c8e-4db2-82e2-155a860c7706/Deep_Work_Ice_2.jpg "HTTP/1.1 200 OK"
+2026-05-12 16:19:41,898 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/cc41f3db-69ac-4ce2-a0f9-cb16578cd2c6/Class_Picture_-_Cohort_3.png "HTTP/1.1 200 OK"
+2026-05-12 16:19:42,499 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/8f32db48-6e47-44d4-aeaf-e38afe2917cf/Relationships_Hands_Squeezing_Holding_on_too_tight_dirt_soil.PNG "HTTP/1.1 200 OK"
+2026-05-12 16:19:43,180 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/653bc3f6-08e7-4b89-9a09-88ebeda611a9/IMG_2607.PNG "HTTP/1.1 200 OK"
+2026-05-12 16:19:43,213 [INFO]   → 10 entries (1 image failures)
+2026-05-12 16:19:43,714 [INFO] [51/89] Scraping https://idea-milanicreative.beehiiv.com/p/dad-taught-fixing-whats-broke-not-knowing
+2026-05-12 16:19:44,506 [INFO] HTTP Request: GET https://idea-milanicreative.beehiiv.com/p/dad-taught-fixing-whats-broke-not-knowing "HTTP/1.1 200 OK"
+2026-05-12 16:19:44,938 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/a97c9d33-19a9-4b6d-a5c0-5471453aa048/1_Incubation_Period_Rushing_Egg_v2.PNG.png "HTTP/1.1 200 OK"
+2026-05-12 16:19:45,236 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/52ae4ae6-9927-4a38-b786-4eae901b1242/IMG_2587.PNG "HTTP/1.1 200 OK"
+2026-05-12 16:19:45,976 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/257a3723-a1c5-4687-9756-a5f8b3b3385d/IMG_2590.PNG "HTTP/1.1 200 OK"
+2026-05-12 16:19:46,641 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/09fe5613-fc88-4aaf-8714-7930bb172ed8/IMG_2583.PNG "HTTP/1.1 200 OK"
+2026-05-12 16:19:46,673 [INFO]   → 7 entries (1 image failures)
+2026-05-12 16:19:47,173 [INFO] [52/89] Scraping https://idea-milanicreative.beehiiv.com/p/solve-problems-using-ancient-zen-buddhist-mindset-shoshin
+2026-05-12 16:19:47,915 [INFO] HTTP Request: GET https://idea-milanicreative.beehiiv.com/p/solve-problems-using-ancient-zen-buddhist-mindset-shoshin "HTTP/1.1 200 OK"
+2026-05-12 16:19:48,283 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/332828fe-28d8-48c2-b362-f3ec7f8ec910/Expert_vs_Beginners.PNG.png "HTTP/1.1 200 OK"
+2026-05-12 16:19:48,587 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/0e8986fd-6c50-4c53-910a-84e332de6fc9/arrogance.png "HTTP/1.1 200 OK"
+2026-05-12 16:19:48,891 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/1b2030ae-84d6-41e3-8fdf-b9c776882364/Expert_vs_Beginners.PNG.png "HTTP/1.1 200 OK"
+2026-05-12 16:19:49,583 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/510906ac-7615-4f5a-bcc5-42f1928274a7/IMG_2549.PNG "HTTP/1.1 200 OK"
+2026-05-12 16:19:50,274 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/460c2ff5-d448-4bbf-b09f-7881df8cb5c0/IMG_2585.PNG "HTTP/1.1 200 OK"
+2026-05-12 16:19:50,317 [INFO]   → 8 entries (1 image failures)
+2026-05-12 16:19:50,817 [INFO] [53/89] Scraping https://idea-milanicreative.beehiiv.com/p/feel-lost-think-youre-going
+2026-05-12 16:19:51,553 [INFO] HTTP Request: GET https://idea-milanicreative.beehiiv.com/p/feel-lost-think-youre-going "HTTP/1.1 200 OK"
+2026-05-12 16:19:51,966 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/269f83f9-368d-4124-b813-01231e8419f1/1_priority.png "HTTP/1.1 200 OK"
+2026-05-12 16:19:52,269 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/2bb35c51-099f-4f03-881d-fb8c87621815/what_people_remember_heart_what_was_said_what_was_felt.PNG "HTTP/1.1 200 OK"
+2026-05-12 16:19:52,565 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/50eb1e61-d1c2-4fc1-a536-78ebe9090705/Crossing_the_Threshold_Variation__by_Janis_Ozolins_.png "HTTP/1.1 200 OK"
+2026-05-12 16:19:52,869 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/59174c3e-f9e6-4190-89bc-e60bb1efbcf7/4_what_teaching_is_not_vessel_vs_lighting_a_match.PNG.png "HTTP/1.1 200 OK"
+2026-05-12 16:19:53,170 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/004d7bd6-eb03-41c3-afd4-1b61eedd32d8/1_work_life_rubiks_cube.PNG.png "HTTP/1.1 200 OK"
+2026-05-12 16:19:53,213 [INFO]   → 8 entries (1 image failures)
+2026-05-12 16:19:53,713 [INFO] [54/89] Scraping https://idea-milanicreative.beehiiv.com/p/visual-ideas-habit-tracking-comparisons-accuracy-overrated
+2026-05-12 16:19:54,500 [INFO] HTTP Request: GET https://idea-milanicreative.beehiiv.com/p/visual-ideas-habit-tracking-comparisons-accuracy-overrated "HTTP/1.1 200 OK"
+2026-05-12 16:19:54,924 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/0d078754-b464-459f-8a4d-708d2537474a/habit_tracking_momentum_vs_streaks_bike.PNG.png "HTTP/1.1 200 OK"
+2026-05-12 16:19:55,237 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/e9f3a93e-1ebe-46e9-80fe-07c83f4409fc/Stick_Your_Neck_Out_of_Shell_Turtle.PNG.png "HTTP/1.1 200 OK"
+2026-05-12 16:19:55,552 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/96840641-376d-44c3-babb-ef3852c7f2d6/singletasking_multitask_basketball_spin_finger.PNG.png "HTTP/1.1 200 OK"
+2026-05-12 16:19:55,854 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/3193744a-7bff-46d7-82a0-a4317637e667/newsletter_enchanting.png "HTTP/1.1 200 OK"
+2026-05-12 16:19:56,522 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/939289d5-0503-4f0a-8529-2b1fb66861f7/IMG_2013.PNG.png "HTTP/1.1 200 OK"
+2026-05-12 16:19:56,554 [INFO]   → 8 entries (1 image failures)
+2026-05-12 16:19:57,055 [INFO] [55/89] Scraping https://idea-milanicreative.beehiiv.com/p/teaching-breakdowns-true-wealth-insights
+2026-05-12 16:19:57,812 [INFO] HTTP Request: GET https://idea-milanicreative.beehiiv.com/p/teaching-breakdowns-true-wealth-insights "HTTP/1.1 200 OK"
+2026-05-12 16:19:58,137 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/ed851873-c3f5-41c6-862f-45711810c14a/what_teaching_actually_is_reach_for_lightbulb.PNG.png "HTTP/1.1 200 OK"
+2026-05-12 16:19:58,780 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/69080c68-e374-40b0-a391-fce80f080e9e/IMG_2222.PNG "HTTP/1.1 200 OK"
+2026-05-12 16:19:59,089 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/f5cac643-90f7-4145-8af9-0e5016987dce/paper_boat_crumpled_paper_overnight_success.PNG.png "HTTP/1.1 200 OK"
+2026-05-12 16:19:59,417 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/9511435e-b21b-4f29-ad91-29c6d13896b3/breakthrough_egg.PNG "HTTP/1.1 200 OK"
+2026-05-12 16:20:00,098 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/1f37448a-a861-438d-b28d-b3245e38e834/IMG_2459.PNG "HTTP/1.1 200 OK"
+2026-05-12 16:20:00,118 [INFO]   → 5 entries (0 image failures)
+2026-05-12 16:20:00,619 [INFO] [56/89] Scraping https://idea-milanicreative.beehiiv.com/p/commitment-game-speed-ally-not-way-think
+2026-05-12 16:20:01,348 [INFO] HTTP Request: GET https://idea-milanicreative.beehiiv.com/p/commitment-game-speed-ally-not-way-think "HTTP/1.1 200 OK"
+2026-05-12 16:20:01,748 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/73333cdc-f584-4544-95fb-2bf47a6c1ae0/snail.png "HTTP/1.1 200 OK"
+2026-05-12 16:20:02,042 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/63f4f343-f3c6-4864-a21d-344ca592f8f9/Leaky_Bucket.png "HTTP/1.1 200 OK"
+2026-05-12 16:20:02,542 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/d4c9f9ee-0b61-4cf4-b598-f40ac13e895c/car_success_we_re_taught_to_value.PNG.png "HTTP/1.1 200 OK"
+2026-05-12 16:20:02,843 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/cd6baeca-f230-4913-af03-9854f68dee38/rocking_horse_syndrome.PNG.png "HTTP/1.1 200 OK"
+2026-05-12 16:20:02,875 [INFO]   → 7 entries (1 image failures)
+2026-05-12 16:20:03,375 [INFO] [57/89] Scraping https://idea-milanicreative.beehiiv.com/p/2-types-burnout
+2026-05-12 16:20:04,483 [INFO] HTTP Request: GET https://idea-milanicreative.beehiiv.com/p/2-types-burnout "HTTP/1.1 200 OK"
+2026-05-12 16:20:05,045 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/a42c7ab6-dfdf-4425-85a7-635e71bcefba/Heart_Candles_2_types_of_burnout.PNG.png "HTTP/1.1 200 OK"
+2026-05-12 16:20:05,326 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/c107a654-b54a-4932-b4bd-8d443407ebd8/Untitled_Artwork.png "HTTP/1.1 200 OK"
+2026-05-12 16:20:05,628 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/5ae86293-6b85-428f-a21c-fe2d8b55dbe5/roberto.jpeg "HTTP/1.1 200 OK"
+2026-05-12 16:20:06,065 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/a5b2377e-6b79-4d60-8fca-684be4b92b63/russiandoll_v1.PNG.png "HTTP/1.1 200 OK"
+2026-05-12 16:20:06,578 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/7ab63af1-7a92-4a9e-a3c4-c85c3b6ae050/IMG_2350.PNG "HTTP/1.1 200 OK"
+2026-05-12 16:20:07,053 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/a3ad600b-bac6-4d5a-a7b5-765da1d0dad4/IMG_2328.PNG "HTTP/1.1 200 OK"
+2026-05-12 16:20:07,081 [INFO]   → 9 entries (1 image failures)
+2026-05-12 16:20:07,582 [INFO] [58/89] Scraping https://idea-milanicreative.beehiiv.com/p/difference-thinking-overthinking
+2026-05-12 16:20:08,456 [INFO] HTTP Request: GET https://idea-milanicreative.beehiiv.com/p/difference-thinking-overthinking "HTTP/1.1 200 OK"
+2026-05-12 16:20:08,778 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/ccbf4c9c-bd81-470a-984e-7b47d4e258d7/IMG_2035.PNG "HTTP/1.1 200 OK"
+2026-05-12 16:20:09,076 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/14920b0c-6582-499c-8fdc-2b66c254d46f/v1_newsletter_consumer_to_creator.jpg "HTTP/1.1 200 OK"
+2026-05-12 16:20:09,377 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/f6f844af-d678-4de5-ac81-91226af036b8/IMG_0032.PNG.png "HTTP/1.1 200 OK"
+2026-05-12 16:20:09,696 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/2a33f03b-8d87-4e8b-be4b-2819f72fd3bd/Consumer_to_Creator_Boat.PNG.png "HTTP/1.1 200 OK"
+2026-05-12 16:20:10,102 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/810b73bc-a27b-485e-b4d7-9434bcefa43b/1.png "HTTP/1.1 200 OK"
+2026-05-12 16:20:10,428 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/a27c57b3-216c-4604-867f-14231ff6cc50/IMG_2297.PNG "HTTP/1.1 200 OK"
+2026-05-12 16:20:10,726 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/35790c36-aec8-4e09-bb0e-a3e87185d7a7/IMG_2298.PNG "HTTP/1.1 200 OK"
+2026-05-12 16:20:11,042 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/1a399319-6649-4329-9774-6a0006c1099a/IMG_2299.PNG "HTTP/1.1 200 OK"
+2026-05-12 16:20:11,344 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/48481b80-4954-4f04-bbc8-dcb54953292d/IMG_2301.PNG "HTTP/1.1 200 OK"
+2026-05-12 16:20:11,396 [INFO]   → 12 entries (1 image failures)
+2026-05-12 16:20:11,898 [INFO] [59/89] Scraping https://idea-milanicreative.beehiiv.com/p/visual-ideas-system-capture-ideas-organizing-chaos-storytelling
+2026-05-12 16:20:12,682 [INFO] HTTP Request: GET https://idea-milanicreative.beehiiv.com/p/visual-ideas-system-capture-ideas-organizing-chaos-storytelling "HTTP/1.1 200 OK"
+2026-05-12 16:20:13,252 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/992c0212-a80e-4ba7-960e-4a2142e5d8a2/IMG_2042.PNG.png "HTTP/1.1 200 OK"
+2026-05-12 16:20:13,963 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/6b56a401-d3e9-456f-9109-9972130a2d94/IMG_1859.PNG "HTTP/1.1 200 OK"
+2026-05-12 16:20:14,597 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/2ebbf323-6b9a-49fc-a45b-e602fdb86901/IMG_1863.PNG "HTTP/1.1 200 OK"
+2026-05-12 16:20:14,906 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/dfb656d5-8c77-4b4e-8a55-7705eb92452a/Storytelling_Constellations.PNG.png "HTTP/1.1 200 OK"
+2026-05-12 16:20:15,234 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/523638f1-8dbd-4b77-81bf-3e2603b612f7/compression_first_final_draft.PNG "HTTP/1.1 200 OK"
+2026-05-12 16:20:15,270 [INFO]   → 8 entries (1 image failures)
+2026-05-12 16:20:15,771 [INFO] [60/89] Scraping https://idea-milanicreative.beehiiv.com/p/multitasking-myth-passion-connected-legacy
+2026-05-12 16:20:16,548 [INFO] HTTP Request: GET https://idea-milanicreative.beehiiv.com/p/multitasking-myth-passion-connected-legacy "HTTP/1.1 200 OK"
+2026-05-12 16:20:17,347 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/d32b4dc7-a7e1-4d99-b421-e4c6788ed29d/IMG_1920.PNG.png "HTTP/1.1 200 OK"
+2026-05-12 16:20:18,033 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/3cfb2954-bb9c-47c5-8cd7-decf0c2668c6/My_Style.001.jpeg "HTTP/1.1 200 OK"
+2026-05-12 16:20:18,652 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/f4d1b57f-d5f0-46f9-ad60-44de63cc6c5c/My_Style.003.jpeg "HTTP/1.1 200 OK"
+2026-05-12 16:20:19,356 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/bad6993c-8c5d-4e47-9ca2-84f73faf1358/My_Style.002.jpeg "HTTP/1.1 200 OK"
+2026-05-12 16:20:20,060 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/c2a7c902-2655-401f-be1a-09c7ccdaaf09/My_Style.004.jpeg "HTTP/1.1 200 OK"
+2026-05-12 16:20:20,747 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/7176d4fe-c4df-4931-9b92-e26fb134c4ce/My_Style.005.jpeg "HTTP/1.1 200 OK"
+2026-05-12 16:20:21,586 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/57a3b5b0-2365-4c48-8db4-31845a349ec4/IMG_1958.PNG.png "HTTP/1.1 200 OK"
+2026-05-12 16:20:21,879 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/f5d5670d-a4d6-40a7-9ae1-a95ea25e5e71/Turtle_Shell_Kick_in_the_Butt.PNG.png "HTTP/1.1 200 OK"
+2026-05-12 16:20:21,917 [INFO]   → 11 entries (1 image failures)
+2026-05-12 16:20:22,418 [INFO] [61/89] Scraping https://idea-milanicreative.beehiiv.com/p/maximizing-vs-optimizing-day
+2026-05-12 16:20:23,548 [INFO] HTTP Request: GET https://idea-milanicreative.beehiiv.com/p/maximizing-vs-optimizing-day "HTTP/1.1 200 OK"
+2026-05-12 16:20:24,511 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/efeafe22-ac5c-454d-a49c-5bc95d1c4793/IMG_1895.PNG.png "HTTP/1.1 200 OK"
+2026-05-12 16:20:25,908 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/e895cf9f-eda5-438d-9dcc-68c09a75f046/4000_weeks.jpg "HTTP/1.1 200 OK"
+2026-05-12 16:20:26,345 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/cf40dc8f-29e2-4120-8462-c6d6aaf72408/strength_to_strength.jpg "HTTP/1.1 200 OK"
+2026-05-12 16:20:26,772 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/40e5c907-d4fc-4528-9fb5-f1c71f207a8e/2.png "HTTP/1.1 200 OK"
+2026-05-12 16:20:27,566 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/15b61ff9-b149-4df2-813d-0255950fb650/IMG_0320_2.PNG.png "HTTP/1.1 200 OK"
+2026-05-12 16:20:27,988 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/6c0bccd3-9f06-43d6-822b-7e8b70b169ef/3.png "HTTP/1.1 200 OK"
+2026-05-12 16:20:28,437 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/d5c55dec-eb00-4b7c-833e-26526c54dcb2/IMG_0045.PNG.png "HTTP/1.1 200 OK"
+2026-05-12 16:20:28,956 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/d7269115-9687-4c92-8f98-99db21d70a88/5.png "HTTP/1.1 200 OK"
+2026-05-12 16:20:29,355 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/55769f41-a36c-4c97-aea6-8c1ff00b3c51/IMG_1018.PNG.png "HTTP/1.1 200 OK"
+2026-05-12 16:20:29,812 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/dc296176-40e0-4ab5-ab53-696f5eb2a160/6.png "HTTP/1.1 200 OK"
+2026-05-12 16:20:30,311 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/c01f6120-db14-4e1b-be8a-e6caa61549d4/IMG_0318.PNG.png "HTTP/1.1 200 OK"
+2026-05-12 16:20:30,868 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/087ecc06-8456-4c32-9d49-cfa228daccc0/IMG_1936.PNG.png "HTTP/1.1 200 OK"
+2026-05-12 16:20:31,561 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/0294befb-f001-468d-9eeb-cefc0482ddee/IMG_1918.PNG.png "HTTP/1.1 200 OK"
+2026-05-12 16:20:31,606 [INFO]   → 16 entries (1 image failures)
+2026-05-12 16:20:32,108 [INFO] [62/89] Scraping https://idea-milanicreative.beehiiv.com/p/setbacks-sheerans-law
+2026-05-12 16:20:33,021 [INFO] HTTP Request: GET https://idea-milanicreative.beehiiv.com/p/setbacks-sheerans-law "HTTP/1.1 200 OK"
+2026-05-12 16:20:33,384 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/4d645fc5-2387-4a36-b54b-15b0fdfa1458/Creative_process_according_to_ed_sheeran.PNG.png "HTTP/1.1 200 OK"
+2026-05-12 16:20:34,049 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/00f9b1be-b5c9-4ce7-936e-54d08d71adc3/IMG_9664.jpg "HTTP/1.1 200 OK"
+2026-05-12 16:20:34,589 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/6234b2ea-60eb-4bbf-b56b-704fb912a282/IMG_0320_2.PNG.png "HTTP/1.1 200 OK"
+2026-05-12 16:20:35,237 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/9a78c9ba-2479-482e-a874-6b78b0bbb3f9/IMG_1885.PNG.png "HTTP/1.1 200 OK"
+2026-05-12 16:20:35,920 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/b6cdc316-3274-4525-8fdc-c77cf180d042/IMG_1915.PNG.png "HTTP/1.1 200 OK"
+2026-05-12 16:20:35,958 [INFO]   → 8 entries (1 image failures)
+2026-05-12 16:20:36,459 [INFO] [63/89] Scraping https://idea-milanicreative.beehiiv.com/p/notemaking-stability-identity
+2026-05-12 16:20:37,204 [INFO] HTTP Request: GET https://idea-milanicreative.beehiiv.com/p/notemaking-stability-identity "HTTP/1.1 200 OK"
+2026-05-12 16:20:37,596 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/24f5a879-eefb-4f07-899c-2f94d98a687d/stability_of_your_identity_dr_gurner.PNG "HTTP/1.1 200 OK"
+2026-05-12 16:20:37,999 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/70b3bd9b-2266-4858-acec-7692d33d5223/IMG_1844.PNG "HTTP/1.1 200 OK"
+2026-05-12 16:20:38,564 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/31b894c2-8b11-42b8-9044-544e20ec8014/IMG_1844_copy.jpg "HTTP/1.1 200 OK"
+2026-05-12 16:20:39,089 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/3d895566-bc9f-46a6-9e9f-bf14746d60e6/IMG_1843.PNG "HTTP/1.1 200 OK"
+2026-05-12 16:20:39,578 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/a1d0304a-39ab-4a0e-8b3b-4a4a8ba8c641/IMG_1843_copy.jpg "HTTP/1.1 200 OK"
+2026-05-12 16:20:39,978 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/f1a1493a-852e-47f9-8be4-c5c605331c08/IMG_1843_copy_2.jpg "HTTP/1.1 200 OK"
+2026-05-12 16:20:40,453 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/32a6c742-aa44-40fe-8e23-1adbaeabb413/IMG_1845_2.PNG "HTTP/1.1 200 OK"
+2026-05-12 16:20:40,947 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/9c957e34-0cc3-435f-a4c5-fc94d01f79ae/IMG_1914.PNG "HTTP/1.1 200 OK"
+2026-05-12 16:20:41,478 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/fa91fda1-9f0c-4ef9-ba6c-cd56485b14ac/IMG_1775.PNG "HTTP/1.1 200 OK"
+2026-05-12 16:20:41,517 [INFO]   → 12 entries (1 image failures)
+2026-05-12 16:20:42,018 [INFO] [64/89] Scraping https://idea-milanicreative.beehiiv.com/p/growth-minded-celebrations-disagreements
+2026-05-12 16:20:42,797 [INFO] HTTP Request: GET https://idea-milanicreative.beehiiv.com/p/growth-minded-celebrations-disagreements "HTTP/1.1 200 OK"
+2026-05-12 16:20:43,609 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/22b1d928-98c1-4017-ab90-6bb3794eb56f/IMG_1544.PNG "HTTP/1.1 200 OK"
+2026-05-12 16:20:44,257 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/24d63391-9c73-46bf-909e-1861a104fc76/2.PNG "HTTP/1.1 200 OK"
+2026-05-12 16:20:44,882 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/d7af3169-fff7-4c6c-b7eb-5a99ec9946a4/IMG_1790.PNG "HTTP/1.1 200 OK"
+2026-05-12 16:20:45,511 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/120ea818-1760-4494-8a83-6a6aeeb7f7c9/IMG_1776.PNG "HTTP/1.1 200 OK"
+2026-05-12 16:20:46,226 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/1c0d7480-31fb-4cb1-8c15-cb085b3424ac/IMG_1754.PNG "HTTP/1.1 200 OK"
+2026-05-12 16:20:46,263 [INFO]   → 8 entries (1 image failures)
+2026-05-12 16:20:46,763 [INFO] [65/89] Scraping https://idea-milanicreative.beehiiv.com/p/get-morning-gunk-head
+2026-05-12 16:20:47,662 [INFO] HTTP Request: GET https://idea-milanicreative.beehiiv.com/p/get-morning-gunk-head "HTTP/1.1 200 OK"
+2026-05-12 16:20:48,468 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/801a5d9e-751c-4081-8b53-cb58d5724fce/morning_journaling.PNG.png "HTTP/1.1 200 OK"
+2026-05-12 16:20:48,770 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/73d6e173-9adf-4e1e-847e-376ad8b2e42d/imposter_vs_growth_graph.PNG.png "HTTP/1.1 200 OK"
+2026-05-12 16:20:49,454 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/345ed3b3-e4d4-4d9a-8338-bfeee4d4c134/IMG_1552.PNG "HTTP/1.1 200 OK"
+2026-05-12 16:20:49,748 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/e05e8b6e-f824-4b91-bb69-240006a1b07f/imposter_vs_growth_graph.PNG.png "HTTP/1.1 200 OK"
+2026-05-12 16:20:50,590 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/ce1bb22f-ea45-43fc-86ae-a5b92b8efdcf/IMG_1534.PNG "HTTP/1.1 200 OK"
+2026-05-12 16:20:51,279 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/42c41e6d-bdd5-4255-ad6d-47d313056eaf/IMG_1538.PNG "HTTP/1.1 200 OK"
+2026-05-12 16:20:52,115 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/24b0be19-4aba-4e72-840b-696f8cbb3887/IMG_1551.PNG "HTTP/1.1 200 OK"
+2026-05-12 16:20:52,152 [INFO]   → 10 entries (1 image failures)
+2026-05-12 16:20:52,652 [INFO] [66/89] Scraping https://idea-milanicreative.beehiiv.com/p/authenticity
+2026-05-12 16:20:53,491 [INFO] HTTP Request: GET https://idea-milanicreative.beehiiv.com/p/authenticity "HTTP/1.1 200 OK"
+2026-05-12 16:20:54,288 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/ea8e9fc3-807b-42ec-8f4b-f781d652bd07/IMG_1500.PNG "HTTP/1.1 200 OK"
+2026-05-12 16:20:55,012 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/8c832403-eecd-4cdb-855f-ef8aa83c72f4/IMG_1503.PNG "HTTP/1.1 200 OK"
+2026-05-12 16:20:55,880 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/3189f10a-e312-41ed-a070-fd2ce0a879a8/Visual_Thinking_Books.png "HTTP/1.1 200 OK"
+2026-05-12 16:20:56,522 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/80c4d4b5-92e8-427a-b4d2-677b320b25ed/IMG_1487.PNG "HTTP/1.1 200 OK"
+2026-05-12 16:20:57,177 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/d9e1d6d4-cd5b-4b32-98cc-457e343418e5/IMG_1501.PNG "HTTP/1.1 200 OK"
+2026-05-12 16:20:57,210 [INFO]   → 8 entries (1 image failures)
+2026-05-12 16:20:57,710 [INFO] [67/89] Scraping https://idea-milanicreative.beehiiv.com/p/hard-decisions-clarity-humility
+2026-05-12 16:20:58,481 [INFO] HTTP Request: GET https://idea-milanicreative.beehiiv.com/p/hard-decisions-clarity-humility "HTTP/1.1 200 OK"
+2026-05-12 16:20:58,818 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/8d462af6-387f-4194-9978-db6150ef2605/Hard_decisions_Easy_Decisions_Graph.PNG "HTTP/1.1 200 OK"
+2026-05-12 16:20:59,123 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/92e132b4-d7f0-421b-ae57-b3dd54ccaf7d/imagination_vs_reality.png "HTTP/1.1 200 OK"
+2026-05-12 16:20:59,757 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/a0e5fe96-f232-4355-9049-6035fe449dae/IMG_1462.PNG "HTTP/1.1 200 OK"
+2026-05-12 16:21:00,420 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/e87774db-523d-4278-ac5b-f21dc28158c9/IMG_1444.PNG "HTTP/1.1 200 OK"
+2026-05-12 16:21:00,454 [INFO]   → 7 entries (1 image failures)
+2026-05-12 16:21:00,955 [INFO] [68/89] Scraping https://idea-milanicreative.beehiiv.com/p/telephoto-thinking-vs-wideangle-thinking
+2026-05-12 16:21:01,685 [INFO] HTTP Request: GET https://idea-milanicreative.beehiiv.com/p/telephoto-thinking-vs-wideangle-thinking "HTTP/1.1 200 OK"
+2026-05-12 16:21:02,623 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/d97f1872-455c-44cc-afdd-1f27a533ef8c/IMG_1341.PNG "HTTP/1.1 200 OK"
+2026-05-12 16:21:03,197 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/f5d5a23d-1eab-491d-9476-e0798890b3dc/IMG_0406.PNG.png "HTTP/1.1 200 OK"
+2026-05-12 16:21:03,497 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/a0bd74c1-05b0-483a-9e26-a466df34ac39/IMG_1404.PNG "HTTP/1.1 200 OK"
+2026-05-12 16:21:04,121 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/d692b1b7-7cde-44bc-9b55-bd025a588667/grief.png "HTTP/1.1 200 OK"
+2026-05-12 16:21:04,141 [INFO]   → 4 entries (0 image failures)
+2026-05-12 16:21:04,642 [INFO] [69/89] Scraping https://idea-milanicreative.beehiiv.com/p/mental-models-setting-priority
+2026-05-12 16:21:05,364 [INFO] HTTP Request: GET https://idea-milanicreative.beehiiv.com/p/mental-models-setting-priority "HTTP/1.1 200 OK"
+2026-05-12 16:21:05,735 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/395808c3-d303-4a38-a5a4-19ce035159d7/Occam_s_Razor.PNG "HTTP/1.1 200 OK"
+2026-05-12 16:21:06,153 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/fb277cef-3e5c-4007-824f-db1a7d1a1885/IMG_1393.PNG "HTTP/1.1 200 OK"
+2026-05-12 16:21:06,488 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/0750db58-f8e4-42b3-88d7-94bf90f4704c/IMG_1394.PNG "HTTP/1.1 200 OK"
+2026-05-12 16:21:06,967 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/a7ffba3f-345d-4e5f-89b9-6b002dfed986/IMG_1369.PNG "HTTP/1.1 200 OK"
+2026-05-12 16:21:07,275 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/eab16ae2-293f-43f2-af58-37d651c50cd8/priority_floating_water.PNG.png "HTTP/1.1 200 OK"
+2026-05-12 16:21:07,309 [INFO]   → 5 entries (0 image failures)
+2026-05-12 16:21:07,809 [INFO] [70/89] Scraping https://idea-milanicreative.beehiiv.com/p/finding-inspiration-and-hofstadter-s-law
+2026-05-12 16:21:08,715 [INFO] HTTP Request: GET https://idea-milanicreative.beehiiv.com/p/finding-inspiration-and-hofstadter-s-law "HTTP/1.1 200 OK"
+2026-05-12 16:21:09,531 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/cc719e6f-fb7f-4673-ac18-ddf3d0872b38/IMG_1323.PNG "HTTP/1.1 200 OK"
+2026-05-12 16:21:09,808 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/5c3e8a7a-1a90-43b1-b594-1021121f68b1/IMG_1333.PNG "HTTP/1.1 200 OK"
+2026-05-12 16:21:10,439 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/8868bd38-326f-4391-bcdc-78f467089869/Wisdom_from_Books.PNG "HTTP/1.1 200 OK"
+2026-05-12 16:21:10,720 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/cfe072c1-c8e6-49a1-9cda-a170e876679f/Raindrops_Ideas_and_Writing.PNG.png "HTTP/1.1 200 OK"
+2026-05-12 16:21:11,042 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/9f16ca84-c684-4eb4-9685-be6f8cd1ee5b/Toxic_Well_vs_Healthy_Well.PNG.png "HTTP/1.1 200 OK"
+2026-05-12 16:21:11,078 [INFO]   → 5 entries (0 image failures)
+2026-05-12 16:21:11,579 [INFO] [71/89] Scraping https://idea-milanicreative.beehiiv.com/p/fluid-vs-crystalized-intelligence
+2026-05-12 16:21:12,765 [INFO] HTTP Request: GET https://idea-milanicreative.beehiiv.com/p/fluid-vs-crystalized-intelligence "HTTP/1.1 200 OK"
+2026-05-12 16:21:13,313 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/50e4b7ff-2954-42ed-8b83-901e7c5c478a/IMG_1247.PNG "HTTP/1.1 200 OK"
+2026-05-12 16:21:14,015 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/ac8fdb2b-d2c2-4107-aec8-d5948f6eb83c/IMG_1249.PNG "HTTP/1.1 200 OK"
+2026-05-12 16:21:14,289 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/792b1d4b-002f-4aa0-9e8f-b1c8c60dad0d/Reaching_Goals_Ladder_and_Support.PNG "HTTP/1.1 200 OK"
+2026-05-12 16:21:14,577 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/af5d0ea8-0415-49ef-a7c5-ba9488926b3a/Consumer_Creator_Magnifying_Glass_Sunset.PNG.png "HTTP/1.1 200 OK"
+2026-05-12 16:21:14,605 [INFO]   → 4 entries (0 image failures)
+2026-05-12 16:21:15,106 [INFO] [72/89] Scraping https://idea-milanicreative.beehiiv.com/p/idea-18-collecting-ideas-vs-creating-outcomes
+2026-05-12 16:21:15,857 [INFO] HTTP Request: GET https://idea-milanicreative.beehiiv.com/p/idea-18-collecting-ideas-vs-creating-outcomes "HTTP/1.1 200 OK"
+2026-05-12 16:21:16,648 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/0749c4eb-017b-41bf-9383-79ae4d7c4531/IMG_1146.PNG "HTTP/1.1 200 OK"
+2026-05-12 16:21:17,097 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/7921497f-6439-4b2e-9c0c-14d24117b5da/IMG_1083.PNG "HTTP/1.1 200 OK"
+2026-05-12 16:21:17,414 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/21ac6cba-b961-4d9c-9ca1-bc8f09ba7d45/Reading_Daily_Habit_Toothbrush.PNG "HTTP/1.1 200 OK"
+2026-05-12 16:21:17,437 [INFO]   → 3 entries (0 image failures)
+2026-05-12 16:21:17,937 [INFO] [73/89] Scraping https://idea-milanicreative.beehiiv.com/p/idea-17-americans-spend-time-shiny-object-syndrome
+2026-05-12 16:21:18,815 [INFO] HTTP Request: GET https://idea-milanicreative.beehiiv.com/p/idea-17-americans-spend-time-shiny-object-syndrome "HTTP/1.1 200 OK"
+2026-05-12 16:21:19,341 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/f54d7841-0660-46c1-95cc-531e608a5f7a/IMG_0428.PNG "HTTP/1.1 200 OK"
+2026-05-12 16:21:19,627 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/2431d93f-ef98-4308-b558-84be5edd9261/IMG_0430.PNG "HTTP/1.1 200 OK"
+2026-05-12 16:21:20,068 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/742c2951-16f3-4426-a74f-74acccc90643/IMG_0431.PNG "HTTP/1.1 200 OK"
+2026-05-12 16:21:20,456 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/14c1afda-f901-403e-bda0-0b4e1b3fe98a/IMG_0429.PNG "HTTP/1.1 200 OK"
+2026-05-12 16:21:20,748 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/49b80eab-ee94-4540-bdfb-ece41a9fd9c7/phantomNinja_a_glass_brain_mech_made_of_edison_bulbs_mechanical_58316a0c-f3de-474a-90d1-802b1e95ac20.png "HTTP/1.1 200 OK"
+2026-05-12 16:21:21,069 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/1bd9a80d-f300-4c29-b906-9ec687a92936/IMG_0328.PNG "HTTP/1.1 200 OK"
+2026-05-12 16:21:21,502 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/24d24252-af91-46b2-97a2-ed27e28fff80/IMG_0409.PNG.png "HTTP/1.1 200 OK"
+2026-05-12 16:21:21,524 [INFO]   → 7 entries (0 image failures)
+2026-05-12 16:21:22,024 [INFO] [74/89] Scraping https://idea-milanicreative.beehiiv.com/p/idea-16-creative-resistance-finding-purpose
+2026-05-12 16:21:22,769 [INFO] HTTP Request: GET https://idea-milanicreative.beehiiv.com/p/idea-16-creative-resistance-finding-purpose "HTTP/1.1 200 OK"
+2026-05-12 16:21:23,833 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/6b1f3fe6-cc3b-41ca-85cd-4399d6da896b/IMG_0037.PNG "HTTP/1.1 200 OK"
+2026-05-12 16:21:24,316 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/f2bdaa59-7ade-420b-b343-d52796c82a13/IMG_0245.PNG "HTTP/1.1 200 OK"
+2026-05-12 16:21:25,207 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/79089757-4194-4bb0-8518-58900d86d168/IMG_0118.PNG "HTTP/1.1 200 OK"
+2026-05-12 16:21:25,706 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/6d0c2c09-04b5-4077-a15f-63ff3b17c901/IMG_0045.PNG "HTTP/1.1 200 OK"
+2026-05-12 16:21:25,728 [INFO]   → 4 entries (0 image failures)
+2026-05-12 16:21:26,229 [INFO] [75/89] Scraping https://idea-milanicreative.beehiiv.com/p/idea-15-hard-decisions-deep-work
+2026-05-12 16:21:26,923 [INFO] HTTP Request: GET https://idea-milanicreative.beehiiv.com/p/idea-15-hard-decisions-deep-work "HTTP/1.1 200 OK"
+2026-05-12 16:21:27,459 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/674d03df-ac15-420f-8268-de893f7acc40/IMG_0031.PNG "HTTP/1.1 200 OK"
+2026-05-12 16:21:28,046 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/8c046c90-e107-4fbb-870e-2319c3af4a98/IMG_0043.PNG "HTTP/1.1 200 OK"
+2026-05-12 16:21:28,412 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/386f0304-ab79-4e15-9d81-9eb3304c01cc/IMG_0020.PNG "HTTP/1.1 200 OK"
+2026-05-12 16:21:28,825 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/d1985685-8a4b-414c-ae86-85b4966ba0fe/IMG_0019.PNG "HTTP/1.1 200 OK"
+2026-05-12 16:21:28,850 [INFO]   → 4 entries (0 image failures)
+2026-05-12 16:21:29,351 [INFO] [76/89] Scraping https://idea-milanicreative.beehiiv.com/p/idea-14-cycle-growth-intentionality
+2026-05-12 16:21:30,068 [INFO] HTTP Request: GET https://idea-milanicreative.beehiiv.com/p/idea-14-cycle-growth-intentionality "HTTP/1.1 200 OK"
+2026-05-12 16:21:30,677 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/5d37b95a-6b0e-42b1-9cb6-5a74dc29d6b0/IMG_1423.PNG "HTTP/1.1 200 OK"
+2026-05-12 16:21:31,202 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/95955cad-2324-4320-944e-3fdeffe5acb9/IMG_1424.PNG "HTTP/1.1 200 OK"
+2026-05-12 16:21:31,632 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/8f11e164-040f-4d43-b9da-ed8290d46101/IMG_1411.PNG "HTTP/1.1 200 OK"
+2026-05-12 16:21:32,785 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/abcf9404-dea8-4803-80d2-14368387357b/IMG_1389.PNG "HTTP/1.1 200 OK"
+2026-05-12 16:21:32,820 [INFO]   → 4 entries (0 image failures)
+2026-05-12 16:21:33,321 [INFO] [77/89] Scraping https://idea-milanicreative.beehiiv.com/p/new-post
+2026-05-12 16:21:34,027 [INFO] HTTP Request: GET https://idea-milanicreative.beehiiv.com/p/new-post "HTTP/1.1 200 OK"
+2026-05-12 16:21:34,454 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/b6a3466c-9dba-4cb9-bf73-f7fdffef7116/IMG_1134.PNG "HTTP/1.1 200 OK"
+2026-05-12 16:21:35,023 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/298edd14-f334-41fe-9bac-1f92b7066eed/IMG_1375.PNG "HTTP/1.1 200 OK"
+2026-05-12 16:21:35,307 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/725abbd9-3331-4310-b6da-03da1dd5ee61/IMG_1355.PNG "HTTP/1.1 200 OK"
+2026-05-12 16:21:35,774 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/64a9f858-18fb-4410-a15f-ab3a4cff62af/IMG_1270.PNG "HTTP/1.1 200 OK"
+2026-05-12 16:21:35,797 [INFO]   → 4 entries (0 image failures)
+2026-05-12 16:21:36,298 [INFO] [78/89] Scraping https://idea-milanicreative.beehiiv.com/p/idea-12-risks-throbbers-ego
+2026-05-12 16:21:37,031 [INFO] HTTP Request: GET https://idea-milanicreative.beehiiv.com/p/idea-12-risks-throbbers-ego "HTTP/1.1 200 OK"
+2026-05-12 16:21:37,459 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/2386be9c-07ae-44cb-bfee-9e0bf15e4cdf/IMG_1214.PNG "HTTP/1.1 200 OK"
+2026-05-12 16:21:38,105 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/6a089b2d-c1d3-47f6-9b19-a0f9c1ad3010/IMG_1275.PNG "HTTP/1.1 200 OK"
+2026-05-12 16:21:38,403 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/2625798a-7760-4af0-bf3a-9124ed1256dc/pacman_purpose.PNG "HTTP/1.1 200 OK"
+2026-05-12 16:21:38,879 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/08a5421d-da03-4b53-b219-3cc429d89c87/IMG_1256.PNG "HTTP/1.1 200 OK"
+2026-05-12 16:21:38,903 [INFO]   → 4 entries (0 image failures)
+2026-05-12 16:21:39,403 [INFO] [79/89] Scraping https://idea-milanicreative.beehiiv.com/p/idea-newsletter-11-online-mindsets-pruning-commitments
+2026-05-12 16:21:40,162 [INFO] HTTP Request: GET https://idea-milanicreative.beehiiv.com/p/idea-newsletter-11-online-mindsets-pruning-commitments "HTTP/1.1 200 OK"
+2026-05-12 16:21:40,545 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/d78169c8-35b6-4659-b4f9-21ff829318cf/sunmindset.PNG "HTTP/1.1 200 OK"
+2026-05-12 16:21:41,318 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/5b99a361-f06a-44c5-80d1-f00e3fae3d95/IMG_1172.PNG "HTTP/1.1 200 OK"
+2026-05-12 16:21:42,085 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/d7518745-e7d5-4129-8717-d29ad8cac472/IMG_1171.PNG "HTTP/1.1 200 OK"
+2026-05-12 16:21:42,793 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/70000aa9-7a82-4883-801f-187377d948aa/IMG_1175.PNG "HTTP/1.1 200 OK"
+2026-05-12 16:21:43,076 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/fa81b8ef-54ea-45eb-bfc2-1c6c9908514a/writing_is_imagination.PNG "HTTP/1.1 200 OK"
+2026-05-12 16:21:43,381 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/80cd5760-e3a6-4de4-b20a-720a2d193331/pruning_plant.PNG "HTTP/1.1 200 OK"
+2026-05-12 16:21:43,405 [INFO]   → 6 entries (0 image failures)
+2026-05-12 16:21:43,906 [INFO] [80/89] Scraping https://idea-milanicreative.beehiiv.com/p/idea-newsletter-10-read-build-momentum
+2026-05-12 16:21:44,662 [INFO] HTTP Request: GET https://idea-milanicreative.beehiiv.com/p/idea-newsletter-10-read-build-momentum "HTTP/1.1 200 OK"
+2026-05-12 16:21:45,255 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/3f195879-a5c6-4fa3-b474-bb584f84054f/IMG_0985.PNG "HTTP/1.1 200 OK"
+2026-05-12 16:21:45,746 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/bc50291e-0a9e-4e31-b258-e1067a0cfd5e/IMG_1038.PNG "HTTP/1.1 200 OK"
+2026-05-12 16:21:46,506 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/e1e51d94-e276-420c-b5dc-5d4047218ad6/IMG_1034.PNG "HTTP/1.1 200 OK"
+2026-05-12 16:21:46,778 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/26bad79b-2cb7-4bb9-87dd-48f8ee270a00/ReadingPathFlow.png "HTTP/1.1 200 OK"
+2026-05-12 16:21:47,051 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/6be4bab1-d440-4beb-b39c-52778d9c2c68/momentum_v2.PNG "HTTP/1.1 200 OK"
+2026-05-12 16:21:47,077 [INFO]   → 5 entries (0 image failures)
+2026-05-12 16:21:47,579 [INFO] [81/89] Scraping https://idea-milanicreative.beehiiv.com/p/idea-newsletter-9-storytelling-comfort-zones
+2026-05-12 16:21:48,303 [INFO] HTTP Request: GET https://idea-milanicreative.beehiiv.com/p/idea-newsletter-9-storytelling-comfort-zones "HTTP/1.1 200 OK"
+2026-05-12 16:21:48,725 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/db7ff2ea-d17e-4218-9b12-96e4d3360c3f/LauraEvansNifty_Visual_of_My_idea.jpeg "HTTP/1.1 200 OK"
+2026-05-12 16:21:49,466 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/a0c547e0-7d54-4f9d-9dc4-7e080e194979/IMG_0975.PNG "HTTP/1.1 200 OK"
+2026-05-12 16:21:50,301 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/8bbaafca-45e6-41d7-8c1f-35b94b863644/IMG_0966.PNG "HTTP/1.1 200 OK"
+2026-05-12 16:21:50,588 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/b76a2977-bb25-44be-b7b1-0905c190dbe3/Earth_Consuming_vs_Creating.PNG "HTTP/1.1 200 OK"
+2026-05-12 16:21:50,614 [INFO]   → 4 entries (0 image failures)
+2026-05-12 16:21:51,115 [INFO] [82/89] Scraping https://idea-milanicreative.beehiiv.com/p/idea-newsletter-8-cycle-growth-stoic-philosophy
+2026-05-12 16:21:52,296 [INFO] HTTP Request: GET https://idea-milanicreative.beehiiv.com/p/idea-newsletter-8-cycle-growth-stoic-philosophy "HTTP/1.1 200 OK"
+2026-05-12 16:21:52,853 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/325c87d6-efd7-43a6-bbf2-d8c04129ce80/Golden_Apple_from_Tree_v1.PNG "HTTP/1.1 200 OK"
+2026-05-12 16:21:53,556 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/85e6f759-00fe-403f-813c-9969e58d92e1/IMG_0921.PNG "HTTP/1.1 200 OK"
+2026-05-12 16:21:54,226 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/14d2dc89-0315-4306-b89d-712b76bb907a/IMG_0808.PNG "HTTP/1.1 200 OK"
+2026-05-12 16:21:54,248 [INFO]   → 3 entries (0 image failures)
+2026-05-12 16:21:54,748 [INFO] [83/89] Scraping https://idea-milanicreative.beehiiv.com/p/idea-newsletter-7-beginners-mind-finding-clarity
+2026-05-12 16:21:55,500 [INFO] HTTP Request: GET https://idea-milanicreative.beehiiv.com/p/idea-newsletter-7-beginners-mind-finding-clarity "HTTP/1.1 200 OK"
+2026-05-12 16:21:56,160 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/d186a186-ebb5-4c21-ab3e-521cb6a03477/IMG_0845.PNG "HTTP/1.1 200 OK"
+2026-05-12 16:21:56,835 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/d3798cb4-8e74-4275-a0d0-8aae1e7c0117/IMG_0861.PNG "HTTP/1.1 200 OK"
+2026-05-12 16:21:57,465 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/270c54cc-0ba1-4520-8c6b-0972ec52a89a/IMG_0812.PNG "HTTP/1.1 200 OK"
+2026-05-12 16:21:57,477 [INFO]   → 3 entries (0 image failures)
+2026-05-12 16:21:57,978 [INFO] [84/89] Scraping https://idea-milanicreative.beehiiv.com/p/idea-newsletter-6-keystone-habits-growth-zones
+2026-05-12 16:21:58,747 [INFO] HTTP Request: GET https://idea-milanicreative.beehiiv.com/p/idea-newsletter-6-keystone-habits-growth-zones "HTTP/1.1 200 OK"
+2026-05-12 16:21:59,179 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/a811a7f9-ed0a-440f-9734-b4298da754e7/IMG_0777.PNG "HTTP/1.1 200 OK"
+2026-05-12 16:21:59,656 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/b54d2d0d-1a42-48a0-aea8-b630b3e0c40f/IMG_0770.PNG "HTTP/1.1 200 OK"
+2026-05-12 16:22:00,133 [INFO] HTTP Request: GET https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/85085ac1-eea2-4fb9-b647-9575036754f1/IMG_0725.PNG "HTTP/1.1 200 OK"
+2026-05-12 16:22:00,156 [INFO]   → 3 entries (0 image failures)
+2026-05-12 16:22:00,657 [INFO] [85/89] Scraping https://idea-milanicreative.beehiiv.com/p/idea-newsletter-5-providing-value-finding-harmony
+2026-05-12 16:22:01,335 [INFO] HTTP Request: GET https://idea-milanicreative.beehiiv.com/p/idea-newsletter-5-providing-value-finding-harmony "HTTP/1.1 200 OK"
+2026-05-12 16:22:01,463 [INFO]   → 0 entries (0 image failures)
+2026-05-12 16:22:01,964 [INFO] [86/89] Scraping https://idea-milanicreative.beehiiv.com/p/idea-newsletter-4-surprising-knowledge-ships-service
+2026-05-12 16:22:02,698 [INFO] HTTP Request: GET https://idea-milanicreative.beehiiv.com/p/idea-newsletter-4-surprising-knowledge-ships-service "HTTP/1.1 200 OK"
+2026-05-12 16:22:02,841 [INFO]   → 0 entries (0 image failures)
+2026-05-12 16:22:03,341 [INFO] [87/89] Scraping https://idea-milanicreative.beehiiv.com/p/idea-newsletter-issue-3
+2026-05-12 16:22:04,074 [INFO] HTTP Request: GET https://idea-milanicreative.beehiiv.com/p/idea-newsletter-issue-3 "HTTP/1.1 200 OK"
+2026-05-12 16:22:04,151 [INFO]   → 0 entries (0 image failures)
+2026-05-12 16:22:04,652 [INFO] [88/89] Scraping https://idea-milanicreative.beehiiv.com/p/idea-newsletter-issue-2
+2026-05-12 16:22:05,472 [INFO] HTTP Request: GET https://idea-milanicreative.beehiiv.com/p/idea-newsletter-issue-2 "HTTP/1.1 200 OK"
+2026-05-12 16:22:05,615 [INFO]   → 0 entries (0 image failures)
+2026-05-12 16:22:06,116 [INFO] [89/89] Scraping https://idea-milanicreative.beehiiv.com/p/idea-newsletter-issue-1
+2026-05-12 16:22:06,916 [INFO] HTTP Request: GET https://idea-milanicreative.beehiiv.com/p/idea-newsletter-issue-1 "HTTP/1.1 200 OK"
+2026-05-12 16:22:06,993 [INFO]   → 0 entries (0 image failures)
+2026-05-12 16:22:07,494 [INFO] Scraping complete
+2026-05-12 16:22:36,817 [INFO] Deduplicating…
+2026-05-12 16:22:36,936 [INFO] Kept 391; removed 91 (duplicates/failed)
+2026-05-12 16:22:36,936 [INFO] Generating PDF…
+2026-05-12 16:22:37,070 [INFO] Wrote LaTeX source: output\archive.tex
+2026-05-12 16:22:37,073 [ERROR] PDF generation failed
+Traceback (most recent call last):
+  File ".\app.py", line 140, in generate_pdf_action
+    path = generate_pdf(kept, PDF_PATH)
+  File "C:\GitHub\VisualIdeas\latex_gen.py", line 318, in generate_pdf
+    raise RuntimeError(
+    ...<3 lines>...
+    )
+RuntimeError: xelatex not found in PATH. The .tex file was written to output\archive.tex — install MikTeX (https://miktex.org/) or TeX Live, then re-run.

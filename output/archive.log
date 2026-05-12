@@ -1,0 +1,2123 @@
+This is XeTeX, Version 3.141592653-2.6-0.999998 (MiKTeX 26.2) (preloaded format=xelatex 2026.5.12)  12 MAY 2026 16:43
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./archive.tex
+(archive.tex
+LaTeX2e <2025-11-01>
+L3 programming layer <2026-03-20>
+(C:\Users\jcarron\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2025/01/22 v1.4n Standard LaTeX document class
+(C:\Users\jcarron\AppData\Local\Programs\MiKTeX\tex/latex/base\size11.clo
+File: size11.clo 2025/01/22 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count271
+\c@section=\count272
+\c@subsection=\count273
+\c@subsubsection=\count274
+\c@paragraph=\count275
+\c@subparagraph=\count276
+\c@figure=\count277
+\c@table=\count278
+\abovecaptionskip=\skip49
+\belowcaptionskip=\skip50
+\bibindent=\dimen150
+)
+(C:\Users\jcarron\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
+Package: geometry 2026/03/07 v6.0 Page Geometry
+(C:\Users\jcarron\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+)
+(C:\Users\jcarron\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(C:\Users\jcarron\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2024/12/12 v1.0g TeX engine tests
+))
+\Gm@cnth=\count279
+\Gm@cntv=\count280
+\c@Gm@tempcnt=\count281
+\Gm@bindingoffset=\dimen151
+\Gm@wd@mp=\dimen152
+\Gm@odd@mp=\dimen153
+\Gm@even@mp=\dimen154
+\Gm@layoutwidth=\dimen155
+\Gm@layoutheight=\dimen156
+\Gm@layouthoffset=\dimen157
+\Gm@layoutvoffset=\dimen158
+\Gm@dimlist=\toks18
+
+(C:\Users\jcarron\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg
+))
+(C:\Users\jcarron\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2024/12/31 v1.2e Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\jcarron\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2024/08/06 v1.4g Standard LaTeX Graphics (DPC,SPQR)
+(C:\Users\jcarron\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2023/12/02 v1.11 sin cos tan (DPC)
+)
+(C:\Users\jcarron\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics
+.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: xetex.def on input line 106.
+
+(C:\Users\jcarron\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\xetex.de
+f
+File: xetex.def 2025/11/01 v5.0p Graphics/color driver for xetex
+))
+\Gin@req@height=\dimen159
+\Gin@req@width=\dimen160
+)
+(C:\Users\jcarron\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
+Package: xcolor 2024/09/29 v3.02 LaTeX color extensions (UK)
+
+(C:\Users\jcarron\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cf
+g
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: xetex.def on input line 274.
+
+(C:\Users\jcarron\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.lt
+x)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1349.
+Package xcolor Info: Model `RGB' extended on input line 1365.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1367.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1370.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1371.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1372.
+)
+(C:\Users\jcarron\AppData\Local\Programs\MiKTeX\tex/latex/fancyhdr\fancyhdr.sty
+Package: fancyhdr 2025/02/07 v5.2 Extensive control of page headers and footers
+
+\f@nch@headwidth=\skip51
+\f@nch@offset@elh=\skip52
+\f@nch@offset@erh=\skip53
+\f@nch@offset@olh=\skip54
+\f@nch@offset@orh=\skip55
+\f@nch@offset@elf=\skip56
+\f@nch@offset@erf=\skip57
+\f@nch@offset@olf=\skip58
+\f@nch@offset@orf=\skip59
+\f@nch@height=\skip60
+\f@nch@footalignment=\skip61
+\f@nch@widthL=\skip62
+\f@nch@widthC=\skip63
+\f@nch@widthR=\skip64
+\@temptokenb=\toks19
+) (C:\Users\jcarron\AppData\Local\Programs\MiKTeX\tex/latex/parskip\parskip.sty
+Package: parskip 2021-03-14 v2.0h non-zero parskip adjustments
+
+(C:\Users\jcarron\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.s
+ty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+
+(C:\Users\jcarron\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
+Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
+)
+(C:\Users\jcarron\AppData\Local\Programs\MiKTeX\tex/latex/kvsetkeys\kvsetkeys.s
+ty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+))
+(C:\Users\jcarron\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
+Package: etoolbox 2025/10/02 v2.5m e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count282
+))
+(C:\Users\jcarron\AppData\Local\Programs\MiKTeX\tex/latex/ragged2e\ragged2e.sty
+Package: ragged2e 2023/06/22 v3.6 ragged2e Package
+\CenteringLeftskip=\skip65
+\RaggedLeftLeftskip=\skip66
+\RaggedRightLeftskip=\skip67
+\CenteringRightskip=\skip68
+\RaggedLeftRightskip=\skip69
+\RaggedRightRightskip=\skip70
+\CenteringParfillskip=\skip71
+\RaggedLeftParfillskip=\skip72
+\RaggedRightParfillskip=\skip73
+\JustifyingParfillskip=\skip74
+\CenteringParindent=\skip75
+\RaggedLeftParindent=\skip76
+\RaggedRightParindent=\skip77
+\JustifyingParindent=\skip78
+)
+(C:\Users\jcarron\AppData\Local\Programs\MiKTeX\tex/latex/fontspec\fontspec.sty
+
+(C:\Users\jcarron\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xparse\xpa
+rse.sty
+(C:\Users\jcarron\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
+Package: expl3 2026-03-20 L3 programming layer (loader) 
+
+(C:\Users\jcarron\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-x
+etex.def
+File: l3backend-xetex.def 2026-02-18 L3 backend support: XeTeX
+\g__graphics_track_int=\count283
+\g__pdfannot_backend_int=\count284
+\g__pdfannot_backend_link_int=\count285
+))
+Package: xparse 2025-10-09 L3 Experimental document command parser
+)
+Package: fontspec 2025/09/29 v2.9g Font selection for XeLaTeX and LuaLaTeX
+
+(C:\Users\jcarron\AppData\Local\Programs\MiKTeX\tex/latex/fontspec\fontspec-xet
+ex.sty
+Package: fontspec-xetex 2025/09/29 v2.9g Font selection for XeLaTeX and LuaLaTe
+X
+\l__fontspec_script_int=\count286
+\l__fontspec_language_int=\count287
+\l__fontspec_strnum_int=\count288
+\l__fontspec_tmp_int=\count289
+\l__fontspec_tmpa_int=\count290
+\l__fontspec_tmpb_int=\count291
+\l__fontspec_tmpc_int=\count292
+\l__fontspec_em_int=\count293
+\l__fontspec_emdef_int=\count294
+\l__fontspec_strong_int=\count295
+\l__fontspec_strongdef_int=\count296
+\l__fontspec_tmpa_dim=\dimen161
+\l__fontspec_tmpb_dim=\dimen162
+\l__fontspec_tmpc_dim=\dimen163
+
+(C:\Users\jcarron\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
+Package: fontenc 2025/07/18 v2.1d Standard LaTeX package
+)
+(C:\Users\jcarron\AppData\Local\Programs\MiKTeX\tex/latex/fontspec\fontspec.cfg
+)))
+(C:\Users\jcarron\AppData\Local\Programs\MiKTeX\tex/latex/lastpage\lastpage.sty
+Package: lastpage 2025/08/14 v2.1h lastpage: 2.09 or 2e? (HMM)
+
+(C:\Users\jcarron\AppData\Local\Programs\MiKTeX\tex/latex/lastpage\lastpage2e.s
+ty
+Package: lastpage2e 2025/08/14 v2.1h Decide which 2e lastpage version to use (H
+MM)
+
+(C:\Users\jcarron\AppData\Local\Programs\MiKTeX\tex/latex/lastpage\lastpagemode
+rn.sty
+Package: lastpagemodern 2025-08-14 v2.1h Refers to last page's name (HMM; JPG)
+\c@lastpagecount=\count297
+) 
+))
+
+Package fontspec Info: 
+(fontspec)             Font family 'Arial(0)' created for font 'Arial' with
+(fontspec)             options [Ligatures=TeX].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"Arial/OT:script=latn;language=dflt;mapping=tex-text;
+"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
+(fontspec)             <->"Arial/OT:script=latn;language=dflt;+smcp;mapping=tex
+-text;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->"Arial/B/OT:script=latn;language=dflt;mapping=tex-tex
+t;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.:
+(fontspec)             <->"Arial/B/OT:script=latn;language=dflt;+smcp;mapping=t
+ex-text;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->"Arial/I/OT:script=latn;language=dflt;mapping=tex-tex
+t;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
+(fontspec)             <->"Arial/I/OT:script=latn;language=dflt;+smcp;mapping=t
+ex-text;"
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
+(fontspec)             <->"Arial/BI/OT:script=latn;language=dflt;mapping=tex-te
+xt;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
+(fontspec)             <->"Arial/BI/OT:script=latn;language=dflt;+smcp;mapping=
+tex-text;"
+
+ (archive.aux)
+\openout1 = `archive.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: xetex
+*geometry* verbose mode - [ preamble ] result:
+* driver: xetex
+* paper: custom
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(51.21495pt, 398.3386pt, 51.21495pt)
+* v-part:(T,H,B)=(51.21495pt, 597.50789pt, 62.59605pt)
+* \paperwidth=500.7685pt
+* \paperheight=711.3189pt
+* \textwidth=398.3386pt
+* \textheight=597.50789pt
+* \oddsidemargin=-21.05504pt
+* \evensidemargin=-21.05504pt
+* \topmargin=-58.05504pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=11.0pt
+* \footskip=28.45274pt
+* \marginparwidth=59.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+
+Package fontspec Info: 
+(fontspec)             Adjusting the maths setup (use [no-math] to avoid
+(fontspec)             this).
+
+\symlegacymaths=\mathgroup4
+LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 44.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 44.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 44.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 44.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 44.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 44.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 44.
+LaTeX Font Info:    Redeclaring math accent \check on input line 44.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 44.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 44.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 44.
+LaTeX Font Info:    Redeclaring math symbol \colon on input line 44.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 44.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 44.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 44.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 44.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 44.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 44.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 44.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 44.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 44.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 44.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 44.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 44.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 44.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `normal' on input line 44.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> TU/Arial(0)/m/n on input line 44.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `bold' on input line 44.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> TU/Arial(0)/m/n on input line 44.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  TU/Arial(0)/m/n --> TU/Arial(0)/m/n on input line 44.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> TU/Arial(0)/m/it on input line 44.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> TU/Arial(0)/b/n on input line 44.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 44.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 44.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  TU/Arial(0)/m/n --> TU/Arial(0)/b/n on input line 44.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> TU/Arial(0)/b/it on input line 44.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 44.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 44.
+File: C:/GitHub/VisualIdeas/data/images/2d8adbbfe6610df97852fafcdb869054.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/2d8adbbfe6610df97852fafcdb869054.png>
+Missing character: There is no 😊 in font Arial/OT:script=latn;language=dflt;map
+ping=tex-text;!
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <10.95> on input line 59.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 59.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 59.
+[1
+
+]
+File: C:/GitHub/VisualIdeas/data/images/a6a573c20f5f02d2dc7a469286ac854d.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/a6a573c20f5f02d2dc7a469286ac854d.png>
+ [2]
+File: C:/GitHub/VisualIdeas/data/images/0d32e79f100487855f985885e5b4fed8.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/0d32e79f100487855f985885e5b4fed8.png>
+ [3]
+File: C:/GitHub/VisualIdeas/data/images/88fed55bf7c04e9b80d33e30c706f162.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/88fed55bf7c04e9b80d33e30c706f162.png>
+
+Missing character: There is no 初 in font Arial/OT:script=latn;language=dflt;map
+ping=tex-text;!
+Missing character: There is no 心 in font Arial/OT:script=latn;language=dflt;map
+ping=tex-text;!
+[4]
+File: C:/GitHub/VisualIdeas/data/images/06da478c5e162eb9e66926399b395f6d.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/06da478c5e162eb9e66926399b395f6d.png>
+ [5]
+File: C:/GitHub/VisualIdeas/data/images/cabfc77005ddd09f821a3eeab3b3b602.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/cabfc77005ddd09f821a3eeab3b3b602.png>
+ [6]
+File: C:/GitHub/VisualIdeas/data/images/f635d99b631a1ba5ff075e5cce550266.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/f635d99b631a1ba5ff075e5cce550266.png>
+
+Missing character: There is no 🥁 in font Arial/OT:script=latn;language=dflt;map
+ping=tex-text;!
+Missing character: There is no 😂 in font Arial/OT:script=latn;language=dflt;map
+ping=tex-text;!
+[7]
+File: C:/GitHub/VisualIdeas/data/images/9e1499116ca07159c80fe7ac38143f71.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/9e1499116ca07159c80fe7ac38143f71.png>
+ [8]
+File: C:/GitHub/VisualIdeas/data/images/addeba8703ded30b901e0d18cf244283.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/addeba8703ded30b901e0d18cf244283.png>
+
+Missing character: There is no 😅 in font Arial/OT:script=latn;language=dflt;map
+ping=tex-text;!
+[9]
+File: C:/GitHub/VisualIdeas/data/images/4d0110068e4ee382f4b22ff2562e5d05.jpeg G
+raphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/4d0110068e4ee382f4b22ff2562e5d05.jpeg>
+ [10]
+File: C:/GitHub/VisualIdeas/data/images/998ae232699231de89393e811985d724.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/998ae232699231de89393e811985d724.png>
+File: C:/GitHub/VisualIdeas/data/images/1707e8138ed61b9220cdd548236b3de6.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/1707e8138ed61b9220cdd548236b3de6.png>
+ [11]
+File: C:/GitHub/VisualIdeas/data/images/0cfade5a7562e079497b077a3a497a16.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/0cfade5a7562e079497b077a3a497a16.png>
+ [12]
+File: C:/GitHub/VisualIdeas/data/images/6f1c16af873e6dd57a95c890a8c66298.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/6f1c16af873e6dd57a95c890a8c66298.png>
+
+Missing character: There is no 🥁 in font Arial/OT:script=latn;language=dflt;map
+ping=tex-text;!
+Missing character: There is no 😂 in font Arial/OT:script=latn;language=dflt;map
+ping=tex-text;!
+[13]
+File: C:/GitHub/VisualIdeas/data/images/80fbbbcf0892c42fdf44f20d973d94f1.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/80fbbbcf0892c42fdf44f20d973d94f1.png>
+ [14]
+File: C:/GitHub/VisualIdeas/data/images/242257cb6018c6e11fd1192ae5c9660e.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/242257cb6018c6e11fd1192ae5c9660e.png>
+
+Missing character: There is no 😅 in font Arial/OT:script=latn;language=dflt;map
+ping=tex-text;!
+Missing character: There is no 👇 in font Arial/OT:script=latn;language=dflt;map
+ping=tex-text;!
+Missing character: There is no 🏻 in font Arial/OT:script=latn;language=dflt;map
+ping=tex-text;!
+File: C:/GitHub/VisualIdeas/data/images/deb1d48630b8238064718346cecd9922.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/deb1d48630b8238064718346cecd9922.png>
+Missing character: There is no 💪 in font Arial/OT:script=latn;language=dflt;map
+ping=tex-text;!
+[15]
+File: C:/GitHub/VisualIdeas/data/images/193c51162fc5aa3dd7600eb8cc388221.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/193c51162fc5aa3dd7600eb8cc388221.png>
+ [16]
+File: C:/GitHub/VisualIdeas/data/images/ad5dbab945684a923b5ad81b2d689250.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/ad5dbab945684a923b5ad81b2d689250.png>
+File: C:/GitHub/VisualIdeas/data/images/43057a6c2ce0a230a211e05e2c23d192.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/43057a6c2ce0a230a211e05e2c23d192.png>
+File: C:/GitHub/VisualIdeas/data/images/1422087ca9e17848a53a3fe76546316c.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/1422087ca9e17848a53a3fe76546316c.png>
+ [17]
+File: C:/GitHub/VisualIdeas/data/images/322cae304e7e7af54967c40e2adb0afc.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/322cae304e7e7af54967c40e2adb0afc.png>
+ [18]
+File: C:/GitHub/VisualIdeas/data/images/a025e4684749b1dad60f202433b69c0b.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/a025e4684749b1dad60f202433b69c0b.png>
+ [19]
+File: C:/GitHub/VisualIdeas/data/images/293b49ad4f52a21f0ad68e76c8ec2df1.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/293b49ad4f52a21f0ad68e76c8ec2df1.png>
+ [20]
+File: C:/GitHub/VisualIdeas/data/images/fec72b03a8a2590e95c4dcb486fd5a09.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/fec72b03a8a2590e95c4dcb486fd5a09.png>
+ [21]
+File: C:/GitHub/VisualIdeas/data/images/fd1bd3dda9cd1c91bf58e98e38d843f3.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/fd1bd3dda9cd1c91bf58e98e38d843f3.png>
+ [22]
+File: C:/GitHub/VisualIdeas/data/images/6292630fe00d49aa945edcac0f3c32e1.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/6292630fe00d49aa945edcac0f3c32e1.png>
+
+Missing character: There is no 😃 in font Arial/OT:script=latn;language=dflt;map
+ping=tex-text;!
+[23]
+File: C:/GitHub/VisualIdeas/data/images/cbfc3276460d220fa5b4970e996b729f.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/cbfc3276460d220fa5b4970e996b729f.png>
+
+Missing character: There is no 😅 in font Arial/OT:script=latn;language=dflt;map
+ping=tex-text;!
+[24]
+File: C:/GitHub/VisualIdeas/data/images/7425d378105c3426c6db0651bea74f45.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/7425d378105c3426c6db0651bea74f45.png>
+ [25]
+File: C:/GitHub/VisualIdeas/data/images/7f0787a6fc83b89c0a041de4f5af15f6.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/7f0787a6fc83b89c0a041de4f5af15f6.png>
+ [26]
+File: C:/GitHub/VisualIdeas/data/images/32e95463bf3b20ade6acaa8f67a9150d.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/32e95463bf3b20ade6acaa8f67a9150d.png>
+ [27]
+File: C:/GitHub/VisualIdeas/data/images/a24338966ccda6ac3a175008013a9b72.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/a24338966ccda6ac3a175008013a9b72.png>
+
+Missing character: There is no 😅 in font Arial/OT:script=latn;language=dflt;map
+ping=tex-text;!
+[28]
+File: C:/GitHub/VisualIdeas/data/images/d481ab6de052f99f43785095ec29023f.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/d481ab6de052f99f43785095ec29023f.png>
+ [29]
+File: C:/GitHub/VisualIdeas/data/images/7e3df53c4baf97284191ba9cddd86cb9.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/7e3df53c4baf97284191ba9cddd86cb9.png>
+ [30]
+File: C:/GitHub/VisualIdeas/data/images/7db558b85005b5d9dbe14e44c3cd1092.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/7db558b85005b5d9dbe14e44c3cd1092.png>
+
+Missing character: There is no 🥰 in font Arial/OT:script=latn;language=dflt;map
+ping=tex-text;!
+[31]
+File: C:/GitHub/VisualIdeas/data/images/f33317c67d15a5c34ee0d496bfaa08f9.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/f33317c67d15a5c34ee0d496bfaa08f9.png>
+ [32]
+File: C:/GitHub/VisualIdeas/data/images/75475293c62d4cedd3859dbe432f9c57.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/75475293c62d4cedd3859dbe432f9c57.png>
+
+Missing character: There is no 😅 in font Arial/OT:script=latn;language=dflt;map
+ping=tex-text;!
+[33]
+File: C:/GitHub/VisualIdeas/data/images/d979e77774c22d0675ffa93e78c70dd7.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/d979e77774c22d0675ffa93e78c70dd7.png>
+ [34]
+File: C:/GitHub/VisualIdeas/data/images/43c39f5666c52917460e0700427b3e4d.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/43c39f5666c52917460e0700427b3e4d.png>
+ [35]
+File: C:/GitHub/VisualIdeas/data/images/5483ff303f7541a8748ae99b5f260b67.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/5483ff303f7541a8748ae99b5f260b67.png>
+ [36]
+File: C:/GitHub/VisualIdeas/data/images/11f5061c3d3677c03624e5319326bf9d.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/11f5061c3d3677c03624e5319326bf9d.png>
+ [37]
+File: C:/GitHub/VisualIdeas/data/images/f280f729fbbc1e3d4186e96ec570bd06.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/f280f729fbbc1e3d4186e96ec570bd06.png>
+ [38]
+File: C:/GitHub/VisualIdeas/data/images/26dac188294a878b3dc2c2100ab52279.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/26dac188294a878b3dc2c2100ab52279.png>
+ [39]
+File: C:/GitHub/VisualIdeas/data/images/1bf0058cadea3b6c64856d11ad3f3aae.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/1bf0058cadea3b6c64856d11ad3f3aae.png>
+ [40]
+File: C:/GitHub/VisualIdeas/data/images/5c73af8b66bcdf36942940c7dc3a8e5a.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/5c73af8b66bcdf36942940c7dc3a8e5a.png>
+
+Missing character: There is no ☝ in font Arial Bold/OT:script=latn;language=dfl
+t;mapping=tex-text;!
+Missing character: There is no ️ in font Arial Bold/OT:script=latn;language=dfl
+t;mapping=tex-text;!
+File: C:/GitHub/VisualIdeas/data/images/243d23bcb2256e17d319854b51fdbe49.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/243d23bcb2256e17d319854b51fdbe49.png>
+Missing character: There is no ☝ in font Arial Bold/OT:script=latn;language=dfl
+t;mapping=tex-text;!
+Missing character: There is no ️ in font Arial Bold/OT:script=latn;language=dfl
+t;mapping=tex-text;!
+File: C:/GitHub/VisualIdeas/data/images/9dca997d325d61cfc09df4cce1ea9570.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/9dca997d325d61cfc09df4cce1ea9570.png>
+Missing character: There is no ☝ in font Arial Bold/OT:script=latn;language=dfl
+t;mapping=tex-text;!
+Missing character: There is no ️ in font Arial Bold/OT:script=latn;language=dfl
+t;mapping=tex-text;!
+File: C:/GitHub/VisualIdeas/data/images/198f4fcafc69815799f9d88ef5b3da66.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/198f4fcafc69815799f9d88ef5b3da66.png>
+[41]
+Missing character: There is no ☝ in font Arial Bold/OT:script=latn;language=dfl
+t;mapping=tex-text;!
+Missing character: There is no ️ in font Arial Bold/OT:script=latn;language=dfl
+t;mapping=tex-text;!
+[42]
+File: C:/GitHub/VisualIdeas/data/images/0a6d20fffeef62c5583b0d13f046b88d.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/0a6d20fffeef62c5583b0d13f046b88d.png>
+ [43]
+File: C:/GitHub/VisualIdeas/data/images/1d538845a41e5626e20c4afcd48b5052.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/1d538845a41e5626e20c4afcd48b5052.png>
+ [44]
+File: C:/GitHub/VisualIdeas/data/images/a580fc45ca634d7de2253562ba53e9ac.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/a580fc45ca634d7de2253562ba53e9ac.png>
+ [45]
+File: C:/GitHub/VisualIdeas/data/images/774fbbca0f14196baff2dbd82a88f0d4.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/774fbbca0f14196baff2dbd82a88f0d4.png>
+ [46]
+File: C:/GitHub/VisualIdeas/data/images/25f11ffd5e92a861cf854e0e59b28a27.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/25f11ffd5e92a861cf854e0e59b28a27.png>
+ [47]
+File: C:/GitHub/VisualIdeas/data/images/5332b6a92259c9472debe33fe252bb45.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/5332b6a92259c9472debe33fe252bb45.png>
+ [48]
+File: C:/GitHub/VisualIdeas/data/images/5d6dff56e22281550173223d586e5cbc.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/5d6dff56e22281550173223d586e5cbc.png>
+ [49]
+File: C:/GitHub/VisualIdeas/data/images/958a1b03244bee19854c1f7ae2ef4c5f.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/958a1b03244bee19854c1f7ae2ef4c5f.png>
+ [50]
+File: C:/GitHub/VisualIdeas/data/images/c2821c8436c6f7d1db13a7770b619547.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/c2821c8436c6f7d1db13a7770b619547.png>
+ [51]
+File: C:/GitHub/VisualIdeas/data/images/b861421f643569c6fc3a2adc7a2578eb.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/b861421f643569c6fc3a2adc7a2578eb.png>
+ [52]
+File: C:/GitHub/VisualIdeas/data/images/83267f37543d91d3b4b7158f09afd947.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/83267f37543d91d3b4b7158f09afd947.png>
+
+Missing character: There is no 😂 in font Arial/OT:script=latn;language=dflt;map
+ping=tex-text;!
+[53]
+File: C:/GitHub/VisualIdeas/data/images/ca53f3c8c8d50ed092a2adc69c3e3fb5.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/ca53f3c8c8d50ed092a2adc69c3e3fb5.png>
+File: C:/GitHub/VisualIdeas/data/images/212ecbfbc04eb997ddcc37c946f37c1c.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/212ecbfbc04eb997ddcc37c946f37c1c.png>
+ [54]
+File: C:/GitHub/VisualIdeas/data/images/dc43a3771c86d16b2096e4d244d0b157.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/dc43a3771c86d16b2096e4d244d0b157.png>
+
+Missing character: There is no 😂 in font Arial/OT:script=latn;language=dflt;map
+ping=tex-text;!
+[55]
+File: C:/GitHub/VisualIdeas/data/images/4a3ade94062600bd699b36e6d90993fb.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/4a3ade94062600bd699b36e6d90993fb.png>
+ [56]
+File: C:/GitHub/VisualIdeas/data/images/b6c2b0898b7571285b59d2fadc0fdc55.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/b6c2b0898b7571285b59d2fadc0fdc55.png>
+ [57]
+File: C:/GitHub/VisualIdeas/data/images/eec9e59002d6f25abefb63eb77ba0210.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/eec9e59002d6f25abefb63eb77ba0210.png>
+File: C:/GitHub/VisualIdeas/data/images/b5692b27f866ad06fdb32f55e0887199.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/b5692b27f866ad06fdb32f55e0887199.png>
+ [58]
+File: C:/GitHub/VisualIdeas/data/images/67c165b435353791ba61ef8b5ba1f471.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/67c165b435353791ba61ef8b5ba1f471.png>
+ [59]
+File: C:/GitHub/VisualIdeas/data/images/8ef554cb5a580ef8243dcb557d9ad953.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/8ef554cb5a580ef8243dcb557d9ad953.png>
+ [60]
+File: C:/GitHub/VisualIdeas/data/images/badb981bf35963e6f26bb34abc3d301e.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/badb981bf35963e6f26bb34abc3d301e.png>
+ [61]
+File: C:/GitHub/VisualIdeas/data/images/4d4d7a731fc4414a07498017838ab9f7.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/4d4d7a731fc4414a07498017838ab9f7.png>
+ [62]
+File: C:/GitHub/VisualIdeas/data/images/dd9b15df45bbf28633fca79e435e9e8b.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/dd9b15df45bbf28633fca79e435e9e8b.png>
+
+Missing character: There is no 😁 in font Arial/OT:script=latn;language=dflt;map
+ping=tex-text;!
+[63]
+File: C:/GitHub/VisualIdeas/data/images/e8f70e6cc9303004d74aba687bef4717.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/e8f70e6cc9303004d74aba687bef4717.png>
+ [64]
+File: C:/GitHub/VisualIdeas/data/images/8da9bf15f767b0c1cfc0af1726d5dbca.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/8da9bf15f767b0c1cfc0af1726d5dbca.png>
+ [65]
+File: C:/GitHub/VisualIdeas/data/images/2750da5366f1b38fefb6b1e8bcdff7c1.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/2750da5366f1b38fefb6b1e8bcdff7c1.png>
+ [66]
+File: C:/GitHub/VisualIdeas/data/images/a5a9179e83c9e0d66ecd508f0305d102.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/a5a9179e83c9e0d66ecd508f0305d102.png>
+ [67]
+File: C:/GitHub/VisualIdeas/data/images/ebab181dd6723a792b4ddd632fec62e4.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/ebab181dd6723a792b4ddd632fec62e4.png>
+File: C:/GitHub/VisualIdeas/data/images/d8cc89735aa0543f63af3a516be0dc7f.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/d8cc89735aa0543f63af3a516be0dc7f.png>
+
+Missing character: There is no 👋 in font Arial/OT:script=latn;language=dflt;map
+ping=tex-text;!
+Missing character: There is no 🏻 in font Arial/OT:script=latn;language=dflt;map
+ping=tex-text;!
+File: C:/GitHub/VisualIdeas/data/images/f2833dff016936c751c34b46c7d76fa1.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/f2833dff016936c751c34b46c7d76fa1.png>
+[68]
+File: C:/GitHub/VisualIdeas/data/images/5e2bb680e892eba7ff1c35face045ee5.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/5e2bb680e892eba7ff1c35face045ee5.png>
+
+Missing character: There is no 😵 in font Arial/OT:script=latn;language=dflt;map
+ping=tex-text;!
+Missing character: There is no 💫 in font Arial/OT:script=latn;language=dflt;map
+ping=tex-text;!
+File: C:/GitHub/VisualIdeas/data/images/cd97b3718cffcf53f403a27e6930f506.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/cd97b3718cffcf53f403a27e6930f506.png>
+[69]
+File: C:/GitHub/VisualIdeas/data/images/32bf1e9ae115ca7a30fce009d9a2526c.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/32bf1e9ae115ca7a30fce009d9a2526c.png>
+ [70]
+File: C:/GitHub/VisualIdeas/data/images/0aaae0c6aae10f566a16d1f14ff65181.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/0aaae0c6aae10f566a16d1f14ff65181.png>
+ [71]
+File: C:/GitHub/VisualIdeas/data/images/f4bccdc24537d9b0b6cf175e8bc9325e.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/f4bccdc24537d9b0b6cf175e8bc9325e.png>
+ [72] [73]
+File: C:/GitHub/VisualIdeas/data/images/336a3df0f51023ce33f1440a740f4ca8.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/336a3df0f51023ce33f1440a740f4ca8.png>
+
+Missing character: There is no 🤓 in font Arial/OT:script=latn;language=dflt;map
+ping=tex-text;!
+[74]
+Missing character: There is no ↴ in font Arial/OT:script=latn;language=dflt;map
+ping=tex-text;!
+File: C:/GitHub/VisualIdeas/data/images/971a88c423fd26d133da4fcd598dd46b.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/971a88c423fd26d133da4fcd598dd46b.png>
+Missing character: There is no 🥁 in font Arial/OT:script=latn;language=dflt;map
+ping=tex-text;!
+File: C:/GitHub/VisualIdeas/data/images/7ba2aa7ff7884883ba0b8d41fff1d658.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/7ba2aa7ff7884883ba0b8d41fff1d658.png>
+File: C:/GitHub/VisualIdeas/data/images/d7b41c6174cc33b86f8ba5af7b155aac.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/d7b41c6174cc33b86f8ba5af7b155aac.png>
+[75] [76]
+File: C:/GitHub/VisualIdeas/data/images/e52d38aa550159dbdfffb51f467d3181.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/e52d38aa550159dbdfffb51f467d3181.png>
+ [77]
+File: C:/GitHub/VisualIdeas/data/images/7d5775ddd2dafa8d5f7486fcd8153f4d.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/7d5775ddd2dafa8d5f7486fcd8153f4d.png>
+ [78]
+File: C:/GitHub/VisualIdeas/data/images/2b453d0ec14d657a3b483629a0bb5049.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/2b453d0ec14d657a3b483629a0bb5049.png>
+ [79]
+File: C:/GitHub/VisualIdeas/data/images/3f32fd57ed485e7fbe63e01388968b2e.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/3f32fd57ed485e7fbe63e01388968b2e.png>
+File: C:/GitHub/VisualIdeas/data/images/413b01b7afb538ea5fdc14b5121b8ce1.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/413b01b7afb538ea5fdc14b5121b8ce1.png>
+ [80] [81]
+File: C:/GitHub/VisualIdeas/data/images/95ce04bfd88b68f181fae2b8008884c4.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/95ce04bfd88b68f181fae2b8008884c4.png>
+ [82]
+File: C:/GitHub/VisualIdeas/data/images/ec2d11376a50b5b95ed8fafa2a1248ea.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/ec2d11376a50b5b95ed8fafa2a1248ea.png>
+ [83]
+File: C:/GitHub/VisualIdeas/data/images/32158f14c766b982f668efb4c6d0b086.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/32158f14c766b982f668efb4c6d0b086.png>
+ [84]
+Missing character: There is no 👇 in font Arial/OT:script=latn;language=dflt;map
+ping=tex-text;!
+File: C:/GitHub/VisualIdeas/data/images/7242a0028ed7042356b60fb43e859a7f.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/7242a0028ed7042356b60fb43e859a7f.png>
+File: C:/GitHub/VisualIdeas/data/images/f23378b86c6a4fa4934a6e67ad8214c4.jpg Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/f23378b86c6a4fa4934a6e67ad8214c4.jpg>
+File: C:/GitHub/VisualIdeas/data/images/669f3d6a74b4a898d2552096a8059b32.jpg Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/669f3d6a74b4a898d2552096a8059b32.jpg>
+File: C:/GitHub/VisualIdeas/data/images/0e1a12675da4e543c48357e412059298.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/0e1a12675da4e543c48357e412059298.png>
+Missing character: There is no 🙌 in font Arial/OT:script=latn;language=dflt;map
+ping=tex-text;!
+Missing character: There is no 😉 in font Arial/OT:script=latn;language=dflt;map
+ping=tex-text;!
+[85]
+File: C:/GitHub/VisualIdeas/data/images/57397cf83afbd0839c40e2f4588528f7.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/57397cf83afbd0839c40e2f4588528f7.png>
+ [86]
+File: C:/GitHub/VisualIdeas/data/images/e6065ef385b6fa7b015360f75677a46f.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/e6065ef385b6fa7b015360f75677a46f.png>
+ [87]
+File: C:/GitHub/VisualIdeas/data/images/b953a0872accb3dc6bb6f2a178a996bf.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/b953a0872accb3dc6bb6f2a178a996bf.png>
+ [88]
+File: C:/GitHub/VisualIdeas/data/images/ba6e65ca8fbe885761902f18cf82fd47.jpg Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/ba6e65ca8fbe885761902f18cf82fd47.jpg>
+File: C:/GitHub/VisualIdeas/data/images/ef540b5d7078d7a3bb2eccfa0a17d5b3.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/ef540b5d7078d7a3bb2eccfa0a17d5b3.png>
+ [89]
+File: C:/GitHub/VisualIdeas/data/images/69c7efdb0223e6a9c5a23e04ad1c2086.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/69c7efdb0223e6a9c5a23e04ad1c2086.png>
+ [90]
+File: C:/GitHub/VisualIdeas/data/images/3f7e88cd1ea1a94a1542a601750092ba.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/3f7e88cd1ea1a94a1542a601750092ba.png>
+ [91]
+File: C:/GitHub/VisualIdeas/data/images/022b6820907d52948c4d1b3d5d0b0960.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/022b6820907d52948c4d1b3d5d0b0960.png>
+File: C:/GitHub/VisualIdeas/data/images/d8798cfbb71e88c29c4c8f90ccd37c10.jpg Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/d8798cfbb71e88c29c4c8f90ccd37c10.jpg>
+File: C:/GitHub/VisualIdeas/data/images/b9ba1a72fd2e638929a2cd017cc21ab9.jpg Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/b9ba1a72fd2e638929a2cd017cc21ab9.jpg>
+
+Missing character: There is no 😅 in font Arial/OT:script=latn;language=dflt;map
+ping=tex-text;!
+[92]
+File: C:/GitHub/VisualIdeas/data/images/02617de01bb56b5e4cdbe0c2f8630a77.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/02617de01bb56b5e4cdbe0c2f8630a77.png>
+File: C:/GitHub/VisualIdeas/data/images/c4f44d23ede2767cd247a8d40bb926f1.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/c4f44d23ede2767cd247a8d40bb926f1.png>
+File: C:/GitHub/VisualIdeas/data/images/5c6f220dcc459157954e6985f84eaed4.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/5c6f220dcc459157954e6985f84eaed4.png>
+File: C:/GitHub/VisualIdeas/data/images/6adf867499e8022c8dd0d62fd782b4dd.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/6adf867499e8022c8dd0d62fd782b4dd.png>
+ [93]
+File: C:/GitHub/VisualIdeas/data/images/6c1f59884d7ff9741b2f69ab58910ad9.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/6c1f59884d7ff9741b2f69ab58910ad9.png>
+ [94]
+File: C:/GitHub/VisualIdeas/data/images/c98eb4a3a220732fc112b54b95fee5a3.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/c98eb4a3a220732fc112b54b95fee5a3.png>
+ [95]
+File: C:/GitHub/VisualIdeas/data/images/670288eb559b5ee6db052186071eea59.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/670288eb559b5ee6db052186071eea59.png>
+ [96]
+Missing character: There is no 🤯 in font Arial/OT:script=latn;language=dflt;map
+ping=tex-text;!
+File: C:/GitHub/VisualIdeas/data/images/207e4a66ce09bd435e4244f91be4b33b.jpeg G
+raphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/207e4a66ce09bd435e4244f91be4b33b.jpeg>
+File: C:/GitHub/VisualIdeas/data/images/e5781bcea64dc5808e70829bcdb27f58.jpeg G
+raphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/e5781bcea64dc5808e70829bcdb27f58.jpeg>
+File: C:/GitHub/VisualIdeas/data/images/790e099f8e93a81f4889d7ff1f30ef8a.jpeg G
+raphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/790e099f8e93a81f4889d7ff1f30ef8a.jpeg>
+File: C:/GitHub/VisualIdeas/data/images/9e3e74f1a336c86f6a8bc78749fb7aea.jpeg G
+raphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/9e3e74f1a336c86f6a8bc78749fb7aea.jpeg>
+File: C:/GitHub/VisualIdeas/data/images/858a1287c0c876dece0c25acd86315a3.jpeg G
+raphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/858a1287c0c876dece0c25acd86315a3.jpeg>
+[97]
+Missing character: There is no 😅 in font Arial/OT:script=latn;language=dflt;map
+ping=tex-text;!
+[98]
+File: C:/GitHub/VisualIdeas/data/images/8d21e9072dbdeb49a7ed266b04a87b5d.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/8d21e9072dbdeb49a7ed266b04a87b5d.png>
+ [99]
+File: C:/GitHub/VisualIdeas/data/images/548295fed295d35b22510cae3ecd872e.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/548295fed295d35b22510cae3ecd872e.png>
+
+Missing character: There is no 🐢 in font Arial/OT:script=latn;language=dflt;map
+ping=tex-text;!
+[100]
+File: C:/GitHub/VisualIdeas/data/images/cb8677d622a81faf7efe5b2367569ec5.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/cb8677d622a81faf7efe5b2367569ec5.png>
+
+Missing character: There is no ❤ in font Arial/OT:script=latn;language=dflt;map
+ping=tex-text;!
+Missing character: There is no ️ in font Arial/OT:script=latn;language=dflt;map
+ping=tex-text;!
+[101]
+Missing character: There is no ❌ in font Arial/OT:script=latn;language=dflt;map
+ping=tex-text;!
+Missing character: There is no ✅ in font Arial/OT:script=latn;language=dflt;map
+ping=tex-text;!
+Missing character: There is no ❌ in font Arial/OT:script=latn;language=dflt;map
+ping=tex-text;!
+Missing character: There is no ✅ in font Arial/OT:script=latn;language=dflt;map
+ping=tex-text;!
+Missing character: There is no 🤓 in font Arial/OT:script=latn;language=dflt;map
+ping=tex-text;!
+File: C:/GitHub/VisualIdeas/data/images/7bb458ec3f6653cb7cb47fdec6f1055f.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/7bb458ec3f6653cb7cb47fdec6f1055f.png>
+[102]
+File: C:/GitHub/VisualIdeas/data/images/0823c7ce1446d9148c87f68d276d7c74.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/0823c7ce1446d9148c87f68d276d7c74.png>
+
+Missing character: There is no 🤣 in font Arial/OT:script=latn;language=dflt;map
+ping=tex-text;!
+[103]
+File: C:/GitHub/VisualIdeas/data/images/494044774bd84df13d79269d4eee358a.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/494044774bd84df13d79269d4eee358a.png>
+ [104]
+File: C:/GitHub/VisualIdeas/data/images/e4501303039c34891f93620af8c6b57e.jpg Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/e4501303039c34891f93620af8c6b57e.jpg>
+File: C:/GitHub/VisualIdeas/data/images/2aadc144dbb14228079e7cd74dd212ae.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/2aadc144dbb14228079e7cd74dd212ae.png>
+File: C:/GitHub/VisualIdeas/data/images/2f4d836a93e1ae9b0b465738675a3ff5.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/2f4d836a93e1ae9b0b465738675a3ff5.png>
+ [105] [106]
+File: C:/GitHub/VisualIdeas/data/images/6b362b893fd5ee44eb19af82ec4fc9d9.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/6b362b893fd5ee44eb19af82ec4fc9d9.png>
+ [107]
+File: C:/GitHub/VisualIdeas/data/images/2e9ce9df999424ac058af2a48688e854.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/2e9ce9df999424ac058af2a48688e854.png>
+File: C:/GitHub/VisualIdeas/data/images/371d9a62cd1673f63833193d2345dcb8.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/371d9a62cd1673f63833193d2345dcb8.png>
+File: C:/GitHub/VisualIdeas/data/images/5647859d2e86cbf8a3b0b1151780b06d.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/5647859d2e86cbf8a3b0b1151780b06d.png>
+File: C:/GitHub/VisualIdeas/data/images/9236c6492fa4eb12467fed6711957866.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/9236c6492fa4eb12467fed6711957866.png>
+ [108]
+File: C:/GitHub/VisualIdeas/data/images/d3c342fc707ffcfa87e63aef80783852.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/d3c342fc707ffcfa87e63aef80783852.png>
+ [109]
+File: C:/GitHub/VisualIdeas/data/images/1a29501342754e2a5ab8755d58f6cdd2.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/1a29501342754e2a5ab8755d58f6cdd2.png>
+File: C:/GitHub/VisualIdeas/data/images/15429511ba767a3d315fbf7b5d99d6a2.jpeg G
+raphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/15429511ba767a3d315fbf7b5d99d6a2.jpeg>
+
+Missing character: There is no 👉 in font Arial/OT:script=latn;language=dflt;map
+ping=tex-text;!
+File: C:/GitHub/VisualIdeas/data/images/d73592712824adbf33478ffed441400e.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/d73592712824adbf33478ffed441400e.png>
+[110] [111]
+File: C:/GitHub/VisualIdeas/data/images/680c5d0c4f89b9d6f94e26019d957778.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/680c5d0c4f89b9d6f94e26019d957778.png>
+ [112]
+File: C:/GitHub/VisualIdeas/data/images/8af2dfe8f8ae8cdccca6de9e490c0ecf.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/8af2dfe8f8ae8cdccca6de9e490c0ecf.png>
+ [113]
+File: C:/GitHub/VisualIdeas/data/images/7996382e97a6768dab599a668cb33679.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/7996382e97a6768dab599a668cb33679.png>
+ [114]
+File: C:/GitHub/VisualIdeas/data/images/30dc79f4e9f8526aa93e9a3eac4f23e4.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/30dc79f4e9f8526aa93e9a3eac4f23e4.png>
+ [115]
+File: C:/GitHub/VisualIdeas/data/images/859d58fff569bda38051a26c447ed423.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/859d58fff569bda38051a26c447ed423.png>
+ [116]
+File: C:/GitHub/VisualIdeas/data/images/be1c67c53489565dffbae712c43c679f.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/be1c67c53489565dffbae712c43c679f.png>
+
+Missing character: There is no 😆 in font Arial/OT:script=latn;language=dflt;map
+ping=tex-text;!
+[117]
+File: C:/GitHub/VisualIdeas/data/images/d5e3615459bdbfc8807ca218c5f8574d.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/d5e3615459bdbfc8807ca218c5f8574d.png>
+
+Missing character: There is no 😊 in font Arial/OT:script=latn;language=dflt;map
+ping=tex-text;!
+[118]
+File: C:/GitHub/VisualIdeas/data/images/61c404c5e46dbc29a8bfe65ab06f98ca.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/61c404c5e46dbc29a8bfe65ab06f98ca.png>
+File: C:/GitHub/VisualIdeas/data/images/7fbb3f280fc0b100379774bb53d82efd.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/7fbb3f280fc0b100379774bb53d82efd.png>
+ [119]
+File: C:/GitHub/VisualIdeas/data/images/4e5298c0b0f65953688f782ed6873a53.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/4e5298c0b0f65953688f782ed6873a53.png>
+ [120]
+File: C:/GitHub/VisualIdeas/data/images/56c55ae390f7b98ec0631d35bf2a54c1.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/56c55ae390f7b98ec0631d35bf2a54c1.png>
+
+Missing character: There is no 😆 in font Arial/OT:script=latn;language=dflt;map
+ping=tex-text;!
+
+Underfull \hbox (badness 1033) in paragraph at lines 3036--3037
+[]\TU/Arial(0)/m/n/10 I used to think a couple thousand bucks was crazy to pay 
+for some online
+ []
+
+[121]
+File: C:/GitHub/VisualIdeas/data/images/636ecfc27c95a03bbba72e20f8fef0e1.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/636ecfc27c95a03bbba72e20f8fef0e1.png>
+ [122]
+Missing character: There is no 😑 in font Arial/OT:script=latn;language=dflt;map
+ping=tex-text;!
+Missing character: There is no 😆 in font Arial/OT:script=latn;language=dflt;map
+ping=tex-text;!
+File: C:/GitHub/VisualIdeas/data/images/1afb25b6fde30ffd46e0a22b7004e1a3.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/1afb25b6fde30ffd46e0a22b7004e1a3.png>
+File: C:/GitHub/VisualIdeas/data/images/52174a5b10a1c0d100c7586b6738d5b9.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/52174a5b10a1c0d100c7586b6738d5b9.png>
+[123] [124]
+File: C:/GitHub/VisualIdeas/data/images/ba4b39f9843518fbc0a74184b308b1c7.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/ba4b39f9843518fbc0a74184b308b1c7.png>
+ [125]
+File: C:/GitHub/VisualIdeas/data/images/d8a8338874c51a0dce49431b2e13d9a2.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/d8a8338874c51a0dce49431b2e13d9a2.png>
+ [126]
+File: C:/GitHub/VisualIdeas/data/images/2bcf422a2647fc7b577ce853437d6c34.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/2bcf422a2647fc7b577ce853437d6c34.png>
+ [127]
+File: C:/GitHub/VisualIdeas/data/images/0458fc1f74df6b8619f5ce614f655f5e.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/0458fc1f74df6b8619f5ce614f655f5e.png>
+File: C:/GitHub/VisualIdeas/data/images/aca5fa69baacc0e4f42e18cd70f09951.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/aca5fa69baacc0e4f42e18cd70f09951.png>
+ [128]
+File: C:/GitHub/VisualIdeas/data/images/e1465b6cdbb5aa73f8e1521561ad2869.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/e1465b6cdbb5aa73f8e1521561ad2869.png>
+ [129]
+File: C:/GitHub/VisualIdeas/data/images/024f81ca093ec5da5f08264ff4fae777.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/024f81ca093ec5da5f08264ff4fae777.png>
+
+Missing character: There is no 😆 in font Arial/OT:script=latn;language=dflt;map
+ping=tex-text;!
+Missing character: There is no 🤔 in font Arial/OT:script=latn;language=dflt;map
+ping=tex-text;!
+[130]
+File: C:/GitHub/VisualIdeas/data/images/c9b024bb932aaba345699a745ef657f6.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/c9b024bb932aaba345699a745ef657f6.png>
+ [131]
+File: C:/GitHub/VisualIdeas/data/images/ec4502cf38ad861fe1c29b36bca938de.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/ec4502cf38ad861fe1c29b36bca938de.png>
+ [132]
+File: C:/GitHub/VisualIdeas/data/images/bc882005892740c73ae00766ed15eab8.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/bc882005892740c73ae00766ed15eab8.png>
+ [133]
+File: C:/GitHub/VisualIdeas/data/images/c98fa1468cc374dab1f9b70f931c1bd6.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/c98fa1468cc374dab1f9b70f931c1bd6.png>
+ [134]
+File: C:/GitHub/VisualIdeas/data/images/21d1e95bc2fad39169590c5df6bcc2eb.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/21d1e95bc2fad39169590c5df6bcc2eb.png>
+
+Missing character: There is no 😆 in font Arial/OT:script=latn;language=dflt;map
+ping=tex-text;!
+[135]
+File: C:/GitHub/VisualIdeas/data/images/429c92d376540e016ff6b0a85f4b07e2.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/429c92d376540e016ff6b0a85f4b07e2.png>
+ [136]
+File: C:/GitHub/VisualIdeas/data/images/28f2ba379c0f25f5b675e15ffa6db341.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/28f2ba379c0f25f5b675e15ffa6db341.png>
+
+Missing character: There is no 👀 in font Arial/OT:script=latn;language=dflt;map
+ping=tex-text;!
+[137]
+File: C:/GitHub/VisualIdeas/data/images/8e6607662f41d782005a20d0225ef631.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/8e6607662f41d782005a20d0225ef631.png>
+File: C:/GitHub/VisualIdeas/data/images/61b77be40e7f10992e2b55243fdb5e3d.jpg Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/61b77be40e7f10992e2b55243fdb5e3d.jpg>
+File: C:/GitHub/VisualIdeas/data/images/8aa2ce386730545ac76fa537fafa137a.jpg Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/8aa2ce386730545ac76fa537fafa137a.jpg>
+
+Missing character: There is no 🙌 in font Arial/OT:script=latn;language=dflt;map
+ping=tex-text;!
+File: C:/GitHub/VisualIdeas/data/images/254b65ca23ba95fc2a22c4fcde79d890.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/254b65ca23ba95fc2a22c4fcde79d890.png>
+[138] [139]
+File: C:/GitHub/VisualIdeas/data/images/ef4820bbb3fcdc0a4958fa2dd6037490.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/ef4820bbb3fcdc0a4958fa2dd6037490.png>
+ [140]
+File: C:/GitHub/VisualIdeas/data/images/491579c78846557d5e4efd8d5a724b15.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/491579c78846557d5e4efd8d5a724b15.png>
+ [141]
+File: C:/GitHub/VisualIdeas/data/images/8da1dfc21e282da50dc5c5662a6618f2.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/8da1dfc21e282da50dc5c5662a6618f2.png>
+ [142]
+File: C:/GitHub/VisualIdeas/data/images/79b24c2feb3455a8a2bc02e75744698a.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/79b24c2feb3455a8a2bc02e75744698a.png>
+ [143] [144]
+File: C:/GitHub/VisualIdeas/data/images/2ca107ddae4b21d6c581b103b30c809c.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/2ca107ddae4b21d6c581b103b30c809c.png>
+ [145]
+File: C:/GitHub/VisualIdeas/data/images/d51e292bbe9202c33b028cb941941bb9.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/d51e292bbe9202c33b028cb941941bb9.png>
+ [146] [147]
+File: C:/GitHub/VisualIdeas/data/images/89825126d1bd6ee488c4cba032b8bddf.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/89825126d1bd6ee488c4cba032b8bddf.png>
+File: C:/GitHub/VisualIdeas/data/images/43370857b5a4ea6f557287991c787ce7.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/43370857b5a4ea6f557287991c787ce7.png>
+
+Missing character: There is no 😅 in font Arial/OT:script=latn;language=dflt;map
+ping=tex-text;!
+Missing character: There is no ❤ in font Arial/OT:script=latn;language=dflt;map
+ping=tex-text;!
+Missing character: There is no ️ in font Arial/OT:script=latn;language=dflt;map
+ping=tex-text;!
+[148]
+Missing character: There is no 🥁 in font Arial/OT:script=latn;language=dflt;map
+ping=tex-text;!
+Missing character: There is no ❌ in font Arial/OT:script=latn;language=dflt;map
+ping=tex-text;!
+Missing character: There is no ✅ in font Arial/OT:script=latn;language=dflt;map
+ping=tex-text;!
+File: C:/GitHub/VisualIdeas/data/images/480892248086a40f0e4ee5610b5bcee0.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/480892248086a40f0e4ee5610b5bcee0.png>
+File: C:/GitHub/VisualIdeas/data/images/8fd1a2ed542c39db5205c6430fd692ba.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/8fd1a2ed542c39db5205c6430fd692ba.png>
+[149] [150]
+File: C:/GitHub/VisualIdeas/data/images/cd3d14fe5694642597e94e75c3e06510.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/cd3d14fe5694642597e94e75c3e06510.png>
+
+Missing character: There is no 生 in font Arial/OT:script=latn;language=dflt;map
+ping=tex-text;!
+Missing character: There is no き in font Arial/OT:script=latn;language=dflt;map
+ping=tex-text;!
+Missing character: There is no 甲 in font Arial/OT:script=latn;language=dflt;map
+ping=tex-text;!
+Missing character: There is no 斐 in font Arial/OT:script=latn;language=dflt;map
+ping=tex-text;!
+Missing character: There is no ⦿ in font Arial/OT:script=latn;language=dflt;map
+ping=tex-text;!
+Missing character: There is no ⦿ in font Arial/OT:script=latn;language=dflt;map
+ping=tex-text;!
+[151]
+File: C:/GitHub/VisualIdeas/data/images/31c9a2117244c7e28486b7fd5b13b7ff.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/31c9a2117244c7e28486b7fd5b13b7ff.png>
+ [152]
+File: C:/GitHub/VisualIdeas/data/images/c8a27074c4860aa285ee2545018821e1.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/c8a27074c4860aa285ee2545018821e1.png>
+File: C:/GitHub/VisualIdeas/data/images/b6546c7157e28e749231e098a49bcad7.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/b6546c7157e28e749231e098a49bcad7.png>
+ [153]
+File: C:/GitHub/VisualIdeas/data/images/45ec8553203d0b9d00bb824e2d917fcb.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/45ec8553203d0b9d00bb824e2d917fcb.png>
+File: C:/GitHub/VisualIdeas/data/images/f8d2d5bb1e2895700c7a713743ab5558.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/f8d2d5bb1e2895700c7a713743ab5558.png>
+ [154]
+File: C:/GitHub/VisualIdeas/data/images/bd2465e126f5b77ea8800bb82bdb5b4b.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/bd2465e126f5b77ea8800bb82bdb5b4b.png>
+ [155]
+File: C:/GitHub/VisualIdeas/data/images/e8e2fa67d6b5bfca081a5a337f506b00.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/e8e2fa67d6b5bfca081a5a337f506b00.png>
+ [156]
+File: C:/GitHub/VisualIdeas/data/images/fb443804a8195eceef0f096d2c4c3f99.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/fb443804a8195eceef0f096d2c4c3f99.png>
+
+Missing character: There is no 🥁 in font Arial/OT:script=latn;language=dflt;map
+ping=tex-text;!
+File: C:/GitHub/VisualIdeas/data/images/e9f5cefec10bcfaed5660eaf3c9f0d6f.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/e9f5cefec10bcfaed5660eaf3c9f0d6f.png>
+[157] [158]
+File: C:/GitHub/VisualIdeas/data/images/d2f8970ba0bfd2b28bf1fe2a1cfe7c0a.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/d2f8970ba0bfd2b28bf1fe2a1cfe7c0a.png>
+
+Missing character: There is no 🥁 in font Arial/OT:script=latn;language=dflt;map
+ping=tex-text;!
+[159]
+File: C:/GitHub/VisualIdeas/data/images/382034b73ac816cae100d1cf7783dadd.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/382034b73ac816cae100d1cf7783dadd.png>
+ [160]
+File: C:/GitHub/VisualIdeas/data/images/51ec5c2a1471533e53ea27a556dbf422.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/51ec5c2a1471533e53ea27a556dbf422.png>
+ [161]
+File: C:/GitHub/VisualIdeas/data/images/17c5ff7d616dd93bd357fc9f7f5419cd.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/17c5ff7d616dd93bd357fc9f7f5419cd.png>
+File: C:/GitHub/VisualIdeas/data/images/bdd08457ad1465c80eb3125f4af5d13a.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/bdd08457ad1465c80eb3125f4af5d13a.png>
+File: C:/GitHub/VisualIdeas/data/images/4b8caf9e9763bd0019d0f9866b047eb8.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/4b8caf9e9763bd0019d0f9866b047eb8.png>
+
+Missing character: There is no 😊 in font Arial/OT:script=latn;language=dflt;map
+ping=tex-text;!
+[162] [163]
+File: C:/GitHub/VisualIdeas/data/images/60b148139364d09369d15ea685ecad41.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/60b148139364d09369d15ea685ecad41.png>
+
+Missing character: There is no 👆 in font Arial Bold/OT:script=latn;language=dfl
+t;mapping=tex-text;!
+[164]
+File: C:/GitHub/VisualIdeas/data/images/a3ed29c2bd9b16daeec93ee4276a0976.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/a3ed29c2bd9b16daeec93ee4276a0976.png>
+ [165]
+File: C:/GitHub/VisualIdeas/data/images/63378dafd8099973767c6dd5237dd4a8.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/63378dafd8099973767c6dd5237dd4a8.png>
+File: C:/GitHub/VisualIdeas/data/images/396d389c48dc7bb797a3d26fa9c01ab2.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/396d389c48dc7bb797a3d26fa9c01ab2.png>
+ [166]
+File: C:/GitHub/VisualIdeas/data/images/7a19899502a84c63a7d2ae0fd0394e56.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/7a19899502a84c63a7d2ae0fd0394e56.png>
+ [167]
+File: C:/GitHub/VisualIdeas/data/images/35d3deee1d8e4992f40e5e397938f2fd.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/35d3deee1d8e4992f40e5e397938f2fd.png>
+ [168]
+File: C:/GitHub/VisualIdeas/data/images/1173a0db1c267ca1d61b6f0d13c9b4d2.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/1173a0db1c267ca1d61b6f0d13c9b4d2.png>
+ [169]
+File: C:/GitHub/VisualIdeas/data/images/11e30b310e17184ed0f28b0d384f7fb9.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/11e30b310e17184ed0f28b0d384f7fb9.png>
+File: C:/GitHub/VisualIdeas/data/images/ceb9a65f3b0673eb60cb464a6e36f474.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/ceb9a65f3b0673eb60cb464a6e36f474.png>
+File: C:/GitHub/VisualIdeas/data/images/ca498544e646fb882398d1e0034e12e5.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/ca498544e646fb882398d1e0034e12e5.png>
+ [170] [171]
+File: C:/GitHub/VisualIdeas/data/images/12a9f6ed36bc29cc7bb5fa7c88c04483.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/12a9f6ed36bc29cc7bb5fa7c88c04483.png>
+ [172]
+File: C:/GitHub/VisualIdeas/data/images/cbd04756ee263ef493152c95148bd741.jpeg G
+raphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/cbd04756ee263ef493152c95148bd741.jpeg>
+
+Missing character: There is no 😅 in font Arial/OT:script=latn;language=dflt;map
+ping=tex-text;!
+[173]
+File: C:/GitHub/VisualIdeas/data/images/b143a59387b055a4c003e87200a60d48.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/b143a59387b055a4c003e87200a60d48.png>
+ [174]
+File: C:/GitHub/VisualIdeas/data/images/10351bae12fbf3ca9801464bdb323c5f.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/10351bae12fbf3ca9801464bdb323c5f.png>
+File: C:/GitHub/VisualIdeas/data/images/a5b2ac22a98d07d49ee2819371e604f3.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/a5b2ac22a98d07d49ee2819371e604f3.png>
+File: C:/GitHub/VisualIdeas/data/images/07128bf0fadd1c067fc77d361f55fe53.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/07128bf0fadd1c067fc77d361f55fe53.png>
+File: C:/GitHub/VisualIdeas/data/images/f3c8c479a4856823f006dd4dbdec07a0.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/f3c8c479a4856823f006dd4dbdec07a0.png>
+ [175] [176]
+File: C:/GitHub/VisualIdeas/data/images/a63a99c60eb0ddf4b9ba25859ff33661.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/a63a99c60eb0ddf4b9ba25859ff33661.png>
+ [177]
+File: C:/GitHub/VisualIdeas/data/images/503f6b35b967b6ae47a9c1f99a5367e3.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/503f6b35b967b6ae47a9c1f99a5367e3.png>
+ [178] [179]
+File: C:/GitHub/VisualIdeas/data/images/a805c243f8b393c74310115be856084e.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/a805c243f8b393c74310115be856084e.png>
+ [180]
+File: C:/GitHub/VisualIdeas/data/images/630ecc5198b8512a2ad8272038ed66bb.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/630ecc5198b8512a2ad8272038ed66bb.png>
+
+Missing character: There is no 😆 in font Arial/OT:script=latn;language=dflt;map
+ping=tex-text;!
+[181]
+File: C:/GitHub/VisualIdeas/data/images/e4cdf7e00d13e62329d9b688265dc5a4.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/e4cdf7e00d13e62329d9b688265dc5a4.png>
+
+Missing character: There is no 🫠 in font Arial/OT:script=latn;language=dflt;map
+ping=tex-text;!
+[182]
+File: C:/GitHub/VisualIdeas/data/images/3b92ec2c227d466815fbca1a7ffabad1.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/3b92ec2c227d466815fbca1a7ffabad1.png>
+ [183]
+File: C:/GitHub/VisualIdeas/data/images/ecf16e85deb3bf9c9e27c714dfc09374.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/ecf16e85deb3bf9c9e27c714dfc09374.png>
+File: C:/GitHub/VisualIdeas/data/images/3e4fee0486287afc4ec882cb8411c3d5.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/3e4fee0486287afc4ec882cb8411c3d5.png>
+ [184]
+File: C:/GitHub/VisualIdeas/data/images/5ae69c5bc648b9f5cd740f5e0080bb94.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/5ae69c5bc648b9f5cd740f5e0080bb94.png>
+
+Missing character: There is no 😁 in font Arial/OT:script=latn;language=dflt;map
+ping=tex-text;!
+[185]
+File: C:/GitHub/VisualIdeas/data/images/755767468ae14c102ee8154d60a9e02f.jpeg G
+raphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/755767468ae14c102ee8154d60a9e02f.jpeg>
+
+Missing character: There is no 😅 in font Arial/OT:script=latn;language=dflt;map
+ping=tex-text;!
+File: C:/GitHub/VisualIdeas/data/images/cdfb206b7fab4ea04315384ede477878.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/cdfb206b7fab4ea04315384ede477878.png>
+File: C:/GitHub/VisualIdeas/data/images/11e7b17799d0c82d0c1d0f04b2b1860e.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/11e7b17799d0c82d0c1d0f04b2b1860e.png>
+[186]
+Missing character: There is no 😬 in font Arial/OT:script=latn;language=dflt;map
+ping=tex-text;!
+[187]
+File: C:/GitHub/VisualIdeas/data/images/d10b157208e23ee754caa35794bf3965.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/d10b157208e23ee754caa35794bf3965.png>
+ [188]
+File: C:/GitHub/VisualIdeas/data/images/b43f0eee90b1f626551c065cb16051d5.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/b43f0eee90b1f626551c065cb16051d5.png>
+ [189]
+File: C:/GitHub/VisualIdeas/data/images/c272761b4b39b14bc97b6e36580a9cbe.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/c272761b4b39b14bc97b6e36580a9cbe.png>
+ [190]
+File: C:/GitHub/VisualIdeas/data/images/34dfbfbf68ffcffd6e56a4a8ba7d96c8.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/34dfbfbf68ffcffd6e56a4a8ba7d96c8.png>
+File: C:/GitHub/VisualIdeas/data/images/206b9417657fc1bf2309b48d062be4ce.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/206b9417657fc1bf2309b48d062be4ce.png>
+ [191] [192]
+File: C:/GitHub/VisualIdeas/data/images/3f66053afd01580c3f08eac02a873fed.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/3f66053afd01580c3f08eac02a873fed.png>
+ [193]
+File: C:/GitHub/VisualIdeas/data/images/d3b0b6c5904017573a85006d404c3019.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/d3b0b6c5904017573a85006d404c3019.png>
+ [194]
+File: C:/GitHub/VisualIdeas/data/images/9b252e1d36c5774778e0063beb8ce7b2.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/9b252e1d36c5774778e0063beb8ce7b2.png>
+ [195]
+File: C:/GitHub/VisualIdeas/data/images/6072056478874332b36e4fd95207e563.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/6072056478874332b36e4fd95207e563.png>
+ [196]
+File: C:/GitHub/VisualIdeas/data/images/bb9c3411777c15a7bf4ff67806015ccb.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/bb9c3411777c15a7bf4ff67806015ccb.png>
+File: C:/GitHub/VisualIdeas/data/images/f46edc8abf8f86f01ae85681802fc6a5.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/f46edc8abf8f86f01ae85681802fc6a5.png>
+
+Missing character: There is no ↗ in font Arial Bold/OT:script=latn;language=dfl
+t;mapping=tex-text;!
+[197]
+File: C:/GitHub/VisualIdeas/data/images/79488b2225fb6784f879b6cbbe80c608.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/79488b2225fb6784f879b6cbbe80c608.png>
+ [198]
+File: C:/GitHub/VisualIdeas/data/images/504cd821383602c220a0c9f984868b3f.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/504cd821383602c220a0c9f984868b3f.png>
+ [199]
+File: C:/GitHub/VisualIdeas/data/images/61b25f9cc21dc98f828d34e41261ac0e.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/61b25f9cc21dc98f828d34e41261ac0e.png>
+ [200]
+File: C:/GitHub/VisualIdeas/data/images/c732bc52667602096ee0894ed1509a18.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/c732bc52667602096ee0894ed1509a18.png>
+File: C:/GitHub/VisualIdeas/data/images/c07cd5fce9ca5b81ff9380f52775b6bf.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/c07cd5fce9ca5b81ff9380f52775b6bf.png>
+
+Missing character: There is no 😆 in font Arial/OT:script=latn;language=dflt;map
+ping=tex-text;!
+[201]
+File: C:/GitHub/VisualIdeas/data/images/75e01585917ca476866eec3e4de50eaa.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/75e01585917ca476866eec3e4de50eaa.png>
+ [202]
+File: C:/GitHub/VisualIdeas/data/images/1ddc562f6df45b23634a5d064f3ece99.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/1ddc562f6df45b23634a5d064f3ece99.png>
+ [203]
+File: C:/GitHub/VisualIdeas/data/images/3653bb3f6faaccaf8f34032f1d2ff363.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/3653bb3f6faaccaf8f34032f1d2ff363.png>
+
+Missing character: There is no 😆 in font Arial/OT:script=latn;language=dflt;map
+ping=tex-text;!
+[204]
+File: C:/GitHub/VisualIdeas/data/images/24dfcfcb99de04d8cd1cfce6310a6f0b.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/24dfcfcb99de04d8cd1cfce6310a6f0b.png>
+
+Missing character: There is no 😆 in font Arial/OT:script=latn;language=dflt;map
+ping=tex-text;!
+[205]
+File: C:/GitHub/VisualIdeas/data/images/6e5a6891b641419163fa291467e87ae7.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/6e5a6891b641419163fa291467e87ae7.png>
+ [206]
+File: C:/GitHub/VisualIdeas/data/images/db30550bb50e4ed15838165603c484eb.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/db30550bb50e4ed15838165603c484eb.png>
+ [207]
+File: C:/GitHub/VisualIdeas/data/images/e2279be7724c25f806a8a3882e69d1e4.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/e2279be7724c25f806a8a3882e69d1e4.png>
+File: C:/GitHub/VisualIdeas/data/images/555ab948b93e67ef2bdb9a54be662152.jpg Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/555ab948b93e67ef2bdb9a54be662152.jpg>
+ [208] [209]
+File: C:/GitHub/VisualIdeas/data/images/91895fea85321b431cb13b85407009c7.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/91895fea85321b431cb13b85407009c7.png>
+ [210]
+File: C:/GitHub/VisualIdeas/data/images/4c03ea19980b50b3818f3bddea921e89.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/4c03ea19980b50b3818f3bddea921e89.png>
+ [211]
+File: C:/GitHub/VisualIdeas/data/images/04b8e093afdbfbde13e2415e4f7923ef.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/04b8e093afdbfbde13e2415e4f7923ef.png>
+ [212]
+File: C:/GitHub/VisualIdeas/data/images/3943cb56e0fc88deaf54286864b250d3.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/3943cb56e0fc88deaf54286864b250d3.png>
+ [213]
+File: C:/GitHub/VisualIdeas/data/images/ba7397c58347b3031304748f055dc731.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/ba7397c58347b3031304748f055dc731.png>
+ [214]
+File: C:/GitHub/VisualIdeas/data/images/b00a1548d330ba327803eb0a29582711.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/b00a1548d330ba327803eb0a29582711.png>
+ [215]
+File: C:/GitHub/VisualIdeas/data/images/b895e36605db1947861ca587163275b7.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/b895e36605db1947861ca587163275b7.png>
+ [216]
+File: C:/GitHub/VisualIdeas/data/images/1f461a4e51b14ffcdfe9a0f758ff9b37.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/1f461a4e51b14ffcdfe9a0f758ff9b37.png>
+
+Missing character: There is no 🤔 in font Arial/OT:script=latn;language=dflt;map
+ping=tex-text;!
+[217]
+File: C:/GitHub/VisualIdeas/data/images/dcebf335927442da25662d3df825dfed.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/dcebf335927442da25662d3df825dfed.png>
+ [218]
+File: C:/GitHub/VisualIdeas/data/images/33867e956aa95ebd6c768779a125c99f.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/33867e956aa95ebd6c768779a125c99f.png>
+ [219]
+File: C:/GitHub/VisualIdeas/data/images/3e6774281f7367e1bf846208d417dfcc.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/3e6774281f7367e1bf846208d417dfcc.png>
+ [220]
+File: C:/GitHub/VisualIdeas/data/images/3af18e080df5ebfafe96ac38e039d4d6.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/3af18e080df5ebfafe96ac38e039d4d6.png>
+ [221]
+File: C:/GitHub/VisualIdeas/data/images/23e0c29803b5e6cb185ffe3b7b7666ed.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/23e0c29803b5e6cb185ffe3b7b7666ed.png>
+ [222]
+File: C:/GitHub/VisualIdeas/data/images/d13d2644bdafa7b183c6b74a49b9735d.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/d13d2644bdafa7b183c6b74a49b9735d.png>
+ [223]
+File: C:/GitHub/VisualIdeas/data/images/5c4db4ad69ef5db01064cc77d59e0ac6.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/5c4db4ad69ef5db01064cc77d59e0ac6.png>
+ [224]
+File: C:/GitHub/VisualIdeas/data/images/d66cad85795e029ea2089f2057b5b808.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/d66cad85795e029ea2089f2057b5b808.png>
+ [225]
+File: C:/GitHub/VisualIdeas/data/images/b85524e1c6a3ca5cf0150bb343efa023.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/b85524e1c6a3ca5cf0150bb343efa023.png>
+ [226]
+File: C:/GitHub/VisualIdeas/data/images/edc6e8ad231e1dea4bcab87f569ac05e.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/edc6e8ad231e1dea4bcab87f569ac05e.png>
+ [227]
+File: C:/GitHub/VisualIdeas/data/images/e0a3d65a443cd964153807f543e7a5df.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/e0a3d65a443cd964153807f543e7a5df.png>
+ [228]
+File: C:/GitHub/VisualIdeas/data/images/42e4b6034d27649c388dbfcaee01c0f1.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/42e4b6034d27649c388dbfcaee01c0f1.png>
+
+[229]
+File: C:/GitHub/VisualIdeas/data/images/269d94216d16857df501012224f5b697.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/269d94216d16857df501012224f5b697.png>
+File: C:/GitHub/VisualIdeas/data/images/26f060aeca0b6171044788ecddda76c3.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/26f060aeca0b6171044788ecddda76c3.png>
+
+Missing character: There is no ↳ in font Arial Bold/OT:script=latn;language=dfl
+t;mapping=tex-text;!
+[230] [231]
+File: C:/GitHub/VisualIdeas/data/images/eeca2daa34f72b1604ca2686d355ac36.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/eeca2daa34f72b1604ca2686d355ac36.png>
+ [232]
+File: C:/GitHub/VisualIdeas/data/images/31ec9b4524a0bc81fa2cb7a3cf3f87a4.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/31ec9b4524a0bc81fa2cb7a3cf3f87a4.png>
+ [233]
+File: C:/GitHub/VisualIdeas/data/images/11dc35d015f61f80ec08aec430f6d29a.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/11dc35d015f61f80ec08aec430f6d29a.png>
+ [234]
+File: C:/GitHub/VisualIdeas/data/images/02d326254577b2b3a1a8a26bece2831a.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/02d326254577b2b3a1a8a26bece2831a.png>
+ [235]
+File: C:/GitHub/VisualIdeas/data/images/98df2aa56d3f8b94498c3482c54b2c25.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/98df2aa56d3f8b94498c3482c54b2c25.png>
+ [236]
+File: C:/GitHub/VisualIdeas/data/images/7a84f76ff0797606697143505a271415.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/7a84f76ff0797606697143505a271415.png>
+ [237]
+File: C:/GitHub/VisualIdeas/data/images/fef1b00f2c0f51e9489e3b4cd2fb007c.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/fef1b00f2c0f51e9489e3b4cd2fb007c.png>
+
+Missing character: There is no 😊 in font Arial/OT:script=latn;language=dflt;map
+ping=tex-text;!
+[238]
+File: C:/GitHub/VisualIdeas/data/images/75b3cfaec48ffafee713f331d39ce7f9.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/75b3cfaec48ffafee713f331d39ce7f9.png>
+ [239]
+File: C:/GitHub/VisualIdeas/data/images/3bbe5f2db63cd88de2db77695b545f27.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/3bbe5f2db63cd88de2db77695b545f27.png>
+File: C:/GitHub/VisualIdeas/data/images/35b8bd78f61272ff40df6dfe9596afc2.jpg Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/35b8bd78f61272ff40df6dfe9596afc2.jpg>
+
+Missing character: There is no 😊 in font Arial/OT:script=latn;language=dflt;map
+ping=tex-text;!
+[240]
+File: C:/GitHub/VisualIdeas/data/images/f8f9c706d866a024de7c3835900403c0.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/f8f9c706d866a024de7c3835900403c0.png>
+
+Missing character: There is no 😂 in font Arial/OT:script=latn;language=dflt;map
+ping=tex-text;!
+[241]
+File: C:/GitHub/VisualIdeas/data/images/30ef4489e43e23f20f928aeac4749334.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/30ef4489e43e23f20f928aeac4749334.png>
+
+Missing character: There is no ↳ in font Arial/OT:script=latn;language=dflt;map
+ping=tex-text;!
+[242]
+File: C:/GitHub/VisualIdeas/data/images/69482c3f6fc9958f4b2d0ce90322dfc8.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/69482c3f6fc9958f4b2d0ce90322dfc8.png>
+
+Missing character: There is no ↳ in font Arial/OT:script=latn;language=dflt;map
+ping=tex-text;!
+Missing character: There is no ↳ in font Arial/OT:script=latn;language=dflt;map
+ping=tex-text;!
+[243]
+File: C:/GitHub/VisualIdeas/data/images/a0a40d41332959b7258eca96816e0300.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/a0a40d41332959b7258eca96816e0300.png>
+ [244]
+File: C:/GitHub/VisualIdeas/data/images/fbad289beb295f0a312569c0d1373ed9.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/fbad289beb295f0a312569c0d1373ed9.png>
+ [245]
+File: C:/GitHub/VisualIdeas/data/images/efd850f10f1e9dfac287430c9ddb4f04.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/efd850f10f1e9dfac287430c9ddb4f04.png>
+File: C:/GitHub/VisualIdeas/data/images/d72867433cfdeda67359d0a996924458.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/d72867433cfdeda67359d0a996924458.png>
+File: C:/GitHub/VisualIdeas/data/images/ffb3682a924d0ee8c8e80447ee3ec6e5.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/ffb3682a924d0ee8c8e80447ee3ec6e5.png>
+ [246]
+File: C:/GitHub/VisualIdeas/data/images/34976c0d9821e244186d7ab9f4f0af0d.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/34976c0d9821e244186d7ab9f4f0af0d.png>
+ [247]
+File: C:/GitHub/VisualIdeas/data/images/84b460b316a5b85e1f79b2003a3cb9c3.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/84b460b316a5b85e1f79b2003a3cb9c3.png>
+ [248]
+File: C:/GitHub/VisualIdeas/data/images/6ae425b8fef49eb0b14dc832e2365d1d.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/6ae425b8fef49eb0b14dc832e2365d1d.png>
+ [249]
+File: C:/GitHub/VisualIdeas/data/images/311e497de466902e4e9348ada58d6317.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/311e497de466902e4e9348ada58d6317.png>
+ [250]
+File: C:/GitHub/VisualIdeas/data/images/5b0457238efda097a778010386e24cf5.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/5b0457238efda097a778010386e24cf5.png>
+File: C:/GitHub/VisualIdeas/data/images/f9fc9817ea037aa75beaf30b04f56495.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/f9fc9817ea037aa75beaf30b04f56495.png>
+ [251]
+File: C:/GitHub/VisualIdeas/data/images/9c770471a730d7645834fd63545c5201.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/9c770471a730d7645834fd63545c5201.png>
+ [252]
+File: C:/GitHub/VisualIdeas/data/images/9d206d03120e55f40c584d1dc761400d.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/9d206d03120e55f40c584d1dc761400d.png>
+ [253]
+File: C:/GitHub/VisualIdeas/data/images/7a63482637c3d35c619dd48f3178769c.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/7a63482637c3d35c619dd48f3178769c.png>
+ [254]
+File: C:/GitHub/VisualIdeas/data/images/76f584c008ce99a4c3c8e21341dde9c1.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/76f584c008ce99a4c3c8e21341dde9c1.png>
+
+[255]
+File: C:/GitHub/VisualIdeas/data/images/853dd73c23018493a8347834ab4ec27e.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/853dd73c23018493a8347834ab4ec27e.png>
+ [256]
+Missing character: There is no ↴ in font Arial/OT:script=latn;language=dflt;map
+ping=tex-text;!
+File: C:/GitHub/VisualIdeas/data/images/b8098475b98eacf77cfe5cd2e20796e6.jpeg G
+raphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/b8098475b98eacf77cfe5cd2e20796e6.jpeg>
+[257]
+File: C:/GitHub/VisualIdeas/data/images/d815d5a039c3e11b81514146a5180a40.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/d815d5a039c3e11b81514146a5180a40.png>
+ [258]
+File: C:/GitHub/VisualIdeas/data/images/25b53c7eda98f17cdc8f104d69da7630.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/25b53c7eda98f17cdc8f104d69da7630.png>
+ [259]
+File: C:/GitHub/VisualIdeas/data/images/b0d773baa1da05ead9bc13a317251618.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/b0d773baa1da05ead9bc13a317251618.png>
+File: C:/GitHub/VisualIdeas/data/images/9e78457b5f22f61da2ac331368940c00.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/9e78457b5f22f61da2ac331368940c00.png>
+File: C:/GitHub/VisualIdeas/data/images/c25b78110c09d1a7ddc327f5ea2a4eae.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/c25b78110c09d1a7ddc327f5ea2a4eae.png>
+File: C:/GitHub/VisualIdeas/data/images/6a9bb06b192b8c364e7bc879b7fb68bf.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/6a9bb06b192b8c364e7bc879b7fb68bf.png>
+ [260]
+File: C:/GitHub/VisualIdeas/data/images/d21e78993183bbdea6c971654ab56a64.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/d21e78993183bbdea6c971654ab56a64.png>
+ [261]
+File: C:/GitHub/VisualIdeas/data/images/291c9a31016921fba39b052ace8aed0b.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/291c9a31016921fba39b052ace8aed0b.png>
+ [262]
+File: C:/GitHub/VisualIdeas/data/images/3929fbe3c58b67d704cf1901204a3bd6.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/3929fbe3c58b67d704cf1901204a3bd6.png>
+ [263] [264]
+File: C:/GitHub/VisualIdeas/data/images/0a40c1527e22a739c91d866e9203b7f9.jpg Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/0a40c1527e22a739c91d866e9203b7f9.jpg>
+
+Missing character: There is no 😅 in font Arial/OT:script=latn;language=dflt;map
+ping=tex-text;!
+File: C:/GitHub/VisualIdeas/data/images/9d15ea599867bb73e2f0b81cc2f3a118.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/9d15ea599867bb73e2f0b81cc2f3a118.png>
+File: C:/GitHub/VisualIdeas/data/images/a4f3ca02a8974c54a3b5ddf349a91e9f.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/a4f3ca02a8974c54a3b5ddf349a91e9f.png>
+[265] [266]
+File: C:/GitHub/VisualIdeas/data/images/cc7318039901da5fddcd7dbc56a012ae.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/cc7318039901da5fddcd7dbc56a012ae.png>
+ [267]
+File: C:/GitHub/VisualIdeas/data/images/0907b065c4e0efa5e6c457af7e90c957.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/0907b065c4e0efa5e6c457af7e90c957.png>
+
+Missing character: There is no 😄 in font Arial/OT:script=latn;language=dflt;map
+ping=tex-text;!
+[268]
+File: C:/GitHub/VisualIdeas/data/images/3522947c471ef9b06fba05ca3253895d.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/3522947c471ef9b06fba05ca3253895d.png>
+ [269]
+File: C:/GitHub/VisualIdeas/data/images/d81e749facf9ea71bc98f7b7c407b6f0.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/d81e749facf9ea71bc98f7b7c407b6f0.png>
+ [270]
+File: C:/GitHub/VisualIdeas/data/images/f7e50a1f99eb902ab8a02406bd25423a.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/f7e50a1f99eb902ab8a02406bd25423a.png>
+ [271]
+File: C:/GitHub/VisualIdeas/data/images/59fcc612d3e4146e996d051822e185d1.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/59fcc612d3e4146e996d051822e185d1.png>
+ [272]
+File: C:/GitHub/VisualIdeas/data/images/4ccee77f323fb924fac379cce9d706c3.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/4ccee77f323fb924fac379cce9d706c3.png>
+ [273]
+File: C:/GitHub/VisualIdeas/data/images/7034d7f3e6fc9a0f1f35c121a3ff3121.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/7034d7f3e6fc9a0f1f35c121a3ff3121.png>
+ [274]
+File: C:/GitHub/VisualIdeas/data/images/ed2dc2c0dc98135f61d724d9ab8c5a65.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/ed2dc2c0dc98135f61d724d9ab8c5a65.png>
+ [275]
+File: C:/GitHub/VisualIdeas/data/images/a4f8d40133c3ac324b20c15f78570b18.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/a4f8d40133c3ac324b20c15f78570b18.png>
+ [276]
+File: C:/GitHub/VisualIdeas/data/images/f8deeea73e18b0907a1505dd45e7691c.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/f8deeea73e18b0907a1505dd45e7691c.png>
+ [277]
+File: C:/GitHub/VisualIdeas/data/images/faec8edaa5fff5877a898f0582c8a101.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/faec8edaa5fff5877a898f0582c8a101.png>
+ [278]
+File: C:/GitHub/VisualIdeas/data/images/058bfbf7e9e5881b248da20e4f201fe3.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/058bfbf7e9e5881b248da20e4f201fe3.png>
+ [279]
+File: C:/GitHub/VisualIdeas/data/images/5a8f83625005abd39c142ad9d7581ab4.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/5a8f83625005abd39c142ad9d7581ab4.png>
+
+[280]
+File: C:/GitHub/VisualIdeas/data/images/b236ce30aabe9a016fc69acfb2d14ec0.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/b236ce30aabe9a016fc69acfb2d14ec0.png>
+ [281]
+File: C:/GitHub/VisualIdeas/data/images/241addce9d5448fdab8b8b675bd45d96.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/241addce9d5448fdab8b8b675bd45d96.png>
+ [282]
+File: C:/GitHub/VisualIdeas/data/images/ffc47dc13b8d21cc3bdd498cc4deca5d.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/ffc47dc13b8d21cc3bdd498cc4deca5d.png>
+
+Missing character: There is no 💪 in font Arial/OT:script=latn;language=dflt;map
+ping=tex-text;!
+[283]
+File: C:/GitHub/VisualIdeas/data/images/77f4c4e5ba3f20cf77ec363b86f1c0a8.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/77f4c4e5ba3f20cf77ec363b86f1c0a8.png>
+ [284]
+File: C:/GitHub/VisualIdeas/data/images/4c742ffb515c128db013743aed22b111.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/4c742ffb515c128db013743aed22b111.png>
+ [285]
+File: C:/GitHub/VisualIdeas/data/images/2711741791958e42365f2d38026269e3.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/2711741791958e42365f2d38026269e3.png>
+ [286]
+File: C:/GitHub/VisualIdeas/data/images/5431ee9fbea77dc4a542e3a10ce66182.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/5431ee9fbea77dc4a542e3a10ce66182.png>
+ [287]
+File: C:/GitHub/VisualIdeas/data/images/9268573813fbc0360e983058ed92bfc9.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/9268573813fbc0360e983058ed92bfc9.png>
+ [288]
+File: C:/GitHub/VisualIdeas/data/images/bde5ff3ab4b31b99fa416e12b8dcf556.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/bde5ff3ab4b31b99fa416e12b8dcf556.png>
+ [289]
+File: C:/GitHub/VisualIdeas/data/images/45f3c04dbcf151c6bdd7a225e2fa9cc0.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/45f3c04dbcf151c6bdd7a225e2fa9cc0.png>
+File: C:/GitHub/VisualIdeas/data/images/8e9040af525f88582daecec111a347a2.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/8e9040af525f88582daecec111a347a2.png>
+ [290]
+File: C:/GitHub/VisualIdeas/data/images/047fd6cae26c23a618a71f8655269153.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/047fd6cae26c23a618a71f8655269153.png>
+ [291]
+File: C:/GitHub/VisualIdeas/data/images/24a49f03ec3f80760a43b3eab8507af6.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/24a49f03ec3f80760a43b3eab8507af6.png>
+ [292]
+File: C:/GitHub/VisualIdeas/data/images/e83c09ee515f52266cffce3137af6ee0.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/e83c09ee515f52266cffce3137af6ee0.png>
+ [293] [294]
+File: C:/GitHub/VisualIdeas/data/images/bc8ec2dd10fe93f5eb178785ca1ac417.jpg Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/bc8ec2dd10fe93f5eb178785ca1ac417.jpg>
+File: C:/GitHub/VisualIdeas/data/images/4a65e3f32afcc0d8a5d3e310515875a4.jpg Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/4a65e3f32afcc0d8a5d3e310515875a4.jpg>
+File: C:/GitHub/VisualIdeas/data/images/e72e62ddd60f5ef7257bbafb15907a28.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/e72e62ddd60f5ef7257bbafb15907a28.png>
+File: C:/GitHub/VisualIdeas/data/images/0910457e1f1c2e832c6e35068e4d82ed.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/0910457e1f1c2e832c6e35068e4d82ed.png>
+
+[295] [296]
+File: C:/GitHub/VisualIdeas/data/images/3a403bc6019dd17e4813c115f7060e8d.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/3a403bc6019dd17e4813c115f7060e8d.png>
+
+Missing character: There is no 😬 in font Arial/OT:script=latn;language=dflt;map
+ping=tex-text;!
+Missing character: There is no ❤ in font Arial/OT:script=latn;language=dflt;map
+ping=tex-text;!
+Missing character: There is no ️ in font Arial/OT:script=latn;language=dflt;map
+ping=tex-text;!
+[297]
+File: C:/GitHub/VisualIdeas/data/images/d21eb22e1b9a8db5803b7d8734388728.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/d21eb22e1b9a8db5803b7d8734388728.png>
+ [298]
+File: C:/GitHub/VisualIdeas/data/images/1c3f24277f09c12de45dcd741d0c4983.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/1c3f24277f09c12de45dcd741d0c4983.png>
+ [299]
+File: C:/GitHub/VisualIdeas/data/images/a0f0ad6a595bada5af1e30ed2192f12e.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/a0f0ad6a595bada5af1e30ed2192f12e.png>
+
+Missing character: There is no 🫠 in font Arial/OT:script=latn;language=dflt;map
+ping=tex-text;!
+[300]
+File: C:/GitHub/VisualIdeas/data/images/b624ac186d6b2c721c0aad2839a04d36.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/b624ac186d6b2c721c0aad2839a04d36.png>
+ [301]
+File: C:/GitHub/VisualIdeas/data/images/6e31475a54eb130650ce3a71d89fa176.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/6e31475a54eb130650ce3a71d89fa176.png>
+ [302]
+File: C:/GitHub/VisualIdeas/data/images/9b62519e7c092248527622bef1bcc233.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/9b62519e7c092248527622bef1bcc233.png>
+ [303]
+File: C:/GitHub/VisualIdeas/data/images/928fe1332ba23bd31f0e21b3fc55dc31.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/928fe1332ba23bd31f0e21b3fc55dc31.png>
+
+Missing character: There is no 🫠 in font Arial/OT:script=latn;language=dflt;map
+ping=tex-text;!
+[304]
+File: C:/GitHub/VisualIdeas/data/images/6e1af08dadef73ecf733b5aac609c806.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/6e1af08dadef73ecf733b5aac609c806.png>
+ [305]
+File: C:/GitHub/VisualIdeas/data/images/c5eb36cc238bc769c8705a2214504767.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/c5eb36cc238bc769c8705a2214504767.png>
+File: C:/GitHub/VisualIdeas/data/images/c11e59208b12e6569b247bc9707c36ec.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/c11e59208b12e6569b247bc9707c36ec.png>
+File: C:/GitHub/VisualIdeas/data/images/a9547ed9a14ce5bc8235432fdd458fc7.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/a9547ed9a14ce5bc8235432fdd458fc7.png>
+ [306]
+File: C:/GitHub/VisualIdeas/data/images/76871455636823b53a6cfc770dfcb118.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/76871455636823b53a6cfc770dfcb118.png>
+ [307]
+File: C:/GitHub/VisualIdeas/data/images/1806bf19516de7db8d1557df857bb67d.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/1806bf19516de7db8d1557df857bb67d.png>
+ [308]
+File: C:/GitHub/VisualIdeas/data/images/a412140411b867baef8afa393f6ad360.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/a412140411b867baef8afa393f6ad360.png>
+ [309]
+File: C:/GitHub/VisualIdeas/data/images/a881a196d34bb56314ac541a95086982.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/a881a196d34bb56314ac541a95086982.png>
+ [310]
+File: C:/GitHub/VisualIdeas/data/images/206a6bcd11f59d99cae9e2be54ffe47b.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/206a6bcd11f59d99cae9e2be54ffe47b.png>
+File: C:/GitHub/VisualIdeas/data/images/360af0cbadb525e1100d06f1d9eff3d5.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/360af0cbadb525e1100d06f1d9eff3d5.png>
+File: C:/GitHub/VisualIdeas/data/images/66ce058427b0717fdd36093cf2fb5397.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/66ce058427b0717fdd36093cf2fb5397.png>
+ [311] [312]
+File: C:/GitHub/VisualIdeas/data/images/577d3e87f84997e691ef251f8cb14ec7.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/577d3e87f84997e691ef251f8cb14ec7.png>
+ [313]
+File: C:/GitHub/VisualIdeas/data/images/110f5079ea39828ca1bc9b43746fd9de.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/110f5079ea39828ca1bc9b43746fd9de.png>
+ [314]
+File: C:/GitHub/VisualIdeas/data/images/be7e66611183a6ed070257eac4e3196c.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/be7e66611183a6ed070257eac4e3196c.png>
+
+Missing character: There is no 💪 in font Arial/OT:script=latn;language=dflt;map
+ping=tex-text;!
+[315]
+File: C:/GitHub/VisualIdeas/data/images/a56b1486419543093ba667336813a1d9.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/a56b1486419543093ba667336813a1d9.png>
+File: C:/GitHub/VisualIdeas/data/images/988d7c27e022d76e882a95e27c12797d.jpg Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/988d7c27e022d76e882a95e27c12797d.jpg>
+File: C:/GitHub/VisualIdeas/data/images/74159f0066d521522b5f328f105fa361.jpg Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/74159f0066d521522b5f328f105fa361.jpg>
+File: C:/GitHub/VisualIdeas/data/images/3f3e060b39839d8ad5411ea5c19fd9c0.jpg Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/3f3e060b39839d8ad5411ea5c19fd9c0.jpg>
+ [316] [317]
+File: C:/GitHub/VisualIdeas/data/images/9707c6525c1bd249a9cd6a918038f1b0.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/9707c6525c1bd249a9cd6a918038f1b0.png>
+ [318]
+File: C:/GitHub/VisualIdeas/data/images/0ef221e87d442ec14cc74f0c349e8624.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/0ef221e87d442ec14cc74f0c349e8624.png>
+ [319]
+File: C:/GitHub/VisualIdeas/data/images/a239411ade075a042d60ee64b2840ff9.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/a239411ade075a042d60ee64b2840ff9.png>
+ [320]
+File: C:/GitHub/VisualIdeas/data/images/e94376b7c6316ef234743ec7dbc8988a.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/e94376b7c6316ef234743ec7dbc8988a.png>
+File: C:/GitHub/VisualIdeas/data/images/8d16d9ccd4c67d5996d4001453f22ed9.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/8d16d9ccd4c67d5996d4001453f22ed9.png>
+ [321]
+File: C:/GitHub/VisualIdeas/data/images/8c77158eca38571c8eb5b15b665d058d.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/8c77158eca38571c8eb5b15b665d058d.png>
+ [322]
+File: C:/GitHub/VisualIdeas/data/images/941d2ce77ca08c422e674d03443733e4.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/941d2ce77ca08c422e674d03443733e4.png>
+ [323]
+File: C:/GitHub/VisualIdeas/data/images/8d719fbe84441e7d9bbc5cb038c7c191.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/8d719fbe84441e7d9bbc5cb038c7c191.png>
+ [324]
+File: C:/GitHub/VisualIdeas/data/images/e8afd1bcc58679befd1678ab97648ea7.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/e8afd1bcc58679befd1678ab97648ea7.png>
+ [325]
+File: C:/GitHub/VisualIdeas/data/images/56f17e095666fc73782ca7c7751b06f3.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/56f17e095666fc73782ca7c7751b06f3.png>
+ [326]
+File: C:/GitHub/VisualIdeas/data/images/366138628c6e1fe03d16f46e8462031c.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/366138628c6e1fe03d16f46e8462031c.png>
+
+[327]
+File: C:/GitHub/VisualIdeas/data/images/7107960c2e8198a17e4cc17dbd1fa19b.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/7107960c2e8198a17e4cc17dbd1fa19b.png>
+ [328]
+File: C:/GitHub/VisualIdeas/data/images/3c882e734f13cf94ac84b6d6ae8320b4.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/3c882e734f13cf94ac84b6d6ae8320b4.png>
+File: C:/GitHub/VisualIdeas/data/images/53d7694b6e6f14e48b2fe7d216df1d13.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/53d7694b6e6f14e48b2fe7d216df1d13.png>
+ [329]
+File: C:/GitHub/VisualIdeas/data/images/1a7ecad72022ba45b85ae486636a484a.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/1a7ecad72022ba45b85ae486636a484a.png>
+ [330]
+File: C:/GitHub/VisualIdeas/data/images/55e95c38ee4df9b4346b15c280a6efae.png Gr
+aphic file (type bmp)
+<C:/GitHub/VisualIdeas/data/images/55e95c38ee4df9b4346b15c280a6efae.png>
+ [331]
+
+enddocument/afterlastpage (AED): lastpage setting LastPage.
+(archive.aux)
+ ***********
+LaTeX2e <2025-11-01>
+L3 programming layer <2026-03-20>
+ ***********
+ ) 
+Here is how much of TeX's memory you used:
+ 9148 strings out of 402807
+ 389044 string characters out of 5444721
+ 607776 words of memory out of 5000000
+ 37594 multiletter control sequences out of 15000+600000
+ 630644 words of font info for 72 fonts, out of 8000000 for 9000
+ 1348 hyphenation exceptions out of 8191
+ 73i,11n,93p,1073b,414s stack positions out of 10000i,1000n,20000p,200000b,200000s
+
+Output written on archive.pdf (331 pages).
