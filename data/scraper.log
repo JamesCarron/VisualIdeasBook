@@ -1111,3 +1111,103 @@ PermissionError: [WinError 32] The process cannot access the file because it is 
 2026-05-13 18:28:21,359 [INFO] Compiling 1 PDFs in parallel (5 years)
 2026-05-13 18:28:33,480 [INFO] PDF generated: C:\Users\James\Documents\GitHub\VisualIdeasBook\output\archive_2025.pdf
 2026-05-13 18:28:33,488 [INFO] PDF written: C:\Users\James\Documents\GitHub\VisualIdeasBook\output\archive.pdf
+2026-05-14 15:35:44,336 [INFO] Deduplicating…
+2026-05-14 15:35:44,444 [INFO] Kept 391; removed 91 (duplicates/failed)
+2026-05-14 15:35:44,444 [INFO] Generating PDF (per-year only)…
+2026-05-14 15:35:45,043 [INFO] Wrote 231 entry files in C:\GitHub\VisualIdeasBook\output\entries
+2026-05-14 15:35:45,044 [INFO] Wrote master LaTeX: C:\GitHub\VisualIdeasBook\output\archive.tex
+2026-05-14 15:35:45,046 [INFO] Wrote year LaTeX: C:\GitHub\VisualIdeasBook\output\archive_2022.tex
+2026-05-14 15:35:45,047 [INFO] Wrote year LaTeX: C:\GitHub\VisualIdeasBook\output\archive_2023.tex
+2026-05-14 15:35:45,049 [INFO] Wrote year LaTeX: C:\GitHub\VisualIdeasBook\output\archive_2024.tex
+2026-05-14 15:35:45,050 [INFO] Wrote year LaTeX: C:\GitHub\VisualIdeasBook\output\archive_2025.tex
+2026-05-14 15:35:45,051 [INFO] Wrote year LaTeX: C:\GitHub\VisualIdeasBook\output\archive_2026.tex
+2026-05-14 15:35:45,054 [INFO] Compiling with xelatex: C:\Users\jcarron\AppData\Local\Programs\MiKTeX\miktex\bin\x64\xelatex.EXE
+2026-05-14 15:35:45,056 [INFO] Skipping 2026 (entries unchanged since last generation)
+2026-05-14 15:35:45,056 [INFO] Compiling 4 PDFs in parallel (5 years)
+2026-05-14 15:35:50,777 [INFO] PDF generated: C:\GitHub\VisualIdeasBook\output\archive_2022.pdf
+2026-05-14 15:35:55,111 [INFO] PDF generated: C:\GitHub\VisualIdeasBook\output\archive_2025.pdf
+2026-05-14 15:35:56,498 [INFO] PDF generated: C:\GitHub\VisualIdeasBook\output\archive_2023.pdf
+2026-05-14 15:35:57,784 [INFO] PDF generated: C:\GitHub\VisualIdeasBook\output\archive_2024.pdf
+2026-05-14 15:35:57,792 [INFO] PDF written: C:\GitHub\VisualIdeasBook\output\archive.pdf
+2026-05-14 16:47:55,102 [INFO] Deduplicating…
+2026-05-14 16:47:55,206 [INFO] Kept 391; removed 91 (duplicates/failed)
+2026-05-14 16:47:55,206 [INFO] Generating PDF (per-year only)…
+2026-05-14 16:47:55,592 [INFO] Wrote 222 entry files in C:\GitHub\VisualIdeasBook\output\entries
+2026-05-14 16:47:55,593 [INFO] Wrote master LaTeX: C:\GitHub\VisualIdeasBook\output\archive.tex
+2026-05-14 16:47:55,595 [INFO] Wrote year LaTeX: C:\GitHub\VisualIdeasBook\output\archive_2022.tex
+2026-05-14 16:47:55,596 [INFO] Wrote year LaTeX: C:\GitHub\VisualIdeasBook\output\archive_2023.tex
+2026-05-14 16:47:55,597 [INFO] Wrote year LaTeX: C:\GitHub\VisualIdeasBook\output\archive_2024.tex
+2026-05-14 16:47:55,599 [INFO] Wrote year LaTeX: C:\GitHub\VisualIdeasBook\output\archive_2025.tex
+2026-05-14 16:47:55,600 [INFO] Wrote year LaTeX: C:\GitHub\VisualIdeasBook\output\archive_2026.tex
+2026-05-14 16:47:55,604 [INFO] Compiling with xelatex: C:\Users\jcarron\AppData\Local\Programs\MiKTeX\miktex\bin\x64\xelatex.EXE
+2026-05-14 16:47:55,605 [INFO] Skipping 2026 (entries unchanged since last generation)
+2026-05-14 16:47:55,605 [INFO] Compiling 4 PDFs in parallel (5 years)
+2026-05-14 16:48:00,506 [INFO] PDF generated: C:\GitHub\VisualIdeasBook\output\archive_2022.pdf
+2026-05-14 16:48:04,837 [INFO] PDF generated: C:\GitHub\VisualIdeasBook\output\archive_2025.pdf
+2026-05-14 16:48:05,024 [INFO] PDF generated: C:\GitHub\VisualIdeasBook\output\archive_2023.pdf
+2026-05-14 16:48:07,032 [INFO] PDF generated: C:\GitHub\VisualIdeasBook\output\archive_2024.pdf
+2026-05-14 16:48:07,040 [INFO] PDF written: C:\GitHub\VisualIdeasBook\output\archive.pdf
+2026-05-14 16:53:41,032 [INFO] Deduplicating…
+2026-05-14 16:53:41,136 [INFO] Kept 391; removed 91 (duplicates/failed)
+2026-05-14 16:53:41,136 [INFO] Generating PDF (per-year only)…
+2026-05-14 16:53:41,566 [INFO] Wrote 221 entry files in C:\GitHub\VisualIdeasBook\output\entries
+2026-05-14 16:53:41,566 [INFO] Wrote master LaTeX: C:\GitHub\VisualIdeasBook\output\archive.tex
+2026-05-14 16:53:41,568 [INFO] Wrote year LaTeX: C:\GitHub\VisualIdeasBook\output\archive_2022.tex
+2026-05-14 16:53:41,569 [INFO] Wrote year LaTeX: C:\GitHub\VisualIdeasBook\output\archive_2023.tex
+2026-05-14 16:53:41,571 [INFO] Wrote year LaTeX: C:\GitHub\VisualIdeasBook\output\archive_2024.tex
+2026-05-14 16:53:41,572 [INFO] Wrote year LaTeX: C:\GitHub\VisualIdeasBook\output\archive_2025.tex
+2026-05-14 16:53:41,574 [INFO] Wrote year LaTeX: C:\GitHub\VisualIdeasBook\output\archive_2026.tex
+2026-05-14 16:53:41,576 [INFO] Compiling with xelatex: C:\Users\jcarron\AppData\Local\Programs\MiKTeX\miktex\bin\x64\xelatex.EXE
+2026-05-14 16:53:41,577 [INFO] Skipping 2022 (entries unchanged since last generation)
+2026-05-14 16:53:41,578 [INFO] Skipping 2024 (entries unchanged since last generation)
+2026-05-14 16:53:41,579 [INFO] Skipping 2025 (entries unchanged since last generation)
+2026-05-14 16:53:41,579 [INFO] Skipping 2026 (entries unchanged since last generation)
+2026-05-14 16:53:41,579 [INFO] Compiling 1 PDFs in parallel (5 years)
+2026-05-14 16:53:50,148 [INFO] PDF generated: C:\GitHub\VisualIdeasBook\output\archive_2023.pdf
+2026-05-14 16:53:50,156 [INFO] PDF written: C:\GitHub\VisualIdeasBook\output\archive.pdf
+2026-05-14 17:06:00,400 [INFO] Deduplicating…
+2026-05-14 17:06:00,502 [INFO] Kept 391; removed 91 (duplicates/failed)
+2026-05-14 17:06:00,502 [INFO] Generating PDF (per-year only)…
+2026-05-14 17:06:00,884 [INFO] Wrote 219 entry files in C:\GitHub\VisualIdeasBook\output\entries
+2026-05-14 17:06:00,885 [INFO] Wrote master LaTeX: C:\GitHub\VisualIdeasBook\output\archive.tex
+2026-05-14 17:06:00,886 [INFO] Wrote year LaTeX: C:\GitHub\VisualIdeasBook\output\archive_2022.tex
+2026-05-14 17:06:00,887 [INFO] Wrote year LaTeX: C:\GitHub\VisualIdeasBook\output\archive_2023.tex
+2026-05-14 17:06:00,888 [INFO] Wrote year LaTeX: C:\GitHub\VisualIdeasBook\output\archive_2024.tex
+2026-05-14 17:06:00,889 [INFO] Wrote year LaTeX: C:\GitHub\VisualIdeasBook\output\archive_2025.tex
+2026-05-14 17:06:00,890 [INFO] Wrote year LaTeX: C:\GitHub\VisualIdeasBook\output\archive_2026.tex
+2026-05-14 17:06:00,893 [INFO] Compiling with xelatex: C:\Users\jcarron\AppData\Local\Programs\MiKTeX\miktex\bin\x64\xelatex.EXE
+2026-05-14 17:06:00,893 [INFO] Skipping 2022 (entries unchanged since last generation)
+2026-05-14 17:06:00,894 [INFO] Skipping 2025 (entries unchanged since last generation)
+2026-05-14 17:06:00,895 [INFO] Skipping 2026 (entries unchanged since last generation)
+2026-05-14 17:06:00,895 [INFO] Compiling 2 PDFs in parallel (5 years)
+2026-05-14 17:06:09,332 [INFO] PDF generated: C:\GitHub\VisualIdeasBook\output\archive_2023.pdf
+2026-05-14 17:06:11,744 [INFO] PDF generated: C:\GitHub\VisualIdeasBook\output\archive_2024.pdf
+2026-05-14 17:06:11,752 [INFO] PDF written: C:\GitHub\VisualIdeasBook\output\archive.pdf
+2026-05-14 17:19:01,912 [INFO] Deduplicating…
+2026-05-14 17:19:02,051 [INFO] Kept 391; removed 91 (duplicates/failed)
+2026-05-14 17:19:02,051 [INFO] Generating PDF (per-year only)…
+2026-05-14 17:19:02,491 [INFO] Wrote 217 entry files in C:\GitHub\VisualIdeasBook\output\entries
+2026-05-14 17:19:02,491 [INFO] Wrote master LaTeX: C:\GitHub\VisualIdeasBook\output\archive.tex
+2026-05-14 17:19:02,492 [INFO] Wrote year LaTeX: C:\GitHub\VisualIdeasBook\output\archive_2022.tex
+2026-05-14 17:19:02,493 [INFO] Wrote year LaTeX: C:\GitHub\VisualIdeasBook\output\archive_2023.tex
+2026-05-14 17:19:02,494 [INFO] Wrote year LaTeX: C:\GitHub\VisualIdeasBook\output\archive_2024.tex
+2026-05-14 17:19:02,495 [INFO] Wrote year LaTeX: C:\GitHub\VisualIdeasBook\output\archive_2025.tex
+2026-05-14 17:19:02,496 [INFO] Wrote year LaTeX: C:\GitHub\VisualIdeasBook\output\archive_2026.tex
+2026-05-14 17:19:02,501 [INFO] Compiling with xelatex: C:\Users\jcarron\AppData\Local\Programs\MiKTeX\miktex\bin\x64\xelatex.EXE
+2026-05-14 17:19:02,501 [INFO] Skipping 2022 (entries unchanged since last generation)
+2026-05-14 17:19:02,502 [INFO] Skipping 2023 (entries unchanged since last generation)
+2026-05-14 17:19:02,503 [INFO] Skipping 2025 (entries unchanged since last generation)
+2026-05-14 17:19:02,503 [INFO] Skipping 2026 (entries unchanged since last generation)
+2026-05-14 17:19:02,504 [INFO] Compiling 1 PDFs in parallel (5 years)
+2026-05-14 17:19:12,766 [INFO] PDF generated: C:\GitHub\VisualIdeasBook\output\archive_2024.pdf
+2026-05-14 17:19:12,774 [INFO] PDF written: C:\GitHub\VisualIdeasBook\output\archive.pdf
+2026-05-14 17:19:14,878 [ERROR] Exception in callback _ProactorBasePipeTransport._call_connection_lost()
+handle: <Handle _ProactorBasePipeTransport._call_connection_lost()>
+Traceback (most recent call last):
+  File "C:\Users\jcarron\AppData\Local\Programs\Python\Python313\Lib\asyncio\events.py", line 89, in _run
+    self._context.run(self._callback, *self._args)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jcarron\AppData\Local\Programs\Python\Python313\Lib\asyncio\proactor_events.py", line 165, in _call_connection_lost
+    self._sock.shutdown(socket.SHUT_RDWR)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host

@@ -1,204 +1,1967 @@
-\documentclass[11pt]{article}
-
-\usepackage[
-    paperwidth=176mm,
-    paperheight=250mm,
-    top=18mm,
-    bottom=22mm,
-    left=18mm,
-    right=18mm,
-    footskip=10mm,
-]{geometry}
-
-\usepackage{graphicx}
-\usepackage{xcolor}
-\usepackage{fancyhdr}
-\usepackage{parskip}
-\usepackage{ragged2e}
-\usepackage{fontspec}
-\usepackage{lastpage}
-
-% Use Arial — present on every Windows install, looked up via fontconfig.
-% fontspec will fall back to the system default if Arial is unavailable.
-\IfFontExistsTF{Arial}{%
-    \setmainfont{Arial}%
-}{%
-    % Latin Modern is bundled with every TeX distribution; safe fallback.
-    \setmainfont{Latin Modern Roman}%
-}
-
-\pagestyle{fancy}
-\fancyhf{}
-\renewcommand{\headrulewidth}{0pt}
-\renewcommand{\footrulewidth}{0.4pt}
-
-\newcommand{\theposttitle}{}
-\newcommand{\thepostdate}{}
-
-\fancyfoot[L]{\color{gray!70}\footnotesize\itshape\theposttitle}
-\fancyfoot[C]{\color{gray!70}\footnotesize\thepage\,/\,\pageref{LastPage}}
-\fancyfoot[R]{\color{gray!70}\footnotesize\thepostdate}
-
-\setlength{\parindent}{0pt}
-
+\documentclass[archive.tex]{subfiles}
 \begin{document}
-\input{entries/2024/2024-01-02_dad-taught-fixing-whats-broke-not-knowing_INTERESTING.tex}
-\newpage
-\input{entries/2024/2024-01-02_dad-taught-fixing-whats-broke-not-knowing_DESIGN.tex}
-\newpage
-\input{entries/2024/2024-01-02_dad-taught-fixing-whats-broke-not-knowing_ENCHANTING.tex}
-\newpage
-\input{entries/2024/2024-01-02_dad-taught-fixing-whats-broke-not-knowing_ANALOGY.tex}
-\newpage
-\input{entries/2024/2024-01-16_frame-failure-paves-road-success_INTERESTING.tex}
-\newpage
-\input{entries/2024/2024-01-16_frame-failure-paves-road-success_DESIGN.tex}
-\newpage
-\input{entries/2024/2024-01-16_frame-failure-paves-road-success_ENCHANTING.tex}
-\newpage
-\input{entries/2024/2024-01-16_frame-failure-paves-road-success_ANALOGY.tex}
-\newpage
-\input{entries/2024/2024-01-30_visual-ideas-simple-shift-thinking-got-started-posting-online_INTERESTING.tex}
-\newpage
-\input{entries/2024/2024-01-30_visual-ideas-simple-shift-thinking-got-started-posting-online_DESIGN.tex}
-\newpage
-\input{entries/2024/2024-01-30_visual-ideas-simple-shift-thinking-got-started-posting-online_ENCHANTING.tex}
-\newpage
-\input{entries/2024/2024-01-30_visual-ideas-simple-shift-thinking-got-started-posting-online_ANALOGY.tex}
-\newpage
-\input{entries/2024/2024-02-13_people-get-wrong-iteration-change_INTERESTING.tex}
-\newpage
-\input{entries/2024/2024-02-13_people-get-wrong-iteration-change_DESIGN.tex}
-\newpage
-\input{entries/2024/2024-02-13_people-get-wrong-iteration-change_ENCHANTING.tex}
-\newpage
-\input{entries/2024/2024-02-13_people-get-wrong-iteration-change_ANALOGY.tex}
-\newpage
-\input{entries/2024/2024-02-27_accomplish-less-wantbut-think_INTERESTING.tex}
-\newpage
-\input{entries/2024/2024-02-27_accomplish-less-wantbut-think_DESIGN.tex}
-\newpage
-\input{entries/2024/2024-02-27_accomplish-less-wantbut-think_ENCHANTING.tex}
-\newpage
-\input{entries/2024/2024-02-27_accomplish-less-wantbut-think_ANALOGY.tex}
-\newpage
-\input{entries/2024/2024-03-12_visual-ideas-japanese-philosophy-got-perfectionism_DESIGN.tex}
-\newpage
-\input{entries/2024/2024-03-12_visual-ideas-japanese-philosophy-got-perfectionism_ENCHANTING.tex}
-\newpage
-\input{entries/2024/2024-03-12_visual-ideas-japanese-philosophy-got-perfectionism_ANALOGY.tex}
-\newpage
-\input{entries/2024/2024-03-26_visual-ideas-question-people-dont-ask-matters_INTERESTING.tex}
-\newpage
-\input{entries/2024/2024-03-26_visual-ideas-question-people-dont-ask-matters_DESIGN.tex}
-\newpage
-\input{entries/2024/2024-03-26_visual-ideas-question-people-dont-ask-matters_ENCHANTING.tex}
-\newpage
-\input{entries/2024/2024-03-26_visual-ideas-question-people-dont-ask-matters_ANALOGY.tex}
-\newpage
-\input{entries/2024/2024-04-09_visual-ideas-focus-attention-improve-quality-life_DESIGN.tex}
-\newpage
-\input{entries/2024/2024-04-09_visual-ideas-focus-attention-improve-quality-life_ENCHANTING.tex}
-\newpage
-\input{entries/2024/2024-04-09_visual-ideas-focus-attention-improve-quality-life_ANALOGY.tex}
-\newpage
-\input{entries/2024/2024-04-25_visual-ideas-focusing-one-thing-time-superpower_INTERESTING.tex}
-\newpage
-\input{entries/2024/2024-04-25_visual-ideas-focusing-one-thing-time-superpower_DESIGN.tex}
-\newpage
-\input{entries/2024/2024-04-25_visual-ideas-focusing-one-thing-time-superpower_ENCHANTING.tex}
-\newpage
-\input{entries/2024/2024-04-25_visual-ideas-focusing-one-thing-time-superpower_ANALOGY.tex}
-\newpage
-\input{entries/2024/2024-05-14_visual-ideas-people-get-wrong-stand-creator_INTERESTING.tex}
-\newpage
-\input{entries/2024/2024-05-14_visual-ideas-people-get-wrong-stand-creator_DESIGN.tex}
-\newpage
-\input{entries/2024/2024-05-14_visual-ideas-people-get-wrong-stand-creator_ANALOGY.tex}
-\newpage
-\input{entries/2024/2024-05-29_visual-ideas-james-clear-teaches-fighting-perfectionism_INTERESTING.tex}
-\newpage
-\input{entries/2024/2024-05-29_visual-ideas-james-clear-teaches-fighting-perfectionism_ENCHANTING.tex}
-\newpage
-\input{entries/2024/2024-05-29_visual-ideas-james-clear-teaches-fighting-perfectionism_ANALOGY.tex}
-\newpage
-\input{entries/2024/2024-06-18_visual-ideas-stepping-off-sidelines_INTERESTING.tex}
-\newpage
-\input{entries/2024/2024-06-18_visual-ideas-stepping-off-sidelines_ENCHANTING.tex}
-\newpage
-\input{entries/2024/2024-06-18_visual-ideas-stepping-off-sidelines_ANALOGY.tex}
-\newpage
-\input{entries/2024/2024-08-06_visual-ideas-making-daily-visuals-superpower_INTERESTING.tex}
-\newpage
-\input{entries/2024/2024-08-06_visual-ideas-making-daily-visuals-superpower_DESIGN.tex}
-\newpage
-\input{entries/2024/2024-08-06_visual-ideas-making-daily-visuals-superpower_ENCHANTING.tex}
-\newpage
-\input{entries/2024/2024-08-06_visual-ideas-making-daily-visuals-superpower_ANALOGY.tex}
-\newpage
-\input{entries/2024/2024-08-20_visual-ideas-shouldnt-present-data-instead_INTERESTING.tex}
-\newpage
-\input{entries/2024/2024-08-20_visual-ideas-shouldnt-present-data-instead_DESIGN.tex}
-\newpage
-\input{entries/2024/2024-08-20_visual-ideas-shouldnt-present-data-instead_ENCHANTING.tex}
-\newpage
-\input{entries/2024/2024-08-20_visual-ideas-shouldnt-present-data-instead_ANALOGY.tex}
-\newpage
-\input{entries/2024/2024-09-03_visual-ideas-understand-deeply_ENCHANTING.tex}
-\newpage
-\input{entries/2024/2024-09-03_visual-ideas-understand-deeply_ANALOGY.tex}
-\newpage
-\input{entries/2024/2024-09-17_embrace-fomo_DESIGN.tex}
-\newpage
-\input{entries/2024/2024-09-17_embrace-fomo_ENCHANTING.tex}
-\newpage
-\input{entries/2024/2024-09-17_embrace-fomo_ANALOGY.tex}
-\newpage
-\input{entries/2024/2024-10-01_why-there-s-no-shortcut-to-getting-wiser_INTERESTING.tex}
-\newpage
-\input{entries/2024/2024-10-01_why-there-s-no-shortcut-to-getting-wiser_DESIGN.tex}
-\newpage
-\input{entries/2024/2024-10-01_why-there-s-no-shortcut-to-getting-wiser_ENCHANTING.tex}
-\newpage
-\input{entries/2024/2024-10-01_why-there-s-no-shortcut-to-getting-wiser_ANALOGY.tex}
-\newpage
-\input{entries/2024/2024-10-15_what-tea-can-teach-us-about-overthinking_INTERESTING.tex}
-\newpage
-\input{entries/2024/2024-10-15_what-tea-can-teach-us-about-overthinking_DESIGN.tex}
-\newpage
-\input{entries/2024/2024-10-15_what-tea-can-teach-us-about-overthinking_ENCHANTING.tex}
-\newpage
-\input{entries/2024/2024-10-15_what-tea-can-teach-us-about-overthinking_ANALOGY.tex}
-\newpage
-\input{entries/2024/2024-10-29_are-you-reaching-your-full-potential_INTERESTING.tex}
-\newpage
-\input{entries/2024/2024-10-29_are-you-reaching-your-full-potential_ENCHANTING.tex}
-\newpage
-\input{entries/2024/2024-10-29_are-you-reaching-your-full-potential_ANALOGY.tex}
-\newpage
-\input{entries/2024/2024-11-12_the-art-of-remixing-ideas_INTERESTING.tex}
-\newpage
-\input{entries/2024/2024-11-12_the-art-of-remixing-ideas_ANALOGY.tex}
-\newpage
-\input{entries/2024/2024-11-26_the-problem-with-low-hanging-fruit_INTERESTING.tex}
-\newpage
-\input{entries/2024/2024-11-26_the-problem-with-low-hanging-fruit_ENCHANTING.tex}
-\newpage
-\input{entries/2024/2024-11-26_the-problem-with-low-hanging-fruit_ANALOGY.tex}
-\newpage
-\input{entries/2024/2024-12-10_building-a-creative-habit-in-2025_INTERESTING.tex}
-\newpage
-\input{entries/2024/2024-12-10_building-a-creative-habit-in-2025_DESIGN.tex}
-\newpage
-\input{entries/2024/2024-12-10_building-a-creative-habit-in-2025_ENCHANTING.tex}
-\newpage
-\input{entries/2024/2024-12-10_building-a-creative-habit-in-2025_ANALOGY.tex}
-\newpage
-\input{entries/2024/2024-12-27_putting-it-all-into-perspective_INTERESTING.tex}
-\newpage
-\input{entries/2024/2024-12-27_putting-it-all-into-perspective_DESIGN.tex}
-\newpage
-\input{entries/2024/2024-12-27_putting-it-all-into-perspective_ENCHANTING.tex}
-\newpage
-\input{entries/2024/2024-12-27_putting-it-all-into-perspective_ANALOGY.tex}
+\thispagestyle{empty}
+\vspace*{\fill}
+\begin{center}
+{\fontsize{72}{86}\selectfont\bfseries 2024}
+\end{center}
+\vspace*{\fill}
+\newpage
+\renewcommand{\theposttitle}{How fixing what's broke is not about knowing what to do}
+\renewcommand{\thepostdate}{2024-01-02}
+\vspace*{\fill}
+\begin{center}
+\begin{minipage}{0.92\textwidth}
+\small
+\textbf{Clear, Not Clever}
+
+When designing a visual metaphor, one of the most important elements to nail down is the labels you use.
+
+Labels are words, arrows, even punctuation that communicate what the metaphor is.
+
+And the key to using effective labels is clarity. Clarity is step 1 of \textbf{my 3-Step framework to making a visual}.
+\end{minipage}
+\end{center}
+\vspace{4mm}
+\begin{center}
+\includegraphics[width=\textwidth, height=0.55\textheight, keepaspectratio]{C:/GitHub/VisualIdeasBook/data/images/c98fa1468cc374dab1f9b70f931c1bd6.png}
+\end{center}
+\vspace{2mm}
+\begin{center}
+\begin{minipage}{0.92\textwidth}
+\small
+What’s critical to remember—clarity is about removing as much friction as possible between you and your audience.
+
+You can’t hide behind fancy words if your message is unclear.
+
+When you write in a fancy way to impress people, you make them do extra work just so you can seem cool
+\end{minipage}
+\end{center}
+\vspace*{\fill}
+\newpage
+\renewcommand{\theposttitle}{How fixing what's broke is not about knowing what to do}
+\renewcommand{\thepostdate}{2024-01-02}
+\vspace*{\fill}
+\begin{center}
+\includegraphics[width=\textwidth, height=0.55\textheight, keepaspectratio]{C:/GitHub/VisualIdeasBook/data/images/21d1e95bc2fad39169590c5df6bcc2eb.png}
+\end{center}
+\vspace*{\fill}
+\newpage
+\renewcommand{\theposttitle}{How fixing what's broke is not about knowing what to do}
+\renewcommand{\thepostdate}{2024-01-02}
+\vspace*{\fill}
+\begin{center}
+\includegraphics[width=\textwidth, height=0.24\textheight, keepaspectratio]{C:/GitHub/VisualIdeasBook/data/images/d8cc89735aa0543f63af3a516be0dc7f.png}
+\end{center}
+\vspace{2mm}
+\begin{center}
+\begin{minipage}{0.92\textwidth}
+\small
+Say hi 👋🏻 on Twitter or LinkedIn
+
+If you'd like to join the 13,289 subscribers getting Visual I.D.E.A.s straight into their inbox, subscribe below:
+
+Thanks for reading! Reply any time with feedback or questions.
+
+I made this newsletter with \textbf{\textit{\underline{beehiiv}}}\textbf{, }my favorite tool for easily creating and growing a newsletter.
+
+When you’re ready, I’ve built a course to teach \textbf{Thinking in Visual Metaphors—Cohort 3 }is live and launching next week!
+\end{minipage}
+\end{center}
+\vspace{5mm}
+\begin{center}
+\includegraphics[width=\textwidth, height=0.24\textheight, keepaspectratio]{C:/GitHub/VisualIdeasBook/data/images/f2833dff016936c751c34b46c7d76fa1.png}
+\end{center}
+\vspace*{\fill}
+\newpage
+\renewcommand{\theposttitle}{How we frame failure paves our road to success}
+\renewcommand{\thepostdate}{2024-01-16}
+\vspace*{\fill}
+\begin{center}
+\includegraphics[width=\textwidth, height=0.17\textheight, keepaspectratio]{C:/GitHub/VisualIdeasBook/data/images/491579c78846557d5e4efd8d5a724b15.png}
+\end{center}
+\vspace{2mm}
+\begin{center}
+\begin{minipage}{0.92\textwidth}
+\small
+Growth in a skill is so slow it's invisible, but if you keep it up, it's inevitable
+\end{minipage}
+\end{center}
+\vspace{5mm}
+\begin{center}
+\includegraphics[width=\textwidth, height=0.17\textheight, keepaspectratio]{C:/GitHub/VisualIdeasBook/data/images/d8cc89735aa0543f63af3a516be0dc7f.png}
+\end{center}
+\vspace{2mm}
+\begin{center}
+\begin{minipage}{0.92\textwidth}
+\small
+Say hi 👋🏻 on Twitter or LinkedIn
+
+If you'd like to join the 13,366 subscribers getting Visual I.D.E.A.s straight into their inbox, subscribe below:
+
+Thanks for reading! Reply any time with feedback or questions.
+
+I made this newsletter with \textbf{\textit{\underline{beehiiv}}}\textbf{, }my favorite tool for easily creating and growing a newsletter.
+
+When you’re ready, I’ve built a course to teach \textbf{Thinking in Visual Metaphors}: \textit{\underline{Join the Waiting List}}
+\end{minipage}
+\end{center}
+\vspace{5mm}
+\begin{center}
+\includegraphics[width=\textwidth, height=0.17\textheight, keepaspectratio]{C:/GitHub/VisualIdeasBook/data/images/f2833dff016936c751c34b46c7d76fa1.png}
+\end{center}
+\vspace*{\fill}
+\newpage
+\renewcommand{\theposttitle}{The simple shift in my thinking that got me started posting online}
+\renewcommand{\thepostdate}{2024-01-30}
+\vspace*{\fill}
+\begin{center}
+\includegraphics[width=\textwidth, height=0.55\textheight, keepaspectratio]{C:/GitHub/VisualIdeasBook/data/images/8da1dfc21e282da50dc5c5662a6618f2.png}
+\end{center}
+\vspace*{\fill}
+\newpage
+\renewcommand{\theposttitle}{The simple shift in my thinking that got me started posting online}
+\renewcommand{\thepostdate}{2024-01-30}
+\vspace*{\fill}
+\begin{center}
+\includegraphics[width=\textwidth, height=0.55\textheight, keepaspectratio]{C:/GitHub/VisualIdeasBook/data/images/2ca107ddae4b21d6c581b103b30c809c.png}
+\end{center}
+\vspace{2mm}
+\begin{center}
+\begin{minipage}{0.92\textwidth}
+\small
+Growth is an infinite game.
+\end{minipage}
+\end{center}
+\vspace*{\fill}
+\newpage
+\renewcommand{\theposttitle}{The simple shift in my thinking that got me started posting online}
+\renewcommand{\thepostdate}{2024-01-30}
+\vspace*{\fill}
+\begin{center}
+\includegraphics[width=\textwidth, height=0.55\textheight, keepaspectratio]{C:/GitHub/VisualIdeasBook/data/images/d51e292bbe9202c33b028cb941941bb9.png}
+\end{center}
+\vspace{2mm}
+\begin{center}
+\begin{minipage}{0.92\textwidth}
+\small
+If you want to be useful, you can always start now, with only 1 percent of what you have in your grand vision.
+
+It'll be a humble prototype version of your grand vision, but you'll be in the game.
+
+You'll be ahead of the rest, because you actually started, while others are waiting for the finish line to magically appear at the starting line.
+\end{minipage}
+\end{center}
+\vspace*{\fill}
+\newpage
+\renewcommand{\theposttitle}{What most people get wrong about iteration and change}
+\renewcommand{\thepostdate}{2024-02-13}
+\vspace*{\fill}
+\begin{center}
+\begin{minipage}{0.92\textwidth}
+\small
+I have to remind myself of this idea everyday:
+
+\textbf{The choices you make every day matter. }
+\end{minipage}
+\end{center}
+\vspace{4mm}
+\begin{center}
+\includegraphics[width=\textwidth, height=0.24\textheight, keepaspectratio]{C:/GitHub/VisualIdeasBook/data/images/89825126d1bd6ee488c4cba032b8bddf.png}
+\end{center}
+\vspace{5mm}
+\begin{center}
+\includegraphics[width=\textwidth, height=0.24\textheight, keepaspectratio]{C:/GitHub/VisualIdeasBook/data/images/43370857b5a4ea6f557287991c787ce7.png}
+\end{center}
+\vspace{2mm}
+\begin{center}
+\begin{minipage}{0.92\textwidth}
+\small
+The snowball compounding impact of daily decisions is challenging to wrap our heads around. “Surely this cookie today isn’t that big of a deal,” I catch myself saying for the 3rd week in a row…
+
+\textbf{1\% better: 1.01\textasciicircum{}365 }\textbf{= 37.78}\\
+\textbf{1\% worse: 0.99\textasciicircum{}365 }\textbf{= 0.03}
+\end{minipage}
+\end{center}
+\vspace*{\fill}
+\newpage
+\renewcommand{\theposttitle}{What most people get wrong about iteration and change}
+\renewcommand{\thepostdate}{2024-02-13}
+\vspace*{\fill}
+\begin{center}
+\begin{minipage}{0.92\textwidth}
+\small
+I’ve spoken before about the importance of iteration to bridge the gap between your ability and taste.
+
+Today, I want to illustrate (🥁) \textbf{a common mistake} people make when they iterate: \textbf{focusing too heavily on “improving” the image}.
+
+Of course we want the image to be better, but starting with that mindset actually blocks the creative process.
+
+I tell my students all the time that \textbf{brainstorming is idea generation, not decision making. }
+
+Starting with improvement in mind is decision making before the ideas have generated.
+
+❌ how can I improve it? (explores only ideas you assume are good)\\
+✅ how can articulate this idea in another way? (lets in all ideas, good and bad—we want ALL ideas to flow in our stream of consciousness)
+
+\textbf{Improving is more a byproduct of trying out different articulations.}
+
+Take this recent example of an iteration:
+\end{minipage}
+\end{center}
+\vspace{4mm}
+\begin{center}
+\includegraphics[width=\textwidth, height=0.24\textheight, keepaspectratio]{C:/GitHub/VisualIdeasBook/data/images/480892248086a40f0e4ee5610b5bcee0.png}
+\end{center}
+\vspace{2mm}
+\begin{center}
+\begin{minipage}{0.92\textwidth}
+\small
+Made in August 2022
+\end{minipage}
+\end{center}
+\vspace{5mm}
+\begin{center}
+\includegraphics[width=\textwidth, height=0.24\textheight, keepaspectratio]{C:/GitHub/VisualIdeasBook/data/images/8fd1a2ed542c39db5205c6430fd692ba.png}
+\end{center}
+\vspace{2mm}
+\begin{center}
+\begin{minipage}{0.92\textwidth}
+\small
+Address problems as they form to avoid it getting so convoluted that they become difficult to manage.
+\end{minipage}
+\end{center}
+\vspace*{\fill}
+\newpage
+\renewcommand{\theposttitle}{What most people get wrong about iteration and change}
+\renewcommand{\thepostdate}{2024-02-13}
+\vspace*{\fill}
+\begin{center}
+\includegraphics[width=\textwidth, height=0.55\textheight, keepaspectratio]{C:/GitHub/VisualIdeasBook/data/images/cd3d14fe5694642597e94e75c3e06510.png}
+\end{center}
+\vspace{2mm}
+\begin{center}
+\begin{minipage}{0.92\textwidth}
+\small
+This Japanese concept is the secret to staying consistent in your pursuits:
+
+\textbf{Ikigai} \\
+ \textit{iki} - means to live\\
+ \textit{gai} - means value or worth (literally translated to "beautiful shell")
+
+Ikigai roughly means your "reason for being"--your purpose.
+
+Find your purpose and you find the foundation to build your dream.
+\end{minipage}
+\end{center}
+\vspace*{\fill}
+\newpage
+\renewcommand{\theposttitle}{What most people get wrong about iteration and change}
+\renewcommand{\thepostdate}{2024-02-13}
+\vspace*{\fill}
+\begin{center}
+\includegraphics[width=\textwidth, height=0.17\textheight, keepaspectratio]{C:/GitHub/VisualIdeasBook/data/images/31c9a2117244c7e28486b7fd5b13b7ff.png}
+\end{center}
+\vspace{2mm}
+\begin{center}
+\begin{minipage}{0.92\textwidth}
+\small
+\textbf{"Change is hard at first, messy in the middle and gorgeous at the end." }\\
+–Robin Sharma
+
+Login or Subscribe to participate
+\end{minipage}
+\end{center}
+\vspace{5mm}
+\begin{center}
+\includegraphics[width=\textwidth, height=0.17\textheight, keepaspectratio]{C:/GitHub/VisualIdeasBook/data/images/d8cc89735aa0543f63af3a516be0dc7f.png}
+\end{center}
+\vspace{2mm}
+\begin{center}
+\begin{minipage}{0.92\textwidth}
+\small
+Say hi 👋🏻 on Twitter or LinkedIn
+
+If you'd like to join the 13,636 subscribers getting Visual I.D.E.A.s straight into their inbox, subscribe below:
+
+Thanks for reading! Reply any time with feedback or questions.
+
+I made this newsletter with \textbf{\textit{\underline{beehiiv}}}\textbf{, }my favorite tool for easily creating and growing a newsletter.
+
+When you’re ready, I’ve built a course to teach \textbf{Thinking in Visual Metaphors}: \textit{\underline{Join the Waiting List}}
+\end{minipage}
+\end{center}
+\vspace{5mm}
+\begin{center}
+\includegraphics[width=\textwidth, height=0.17\textheight, keepaspectratio]{C:/GitHub/VisualIdeasBook/data/images/f2833dff016936c751c34b46c7d76fa1.png}
+\end{center}
+\vspace*{\fill}
+\newpage
+\renewcommand{\theposttitle}{Why you accomplish less than you want...but more than you think}
+\renewcommand{\thepostdate}{2024-02-27}
+\vspace*{\fill}
+\begin{center}
+\includegraphics[width=\textwidth, height=0.24\textheight, keepaspectratio]{C:/GitHub/VisualIdeasBook/data/images/b6546c7157e28e749231e098a49bcad7.png}
+\end{center}
+\vspace{2mm}
+\begin{center}
+\begin{minipage}{0.92\textwidth}
+\small
+What people "miss" about success.
+\end{minipage}
+\end{center}
+\vspace{5mm}
+\begin{center}
+\includegraphics[width=\textwidth, height=0.24\textheight, keepaspectratio]{C:/GitHub/VisualIdeasBook/data/images/06acdd0dce205154e66864d3865c7096.png}
+\end{center}
+\vspace{2mm}
+\begin{center}
+\begin{minipage}{0.92\textwidth}
+\small
+\textbf{True definition of failure. }
+\end{minipage}
+\end{center}
+\vspace*{\fill}
+\newpage
+\renewcommand{\theposttitle}{Why you accomplish less than you want...but more than you think}
+\renewcommand{\thepostdate}{2024-02-27}
+\vspace*{\fill}
+\begin{center}
+\includegraphics[width=\textwidth, height=0.55\textheight, keepaspectratio]{C:/GitHub/VisualIdeasBook/data/images/bd2465e126f5b77ea8800bb82bdb5b4b.png}
+\end{center}
+\vspace{2mm}
+\begin{center}
+\begin{minipage}{0.92\textwidth}
+\small
+People overestimate what they can get done in a day and underestimate what they can get done in a year.
+\end{minipage}
+\end{center}
+\vspace*{\fill}
+\newpage
+\renewcommand{\theposttitle}{The Japanese philosophy that got me over perfectionism}
+\renewcommand{\thepostdate}{2024-03-12}
+\vspace*{\fill}
+\begin{center}
+\includegraphics[width=\textwidth, height=0.55\textheight, keepaspectratio]{C:/GitHub/VisualIdeasBook/data/images/969ebe0e77d87e5b6194579cec6aa3b3.png}
+\end{center}
+\vspace{2mm}
+\begin{center}
+\begin{minipage}{0.92\textwidth}
+\small
+A key practice to change the way you communicate:
+
+"Intentional Listening"
+
+Most people listen to build a \textbf{"straw man's argument"} — distorting what someone is saying to attack it easier.
+
+But this strategy burns trust and cooperation pretty dang quick.
+
+Instead, try building a \textbf{"steel man's argument"} — forming the strongest version of what someone is saying before engaging with it.
+
+But to do this, you have to listen to understand.
+\end{minipage}
+\end{center}
+\vspace*{\fill}
+\newpage
+\renewcommand{\theposttitle}{The Japanese philosophy that got me over perfectionism}
+\renewcommand{\thepostdate}{2024-03-12}
+\vspace*{\fill}
+\begin{center}
+\begin{minipage}{0.92\textwidth}
+\small
+This idea is at the core of my creative philosophy…and it might help if you struggle with perfectionism as much as I do:
+\end{minipage}
+\end{center}
+\vspace{4mm}
+\begin{center}
+\includegraphics[width=\textwidth, height=0.55\textheight, keepaspectratio]{C:/GitHub/VisualIdeasBook/data/images/fb443804a8195eceef0f096d2c4c3f99.png}
+\end{center}
+\vspace{2mm}
+\begin{center}
+\begin{minipage}{0.92\textwidth}
+\small
+Wabi-Sabi…
+
+…a Zen aesthetic ideal that celebrates flaws, recognizing the beauty in imperfection and incompleteness.
+
+The practice of wabi-sabi is the perfect counternote to perfectionism.
+
+You’ll find this philosophy practiced in the Japanese artform, \textbf{kintsugi}.
+
+In kintsugi, pottery is intentionally broken, then repaired with a golden lacquer to highlight its damage.
+
+One thing I’ve learned from 20 years of teaching and making 400+ visual metaphors is that art isn’t about being accurate. It’s about being interesting.
+
+And what makes you interesting is your unique combination of imperfections and flaws.
+
+Instead of trying to airbrush them away, highlight them.
+
+Your imperfections are the feature, not the bug.
+\end{minipage}
+\end{center}
+\vspace*{\fill}
+\newpage
+\renewcommand{\theposttitle}{The Japanese philosophy that got me over perfectionism}
+\renewcommand{\thepostdate}{2024-03-12}
+\vspace*{\fill}
+\begin{center}
+\includegraphics[width=\textwidth, height=0.55\textheight, keepaspectratio]{C:/GitHub/VisualIdeasBook/data/images/d2f8970ba0bfd2b28bf1fe2a1cfe7c0a.png}
+\end{center}
+\vspace{2mm}
+\begin{center}
+\begin{minipage}{0.92\textwidth}
+\small
+Reflect on your potential.
+\end{minipage}
+\end{center}
+\vspace*{\fill}
+\newpage
+\renewcommand{\theposttitle}{The Japanese philosophy that got me over perfectionism}
+\renewcommand{\thepostdate}{2024-03-12}
+\vspace*{\fill}
+\begin{center}
+\includegraphics[width=\textwidth, height=0.55\textheight, keepaspectratio]{C:/GitHub/VisualIdeasBook/data/images/382034b73ac816cae100d1cf7783dadd.png}
+\end{center}
+\vspace{2mm}
+\begin{center}
+\begin{minipage}{0.92\textwidth}
+\small
+It's never a clean fit (and that's okay)
+\end{minipage}
+\end{center}
+\vspace*{\fill}
+\newpage
+\renewcommand{\theposttitle}{The question most people don't ask me and why it matters}
+\renewcommand{\thepostdate}{2024-03-26}
+\vspace*{\fill}
+\begin{center}
+\includegraphics[width=\textwidth, height=0.55\textheight, keepaspectratio]{C:/GitHub/VisualIdeasBook/data/images/51ec5c2a1471533e53ea27a556dbf422.png}
+\end{center}
+\vspace{2mm}
+\begin{center}
+\begin{minipage}{0.92\textwidth}
+\small
+Comfort zones are tiny prisons that keep us.\\
+from experiencing the vastness of life.
+\end{minipage}
+\end{center}
+\vspace*{\fill}
+\newpage
+\renewcommand{\theposttitle}{The question most people don't ask me and why it matters}
+\renewcommand{\thepostdate}{2024-03-26}
+\vspace*{\fill}
+\begin{center}
+\begin{minipage}{0.92\textwidth}
+\small
+I get asked all the time what software* I use to make my visuals.
+
+I understand why it’s asked but this question frames the wrong problem.
+
+Software enables thinking, but without the thinking, a piece of software is just an empty shell.
+
+The more important question to ask is: \\
+how do you translate an idea into a visual metaphor?
+
+For me, it’s a 3-step process.
+\end{minipage}
+\end{center}
+\vspace{4mm}
+\begin{center}
+\includegraphics[width=\textwidth, height=0.17\textheight, keepaspectratio]{C:/GitHub/VisualIdeasBook/data/images/17c5ff7d616dd93bd357fc9f7f5419cd.png}
+\end{center}
+\vspace{2mm}
+\begin{center}
+\begin{minipage}{0.92\textwidth}
+\small
+Everything is downstream of clarity. Without it, no amount of graphics will resonate with the audience.
+\end{minipage}
+\end{center}
+\vspace{5mm}
+\begin{center}
+\includegraphics[width=\textwidth, height=0.17\textheight, keepaspectratio]{C:/GitHub/VisualIdeasBook/data/images/bdd08457ad1465c80eb3125f4af5d13a.png}
+\end{center}
+\vspace{2mm}
+\begin{center}
+\begin{minipage}{0.92\textwidth}
+\small
+You need to give your message shape so your audience can process it fast and easily.
+\end{minipage}
+\end{center}
+\vspace{5mm}
+\begin{center}
+\includegraphics[width=\textwidth, height=0.17\textheight, keepaspectratio]{C:/GitHub/VisualIdeasBook/data/images/4b8caf9e9763bd0019d0f9866b047eb8.png}
+\end{center}
+\vspace{2mm}
+\begin{center}
+\begin{minipage}{0.92\textwidth}
+\small
+Leave space in the message for the audience to fill in the gap themselves. It’s not about you looking smart. It’s about making your reader feel smart.
+\end{minipage}
+\end{center}
+\vspace*{\fill}
+\newpage
+\renewcommand{\theposttitle}{The question most people don't ask me and why it matters}
+\renewcommand{\thepostdate}{2024-03-26}
+\vspace*{\fill}
+\begin{center}
+\includegraphics[width=\textwidth, height=0.55\textheight, keepaspectratio]{C:/GitHub/VisualIdeasBook/data/images/60b148139364d09369d15ea685ecad41.png}
+\end{center}
+\vspace*{\fill}
+\newpage
+\renewcommand{\theposttitle}{The question most people don't ask me and why it matters}
+\renewcommand{\thepostdate}{2024-03-26}
+\vspace*{\fill}
+\begin{center}
+\includegraphics[width=\textwidth, height=0.55\textheight, keepaspectratio]{C:/GitHub/VisualIdeasBook/data/images/a3ed29c2bd9b16daeec93ee4276a0976.png}
+\end{center}
+\vspace{2mm}
+\begin{center}
+\begin{minipage}{0.92\textwidth}
+\small
+A friendly reminder to appreciate the effort it takes to make something look effortless.
+\end{minipage}
+\end{center}
+\vspace*{\fill}
+\newpage
+\renewcommand{\theposttitle}{Where to focus your attention to improve your quality of life}
+\renewcommand{\thepostdate}{2024-04-09}
+\vspace*{\fill}
+\begin{center}
+\includegraphics[width=\textwidth, height=0.55\textheight, keepaspectratio]{C:/GitHub/VisualIdeasBook/data/images/274c724fee44c8baa9643c482e3a717c.png}
+\end{center}
+\vspace{2mm}
+\begin{center}
+\begin{minipage}{0.92\textwidth}
+\small
+Don’t build a resume-driven life.
+
+Build a eulogy-driven one.
+
+In the book, “The Second Mountain,” David Brooks brings up two different types of virtues:
+
+1. \textbf{Resume virtues}: accomplishments and accolades earned throughout a career
+
+2. \textbf{Eulogy virtues}: the things your friends and family will remember and say about what kind of person you were at your funeral
+
+Most of us have been taught how to cultivate the former, but few of us have ever been told how to pursue the latter. \textbf{Read the full post here.}
+\end{minipage}
+\end{center}
+\vspace*{\fill}
+\newpage
+\renewcommand{\theposttitle}{Where to focus your attention to improve your quality of life}
+\renewcommand{\thepostdate}{2024-04-09}
+\vspace*{\fill}
+\begin{center}
+\begin{minipage}{0.92\textwidth}
+\small
+If you’ve followed me for a while, you might notice I’ll often revisit an idea—to find a different articulation of that message.
+
+There’re 3 reasons why:
+
+Each articulation forces diving into \textbf{deeper understanding}.
+
+\textbf{Improves pattern recognition} of how things are connected.
+
+Different metaphors will \textbf{impact people differently}.
+
+There’s also a more personal reason worth mentioning—it keeps my perfectionist monster at bay.
+
+If I know the visual I’m creating is just ‘one of many,’ then I’m less precious about finding the ‘perfect analogy.’
+
+Here’s an example of a recent articulation of “fancy language vs simple language.”
+\end{minipage}
+\end{center}
+\vspace{4mm}
+\begin{center}
+\includegraphics[width=\textwidth, height=0.17\textheight, keepaspectratio]{C:/GitHub/VisualIdeasBook/data/images/63378dafd8099973767c6dd5237dd4a8.png}
+\end{center}
+\vspace{2mm}
+\begin{center}
+\begin{minipage}{0.92\textwidth}
+\small
+And here are two earlier articulations of that same idea:
+\end{minipage}
+\end{center}
+\vspace{5mm}
+\begin{center}
+\includegraphics[width=\textwidth, height=0.17\textheight, keepaspectratio]{C:/GitHub/VisualIdeasBook/data/images/396d389c48dc7bb797a3d26fa9c01ab2.png}
+\end{center}
+\vspace{5mm}
+\begin{center}
+\includegraphics[width=\textwidth, height=0.17\textheight, keepaspectratio]{C:/GitHub/VisualIdeasBook/data/images/55a14d2c29be067146d97cb40f60ce95.png}
+\end{center}
+\vspace{2mm}
+\begin{center}
+\begin{minipage}{0.92\textwidth}
+\small
+Login or Subscribe to participate
+\end{minipage}
+\end{center}
+\vspace*{\fill}
+\newpage
+\renewcommand{\theposttitle}{Where to focus your attention to improve your quality of life}
+\renewcommand{\thepostdate}{2024-04-09}
+\vspace*{\fill}
+\begin{center}
+\includegraphics[width=\textwidth, height=0.55\textheight, keepaspectratio]{C:/GitHub/VisualIdeasBook/data/images/7a19899502a84c63a7d2ae0fd0394e56.png}
+\end{center}
+\vspace{2mm}
+\begin{center}
+\begin{minipage}{0.92\textwidth}
+\small
+The role of a teacher.
+\end{minipage}
+\end{center}
+\vspace*{\fill}
+\newpage
+\renewcommand{\theposttitle}{Where to focus your attention to improve your quality of life}
+\renewcommand{\thepostdate}{2024-04-09}
+\vspace*{\fill}
+\begin{center}
+\includegraphics[width=\textwidth, height=0.55\textheight, keepaspectratio]{C:/GitHub/VisualIdeasBook/data/images/35d3deee1d8e4992f40e5e397938f2fd.png}
+\end{center}
+\vspace{2mm}
+\begin{center}
+\begin{minipage}{0.92\textwidth}
+\small
+"The master has failed more times than the beginner has even tried."
+
+Most people compare destinations without comparing journeys.
+
+I'll give you an example…
+
+For 13 years, Mike Winkelmann (aka "beeple") made a piece of art, everyday (aptly called his “everydays”).
+
+Day 5,000, Mike takes each of his everydays and stitches them together into an NFT of a mosaic called: "The First 5000 Days."
+
+And...
+
+October 2021, this NFT sells for…wait for it—\\
+\$69 million.
+
+Media labeled it an "overnight success."
+
+But there's no such thing as an overnight success. Only over time success.
+
+13 years of shooting daily shots.
+
+Beeple still creates today. 6183 days and counting!
+
+This is what it means to be a master.
+
+Hit or miss, you keep shooting.
+\end{minipage}
+\end{center}
+\vspace*{\fill}
+\newpage
+\renewcommand{\theposttitle}{Why focusing on one thing at a time is a superpower}
+\renewcommand{\thepostdate}{2024-04-25}
+\vspace*{\fill}
+\begin{center}
+\includegraphics[width=\textwidth, height=0.55\textheight, keepaspectratio]{C:/GitHub/VisualIdeasBook/data/images/1173a0db1c267ca1d61b6f0d13c9b4d2.png}
+\end{center}
+\vspace{2mm}
+\begin{center}
+\begin{minipage}{0.92\textwidth}
+\small
+“You can do anything, but not everything.” (…all at once)
+
+Make conscious (and often painful) efforts to focus on one cup at a time.
+\end{minipage}
+\end{center}
+\vspace*{\fill}
+\newpage
+\renewcommand{\theposttitle}{Why focusing on one thing at a time is a superpower}
+\renewcommand{\thepostdate}{2024-04-25}
+\vspace*{\fill}
+\begin{center}
+\begin{minipage}{0.92\textwidth}
+\small
+A question came up in my \textbf{Thinking in Visual Metaphors} course about \textbf{avatars}.
+
+Do you create a reference sheet for your avatar with different moods and poses?
+
+This isn’t a bad idea, but I don’t recommend spending the time to do this when you’re first starting out.
+
+Why?
+
+For years, I struggled to make anything because I thought I needed to do x, y, and z to START. Turned out it was just productive procrastination.
+
+It wasn’t until I realized, you know what? It’s totally fine to build as you go…make what you need as you need it (applies to many things, not just visuals).
+
+An hour spent making 20 different facial expressions is an hour not spent on creating the visual that needs only 2. And once you have those 2, you can reuse them like this:
+\end{minipage}
+\end{center}
+\vspace{4mm}
+\begin{center}
+\includegraphics[width=\textwidth, height=0.17\textheight, keepaspectratio]{C:/GitHub/VisualIdeasBook/data/images/11e30b310e17184ed0f28b0d384f7fb9.png}
+\end{center}
+\vspace{5mm}
+\begin{center}
+\includegraphics[width=\textwidth, height=0.17\textheight, keepaspectratio]{C:/GitHub/VisualIdeasBook/data/images/ceb9a65f3b0673eb60cb464a6e36f474.png}
+\end{center}
+\vspace{2mm}
+\begin{center}
+\begin{minipage}{0.92\textwidth}
+\small
+The 80/20 rule applies here: You’ll probably use 20\% of those poses for 80\% of your visuals.
+
+So build that reference sheet, but only as you’re building your visuals.
+\end{minipage}
+\end{center}
+\vspace{5mm}
+\begin{center}
+\includegraphics[width=\textwidth, height=0.17\textheight, keepaspectratio]{C:/GitHub/VisualIdeasBook/data/images/ca498544e646fb882398d1e0034e12e5.png}
+\end{center}
+\vspace{2mm}
+\begin{center}
+\begin{minipage}{0.92\textwidth}
+\small
+Build as you go is my philosophy.
+
+P.S. If you’re ready to start \textbf{Thinking in Visual Metaphors}, the next cohort starts late May.
+\end{minipage}
+\end{center}
+\vspace*{\fill}
+\newpage
+\renewcommand{\theposttitle}{Why focusing on one thing at a time is a superpower}
+\renewcommand{\thepostdate}{2024-04-25}
+\vspace*{\fill}
+\begin{center}
+\includegraphics[width=\textwidth, height=0.55\textheight, keepaspectratio]{C:/GitHub/VisualIdeasBook/data/images/12a9f6ed36bc29cc7bb5fa7c88c04483.png}
+\end{center}
+\vspace{2mm}
+\begin{center}
+\begin{minipage}{0.92\textwidth}
+\small
+\textbf{The longest journey you'll ever make.}
+\end{minipage}
+\end{center}
+\vspace*{\fill}
+\newpage
+\renewcommand{\theposttitle}{Why focusing on one thing at a time is a superpower}
+\renewcommand{\thepostdate}{2024-04-25}
+\vspace*{\fill}
+\begin{center}
+\includegraphics[width=\textwidth, height=0.55\textheight, keepaspectratio]{C:/GitHub/VisualIdeasBook/data/images/cbd04756ee263ef493152c95148bd741.jpeg}
+\end{center}
+\vspace{2mm}
+\begin{center}
+\begin{minipage}{0.92\textwidth}
+\small
+Most of us (myself included 😅) get caught up in shiny object syndrome which splinters our focus a mile wide, but an inch deep.
+
+It’s the paradox of the creator. We seek novelty through experimentation, but need to improve what we do through repetition.
+
+If we truly want to upgrade our thinking and skillsets, we need to dive an inch wide, a mile deep.
+
+The shiny objects will always be waiting for us at the surface when we come back up.
+\end{minipage}
+\end{center}
+\vspace*{\fill}
+\newpage
+\renewcommand{\theposttitle}{What most people get wrong about how to stand out as a creator}
+\renewcommand{\thepostdate}{2024-05-14}
+\vspace*{\fill}
+\begin{center}
+\includegraphics[width=\textwidth, height=0.55\textheight, keepaspectratio]{C:/GitHub/VisualIdeasBook/data/images/b143a59387b055a4c003e87200a60d48.png}
+\end{center}
+\vspace{2mm}
+\begin{center}
+\begin{minipage}{0.92\textwidth}
+\small
+\textbf{Friendly reminder: Perfection shouldn’t even be the goal. }
+
+This is at the heart of my creator philosophy:
+
+One perfect circle looks just like any other perfect circle. Most people think they can’t draw because they’re comparing their drawings to what they believe it SHOULD look like.
+
+But if you want to make stuff that stands out, it’s less important to be accurate and more important to be interesting.
+\end{minipage}
+\end{center}
+\vspace*{\fill}
+\newpage
+\renewcommand{\theposttitle}{What most people get wrong about how to stand out as a creator}
+\renewcommand{\thepostdate}{2024-05-14}
+\vspace*{\fill}
+\begin{center}
+\begin{minipage}{0.92\textwidth}
+\small
+I’ve been teaching film \& animation for 20 years, and I try to bring filmmaking concepts into my visuals whenever I can. One of my favorite things to play with is \textbf{movement! }
+
+Now how do we add movement to a static image? \\
+\textbf{Motion Lines. }
+
+There are 3 main types:
+\end{minipage}
+\end{center}
+\vspace{4mm}
+\begin{center}
+\includegraphics[width=\textwidth, height=0.13\textheight, keepaspectratio]{C:/GitHub/VisualIdeasBook/data/images/10351bae12fbf3ca9801464bdb323c5f.png}
+\end{center}
+\vspace{2mm}
+\begin{center}
+\begin{minipage}{0.92\textwidth}
+\small
+Try it yourself! Here’s a simple exercise to make straight motion:
+\end{minipage}
+\end{center}
+\vspace{5mm}
+\begin{center}
+\includegraphics[width=\textwidth, height=0.13\textheight, keepaspectratio]{C:/GitHub/VisualIdeasBook/data/images/a5b2ac22a98d07d49ee2819371e604f3.png}
+\end{center}
+\vspace{2mm}
+\begin{center}
+\begin{minipage}{0.92\textwidth}
+\small
+Draw a simple circle
+\end{minipage}
+\end{center}
+\vspace{5mm}
+\begin{center}
+\includegraphics[width=\textwidth, height=0.13\textheight, keepaspectratio]{C:/GitHub/VisualIdeasBook/data/images/07128bf0fadd1c067fc77d361f55fe53.png}
+\end{center}
+\vspace{2mm}
+\begin{center}
+\begin{minipage}{0.92\textwidth}
+\small
+And make some straight lines over it!
+
+It’s as simple as that!
+
+And by the way, if you’re keen to learn how to make visual metaphors, enrollment for Thinking in Visual Metaphors is open for another week! 28 students have already enrolled in Cohort 5!
+\end{minipage}
+\end{center}
+\vspace{5mm}
+\begin{center}
+\includegraphics[width=\textwidth, height=0.13\textheight, keepaspectratio]{C:/GitHub/VisualIdeasBook/data/images/f3c8c479a4856823f006dd4dbdec07a0.png}
+\end{center}
+\vspace*{\fill}
+\newpage
+\renewcommand{\theposttitle}{What most people get wrong about how to stand out as a creator}
+\renewcommand{\thepostdate}{2024-05-14}
+\vspace*{\fill}
+\begin{center}
+\includegraphics[width=\textwidth, height=0.55\textheight, keepaspectratio]{C:/GitHub/VisualIdeasBook/data/images/4db723637e150175c5241b455eb88d6b.png}
+\end{center}
+\vspace{2mm}
+\begin{center}
+\begin{minipage}{0.92\textwidth}
+\small
+\textbf{Brick by brick, we'll make it.}
+\end{minipage}
+\end{center}
+\vspace*{\fill}
+\newpage
+\renewcommand{\theposttitle}{What most people get wrong about how to stand out as a creator}
+\renewcommand{\thepostdate}{2024-05-14}
+\vspace*{\fill}
+\begin{center}
+\includegraphics[width=\textwidth, height=0.55\textheight, keepaspectratio]{C:/GitHub/VisualIdeasBook/data/images/a63a99c60eb0ddf4b9ba25859ff33661.png}
+\end{center}
+\vspace{2mm}
+\begin{center}
+\begin{minipage}{0.92\textwidth}
+\small
+\textbf{The price of admission for success.}
+\end{minipage}
+\end{center}
+\vspace*{\fill}
+\newpage
+\renewcommand{\theposttitle}{How to overcome your impossible standards}
+\renewcommand{\thepostdate}{2024-05-29}
+\vspace*{\fill}
+\begin{center}
+\includegraphics[width=\textwidth, height=0.55\textheight, keepaspectratio]{C:/GitHub/VisualIdeasBook/data/images/503f6b35b967b6ae47a9c1f99a5367e3.png}
+\end{center}
+\vspace{2mm}
+\begin{center}
+\begin{minipage}{0.92\textwidth}
+\small
+\textbf{Avoid the second mistake.}\\
+Inspired by James Clear’s book, \textbf{Atomic Habits}.
+
+Now the trick is how?
+
+The best piece of advice I’ve heard from James Clear is, “reduce the scope to maintain the habit.”
+
+Most of my life I’ve held almost impossible to meet standards, for myself and others. While this was useful to me for a season, I realized over time those standards distorted my creative output into an all or nothing approach.
+
+The harsh truth is that \textbf{a balanced life doesn’t mean balanced days.} Balance comes in the form of an averaging of your days.
+
+There will be days when I only get a few push-ups or a brisk walk in for exercise. There are days when I get home so late that I only have enough time with the kids for a short cuddle and bedtime story.
+
+The point is to embrace the imperfect messiness of it all. Miss a day, you’re human. Try your best to get back on the bike day 2, even if it means you don’t go as far forward as you’d like.
+
+A little progress is still progress.
+\end{minipage}
+\end{center}
+\vspace*{\fill}
+\newpage
+\renewcommand{\theposttitle}{How to overcome your impossible standards}
+\renewcommand{\thepostdate}{2024-05-29}
+\vspace*{\fill}
+\begin{center}
+\includegraphics[width=\textwidth, height=0.55\textheight, keepaspectratio]{C:/GitHub/VisualIdeasBook/data/images/a805c243f8b393c74310115be856084e.png}
+\end{center}
+\vspace{2mm}
+\begin{center}
+\begin{minipage}{0.92\textwidth}
+\small
+\textbf{Friendly reminder of the day.}
+
+I try to think of my visual metaphors as “friendly reminders” to the reader (and myself). I hope they FEEL true, like a familiar echo…that somehow got lost in the sea of relentless noise.
+
+This one is a simple reminder to myself that the negative stuff we each face day in and day out are what help us appreciate the positive stuff.
+
+If you like friendly reminders, I posted a bunch more\textbf{ to start the week here. }
+\end{minipage}
+\end{center}
+\vspace*{\fill}
+\newpage
+\renewcommand{\theposttitle}{How to overcome your impossible standards}
+\renewcommand{\thepostdate}{2024-05-29}
+\vspace*{\fill}
+\begin{center}
+\includegraphics[width=\textwidth, height=0.55\textheight, keepaspectratio]{C:/GitHub/VisualIdeasBook/data/images/630ecc5198b8512a2ad8272038ed66bb.png}
+\end{center}
+\vspace{2mm}
+\begin{center}
+\begin{minipage}{0.92\textwidth}
+\small
+\textbf{Perception vs reality of routines}
+
+I used to hate routines. But nothing gets you to love routines faster than having kids. 😆
+\end{minipage}
+\end{center}
+\vspace*{\fill}
+\newpage
+\renewcommand{\theposttitle}{What learning the guitar taught me about progress}
+\renewcommand{\thepostdate}{2024-06-18}
+\vspace*{\fill}
+\begin{center}
+\includegraphics[width=\textwidth, height=0.55\textheight, keepaspectratio]{C:/GitHub/VisualIdeasBook/data/images/e4cdf7e00d13e62329d9b688265dc5a4.png}
+\end{center}
+\vspace{2mm}
+\begin{center}
+\begin{minipage}{0.92\textwidth}
+\small
+Most progress is invisible until it's not.
+
+When I first learned to play the guitar—
+
+E-chord? No problem. \\
+C-chord? No problem. \\
+But then I got to the G-chord, and I was like, what the hell is this?!
+
+I thought, "how in the world do fingers make this shape?"
+
+Day to day, I tried to play that freaking G-chord.
+
+But no sound. All I felt was the pain of metal strings carving into my fingers. I couldn't see progress but for some reason I trusted the process.
+
+And eventually one day out of no where, I heard \textit{strum}...\\
+the sweet release of that G-chord! 🫠
+
+That was the first time in my life I had proof that just because you can't see progress doesn't mean you're not making progress.
+\end{minipage}
+\end{center}
+\vspace*{\fill}
+\newpage
+\renewcommand{\theposttitle}{What learning the guitar taught me about progress}
+\renewcommand{\thepostdate}{2024-06-18}
+\vspace*{\fill}
+\begin{center}
+\includegraphics[width=\textwidth, height=0.55\textheight, keepaspectratio]{C:/GitHub/VisualIdeasBook/data/images/3b92ec2c227d466815fbca1a7ffabad1.png}
+\end{center}
+\vspace{2mm}
+\begin{center}
+\begin{minipage}{0.92\textwidth}
+\small
+\textbf{A critical shift in thinking to make for leaders. }
+\end{minipage}
+\end{center}
+\vspace*{\fill}
+\newpage
+\renewcommand{\theposttitle}{What learning the guitar taught me about progress}
+\renewcommand{\thepostdate}{2024-06-18}
+\vspace*{\fill}
+\begin{center}
+\includegraphics[width=\textwidth, height=0.24\textheight, keepaspectratio]{C:/GitHub/VisualIdeasBook/data/images/ecf16e85deb3bf9c9e27c714dfc09374.png}
+\end{center}
+\vspace{2mm}
+\begin{center}
+\begin{minipage}{0.92\textwidth}
+\small
+\textbf{It's in your own hands.}
+
+\textbf{Life is short. }
+\end{minipage}
+\end{center}
+\vspace{5mm}
+\begin{center}
+\includegraphics[width=\textwidth, height=0.24\textheight, keepaspectratio]{C:/GitHub/VisualIdeasBook/data/images/3e4fee0486287afc4ec882cb8411c3d5.png}
+\end{center}
+\vspace*{\fill}
+\newpage
+\renewcommand{\theposttitle}{Visual IDEAs: Why making daily visuals is a superpower}
+\renewcommand{\thepostdate}{2024-08-06}
+\vspace*{\fill}
+\begin{center}
+\includegraphics[width=\textwidth, height=0.55\textheight, keepaspectratio]{C:/GitHub/VisualIdeasBook/data/images/5ae69c5bc648b9f5cd740f5e0080bb94.png}
+\end{center}
+\vspace{2mm}
+\begin{center}
+\begin{minipage}{0.92\textwidth}
+\small
+\textbf{It gets messier before it doesn't. }
+
+One of the most beneficial aspects of writing is that it gives your memory and thinking structure. Random events and emotions can be organized with a beginning, middle and end.
+
+But often, I find myself creating more chaos in the process before finding the thread to tie everything together.
+
+Ah but the satisfaction and clarity once that baggage you’ve been carrying is organized feels oh so good! 😁
+
+“This is the only real concern of the artist, \\
+to recreate out of the disorder of life \\
+that order which is art.”
+\end{minipage}
+\end{center}
+\vspace*{\fill}
+\newpage
+\renewcommand{\theposttitle}{Visual IDEAs: Why making daily visuals is a superpower}
+\renewcommand{\thepostdate}{2024-08-06}
+\vspace*{\fill}
+\begin{center}
+\begin{minipage}{0.92\textwidth}
+\small
+The beauty of creating visuals daily is the ability to \textbf{repurpose} the assets you build over time.
+
+For example:
+\end{minipage}
+\end{center}
+\vspace{4mm}
+\begin{center}
+\includegraphics[width=\textwidth, height=0.17\textheight, keepaspectratio]{C:/GitHub/VisualIdeasBook/data/images/755767468ae14c102ee8154d60a9e02f.jpeg}
+\end{center}
+\vspace{2mm}
+\begin{center}
+\begin{minipage}{0.92\textwidth}
+\small
+This is the 21st visual I ever made (very different than today I know 😅)
+\end{minipage}
+\end{center}
+\vspace{5mm}
+\begin{center}
+\includegraphics[width=\textwidth, height=0.17\textheight, keepaspectratio]{C:/GitHub/VisualIdeasBook/data/images/cdfb206b7fab4ea04315384ede477878.png}
+\end{center}
+\vspace{2mm}
+\begin{center}
+\begin{minipage}{0.92\textwidth}
+\small
+Here’s that same firefly repurposed a year later!
+
+This is a superpower because the more you create, the more you CAN create!
+
+For example, this \textbf{recent carousel on the difference between amateurs vs professionals}\textbf{*} that went viral were mostly visuals I gave new life by repurposing them.
+
+This means even though in the beginning you’re doing a lot of heavy lifting, the more reps you do, the bigger you grow your personal library of assets. And that means you don’t always have to start from scratch!
+
+P.S. If you’re ready to start building your own visual library, you may want to join the next cohort of \textbf{Thinking in Visual Metaphors} in September. Be sure to sign up for the waitlist to be one of the first to know when registration starts!
+\end{minipage}
+\end{center}
+\vspace{5mm}
+\begin{center}
+\includegraphics[width=\textwidth, height=0.17\textheight, keepaspectratio]{C:/GitHub/VisualIdeasBook/data/images/11e7b17799d0c82d0c1d0f04b2b1860e.png}
+\end{center}
+\vspace{2mm}
+\begin{center}
+\begin{minipage}{0.92\textwidth}
+\small
+*I should note to be an amateur is a beautiful thing. “Amateur” comes from the Latin word for lover (amator). I’m a proud amateur guitarist! 😬 The problem comes \textit{if I want to become a pro} guitarist. Pursuing it as a career forces changes in my mindset that need to happen if I want to avoid disappointment.
+\end{minipage}
+\end{center}
+\vspace*{\fill}
+\newpage
+\renewcommand{\theposttitle}{Visual IDEAs: Why making daily visuals is a superpower}
+\renewcommand{\thepostdate}{2024-08-06}
+\vspace*{\fill}
+\begin{center}
+\includegraphics[width=\textwidth, height=0.55\textheight, keepaspectratio]{C:/GitHub/VisualIdeasBook/data/images/d10b157208e23ee754caa35794bf3965.png}
+\end{center}
+\vspace{2mm}
+\begin{center}
+\begin{minipage}{0.92\textwidth}
+\small
+\textbf{The Swan Paradox: }\\
+It takes an obscene amount of effort to make what you're doing look effortless.\\
+To stay afloat, the effort never stops.
+
+This is what it means to be "consistent."
+
+But be careful. You'll drown if you only rely on burst efforts. \\
+Pace yourself.
+\end{minipage}
+\end{center}
+\vspace*{\fill}
+\newpage
+\renewcommand{\theposttitle}{Visual IDEAs: Why making daily visuals is a superpower}
+\renewcommand{\thepostdate}{2024-08-06}
+\vspace*{\fill}
+\begin{center}
+\includegraphics[width=\textwidth, height=0.55\textheight, keepaspectratio]{C:/GitHub/VisualIdeasBook/data/images/b43f0eee90b1f626551c065cb16051d5.png}
+\end{center}
+\vspace{2mm}
+\begin{center}
+\begin{minipage}{0.92\textwidth}
+\small
+\textbf{Definition of failure. }
+\end{minipage}
+\end{center}
+\vspace*{\fill}
+\newpage
+\renewcommand{\theposttitle}{How to find happiness where you are}
+\renewcommand{\thepostdate}{2024-08-20}
+\vspace*{\fill}
+\begin{center}
+\includegraphics[width=\textwidth, height=0.55\textheight, keepaspectratio]{C:/GitHub/VisualIdeasBook/data/images/c272761b4b39b14bc97b6e36580a9cbe.png}
+\end{center}
+\vspace{2mm}
+\begin{center}
+\begin{minipage}{0.92\textwidth}
+\small
+\textbf{The one word never to include in an apology.}
+\end{minipage}
+\end{center}
+\vspace*{\fill}
+\newpage
+\renewcommand{\theposttitle}{How to find happiness where you are}
+\renewcommand{\thepostdate}{2024-08-20}
+\vspace*{\fill}
+\begin{center}
+\begin{minipage}{0.92\textwidth}
+\small
+I’m currently reading \textbf{Dr. Peter Attia’s book, Outlive}, which is a very thorough and detailed book summarizing most of Dr. Attia’s best practices.
+
+The one thing I noticed reading the book though is that its jargon filled and could probably benefit from some visual thinking to cement the messages.
+
+The example below is a chart Dr. Attia fought tooth and nail to put into the book but was overruled by his editors. Now I don’t know about you, but I can see why. I had to listen to the explanation twice and then spend another few minutes really looking over this chart to get the point.
+\end{minipage}
+\end{center}
+\vspace{4mm}
+\begin{center}
+\includegraphics[width=\textwidth, height=0.24\textheight, keepaspectratio]{C:/GitHub/VisualIdeasBook/data/images/34dfbfbf68ffcffd6e56a4a8ba7d96c8.png}
+\end{center}
+\vspace{2mm}
+\begin{center}
+\begin{minipage}{0.92\textwidth}
+\small
+Today’s quick lesson if you are trying to convey a message in a visual:\\
+\textbf{Stop presenting data. Instead, present the point of the data. }
+
+For example, here’s ONE of the interpretations of the data (there are many other helpful interpretations that EACH deserve their own visual):
+\end{minipage}
+\end{center}
+\vspace{5mm}
+\begin{center}
+\includegraphics[width=\textwidth, height=0.24\textheight, keepaspectratio]{C:/GitHub/VisualIdeasBook/data/images/206b9417657fc1bf2309b48d062be4ce.png}
+\end{center}
+\vspace{2mm}
+\begin{center}
+\begin{minipage}{0.92\textwidth}
+\small
+Based on Dr. Peter Attia’s Data
+
+It’s true we lose some nuance from simplifying, but we also save our reader from spending as much time as I did to interpret the data.
+
+You can always complement the visual with the hardcore data in an appendix (or if giving a live-presentation, a QR code to a website with the charts)
+
+P.S. If you want to go deeper to learn how to create visual metaphors, \textbf{click here to sign up for the waitlist. }
+\end{minipage}
+\end{center}
+\vspace*{\fill}
+\newpage
+\renewcommand{\theposttitle}{How to find happiness where you are}
+\renewcommand{\thepostdate}{2024-08-20}
+\vspace*{\fill}
+\begin{center}
+\includegraphics[width=\textwidth, height=0.55\textheight, keepaspectratio]{C:/GitHub/VisualIdeasBook/data/images/3f66053afd01580c3f08eac02a873fed.png}
+\end{center}
+\vspace{2mm}
+\begin{center}
+\begin{minipage}{0.92\textwidth}
+\small
+\textbf{The pursuit of having what you want vs wanting what you have.}
+
+It’s all too easy to miss all the things you have right where you are.
+\end{minipage}
+\end{center}
+\vspace*{\fill}
+\newpage
+\renewcommand{\theposttitle}{How to find happiness where you are}
+\renewcommand{\thepostdate}{2024-08-20}
+\vspace*{\fill}
+\begin{center}
+\includegraphics[width=\textwidth, height=0.55\textheight, keepaspectratio]{C:/GitHub/VisualIdeasBook/data/images/d3b0b6c5904017573a85006d404c3019.png}
+\end{center}
+\vspace{2mm}
+\begin{center}
+\begin{minipage}{0.92\textwidth}
+\small
+\textbf{The distance between your dreams and reality is not as far as you think.}
+
+I overplan. Overanalyze. Overthink most things. It may be why my \textbf{overthinking visual carousel }struck a chord with so many folks a couple weeks ago.
+
+Before I made my first online post, I kept thinking I had to figure everything out before starting.
+
+Questions like:
+
+What's my niche?
+
+Who am I to talk about this?
+
+And hasn't everything that needs to be said about everything already been said?!
+
+So I kept thinking...and waiting...for over 10+ years!
+
+The biggest lesson I learned after starting was you can't steer a parked car (as the saying goes).
+
+99\% of that analysis paralysis was just in my head.
+\end{minipage}
+\end{center}
+\vspace*{\fill}
+\newpage
+\renewcommand{\theposttitle}{How to understand more deeply}
+\renewcommand{\thepostdate}{2024-09-03}
+\vspace*{\fill}
+\begin{center}
+\includegraphics[width=\textwidth, height=0.55\textheight, keepaspectratio]{C:/GitHub/VisualIdeasBook/data/images/dd53b45e79a99c695b02238b3c23e6e8.png}
+\end{center}
+\vspace{2mm}
+\begin{center}
+\begin{minipage}{0.92\textwidth}
+\small
+Teaching others teaches yourself.
+\end{minipage}
+\end{center}
+\vspace*{\fill}
+\newpage
+\renewcommand{\theposttitle}{How to understand more deeply}
+\renewcommand{\thepostdate}{2024-09-03}
+\vspace*{\fill}
+\begin{center}
+\includegraphics[width=\textwidth, height=0.55\textheight, keepaspectratio]{C:/GitHub/VisualIdeasBook/data/images/9b252e1d36c5774778e0063beb8ce7b2.png}
+\end{center}
+\vspace{2mm}
+\begin{center}
+\begin{minipage}{0.92\textwidth}
+\small
+Everything you've ever wanted is sitting on the other side of fear.
+
+\textbf{Let's walk through that curtain.}
+\end{minipage}
+\end{center}
+\vspace*{\fill}
+\newpage
+\renewcommand{\theposttitle}{How to understand more deeply}
+\renewcommand{\thepostdate}{2024-09-03}
+\vspace*{\fill}
+\begin{center}
+\includegraphics[width=\textwidth, height=0.55\textheight, keepaspectratio]{C:/GitHub/VisualIdeasBook/data/images/6072056478874332b36e4fd95207e563.png}
+\end{center}
+\vspace{2mm}
+\begin{center}
+\begin{minipage}{0.92\textwidth}
+\small
+When you talk, you are only repeating
+
+what you already know.
+
+But if you listen, you may learn something new.
+
+Inspired by Carolyn Coughlin, co-founder of Cultivating Leadership
+\end{minipage}
+\end{center}
+\vspace*{\fill}
+\newpage
+\renewcommand{\theposttitle}{Why you should embrace FOMO}
+\renewcommand{\thepostdate}{2024-09-17}
+\vspace*{\fill}
+\begin{center}
+\includegraphics[width=\textwidth, height=0.55\textheight, keepaspectratio]{C:/GitHub/VisualIdeasBook/data/images/8f2ee05c4c915a0509b66c6a3c04f7a3.png}
+\end{center}
+\vspace{2mm}
+\begin{center}
+\begin{minipage}{0.92\textwidth}
+\small
+The art of teaching is the art of assisting discovery.
+\end{minipage}
+\end{center}
+\vspace*{\fill}
+\newpage
+\renewcommand{\theposttitle}{Why you should embrace FOMO}
+\renewcommand{\thepostdate}{2024-09-17}
+\vspace*{\fill}
+\begin{center}
+\begin{minipage}{0.92\textwidth}
+\small
+A quick tip to simplify a metaphor:\\
+Play with the \textbf{AMOUNT} of an element in the visual.
+
+It’s a helpful way to frame an idea so its meaning is more easily understood by the reader.
+
+To start, try this:
+\end{minipage}
+\end{center}
+\vspace{4mm}
+\begin{center}
+\includegraphics[width=\textwidth, height=0.24\textheight, keepaspectratio]{C:/GitHub/VisualIdeasBook/data/images/bb9c3411777c15a7bf4ff67806015ccb.png}
+\end{center}
+\vspace{2mm}
+\begin{center}
+\begin{minipage}{0.92\textwidth}
+\small
+Multiply the quantity of the object…
+\end{minipage}
+\end{center}
+\vspace{5mm}
+\begin{center}
+\includegraphics[width=\textwidth, height=0.24\textheight, keepaspectratio]{C:/GitHub/VisualIdeasBook/data/images/f46edc8abf8f86f01ae85681802fc6a5.png}
+\end{center}
+\vspace{2mm}
+\begin{center}
+\begin{minipage}{0.92\textwidth}
+\small
+…or scale its size.
+
+P.S. When you’re ready to start creating your own visuals, \textbf{sign up for the next cohort of Thinking in Visual Metaphors ↗} .
+\end{minipage}
+\end{center}
+\vspace*{\fill}
+\newpage
+\renewcommand{\theposttitle}{Why you should embrace FOMO}
+\renewcommand{\thepostdate}{2024-09-17}
+\vspace*{\fill}
+\begin{center}
+\includegraphics[width=\textwidth, height=0.55\textheight, keepaspectratio]{C:/GitHub/VisualIdeasBook/data/images/79488b2225fb6784f879b6cbbe80c608.png}
+\end{center}
+\vspace{2mm}
+\begin{center}
+\begin{minipage}{0.92\textwidth}
+\small
+It's not what you gather, but what you scatter that tells what kind of life you have lived.
+
+No one will remember how much you made. \\
+But the people that matter most will remember your integrity.
+\end{minipage}
+\end{center}
+\vspace*{\fill}
+\newpage
+\renewcommand{\theposttitle}{Why you should embrace FOMO}
+\renewcommand{\thepostdate}{2024-09-17}
+\vspace*{\fill}
+\begin{center}
+\includegraphics[width=\textwidth, height=0.55\textheight, keepaspectratio]{C:/GitHub/VisualIdeasBook/data/images/504cd821383602c220a0c9f984868b3f.png}
+\end{center}
+\vspace{2mm}
+\begin{center}
+\begin{minipage}{0.92\textwidth}
+\small
+Missing out’ is what makes our choices meaningful.
+
+One of my favorite quotes from one of my favorite books, \textbf{“4000 Weeks: Time Management for Mortals” by Oliver Burkeman. }
+
+Embrace the joy of missing out by focusing on what truly matters and saving your energy for what counts.
+\end{minipage}
+\end{center}
+\vspace*{\fill}
+\newpage
+\renewcommand{\theposttitle}{Why there's no shortcut to getting wiser}
+\renewcommand{\thepostdate}{2024-10-01}
+\vspace*{\fill}
+\begin{center}
+\includegraphics[width=\textwidth, height=0.24\textheight, keepaspectratio]{C:/GitHub/VisualIdeasBook/data/images/61b25f9cc21dc98f828d34e41261ac0e.png}
+\end{center}
+\vspace{2mm}
+\begin{center}
+\begin{minipage}{0.92\textwidth}
+\small
+Mistakes are the portals of discovery.
+
+A key lesson I've learned after teaching high school for over 20 years:\\
+\textbf{You can’t shortcut the experience that comes through trial \& error.}
+
+Knowledge is learned. Wisdom is earned.
+\end{minipage}
+\end{center}
+\vspace{5mm}
+\begin{center}
+\includegraphics[width=\textwidth, height=0.24\textheight, keepaspectratio]{C:/GitHub/VisualIdeasBook/data/images/843c172ed8d35ba161f8eab0c0f25486.png}
+\end{center}
+\vspace{2mm}
+\begin{center}
+\begin{minipage}{0.92\textwidth}
+\small
+If you’re leading a team, the trick to earning wisdom is creating an environment where people can: \\
+• fail fast \\
+• fail forward\\
+• and fail without fear.
+\end{minipage}
+\end{center}
+\vspace*{\fill}
+\newpage
+\renewcommand{\theposttitle}{Why there's no shortcut to getting wiser}
+\renewcommand{\thepostdate}{2024-10-01}
+\vspace*{\fill}
+\begin{center}
+\begin{minipage}{0.92\textwidth}
+\small
+If you’ve been following me for a while, you know to \textbf{focus on iteration over perfection.}
+
+Knowing you can reverse a decision is an antidote to overthinking.
+
+Iterations can be BIG. Or they can be small. The point is you can \textbf{perfect in public. }
+
+Here’s an example of a small iteration:
+\end{minipage}
+\end{center}
+\vspace{4mm}
+\begin{center}
+\includegraphics[width=\textwidth, height=0.24\textheight, keepaspectratio]{C:/GitHub/VisualIdeasBook/data/images/c732bc52667602096ee0894ed1509a18.png}
+\end{center}
+\vspace{2mm}
+\begin{center}
+\begin{minipage}{0.92\textwidth}
+\small
+Version 1: Published 3/20/24
+\end{minipage}
+\end{center}
+\vspace{5mm}
+\begin{center}
+\includegraphics[width=\textwidth, height=0.24\textheight, keepaspectratio]{C:/GitHub/VisualIdeasBook/data/images/c07cd5fce9ca5b81ff9380f52775b6bf.png}
+\end{center}
+\vspace{2mm}
+\begin{center}
+\begin{minipage}{0.92\textwidth}
+\small
+Version 2: Published 9/29/24
+
+Login or Subscribe to participate
+
+The visual is far from perfect. But the beauty (and irritating thing 😆) about social media is that people forget!
+
+In a few months, you can make a significant or subtle change and try again.
+\end{minipage}
+\end{center}
+\vspace*{\fill}
+\newpage
+\renewcommand{\theposttitle}{Why there's no shortcut to getting wiser}
+\renewcommand{\thepostdate}{2024-10-01}
+\vspace*{\fill}
+\begin{center}
+\includegraphics[width=\textwidth, height=0.55\textheight, keepaspectratio]{C:/GitHub/VisualIdeasBook/data/images/75e01585917ca476866eec3e4de50eaa.png}
+\end{center}
+\vspace{2mm}
+\begin{center}
+\begin{minipage}{0.92\textwidth}
+\small
+\textbf{You can't pour from an empty cup.}\\
+When you take care of yourself, you’re better able to help others.
+\end{minipage}
+\end{center}
+\vspace*{\fill}
+\newpage
+\renewcommand{\theposttitle}{Why there's no shortcut to getting wiser}
+\renewcommand{\thepostdate}{2024-10-01}
+\vspace*{\fill}
+\begin{center}
+\includegraphics[width=\textwidth, height=0.55\textheight, keepaspectratio]{C:/GitHub/VisualIdeasBook/data/images/1ddc562f6df45b23634a5d064f3ece99.png}
+\end{center}
+\vspace{2mm}
+\begin{center}
+\begin{minipage}{0.92\textwidth}
+\small
+"Success is not to be pursued; it is to be attracted by the person you become."
+
+\textbf{Focus on your roots and success will blossom.}
+\end{minipage}
+\end{center}
+\vspace*{\fill}
+\newpage
+\renewcommand{\theposttitle}{What tea can teach us about overthinking}
+\renewcommand{\thepostdate}{2024-10-15}
+\vspace*{\fill}
+\begin{center}
+\includegraphics[width=\textwidth, height=0.55\textheight, keepaspectratio]{C:/GitHub/VisualIdeasBook/data/images/3653bb3f6faaccaf8f34032f1d2ff363.png}
+\end{center}
+\vspace{2mm}
+\begin{center}
+\begin{minipage}{0.92\textwidth}
+\small
+\textbf{The sweet spot for how much to think before acting.}\\
+(this may only make sense if you drink tea 😆)
+\end{minipage}
+\end{center}
+\vspace*{\fill}
+\newpage
+\renewcommand{\theposttitle}{What tea can teach us about overthinking}
+\renewcommand{\thepostdate}{2024-10-15}
+\vspace*{\fill}
+\begin{center}
+\begin{minipage}{0.92\textwidth}
+\small
+Last week, I ran a poll on 2 versions of a visual:
+\end{minipage}
+\end{center}
+\vspace{4mm}
+\begin{center}
+\includegraphics[width=\textwidth, height=0.17\textheight, keepaspectratio]{C:/GitHub/VisualIdeasBook/data/images/bd642bd8bf734d82afedf355c0888853.png}
+\end{center}
+\vspace{2mm}
+\begin{center}
+\begin{minipage}{0.92\textwidth}
+\small
+Version 1: Published 3/20/24
+\end{minipage}
+\end{center}
+\vspace{5mm}
+\begin{center}
+\includegraphics[width=\textwidth, height=0.17\textheight, keepaspectratio]{C:/GitHub/VisualIdeasBook/data/images/7df6b099e71dd150b644499cc615dfd5.png}
+\end{center}
+\vspace{2mm}
+\begin{center}
+\begin{minipage}{0.92\textwidth}
+\small
+Version 2: Published 9/29/24
+
+The poll overwhelmingly selected the pre-iterated version 1!
+\end{minipage}
+\end{center}
+\vspace{5mm}
+\begin{center}
+\includegraphics[width=\textwidth, height=0.17\textheight, keepaspectratio]{C:/GitHub/VisualIdeasBook/data/images/24dfcfcb99de04d8cd1cfce6310a6f0b.png}
+\end{center}
+\vspace{2mm}
+\begin{center}
+\begin{minipage}{0.92\textwidth}
+\small
+\textbf{What’s the lesson?}
+
+For my fellow recovering perfectionists, it’s difficult to know what works until you share your work. When you get caught in the weeds of messing with subtle details, it doesn’t always mean you’re making an improvement! (a humbling lesson)
+
+Back to the drawing board! 😆
+\end{minipage}
+\end{center}
+\vspace*{\fill}
+\newpage
+\renewcommand{\theposttitle}{What tea can teach us about overthinking}
+\renewcommand{\thepostdate}{2024-10-15}
+\vspace*{\fill}
+\begin{center}
+\includegraphics[width=\textwidth, height=0.55\textheight, keepaspectratio]{C:/GitHub/VisualIdeasBook/data/images/6e5a6891b641419163fa291467e87ae7.png}
+\end{center}
+\vspace{2mm}
+\begin{center}
+\begin{minipage}{0.92\textwidth}
+\small
+A single act of kindness throws out roots in all directions, and the roots spring up and make new trees.
+\end{minipage}
+\end{center}
+\vspace*{\fill}
+\newpage
+\renewcommand{\theposttitle}{What tea can teach us about overthinking}
+\renewcommand{\thepostdate}{2024-10-15}
+\vspace*{\fill}
+\begin{center}
+\includegraphics[width=\textwidth, height=0.55\textheight, keepaspectratio]{C:/GitHub/VisualIdeasBook/data/images/db30550bb50e4ed15838165603c484eb.png}
+\end{center}
+\vspace{2mm}
+\begin{center}
+\begin{minipage}{0.92\textwidth}
+\small
+Skill is only developed by hours and hours of work.
+\end{minipage}
+\end{center}
+\vspace*{\fill}
+\newpage
+\renewcommand{\theposttitle}{Are you reaching your full potential?}
+\renewcommand{\thepostdate}{2024-10-29}
+\vspace*{\fill}
+\begin{center}
+\includegraphics[width=\textwidth, height=0.24\textheight, keepaspectratio]{C:/GitHub/VisualIdeasBook/data/images/e2279be7724c25f806a8a3882e69d1e4.png}
+\end{center}
+\vspace{2mm}
+\begin{center}
+\begin{minipage}{0.92\textwidth}
+\small
+You do not rise to the level of your goals. \\
+You fall to the level of your systems.
+
+One of my favorite quotes from the book, \textbf{“Atomic Habits.”}
+\end{minipage}
+\end{center}
+\vspace{5mm}
+\begin{center}
+\includegraphics[width=\textwidth, height=0.24\textheight, keepaspectratio]{C:/GitHub/VisualIdeasBook/data/images/555ab948b93e67ef2bdb9a54be662152.jpg}
+\end{center}
+\vspace{2mm}
+\begin{center}
+\begin{minipage}{0.92\textwidth}
+\small
+Join over 4 million Americans who start their day with 1440 – your daily digest for unbiased, fact-centric news. From politics to sports, we cover it all by analyzing over 100 sources. Our concise, 5-minute read lands in your inbox each morning at no cost. Experience news without the noise; let 1440 help you make up your own mind. Sign up now and invite your friends and family to be part of the informed.
+
+Sign up today!
+\end{minipage}
+\end{center}
+\vspace*{\fill}
+\newpage
+\renewcommand{\theposttitle}{Are you reaching your full potential?}
+\renewcommand{\thepostdate}{2024-10-29}
+\vspace*{\fill}
+\begin{center}
+\begin{minipage}{0.92\textwidth}
+\small
+Recently, I shared a first animation of one of my visual metaphors. There’s plenty of room to grow and experiment in this space, but it did make me reflect…what is lost and what is gained in the reader’s experience when we add motion?
+\end{minipage}
+\end{center}
+\vspace{4mm}
+\begin{center}
+\includegraphics[width=\textwidth, height=0.55\textheight, keepaspectratio]{C:/GitHub/VisualIdeasBook/data/images/329b7452d987f7ab8b87b9df51243258.png}
+\end{center}
+\vspace{2mm}
+\begin{center}
+\begin{minipage}{0.92\textwidth}
+\small
+Still Visual
+\end{minipage}
+\end{center}
+\vspace*{\fill}
+\newpage
+\renewcommand{\theposttitle}{Are you reaching your full potential?}
+\renewcommand{\thepostdate}{2024-10-29}
+\vspace*{\fill}
+\begin{center}
+\includegraphics[width=\textwidth, height=0.55\textheight, keepaspectratio]{C:/GitHub/VisualIdeasBook/data/images/91895fea85321b431cb13b85407009c7.png}
+\end{center}
+\vspace{2mm}
+\begin{center}
+\begin{minipage}{0.92\textwidth}
+\small
+\textbf{Motion = staying busy }\\
+\textbf{Action = focused execution}
+
+I used to wear “being busy” as a badge of honor. But a lesson I’m relearning is doing a lot and doing what matters are not the same thing.
+
+What’s worse is the busier I get, the less I focus on the latter.
+
+Don’t make this same mistake. Create space for a few moments today to think about how you might position this week to take action on the things that matter most.
+\end{minipage}
+\end{center}
+\vspace*{\fill}
+\newpage
+\renewcommand{\theposttitle}{Are you reaching your full potential?}
+\renewcommand{\thepostdate}{2024-10-29}
+\vspace*{\fill}
+\begin{center}
+\includegraphics[width=\textwidth, height=0.55\textheight, keepaspectratio]{C:/GitHub/VisualIdeasBook/data/images/4c03ea19980b50b3818f3bddea921e89.png}
+\end{center}
+\vspace{2mm}
+\begin{center}
+\begin{minipage}{0.92\textwidth}
+\small
+Leadership is not about being in charge. \\
+It’s about taking care of those in your charge.
+\end{minipage}
+\end{center}
+\vspace*{\fill}
+\newpage
+\renewcommand{\theposttitle}{The art of remixing ideas}
+\renewcommand{\thepostdate}{2024-11-12}
+\vspace*{\fill}
+\begin{center}
+\includegraphics[width=\textwidth, height=0.55\textheight, keepaspectratio]{C:/GitHub/VisualIdeasBook/data/images/04b8e093afdbfbde13e2415e4f7923ef.png}
+\end{center}
+\vspace{2mm}
+\begin{center}
+\begin{minipage}{0.92\textwidth}
+\small
+\textbf{Speaking to impress vs listening to understand.}
+\end{minipage}
+\end{center}
+\vspace*{\fill}
+\newpage
+\renewcommand{\theposttitle}{The art of remixing ideas}
+\renewcommand{\thepostdate}{2024-11-12}
+\vspace*{\fill}
+\begin{center}
+\includegraphics[width=\textwidth, height=0.55\textheight, keepaspectratio]{C:/GitHub/VisualIdeasBook/data/images/9f9fc3ddf8ae982afd1c059efac24e92.png}
+\end{center}
+\vspace{2mm}
+\begin{center}
+\begin{minipage}{0.92\textwidth}
+\small
+\textbf{I know this visual ages me }🤓\textbf{ }🫠
+\end{minipage}
+\end{center}
+\vspace*{\fill}
+\newpage
+\renewcommand{\theposttitle}{The art of remixing ideas}
+\renewcommand{\thepostdate}{2024-11-12}
+\vspace*{\fill}
+\begin{center}
+\includegraphics[width=\textwidth, height=0.17\textheight, keepaspectratio]{C:/GitHub/VisualIdeasBook/data/images/3943cb56e0fc88deaf54286864b250d3.png}
+\end{center}
+\vspace{2mm}
+\begin{center}
+\begin{minipage}{0.92\textwidth}
+\small
+When you're surrounded by the right people, \\
+hours feel like minutes.
+
+When you're surrounded by the wrong people, \\
+minutes feel like hours.
+
+Login or Subscribe to participate
+\end{minipage}
+\end{center}
+\vspace{5mm}
+\begin{center}
+\includegraphics[width=\textwidth, height=0.17\textheight, keepaspectratio]{C:/GitHub/VisualIdeasBook/data/images/d8cc89735aa0543f63af3a516be0dc7f.png}
+\end{center}
+\vspace{2mm}
+\begin{center}
+\begin{minipage}{0.92\textwidth}
+\small
+Say hi 👋🏻 on Twitter or LinkedIn
+
+If you'd like to join the 25,241 subscribers getting Visual I.D.E.A.s straight into their inbox, subscribe below:
+
+Thanks for reading! Reply any time with feedback or questions.
+
+I made this newsletter with \textbf{\textit{\underline{beehiiv}}}\textbf{, }my favorite tool for easily creating and growing a newsletter.
+
+When you’re ready, I’ve built a course to teach \textbf{Thinking in Visual Metaphors}: \textit{\underline{Join the Waiting List}}
+\end{minipage}
+\end{center}
+\vspace{5mm}
+\begin{center}
+\includegraphics[width=\textwidth, height=0.17\textheight, keepaspectratio]{C:/GitHub/VisualIdeasBook/data/images/f2833dff016936c751c34b46c7d76fa1.png}
+\end{center}
+\vspace*{\fill}
+\newpage
+\renewcommand{\theposttitle}{The problem with low-hanging fruit}
+\renewcommand{\thepostdate}{2024-11-26}
+\vspace*{\fill}
+\begin{center}
+\includegraphics[width=\textwidth, height=0.55\textheight, keepaspectratio]{C:/GitHub/VisualIdeasBook/data/images/ba7397c58347b3031304748f055dc731.png}
+\end{center}
+\vspace{2mm}
+\begin{center}
+\begin{minipage}{0.92\textwidth}
+\small
+A mistake a lot of folks make:
+
+Falling into "the collector's fallacy" trap--\\
+Believing that by collecting more information, we somehow absorb it to grow.
+
+It feels productive to:
+
+highlight more books
+
+bookmark more articles
+
+listen to more podcasts
+
+“If more information was the answer, then we'd all be billionaires with perfect abs.”
+
+Real progress happens through decisions, action and commitment.
+\end{minipage}
+\end{center}
+\vspace*{\fill}
+\newpage
+\renewcommand{\theposttitle}{The problem with low-hanging fruit}
+\renewcommand{\thepostdate}{2024-11-26}
+\vspace*{\fill}
+\begin{center}
+\includegraphics[width=\textwidth, height=0.55\textheight, keepaspectratio]{C:/GitHub/VisualIdeasBook/data/images/b00a1548d330ba327803eb0a29582711.png}
+\end{center}
+\vspace{2mm}
+\begin{center}
+\begin{minipage}{0.92\textwidth}
+\small
+“If we only do what we’re familiar with, we might miss what we’ve been made for.”
+\end{minipage}
+\end{center}
+\vspace*{\fill}
+\newpage
+\renewcommand{\theposttitle}{The problem with low-hanging fruit}
+\renewcommand{\thepostdate}{2024-11-26}
+\vspace*{\fill}
+\begin{center}
+\includegraphics[width=\textwidth, height=0.55\textheight, keepaspectratio]{C:/GitHub/VisualIdeasBook/data/images/b895e36605db1947861ca587163275b7.png}
+\end{center}
+\vspace{2mm}
+\begin{center}
+\begin{minipage}{0.92\textwidth}
+\small
+\textbf{Friendly reminder:} Always check you’re climbing the right mountain.
+\end{minipage}
+\end{center}
+\vspace*{\fill}
+\newpage
+\renewcommand{\theposttitle}{Building a creative habit in 2025}
+\renewcommand{\thepostdate}{2024-12-10}
+\vspace*{\fill}
+\begin{center}
+\includegraphics[width=\textwidth, height=0.55\textheight, keepaspectratio]{C:/GitHub/VisualIdeasBook/data/images/1f461a4e51b14ffcdfe9a0f758ff9b37.png}
+\end{center}
+\vspace{2mm}
+\begin{center}
+\begin{minipage}{0.92\textwidth}
+\small
+One of my favorite idea learned this year from Adam Grant: \\
+the word "\textbf{sonder"} from the \textbf{Dictionary of Obscure Sorrows by John Koenig}
+
+Some of my other favorites from the dictionary:
+
+\textbf{HARMONIA}\\
+n.an itchy sense of dread when life feels just a hint too peaceful—when everyone seems to get along suspiciously well, with an eerie stillness that makes you want to brace for the inevitable collapse, or burn it down yourself.\\
+(I feel like I’m in an unhealthy constant state of harmonia. Am I the only one? 🤔)
+
+\textbf{ANCHORAGE}\\
+n.the desire to hold on to time as it passes, like trying to keep your grip on a rock in the middle of a river, feeling the weight of the current against your chest while your elders float on downstream, calling over the roar of the rapids, “Just let go—it’s okay—let go.”
+\end{minipage}
+\end{center}
+\vspace*{\fill}
+\newpage
+\renewcommand{\theposttitle}{Building a creative habit in 2025}
+\renewcommand{\thepostdate}{2024-12-10}
+\vspace*{\fill}
+\begin{center}
+\begin{minipage}{0.92\textwidth}
+\small
+Building a creative practice isn’t just about making illustrations. Here’s a short highlight from my chat with Roberto Ferraro on the value of starting and keeping a consistent creative habit.
+\end{minipage}
+\end{center}
+\vspace{4mm}
+\begin{center}
+\includegraphics[width=\textwidth, height=0.55\textheight, keepaspectratio]{C:/GitHub/VisualIdeasBook/data/images/dcebf335927442da25662d3df825dfed.png}
+\end{center}
+\vspace{2mm}
+\begin{center}
+\begin{minipage}{0.92\textwidth}
+\small
+The start of a new year is a perfect time to dive into making stuff of your own!
+\end{minipage}
+\end{center}
+\vspace*{\fill}
+\newpage
+\renewcommand{\theposttitle}{Building a creative habit in 2025}
+\renewcommand{\thepostdate}{2024-12-10}
+\vspace*{\fill}
+\begin{center}
+\includegraphics[width=\textwidth, height=0.55\textheight, keepaspectratio]{C:/GitHub/VisualIdeasBook/data/images/33867e956aa95ebd6c768779a125c99f.png}
+\end{center}
+\vspace{2mm}
+\begin{center}
+\begin{minipage}{0.92\textwidth}
+\small
+\textbf{There's a reason why dough must rest before it can rise.}
+
+This is something I'm still working on.
+
+Resting may seem commonsensical, but when you've built habits around rolling forward at full momentum, it can be tough slowing down.
+
+Earlier this year, I scheduled a weekend to relax, but I was shocked how little I could shut off without feeling guilty or anxious I should be doing more. It wasn't until last month when I got sick I realized there's only so far you can go if you don't learn to rest.
+\end{minipage}
+\end{center}
+\vspace*{\fill}
+\newpage
+\renewcommand{\theposttitle}{Building a creative habit in 2025}
+\renewcommand{\thepostdate}{2024-12-10}
+\vspace*{\fill}
+\begin{center}
+\includegraphics[width=\textwidth, height=0.55\textheight, keepaspectratio]{C:/GitHub/VisualIdeasBook/data/images/3e6774281f7367e1bf846208d417dfcc.png}
+\end{center}
+\vspace{2mm}
+\begin{center}
+\begin{minipage}{0.92\textwidth}
+\small
+The difference between thinking and overthinking.
+\end{minipage}
+\end{center}
+\vspace*{\fill}
+\newpage
+\renewcommand{\theposttitle}{Putting it all into perspective}
+\renewcommand{\thepostdate}{2024-12-27}
+\vspace*{\fill}
+\begin{center}
+\includegraphics[width=\textwidth, height=0.55\textheight, keepaspectratio]{C:/GitHub/VisualIdeasBook/data/images/3af18e080df5ebfafe96ac38e039d4d6.png}
+\end{center}
+\vspace{2mm}
+\begin{center}
+\begin{minipage}{0.92\textwidth}
+\small
+If you're a recovering perfectionist, remember this: daily 1\% improvement feels slow, but it's far faster than waiting for your work to be perfect before you share.
+
+\textbf{Read the full post here.}
+\end{minipage}
+\end{center}
+\vspace*{\fill}
+\newpage
+\renewcommand{\theposttitle}{Putting it all into perspective}
+\renewcommand{\thepostdate}{2024-12-27}
+\vspace*{\fill}
+\begin{center}
+\begin{minipage}{0.92\textwidth}
+\small
+Why it’s dangerous to measure your success through the lens of social media growth and how to look at it instead:
+\end{minipage}
+\end{center}
+\vspace{4mm}
+\begin{center}
+\includegraphics[width=\textwidth, height=0.55\textheight, keepaspectratio]{C:/GitHub/VisualIdeasBook/data/images/23e0c29803b5e6cb185ffe3b7b7666ed.png}
+\end{center}
+\vspace{2mm}
+\begin{center}
+\begin{minipage}{0.92\textwidth}
+\small
+P.S. If you’re ready for a new beginning, enrollment for Cohort 9 (January) of Thinking in Visual Metaphors is now open.
+\end{minipage}
+\end{center}
+\vspace*{\fill}
+\newpage
+\renewcommand{\theposttitle}{Putting it all into perspective}
+\renewcommand{\thepostdate}{2024-12-27}
+\vspace*{\fill}
+\begin{center}
+\includegraphics[width=\textwidth, height=0.55\textheight, keepaspectratio]{C:/GitHub/VisualIdeasBook/data/images/d13d2644bdafa7b183c6b74a49b9735d.png}
+\end{center}
+\vspace{2mm}
+\begin{center}
+\begin{minipage}{0.92\textwidth}
+\small
+The past in perspective.
+\end{minipage}
+\end{center}
+\vspace*{\fill}
+\newpage
+\renewcommand{\theposttitle}{Putting it all into perspective}
+\renewcommand{\thepostdate}{2024-12-27}
+\vspace*{\fill}
+\begin{center}
+\includegraphics[width=\textwidth, height=0.55\textheight, keepaspectratio]{C:/GitHub/VisualIdeasBook/data/images/5c4db4ad69ef5db01064cc77d59e0ac6.png}
+\end{center}
+\vspace{2mm}
+\begin{center}
+\begin{minipage}{0.92\textwidth}
+\small
+The most interesting thing about a fixed vs growth mindset is where and how it's applied.
+
+\textbf{Example:} We can be growth minded about getting good at basketball, but fixed in our math ability. We each have self-belief blind spots where we see things as fixed.
+
+The good news is self-awareness of these spots is a useful first step to getting closer to where we want to be.
+\end{minipage}
+\end{center}
+\vspace*{\fill}
 \end{document}

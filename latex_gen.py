@@ -21,8 +21,6 @@ import shutil
 import subprocess
 from collections import defaultdict
 from pathlib import Path
-from urllib.parse import urlparse
-
 from bs4 import BeautifulSoup, NavigableString, Tag
 
 from models import ImageEntry, entry_key
@@ -75,6 +73,27 @@ def _escape_latex(text: str) -> str:
 _DOUBLE_BREAK_RE = re.compile(r"(\\\\\s*){2,}")
 _LEADING_BREAK_RE = re.compile(r"^(\\\\\s*)+")
 _TRAILING_BREAK_RE = re.compile(r"(\\\\\s*)+$")
+
+_BOILERPLATE_CHUNK_RE = re.compile(
+    r"(subscribe below|thanks for reading|made this newsletter with beehiiv|"
+    r"say hi on |visual i\.?d\.?e\.?a|thinking in visual metaphors|"
+    r"reply any time|cohort \d+ is|straight into (their|your) inbox|"
+    r"getting .{0,50} subscriber)",
+    re.IGNORECASE,
+)
+
+
+def _strip_boilerplate(html: str) -> str:
+    """Remove newsletter footer boilerplate chunks from caption HTML.
+
+    Captions are stored as chunks joined by <br/><br/>. Any chunk that
+    matches the boilerplate pattern is dropped.
+    """
+    if not html:
+        return html
+    chunks = html.split("<br/><br/>")
+    kept = [c for c in chunks if not _BOILERPLATE_CHUNK_RE.search(c)]
+    return "<br/><br/>".join(kept)
 
 
 def _html_to_latex(html: str) -> str:
@@ -139,8 +158,7 @@ def _preamble() -> str:
     return r"""\documentclass[11pt]{article}
 
 \usepackage[
-    paperwidth=176mm,
-    paperheight=250mm,
+    paper=a5paper,
     top=18mm,
     bottom=22mm,
     left=18mm,
@@ -155,32 +173,49 @@ def _preamble() -> str:
 \usepackage{ragged2e}
 \usepackage{fontspec}
 \usepackage{lastpage}
+\usepackage{subfiles}
 
-% Use Arial — present on every Windows install, looked up via fontconfig.
-% fontspec will fall back to the system default if Arial is unavailable.
+\definecolor{pagebg}{HTML}{C5E3FE}
+\pagecolor{pagebg}
+
 \IfFontExistsTF{Arial}{%
     \setmainfont{Arial}%
 }{%
-    % Latin Modern is bundled with every TeX distribution; safe fallback.
     \setmainfont{Latin Modern Roman}%
 }
 
 \pagestyle{fancy}
 \fancyhf{}
-\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\headrulewidth}{0.4pt}
 \renewcommand{\footrulewidth}{0.4pt}
 
 \newcommand{\theposttitle}{}
 \newcommand{\thepostdate}{}
 
-\fancyfoot[L]{\color{gray!70}\footnotesize\itshape\theposttitle}
+\fancyhead[L]{\color{gray!70}\footnotesize\itshape\theposttitle}
+\fancyfoot[L]{\color{gray!70}\footnotesize\thepostdate}
 \fancyfoot[C]{\color{gray!70}\footnotesize\thepage\,/\,\pageref{LastPage}}
-\fancyfoot[R]{\color{gray!70}\footnotesize\thepostdate}
 
 \setlength{\parindent}{0pt}
 
 \begin{document}
 """
+
+
+def _year_preamble() -> str:
+    return "\\documentclass[archive.tex]{subfiles}\n\\begin{document}\n"
+
+
+def _cover_page(year: str) -> str:
+    return (
+        "\\thispagestyle{empty}\n"
+        "\\vspace*{\\fill}\n"
+        "\\begin{center}\n"
+        "{\\fontsize{72}{86}\\selectfont\\bfseries " + year + "}\n"
+        "\\end{center}\n"
+        "\\vspace*{\\fill}\n"
+        "\\newpage\n"
+    )
 
 
 _POSTAMBLE = r"""
@@ -279,25 +314,6 @@ def _group_by_section(
     return out
 
 
-# --- Entry filename helpers -------------------------------------------
-
-_SLUG_UNSAFE_RE = re.compile(r"[^a-z0-9]+")
-
-
-def _url_slug(post_url: str) -> str:
-    """Return a filesystem-safe slug derived from the post URL path."""
-    path = urlparse(post_url).path.strip("/")
-    slug = path.split("/")[-1] if path else "post"
-    slug = _SLUG_UNSAFE_RE.sub("-", slug.lower()).strip("-")
-    return slug or "post"
-
-
-def _entry_filename(post_date: str, post_url: str, section: str) -> str:
-    """Return the .tex filename for a single entry (no directory prefix)."""
-    date = post_date or "0000-00-00"
-    return f"{date}_{_url_slug(post_url)}_{section}.tex"
-
-
 # --- Checksum for change detection ------------------------------------
 
 
@@ -352,14 +368,19 @@ def compute_page_index(entries: list[ImageEntry]) -> dict[str, dict]:
     groups = _group_by_section(entries)
     out: dict[str, dict] = {}
     year_counters: dict[str, int] = {}
+    year_seen: set[str] = set()
+    combined_extra = 0  # cumulative cover pages encountered so far
     for combined_idx, (_post_url, _section, _title, post_date, group) in enumerate(
         groups, start=1
     ):
         year = (post_date or "0000")[:4]
+        if year not in year_seen:
+            year_seen.add(year)
+            combined_extra += 1  # cover page for this year
         year_counters[year] = year_counters.get(year, 0) + 1
-        year_page = year_counters[year]
+        year_page = year_counters[year] + 1  # +1 for year cover page
         location = {
-            "combined_page": combined_idx,
+            "combined_page": combined_idx + combined_extra,
             "year": year,
             "year_pdf": f"archive_{year}.pdf",
             "year_page": year_page,
@@ -378,11 +399,11 @@ def generate_pdf(
     combined: bool = True,
     store: object | None = None,  # EntryStore, but avoid circular import
 ) -> Path:
-    """Generate B5 PDFs: one (post, section) per page.
+    """Generate A5 PDFs: one (post, section) per page.
 
-    Writes a master ``.tex`` file plus one ``.tex`` per entry under an
-    ``entries/`` subdirectory alongside the output PDF.  The master file
-    ``\\input``s each entry file so common formatting lives in one place.
+    Writes a master ``.tex`` plus one ``.tex`` per year (with content
+    inlined — no per-entry files).  Each year file is a standalone
+    subfile compilable on its own or included in the master via \\subfile.
 
     By default generates both the combined ``archive.pdf`` (all years) and
     per-year PDFs. Pass ``combined=False`` to skip the combined PDF and
@@ -397,15 +418,14 @@ def generate_pdf(
     """
     output_path = Path(output_path)
     output_path.parent.mkdir(parents=True, exist_ok=True)
-    entries_dir = output_path.parent / "entries"
-    entries_dir.mkdir(exist_ok=True)
 
     groups = _group_by_section(entries)
     if not groups:
         raise ValueError("No renderable entries to write to PDF")
 
-    input_lines: list[str] = []
-    for i, (post_url, section, post_title, post_date, group) in enumerate(groups):
+    # Render each page and accumulate into per-year buckets
+    year_pages: dict[str, list[str]] = defaultdict(list)
+    for post_url, section, post_title, post_date, group in groups:
         intro_html = next((e.section_intro for e in group if e.section_intro), "")
         intro_latex = _html_to_latex(intro_html)
 
@@ -416,41 +436,26 @@ def generate_pdf(
             images.append((img_path, caption_latex))
 
         page_tex = _render_page(section, intro_latex, images, post_title, post_date)
-
         year = (post_date or "0000")[:4]
-        year_dir = entries_dir / year
-        year_dir.mkdir(exist_ok=True)
+        year_pages[year].append(page_tex)
 
-        entry_filename = _entry_filename(post_date, post_url, section)
-        (year_dir / entry_filename).write_text(page_tex, encoding="utf-8")
-
-        if i > 0:
-            input_lines.append(r"\newpage")
-        rel = f"entries/{year}/{entry_filename}"
-        input_lines.append(r"\input{" + rel + "}")
-
-    # Build combined master tex
-    tex = _preamble() + "\n".join(input_lines) + _POSTAMBLE
-    tex_path = output_path.with_suffix(".tex")
-    tex_path.write_text(tex, encoding="utf-8")
-    log.info("Wrote %d entry files in %s", len(groups), entries_dir)
-    log.info("Wrote master LaTeX: %s", tex_path)
-
-    # Build per-year tex files
-    year_input_lines: dict[str, list[str]] = defaultdict(list)
-    for i, (post_url, section, post_title, post_date, _group) in enumerate(groups):
-        year = (post_date or "0000")[:4]
-        entry_filename = _entry_filename(post_date, post_url, section)
-        rel = f"entries/{year}/{entry_filename}"
-        if year_input_lines[year]:
-            year_input_lines[year].append(r"\newpage")
-        year_input_lines[year].append(r"\input{" + rel + "}")
-
-    for year, lines in year_input_lines.items():
-        year_tex = _preamble() + "\n".join(lines) + _POSTAMBLE
+    # Write per-year .tex files with inlined content
+    for year, pages in year_pages.items():
+        cover = _cover_page(year)
+        body = ("\n\\newpage\n").join(pages)
+        year_tex = _year_preamble() + cover + body + _POSTAMBLE
         year_tex_path = output_path.parent / f"archive_{year}.tex"
         year_tex_path.write_text(year_tex, encoding="utf-8")
         log.info("Wrote year LaTeX: %s", year_tex_path)
+
+    # Write master .tex referencing year subfiles in sorted order
+    sorted_years = sorted(year_pages.keys())
+    subfile_lines = [r"\subfile{archive_" + y + "}" for y in sorted_years]
+    tex = _preamble() + "\n".join(subfile_lines) + _POSTAMBLE
+    tex_path = output_path.with_suffix(".tex")
+    tex_path.write_text(tex, encoding="utf-8")
+    log.info("Wrote %d pages across %d years", len(groups), len(year_pages))
+    log.info("Wrote master LaTeX: %s", tex_path)
 
     engine = shutil.which("xelatex")
     if engine is None:
@@ -517,7 +522,7 @@ def generate_pdf(
     compile_tasks: list[tuple[Path, Path, str | None]] = []
     if combined:
         compile_tasks.append((tex_path, output_path, None))
-    for year in year_input_lines:
+    for year in year_pages:
         skip_year = False
         if store is not None:
             current_checksum = compute_year_checksum(year, entries)
@@ -540,7 +545,7 @@ def generate_pdf(
     log.info(
         "Compiling %d PDFs in parallel (%d years%s)",
         len(compile_tasks),
-        len(year_input_lines),
+        len(year_pages),
         " + combined" if combined else "",
     )
 
