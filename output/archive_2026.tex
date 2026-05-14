@@ -1,0 +1,88 @@
+\documentclass[11pt]{article}
+
+\usepackage[
+    paperwidth=176mm,
+    paperheight=250mm,
+    top=18mm,
+    bottom=22mm,
+    left=18mm,
+    right=18mm,
+    footskip=10mm,
+]{geometry}
+
+\usepackage{graphicx}
+\usepackage{xcolor}
+\usepackage{fancyhdr}
+\usepackage{parskip}
+\usepackage{ragged2e}
+\usepackage{fontspec}
+\usepackage{lastpage}
+
+% Use Arial — present on every Windows install, looked up via fontconfig.
+% fontspec will fall back to the system default if Arial is unavailable.
+\IfFontExistsTF{Arial}{%
+    \setmainfont{Arial}%
+}{%
+    % Latin Modern is bundled with every TeX distribution; safe fallback.
+    \setmainfont{Latin Modern Roman}%
+}
+
+\pagestyle{fancy}
+\fancyhf{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0.4pt}
+
+\newcommand{\theposttitle}{}
+\newcommand{\thepostdate}{}
+
+\fancyfoot[L]{\color{gray!70}\footnotesize\itshape\theposttitle}
+\fancyfoot[C]{\color{gray!70}\footnotesize\thepage\,/\,\pageref{LastPage}}
+\fancyfoot[R]{\color{gray!70}\footnotesize\thepostdate}
+
+\setlength{\parindent}{0pt}
+
+\begin{document}
+\input{entries/2026/2026-01-13_the-bumps-you-re-feeling-doesn-t-mean-you-re-on-the-wrong-road_INTERESTING.tex}
+\newpage
+\input{entries/2026/2026-01-13_the-bumps-you-re-feeling-doesn-t-mean-you-re-on-the-wrong-road_ENCHANTING.tex}
+\newpage
+\input{entries/2026/2026-01-13_the-bumps-you-re-feeling-doesn-t-mean-you-re-on-the-wrong-road_ANALOGY.tex}
+\newpage
+\input{entries/2026/2026-01-28_you-re-not-the-problem-the-problem-is-the-problem_INTERESTING.tex}
+\newpage
+\input{entries/2026/2026-02-10_why-you-should-always-root-for-yourself_INTERESTING.tex}
+\newpage
+\input{entries/2026/2026-02-10_why-you-should-always-root-for-yourself_DESIGN.tex}
+\newpage
+\input{entries/2026/2026-02-10_why-you-should-always-root-for-yourself_ENCHANTING.tex}
+\newpage
+\input{entries/2026/2026-02-24_how-purpose-is-like-a-candle_DESIGN.tex}
+\newpage
+\input{entries/2026/2026-02-24_how-purpose-is-like-a-candle_ENCHANTING.tex}
+\newpage
+\input{entries/2026/2026-02-24_how-purpose-is-like-a-candle_ANALOGY.tex}
+\newpage
+\input{entries/2026/2026-03-18_the-myth-of-being-ready_ANALOGY.tex}
+\newpage
+\input{entries/2026/2026-04-01_how-emotions-are-like-threads_INTERESTING.tex}
+\newpage
+\input{entries/2026/2026-04-01_how-emotions-are-like-threads_DESIGN.tex}
+\newpage
+\input{entries/2026/2026-04-01_how-emotions-are-like-threads_ENCHANTING.tex}
+\newpage
+\input{entries/2026/2026-04-01_how-emotions-are-like-threads_ANALOGY.tex}
+\newpage
+\input{entries/2026/2026-04-15_the-power-of-mistakes-and-discipline_INTERESTING.tex}
+\newpage
+\input{entries/2026/2026-04-15_the-power-of-mistakes-and-discipline_DESIGN.tex}
+\newpage
+\input{entries/2026/2026-04-15_the-power-of-mistakes-and-discipline_ENCHANTING.tex}
+\newpage
+\input{entries/2026/2026-04-15_the-power-of-mistakes-and-discipline_ANALOGY.tex}
+\newpage
+\input{entries/2026/2026-04-29_the-2-types-of-talent_INTERESTING.tex}
+\newpage
+\input{entries/2026/2026-04-29_the-2-types-of-talent_DESIGN.tex}
+\newpage
+\input{entries/2026/2026-04-29_the-2-types-of-talent_ANALOGY.tex}
+\end{document}

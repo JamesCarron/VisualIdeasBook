@@ -1,7 +1,8 @@
 from __future__ import annotations
 
+import hashlib
 import json
-from dataclasses import asdict, dataclass
+from dataclasses import asdict, dataclass, fields
 from datetime import datetime
 from pathlib import Path
 
@@ -26,6 +27,9 @@ class ImageEntry:
     text: str = ""               # HTML caption shown below this image
     fetch_failed: bool = False
     fetch_error: str = ""
+    ignored: bool = False        # exclude from PDF output
+    done: bool = False           # user has finished reviewing this entry
+    text_original: str = ""      # snapshot of `text` taken on first edit
 
 
 @dataclass
@@ -44,7 +48,8 @@ class EntryStore:
     Schema on disk:
         {
             "processed": [PostRecord, ...],
-            "entries":   [ImageEntry, ...]
+            "entries":   [ImageEntry, ...],
+            "year_checksums": {"2024": "abc123...", ...}  # optional
         }
     """
 
@@ -52,21 +57,29 @@ class EntryStore:
         self.path = path
         self._processed: dict[str, PostRecord] = {}
         self._entries: list[ImageEntry] = []
+        self._year_checksums: dict[str, str] = {}
         if path.exists():
             self._load()
 
     def _load(self) -> None:
         raw = json.loads(self.path.read_text(encoding="utf-8"))
+        post_field_names = {f.name for f in fields(PostRecord)}
         for rec in raw.get("processed", []):
-            pr = PostRecord(**rec)
+            pr = PostRecord(**{k: v for k, v in rec.items() if k in post_field_names})
             self._processed[pr.url] = pr
-        self._entries = [ImageEntry(**e) for e in raw.get("entries", [])]
+        entry_field_names = {f.name for f in fields(ImageEntry)}
+        self._entries = [
+            ImageEntry(**{k: v for k, v in e.items() if k in entry_field_names})
+            for e in raw.get("entries", [])
+        ]
+        self._year_checksums = raw.get("year_checksums", {})
 
     def save(self) -> None:
         self.path.parent.mkdir(parents=True, exist_ok=True)
         data = {
             "processed": [asdict(p) for p in self._processed.values()],
             "entries": [asdict(e) for e in self._entries],
+            "year_checksums": self._year_checksums,
         }
         self.path.write_text(json.dumps(data, indent=2, ensure_ascii=False), encoding="utf-8")
 
@@ -102,10 +115,57 @@ class EntryStore:
     def all_entries(self) -> list[ImageEntry]:
         return list(self._entries)
 
+    def get_by_id(self, entry_id: str) -> ImageEntry | None:
+        for e in self._entries:
+            if entry_key(e) == entry_id:
+                return e
+        return None
+
+    def update_entry(self, entry_id: str, **changes) -> ImageEntry | None:
+        """Apply field changes to the entry with matching id and persist.
+
+        ``text`` is special-cased: the first time it changes, the prior
+        value is snapshotted into ``text_original`` (only if that field
+        is still empty).
+        """
+        entry = self.get_by_id(entry_id)
+        if entry is None:
+            return None
+        allowed = {f.name for f in fields(ImageEntry)}
+        for key, value in changes.items():
+            if key not in allowed:
+                continue
+            if key == "text" and value != entry.text and not entry.text_original:
+                entry.text_original = entry.text
+            setattr(entry, key, value)
+        self.save()
+        return entry
+
+    def set_year_checksum(self, year: str, checksum: str) -> None:
+        """Store a checksum for the given year's entries."""
+        self._year_checksums[year] = checksum
+        self.save()
+
+    def get_year_checksum(self, year: str) -> str | None:
+        """Retrieve the stored checksum for a year, or None if not set."""
+        return self._year_checksums.get(year)
+
     def stats(self) -> dict:
         return {
             "posts_processed": len(self._processed),
             "posts_failed": sum(1 for p in self._processed.values() if p.failed),
             "entries_total": len(self._entries),
             "entries_failed": sum(1 for e in self._entries if e.fetch_failed),
+            "entries_ignored": sum(1 for e in self._entries if e.ignored),
+            "entries_done": sum(1 for e in self._entries if e.done),
         }
+
+
+def entry_key(entry: ImageEntry) -> str:
+    """Stable id derived from (post_url, section, image_path).
+
+    Used to round-trip an entry through URL/state without exposing the
+    full path. md5 keeps the id short and URL-safe.
+    """
+    raw = f"{entry.post_url}|{entry.section}|{entry.image_path}"
+    return hashlib.md5(raw.encode("utf-8")).hexdigest()

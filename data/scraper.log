@@ -989,3 +989,125 @@ Traceback (most recent call last):
     ...<3 lines>...
     )
 RuntimeError: xelatex not found in PATH. The .tex file was written to output\archive.tex — install MikTeX (https://miktex.org/) or TeX Live, then re-run.
+2026-05-13 17:46:27,511 [INFO] Deduplicating…
+2026-05-13 17:46:27,766 [INFO] Kept 391; removed 91 (duplicates/failed)
+2026-05-13 17:46:27,767 [INFO] Generating PDF…
+2026-05-13 17:46:28,234 [INFO] Wrote 300 entry files in C:\Users\James\Documents\GitHub\VisualIdeasBook\output\entries
+2026-05-13 17:46:28,235 [INFO] Wrote master LaTeX: C:\Users\James\Documents\GitHub\VisualIdeasBook\output\archive.tex
+2026-05-13 17:46:28,236 [INFO] Wrote year LaTeX: C:\Users\James\Documents\GitHub\VisualIdeasBook\output\archive_2022.tex
+2026-05-13 17:46:28,237 [INFO] Wrote year LaTeX: C:\Users\James\Documents\GitHub\VisualIdeasBook\output\archive_2023.tex
+2026-05-13 17:46:28,237 [INFO] Wrote year LaTeX: C:\Users\James\Documents\GitHub\VisualIdeasBook\output\archive_2024.tex
+2026-05-13 17:46:28,238 [INFO] Wrote year LaTeX: C:\Users\James\Documents\GitHub\VisualIdeasBook\output\archive_2025.tex
+2026-05-13 17:46:28,238 [INFO] Wrote year LaTeX: C:\Users\James\Documents\GitHub\VisualIdeasBook\output\archive_2026.tex
+2026-05-13 17:46:28,241 [INFO] Compiling with xelatex: C:\Users\James\AppData\Local\Programs\MiKTeX\miktex\bin\x64\xelatex.EXE
+2026-05-13 17:48:14,012 [INFO] PDF generated: C:\Users\James\Documents\GitHub\VisualIdeasBook\output\archive.pdf
+2026-05-13 17:48:20,509 [INFO] PDF generated: C:\Users\James\Documents\GitHub\VisualIdeasBook\output\archive_2022.pdf
+2026-05-13 17:48:33,126 [INFO] PDF generated: C:\Users\James\Documents\GitHub\VisualIdeasBook\output\archive_2023.pdf
+2026-05-13 17:48:45,977 [INFO] PDF generated: C:\Users\James\Documents\GitHub\VisualIdeasBook\output\archive_2024.pdf
+2026-05-13 17:48:58,230 [INFO] PDF generated: C:\Users\James\Documents\GitHub\VisualIdeasBook\output\archive_2025.pdf
+2026-05-13 17:48:58,230 [ERROR] PDF generation failed
+Traceback (most recent call last):
+  File "C:\Users\James\Documents\GitHub\VisualIdeasBook\app.py", line 241, in generate_pdf_action
+    path = generate_pdf(kept, PDF_PATH)
+  File "C:\Users\James\Documents\GitHub\VisualIdeasBook\latex_gen.py", line 455, in generate_pdf
+    (
+  File "C:\Users\James\Documents\GitHub\VisualIdeasBook\latex_gen.py", line 419, in _compile
+    if out_pdf.exists():
+        ^^^^^^^^^^^^^^^^
+  File "C:\Users\James\AppData\Local\Programs\Python\Python313\Lib\pathlib\_local.py", line 746, in unlink
+    os.unlink(self)
+    ~~~~~~~~~^^^^^^
+PermissionError: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\James\\Documents\\GitHub\\VisualIdeasBook\\output\\archive_2026.pdf'
+2026-05-13 18:01:22,992 [INFO] Deduplicating…
+2026-05-13 18:01:23,213 [INFO] Kept 391; removed 91 (duplicates/failed)
+2026-05-13 18:01:23,213 [INFO] Generating PDF…
+2026-05-13 18:01:23,634 [INFO] Wrote 299 entry files in C:\Users\James\Documents\GitHub\VisualIdeasBook\output\entries
+2026-05-13 18:01:23,634 [INFO] Wrote master LaTeX: C:\Users\James\Documents\GitHub\VisualIdeasBook\output\archive.tex
+2026-05-13 18:01:23,636 [INFO] Wrote year LaTeX: C:\Users\James\Documents\GitHub\VisualIdeasBook\output\archive_2022.tex
+2026-05-13 18:01:23,636 [INFO] Wrote year LaTeX: C:\Users\James\Documents\GitHub\VisualIdeasBook\output\archive_2023.tex
+2026-05-13 18:01:23,637 [INFO] Wrote year LaTeX: C:\Users\James\Documents\GitHub\VisualIdeasBook\output\archive_2024.tex
+2026-05-13 18:01:23,637 [INFO] Wrote year LaTeX: C:\Users\James\Documents\GitHub\VisualIdeasBook\output\archive_2025.tex
+2026-05-13 18:01:23,638 [INFO] Wrote year LaTeX: C:\Users\James\Documents\GitHub\VisualIdeasBook\output\archive_2026.tex
+2026-05-13 18:01:23,642 [INFO] Compiling with xelatex: C:\Users\James\AppData\Local\Programs\MiKTeX\miktex\bin\x64\xelatex.EXE
+2026-05-13 18:01:23,642 [INFO] Compiling 6 PDFs in parallel (5 years + combined)
+2026-05-13 18:01:33,185 [INFO] PDF generated: C:\Users\James\Documents\GitHub\VisualIdeasBook\output\archive_2022.pdf
+2026-05-13 18:01:40,152 [INFO] PDF generated: C:\Users\James\Documents\GitHub\VisualIdeasBook\output\archive_2025.pdf
+2026-05-13 18:01:40,633 [INFO] PDF generated: C:\Users\James\Documents\GitHub\VisualIdeasBook\output\archive_2023.pdf
+2026-05-13 18:01:40,749 [INFO] PDF generated: C:\Users\James\Documents\GitHub\VisualIdeasBook\output\archive_2024.pdf
+2026-05-13 18:02:39,037 [INFO] PDF generated: C:\Users\James\Documents\GitHub\VisualIdeasBook\output\archive_2026.pdf
+2026-05-13 18:03:14,854 [INFO] PDF generated: C:\Users\James\Documents\GitHub\VisualIdeasBook\output\archive.pdf
+2026-05-13 18:03:14,855 [INFO] PDF written: C:\Users\James\Documents\GitHub\VisualIdeasBook\output\archive.pdf
+2026-05-13 18:08:13,882 [INFO] Deduplicating…
+2026-05-13 18:08:14,135 [INFO] Kept 391; removed 91 (duplicates/failed)
+2026-05-13 18:08:14,136 [INFO] Generating PDF (per-year only)…
+2026-05-13 18:08:14,544 [INFO] Wrote 297 entry files in C:\Users\James\Documents\GitHub\VisualIdeasBook\output\entries
+2026-05-13 18:08:14,544 [INFO] Wrote master LaTeX: C:\Users\James\Documents\GitHub\VisualIdeasBook\output\archive.tex
+2026-05-13 18:08:14,547 [INFO] Wrote year LaTeX: C:\Users\James\Documents\GitHub\VisualIdeasBook\output\archive_2022.tex
+2026-05-13 18:08:14,549 [INFO] Wrote year LaTeX: C:\Users\James\Documents\GitHub\VisualIdeasBook\output\archive_2023.tex
+2026-05-13 18:08:14,552 [INFO] Wrote year LaTeX: C:\Users\James\Documents\GitHub\VisualIdeasBook\output\archive_2024.tex
+2026-05-13 18:08:14,554 [INFO] Wrote year LaTeX: C:\Users\James\Documents\GitHub\VisualIdeasBook\output\archive_2025.tex
+2026-05-13 18:08:14,556 [INFO] Wrote year LaTeX: C:\Users\James\Documents\GitHub\VisualIdeasBook\output\archive_2026.tex
+2026-05-13 18:08:14,560 [INFO] Compiling with xelatex: C:\Users\James\AppData\Local\Programs\MiKTeX\miktex\bin\x64\xelatex.EXE
+2026-05-13 18:08:14,560 [INFO] Compiling 5 PDFs in parallel (5 years)
+2026-05-13 18:08:22,742 [INFO] PDF generated: C:\Users\James\Documents\GitHub\VisualIdeasBook\output\archive_2022.pdf
+2026-05-13 18:08:29,276 [INFO] PDF generated: C:\Users\James\Documents\GitHub\VisualIdeasBook\output\archive_2025.pdf
+2026-05-13 18:08:29,979 [INFO] PDF generated: C:\Users\James\Documents\GitHub\VisualIdeasBook\output\archive_2023.pdf
+2026-05-13 18:08:30,197 [INFO] PDF generated: C:\Users\James\Documents\GitHub\VisualIdeasBook\output\archive_2024.pdf
+2026-05-13 18:09:10,382 [INFO] PDF generated: C:\Users\James\Documents\GitHub\VisualIdeasBook\output\archive_2026.pdf
+2026-05-13 18:09:10,383 [INFO] PDF written: C:\Users\James\Documents\GitHub\VisualIdeasBook\output\archive.pdf
+2026-05-13 18:14:33,321 [INFO] Deduplicating…
+2026-05-13 18:14:33,546 [INFO] Kept 391; removed 91 (duplicates/failed)
+2026-05-13 18:14:33,546 [INFO] Generating PDF (combined + per-year)…
+2026-05-13 18:14:34,074 [INFO] Wrote 295 entry files in C:\Users\James\Documents\GitHub\VisualIdeasBook\output\entries
+2026-05-13 18:14:34,075 [INFO] Wrote master LaTeX: C:\Users\James\Documents\GitHub\VisualIdeasBook\output\archive.tex
+2026-05-13 18:14:34,077 [INFO] Wrote year LaTeX: C:\Users\James\Documents\GitHub\VisualIdeasBook\output\archive_2022.tex
+2026-05-13 18:14:34,078 [INFO] Wrote year LaTeX: C:\Users\James\Documents\GitHub\VisualIdeasBook\output\archive_2023.tex
+2026-05-13 18:14:34,078 [INFO] Wrote year LaTeX: C:\Users\James\Documents\GitHub\VisualIdeasBook\output\archive_2024.tex
+2026-05-13 18:14:34,079 [INFO] Wrote year LaTeX: C:\Users\James\Documents\GitHub\VisualIdeasBook\output\archive_2025.tex
+2026-05-13 18:14:34,079 [INFO] Wrote year LaTeX: C:\Users\James\Documents\GitHub\VisualIdeasBook\output\archive_2026.tex
+2026-05-13 18:14:34,083 [INFO] Compiling with xelatex: C:\Users\James\AppData\Local\Programs\MiKTeX\miktex\bin\x64\xelatex.EXE
+2026-05-13 18:14:34,084 [INFO] Compiling 6 PDFs in parallel (5 years + combined)
+2026-05-13 18:14:42,393 [INFO] PDF generated: C:\Users\James\Documents\GitHub\VisualIdeasBook\output\archive_2022.pdf
+2026-05-13 18:14:49,031 [INFO] PDF generated: C:\Users\James\Documents\GitHub\VisualIdeasBook\output\archive_2025.pdf
+2026-05-13 18:14:49,585 [INFO] PDF generated: C:\Users\James\Documents\GitHub\VisualIdeasBook\output\archive_2023.pdf
+2026-05-13 18:14:49,892 [INFO] PDF generated: C:\Users\James\Documents\GitHub\VisualIdeasBook\output\archive_2024.pdf
+2026-05-13 18:15:30,888 [INFO] PDF generated: C:\Users\James\Documents\GitHub\VisualIdeasBook\output\archive_2026.pdf
+2026-05-13 18:16:07,751 [INFO] PDF generated: C:\Users\James\Documents\GitHub\VisualIdeasBook\output\archive.pdf
+2026-05-13 18:16:07,752 [INFO] PDF written: C:\Users\James\Documents\GitHub\VisualIdeasBook\output\archive.pdf
+2026-05-13 18:22:51,033 [INFO] Deduplicating…
+2026-05-13 18:22:51,268 [INFO] Kept 391; removed 91 (duplicates/failed)
+2026-05-13 18:22:51,268 [INFO] Generating PDF (per-year only)…
+2026-05-13 18:22:51,655 [INFO] Wrote 292 entry files in C:\Users\James\Documents\GitHub\VisualIdeasBook\output\entries
+2026-05-13 18:22:51,655 [INFO] Wrote master LaTeX: C:\Users\James\Documents\GitHub\VisualIdeasBook\output\archive.tex
+2026-05-13 18:22:51,657 [INFO] Wrote year LaTeX: C:\Users\James\Documents\GitHub\VisualIdeasBook\output\archive_2022.tex
+2026-05-13 18:22:51,658 [INFO] Wrote year LaTeX: C:\Users\James\Documents\GitHub\VisualIdeasBook\output\archive_2023.tex
+2026-05-13 18:22:51,659 [INFO] Wrote year LaTeX: C:\Users\James\Documents\GitHub\VisualIdeasBook\output\archive_2024.tex
+2026-05-13 18:22:51,659 [INFO] Wrote year LaTeX: C:\Users\James\Documents\GitHub\VisualIdeasBook\output\archive_2025.tex
+2026-05-13 18:22:51,660 [INFO] Wrote year LaTeX: C:\Users\James\Documents\GitHub\VisualIdeasBook\output\archive_2026.tex
+2026-05-13 18:22:51,662 [INFO] Compiling with xelatex: C:\Users\James\AppData\Local\Programs\MiKTeX\miktex\bin\x64\xelatex.EXE
+2026-05-13 18:22:51,663 [INFO] Skipping 2022 (entries unchanged since last generation)
+2026-05-13 18:22:51,664 [INFO] Skipping 2023 (entries unchanged since last generation)
+2026-05-13 18:22:51,665 [INFO] Skipping 2024 (entries unchanged since last generation)
+2026-05-13 18:22:51,666 [INFO] Skipping 2025 (entries unchanged since last generation)
+2026-05-13 18:22:51,666 [INFO] Skipping 2026 (entries unchanged since last generation)
+2026-05-13 18:22:51,666 [INFO] Compiling 0 PDFs in parallel (5 years)
+2026-05-13 18:22:51,666 [INFO] No PDFs to compile (all entries unchanged)
+2026-05-13 18:22:51,666 [INFO] PDF written: C:\Users\James\Documents\GitHub\VisualIdeasBook\output\archive.pdf
+2026-05-13 18:28:20,731 [INFO] Deduplicating…
+2026-05-13 18:28:21,001 [INFO] Kept 391; removed 91 (duplicates/failed)
+2026-05-13 18:28:21,001 [INFO] Generating PDF (per-year only)…
+2026-05-13 18:28:21,350 [INFO] Wrote 285 entry files in C:\Users\James\Documents\GitHub\VisualIdeasBook\output\entries
+2026-05-13 18:28:21,350 [INFO] Wrote master LaTeX: C:\Users\James\Documents\GitHub\VisualIdeasBook\output\archive.tex
+2026-05-13 18:28:21,352 [INFO] Wrote year LaTeX: C:\Users\James\Documents\GitHub\VisualIdeasBook\output\archive_2022.tex
+2026-05-13 18:28:21,352 [INFO] Wrote year LaTeX: C:\Users\James\Documents\GitHub\VisualIdeasBook\output\archive_2023.tex
+2026-05-13 18:28:21,353 [INFO] Wrote year LaTeX: C:\Users\James\Documents\GitHub\VisualIdeasBook\output\archive_2024.tex
+2026-05-13 18:28:21,353 [INFO] Wrote year LaTeX: C:\Users\James\Documents\GitHub\VisualIdeasBook\output\archive_2025.tex
+2026-05-13 18:28:21,354 [INFO] Wrote year LaTeX: C:\Users\James\Documents\GitHub\VisualIdeasBook\output\archive_2026.tex
+2026-05-13 18:28:21,356 [INFO] Compiling with xelatex: C:\Users\James\AppData\Local\Programs\MiKTeX\miktex\bin\x64\xelatex.EXE
+2026-05-13 18:28:21,357 [INFO] Skipping 2022 (entries unchanged since last generation)
+2026-05-13 18:28:21,357 [INFO] Skipping 2023 (entries unchanged since last generation)
+2026-05-13 18:28:21,358 [INFO] Skipping 2024 (entries unchanged since last generation)
+2026-05-13 18:28:21,359 [INFO] Skipping 2026 (entries unchanged since last generation)
+2026-05-13 18:28:21,359 [INFO] Compiling 1 PDFs in parallel (5 years)
+2026-05-13 18:28:33,480 [INFO] PDF generated: C:\Users\James\Documents\GitHub\VisualIdeasBook\output\archive_2025.pdf
+2026-05-13 18:28:33,488 [INFO] PDF written: C:\Users\James\Documents\GitHub\VisualIdeasBook\output\archive.pdf

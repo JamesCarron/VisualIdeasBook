@@ -5,3 +5,5 @@ lxml>=5.0
 Pillow>=10.0
 imagehash>=4.3
 reportlab>=4.0
+opencv-python>=4.9
+numpy>=1.24

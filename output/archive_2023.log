@@ -1,0 +1,1079 @@
+This is XeTeX, Version 3.141592653-2.6-0.999998 (MiKTeX 26.2) (preloaded format=xelatex 2026.5.13)  13 MAY 2026 18:20
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./archive_2023.tex
+(archive_2023.tex
+LaTeX2e <2025-11-01>
+L3 programming layer <2026-03-20>
+(C:\Users\James\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2025/01/22 v1.4n Standard LaTeX document class
+(C:\Users\James\AppData\Local\Programs\MiKTeX\tex/latex/base\size11.clo
+File: size11.clo 2025/01/22 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count271
+\c@section=\count272
+\c@subsection=\count273
+\c@subsubsection=\count274
+\c@paragraph=\count275
+\c@subparagraph=\count276
+\c@figure=\count277
+\c@table=\count278
+\abovecaptionskip=\skip49
+\belowcaptionskip=\skip50
+\bibindent=\dimen150
+)
+(C:\Users\James\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
+Package: geometry 2026/03/07 v6.0 Page Geometry
+
+(C:\Users\James\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+)
+(C:\Users\James\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(C:\Users\James\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2024/12/12 v1.0g TeX engine tests
+))
+\Gm@cnth=\count279
+\Gm@cntv=\count280
+\c@Gm@tempcnt=\count281
+\Gm@bindingoffset=\dimen151
+\Gm@wd@mp=\dimen152
+\Gm@odd@mp=\dimen153
+\Gm@even@mp=\dimen154
+\Gm@layoutwidth=\dimen155
+\Gm@layoutheight=\dimen156
+\Gm@layouthoffset=\dimen157
+\Gm@layoutvoffset=\dimen158
+\Gm@dimlist=\toks18
+
+(C:\Users\James\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg))
+(C:\Users\James\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2024/12/31 v1.2e Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\James\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2024/08/06 v1.4g Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\James\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2023/12/02 v1.11 sin cos tan (DPC)
+)
+(C:\Users\James\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.c
+fg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: xetex.def on input line 106.
+
+(C:\Users\James\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\xetex.def
+File: xetex.def 2025/11/01 v5.0p Graphics/color driver for xetex
+))
+\Gin@req@height=\dimen159
+\Gin@req@width=\dimen160
+) (C:\Users\James\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
+Package: xcolor 2024/09/29 v3.02 LaTeX color extensions (UK)
+
+(C:\Users\James\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: xetex.def on input line 274.
+(C:\Users\James\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1349.
+Package xcolor Info: Model `RGB' extended on input line 1365.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1367.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1370.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1371.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1372.
+) (C:\Users\James\AppData\Local\Programs\MiKTeX\tex/latex/fancyhdr\fancyhdr.sty
+Package: fancyhdr 2025/02/07 v5.2 Extensive control of page headers and footers
+
+\f@nch@headwidth=\skip51
+\f@nch@offset@elh=\skip52
+\f@nch@offset@erh=\skip53
+\f@nch@offset@olh=\skip54
+\f@nch@offset@orh=\skip55
+\f@nch@offset@elf=\skip56
+\f@nch@offset@erf=\skip57
+\f@nch@offset@olf=\skip58
+\f@nch@offset@orf=\skip59
+\f@nch@height=\skip60
+\f@nch@footalignment=\skip61
+\f@nch@widthL=\skip62
+\f@nch@widthC=\skip63
+\f@nch@widthR=\skip64
+\@temptokenb=\toks19
+) (C:\Users\James\AppData\Local\Programs\MiKTeX\tex/latex/parskip\parskip.sty
+Package: parskip 2021-03-14 v2.0h non-zero parskip adjustments
+
+(C:\Users\James\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+(C:\Users\James\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
+Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
+)
+(C:\Users\James\AppData\Local\Programs\MiKTeX\tex/latex/kvsetkeys\kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+))
+(C:\Users\James\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
+Package: etoolbox 2025/10/02 v2.5m e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count282
+)) (C:\Users\James\AppData\Local\Programs\MiKTeX\tex/latex/ragged2e\ragged2e.st
+y
+Package: ragged2e 2023/06/22 v3.6 ragged2e Package
+\CenteringLeftskip=\skip65
+\RaggedLeftLeftskip=\skip66
+\RaggedRightLeftskip=\skip67
+\CenteringRightskip=\skip68
+\RaggedLeftRightskip=\skip69
+\RaggedRightRightskip=\skip70
+\CenteringParfillskip=\skip71
+\RaggedLeftParfillskip=\skip72
+\RaggedRightParfillskip=\skip73
+\JustifyingParfillskip=\skip74
+\CenteringParindent=\skip75
+\RaggedLeftParindent=\skip76
+\RaggedRightParindent=\skip77
+\JustifyingParindent=\skip78
+) (C:\Users\James\AppData\Local\Programs\MiKTeX\tex/latex/fontspec\fontspec.sty
+
+(C:\Users\James\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xparse\xpars
+e.sty
+(C:\Users\James\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
+Package: expl3 2026-03-20 L3 programming layer (loader) 
+
+(C:\Users\James\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-xet
+ex.def
+File: l3backend-xetex.def 2026-02-18 L3 backend support: XeTeX
+\g__graphics_track_int=\count283
+\g__pdfannot_backend_int=\count284
+\g__pdfannot_backend_link_int=\count285
+))
+Package: xparse 2025-10-09 L3 Experimental document command parser
+)
+Package: fontspec 2025/09/29 v2.9g Font selection for XeLaTeX and LuaLaTeX
+
+(C:\Users\James\AppData\Local\Programs\MiKTeX\tex/latex/fontspec\fontspec-xetex
+.sty
+Package: fontspec-xetex 2025/09/29 v2.9g Font selection for XeLaTeX and LuaLaTe
+X
+\l__fontspec_script_int=\count286
+\l__fontspec_language_int=\count287
+\l__fontspec_strnum_int=\count288
+\l__fontspec_tmp_int=\count289
+\l__fontspec_tmpa_int=\count290
+\l__fontspec_tmpb_int=\count291
+\l__fontspec_tmpc_int=\count292
+\l__fontspec_em_int=\count293
+\l__fontspec_emdef_int=\count294
+\l__fontspec_strong_int=\count295
+\l__fontspec_strongdef_int=\count296
+\l__fontspec_tmpa_dim=\dimen161
+\l__fontspec_tmpb_dim=\dimen162
+\l__fontspec_tmpc_dim=\dimen163
+ (C:\Users\James\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
+Package: fontenc 2025/07/18 v2.1d Standard LaTeX package
+)
+(C:\Users\James\AppData\Local\Programs\MiKTeX\tex/latex/fontspec\fontspec.cfg))
+) (C:\Users\James\AppData\Local\Programs\MiKTeX\tex/latex/lastpage\lastpage.sty
+Package: lastpage 2025/08/14 v2.1h lastpage: 2.09 or 2e? (HMM)
+
+(C:\Users\James\AppData\Local\Programs\MiKTeX\tex/latex/lastpage\lastpage2e.sty
+Package: lastpage2e 2025/08/14 v2.1h Decide which 2e lastpage version to use (H
+MM)
+
+(C:\Users\James\AppData\Local\Programs\MiKTeX\tex/latex/lastpage\lastpagemodern
+.sty
+Package: lastpagemodern 2025-08-14 v2.1h Refers to last page's name (HMM; JPG)
+\c@lastpagecount=\count297
+) 
+))
+
+Package fontspec Info: 
+(fontspec)             Font family 'Arial(0)' created for font 'Arial' with
+(fontspec)             options [Ligatures=TeX].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"Arial/OT:script=latn;language=dflt;mapping=tex-text;
+"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
+(fontspec)             <->"Arial/OT:script=latn;language=dflt;+smcp;mapping=tex
+-text;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->"Arial/B/OT:script=latn;language=dflt;mapping=tex-tex
+t;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.:
+(fontspec)             <->"Arial/B/OT:script=latn;language=dflt;+smcp;mapping=t
+ex-text;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->"Arial/I/OT:script=latn;language=dflt;mapping=tex-tex
+t;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
+(fontspec)             <->"Arial/I/OT:script=latn;language=dflt;+smcp;mapping=t
+ex-text;"
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
+(fontspec)             <->"Arial/BI/OT:script=latn;language=dflt;mapping=tex-te
+xt;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
+(fontspec)             <->"Arial/BI/OT:script=latn;language=dflt;+smcp;mapping=
+tex-text;"
+
+ (archive_2023.aux)
+\openout1 = `archive_2023.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: xetex
+*geometry* verbose mode - [ preamble ] result:
+* driver: xetex
+* paper: custom
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(51.21495pt, 398.3386pt, 51.21495pt)
+* v-part:(T,H,B)=(51.21495pt, 597.50789pt, 62.59605pt)
+* \paperwidth=500.7685pt
+* \paperheight=711.3189pt
+* \textwidth=398.3386pt
+* \textheight=597.50789pt
+* \oddsidemargin=-21.05504pt
+* \evensidemargin=-21.05504pt
+* \topmargin=-58.05504pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=11.0pt
+* \footskip=28.45274pt
+* \marginparwidth=59.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+
+Package fontspec Info: 
+(fontspec)             Adjusting the maths setup (use [no-math] to avoid
+(fontspec)             this).
+
+\symlegacymaths=\mathgroup4
+LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 44.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 44.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 44.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 44.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 44.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 44.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 44.
+LaTeX Font Info:    Redeclaring math accent \check on input line 44.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 44.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 44.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 44.
+LaTeX Font Info:    Redeclaring math symbol \colon on input line 44.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 44.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 44.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 44.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 44.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 44.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 44.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 44.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 44.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 44.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 44.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 44.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 44.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 44.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `normal' on input line 44.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> TU/Arial(0)/m/n on input line 44.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `bold' on input line 44.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> TU/Arial(0)/m/n on input line 44.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  TU/Arial(0)/m/n --> TU/Arial(0)/m/n on input line 44.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> TU/Arial(0)/m/it on input line 44.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> TU/Arial(0)/b/n on input line 44.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 44.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 44.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  TU/Arial(0)/m/n --> TU/Arial(0)/b/n on input line 44.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> TU/Arial(0)/b/it on input line 44.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 44.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 44.
+
+(entries/2023/2023-02-08_idea-18-collecting-ideas-vs-creating-outcomes_DESIGN.t
+ex
+File: C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/774fbbca0f141
+96baff2dbd82a88f0d4.png Graphic file (type bmp)
+<C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/774fbbca0f14196baf
+f2dbd82a88f0d4.png>
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <10.95> on input line 12.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 12.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 12.
+) [1
+
+]
+(entries/2023/2023-02-08_idea-18-collecting-ideas-vs-creating-outcomes_ENCHANTI
+NG.tex
+File: C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/25f11ffd5e92a
+861cf854e0e59b28a27.png Graphic file (type bmp)
+<C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/25f11ffd5e92a861cf
+854e0e59b28a27.png>
+) [2]
+(entries/2023/2023-02-08_idea-18-collecting-ideas-vs-creating-outcomes_ANALOGY.
+tex
+File: C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/5332b6a92259c
+9472debe33fe252bb45.png Graphic file (type bmp)
+<C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/5332b6a92259c9472d
+ebe33fe252bb45.png>
+) [3]
+(entries/2023/2023-03-01_fluid-vs-crystalized-intelligence_INTERESTING.tex
+File: C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/5d6dff56e2228
+1550173223d586e5cbc.png Graphic file (type bmp)
+<C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/5d6dff56e222815501
+73223d586e5cbc.png>
+)
+[4] (entries/2023/2023-03-01_fluid-vs-crystalized-intelligence_DESIGN.tex
+File: C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/958a1b03244be
+e19854c1f7ae2ef4c5f.png Graphic file (type bmp)
+<C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/958a1b03244bee1985
+4c1f7ae2ef4c5f.png>
+)
+[5] (entries/2023/2023-03-01_fluid-vs-crystalized-intelligence_ENCHANTING.tex
+File: C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/c2821c8436c6f
+7d1db13a7770b619547.png Graphic file (type bmp)
+<C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/c2821c8436c6f7d1db
+13a7770b619547.png>
+)
+[6] (entries/2023/2023-03-01_fluid-vs-crystalized-intelligence_ANALOGY.tex
+File: C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/b861421f64356
+9c6fc3a2adc7a2578eb.png Graphic file (type bmp)
+<C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/b861421f643569c6fc
+3a2adc7a2578eb.png>
+)
+[7]
+(entries/2023/2023-03-14_finding-inspiration-and-hofstadter-s-law_INTERESTING.t
+ex
+File: C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/83267f37543d9
+1d3b4b7158f09afd947.png Graphic file (type bmp)
+<C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/83267f37543d91d3b4
+b7158f09afd947.png>
+
+Missing character: There is no 😂 in font Arial/OT:script=latn;language=dflt;map
+ping=tex-text;!
+) [8]
+(entries/2023/2023-03-14_finding-inspiration-and-hofstadter-s-law_DESIGN.tex
+File: C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/ca53f3c8c8d50
+ed092a2adc69c3e3fb5.png Graphic file (type bmp)
+<C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/ca53f3c8c8d50ed092
+a2adc69c3e3fb5.png>
+File: C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/212ecbfbc04eb
+997ddcc37c946f37c1c.png Graphic file (type bmp)
+<C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/212ecbfbc04eb997dd
+cc37c946f37c1c.png>
+)
+[9]
+(entries/2023/2023-03-14_finding-inspiration-and-hofstadter-s-law_ENCHANTING.te
+x
+File: C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/dc43a3771c86d
+16b2096e4d244d0b157.png Graphic file (type bmp)
+<C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/dc43a3771c86d16b20
+96e4d244d0b157.png>
+
+Missing character: There is no 😂 in font Arial/OT:script=latn;language=dflt;map
+ping=tex-text;!
+) [10]
+(entries/2023/2023-03-14_finding-inspiration-and-hofstadter-s-law_ANALOGY.tex
+File: C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/4a3ade9406260
+0bd699b36e6d90993fb.png Graphic file (type bmp)
+<C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/4a3ade94062600bd69
+9b36e6d90993fb.png>
+)
+[11] (entries/2023/2023-03-28_mental-models-setting-priority_INTERESTING.tex
+File: C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/b6c2b0898b757
+1285b59d2fadc0fdc55.png Graphic file (type bmp)
+<C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/b6c2b0898b7571285b
+59d2fadc0fdc55.png>
+)
+[12] (entries/2023/2023-03-28_mental-models-setting-priority_DESIGN.tex
+File: C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/eec9e59002d6f
+25abefb63eb77ba0210.png Graphic file (type bmp)
+<C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/eec9e59002d6f25abe
+fb63eb77ba0210.png>
+File: C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/b5692b27f866a
+d06fdb32f55e0887199.png Graphic file (type bmp)
+<C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/b5692b27f866ad06fd
+b32f55e0887199.png>
+)
+[13] (entries/2023/2023-03-28_mental-models-setting-priority_ENCHANTING.tex
+File: C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/67c165b435353
+791ba61ef8b5ba1f471.png Graphic file (type bmp)
+<C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/67c165b435353791ba
+61ef8b5ba1f471.png>
+)
+[14] (entries/2023/2023-03-28_mental-models-setting-priority_ANALOGY.tex
+File: C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/8ef554cb5a580
+ef8243dcb557d9ad953.png Graphic file (type bmp)
+<C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/8ef554cb5a580ef824
+3dcb557d9ad953.png>
+)
+[15]
+(entries/2023/2023-04-11_telephoto-thinking-vs-wideangle-thinking_INTERESTING.t
+ex
+File: C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/badb981bf3596
+3e6f26bb34abc3d301e.png Graphic file (type bmp)
+<C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/badb981bf35963e6f2
+6bb34abc3d301e.png>
+) [16]
+(entries/2023/2023-04-11_telephoto-thinking-vs-wideangle-thinking_DESIGN.tex
+File: C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/4d4d7a731fc44
+14a07498017838ab9f7.png Graphic file (type bmp)
+<C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/4d4d7a731fc4414a07
+498017838ab9f7.png>
+)
+[17]
+(entries/2023/2023-04-11_telephoto-thinking-vs-wideangle-thinking_ENCHANTING.te
+x
+File: C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/dd9b15df45bbf
+28633fca79e435e9e8b.png Graphic file (type bmp)
+<C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/dd9b15df45bbf28633
+fca79e435e9e8b.png>
+
+Missing character: There is no 😁 in font Arial/OT:script=latn;language=dflt;map
+ping=tex-text;!
+) [18]
+(entries/2023/2023-04-11_telephoto-thinking-vs-wideangle-thinking_ANALOGY.tex
+File: C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/e8f70e6cc9303
+004d74aba687bef4717.png Graphic file (type bmp)
+<C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/e8f70e6cc9303004d7
+4aba687bef4717.png>
+)
+[19] (entries/2023/2023-05-02_hard-decisions-clarity-humility_INTERESTING.tex
+File: C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/8da9bf15f767b
+0c1cfc0af1726d5dbca.png Graphic file (type bmp)
+<C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/8da9bf15f767b0c1cf
+c0af1726d5dbca.png>
+)
+[20] (entries/2023/2023-05-02_hard-decisions-clarity-humility_DESIGN.tex
+File: C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/2750da5366f1b
+38fefb6b1e8bcdff7c1.png Graphic file (type bmp)
+<C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/2750da5366f1b38fef
+b6b1e8bcdff7c1.png>
+)
+[21] (entries/2023/2023-05-02_hard-decisions-clarity-humility_ENCHANTING.tex
+File: C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/a5a9179e83c9e
+0d66ecd508f0305d102.png Graphic file (type bmp)
+<C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/a5a9179e83c9e0d66e
+cd508f0305d102.png>
+)
+[22] (entries/2023/2023-05-02_hard-decisions-clarity-humility_ANALOGY.tex
+File: C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/ebab181dd6723
+a792b4ddd632fec62e4.png Graphic file (type bmp)
+<C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/ebab181dd6723a792b
+4ddd632fec62e4.png>
+File: C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/d8cc89735aa05
+43f63af3a516be0dc7f.png Graphic file (type bmp)
+<C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/d8cc89735aa0543f63
+af3a516be0dc7f.png>
+
+Missing character: There is no 👋 in font Arial/OT:script=latn;language=dflt;map
+ping=tex-text;!
+Missing character: There is no 🏻 in font Arial/OT:script=latn;language=dflt;map
+ping=tex-text;!
+File: C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/f2833dff01693
+6c751c34b46c7d76fa1.png Graphic file (type bmp)
+<C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/f2833dff016936c751
+c34b46c7d76fa1.png>
+) [23] (entries/2023/2023-05-30_authenticity_INTERESTING.tex
+File: C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/5e2bb680e892e
+ba7ff1c35face045ee5.png Graphic file (type bmp)
+<C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/5e2bb680e892eba7ff
+1c35face045ee5.png>
+
+Missing character: There is no 😵 in font Arial/OT:script=latn;language=dflt;map
+ping=tex-text;!
+Missing character: There is no 💫 in font Arial/OT:script=latn;language=dflt;map
+ping=tex-text;!
+File: C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/cd97b3718cffc
+f53f403a27e6930f506.png Graphic file (type bmp)
+<C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/cd97b3718cffcf53f4
+03a27e6930f506.png>
+) [24] (entries/2023/2023-05-30_authenticity_DESIGN.tex
+File: C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/32bf1e9ae115c
+a7a30fce009d9a2526c.png Graphic file (type bmp)
+<C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/32bf1e9ae115ca7a30
+fce009d9a2526c.png>
+) [25]
+(entries/2023/2023-05-30_authenticity_ENCHANTING.tex
+File: C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/0aaae0c6aae10
+f566a16d1f14ff65181.png Graphic file (type bmp)
+<C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/0aaae0c6aae10f566a
+16d1f14ff65181.png>
+) [26]
+(entries/2023/2023-05-30_authenticity_ANALOGY.tex
+File: C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/f4bccdc24537d
+9b0b6cf175e8bc9325e.png Graphic file (type bmp)
+<C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/f4bccdc24537d9b0b6
+cf175e8bc9325e.png>
+) [27]
+(entries/2023/2023-06-20_get-morning-gunk-head_INTERESTING.tex
+File: C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/336a3df0f5102
+3ce33f1440a740f4ca8.png Graphic file (type bmp)
+<C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/336a3df0f51023ce33
+f1440a740f4ca8.png>
+
+Missing character: There is no 🤓 in font Arial/OT:script=latn;language=dflt;map
+ping=tex-text;!
+) [28] (entries/2023/2023-06-20_get-morning-gunk-head_DESIGN.tex
+Missing character: There is no ↴ in font Arial/OT:script=latn;language=dflt;map
+ping=tex-text;!
+File: C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/971a88c423fd2
+6d133da4fcd598dd46b.png Graphic file (type bmp)
+<C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/971a88c423fd26d133
+da4fcd598dd46b.png>
+Missing character: There is no 🥁 in font Arial/OT:script=latn;language=dflt;map
+ping=tex-text;!
+File: C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/7ba2aa7ff7884
+883ba0b8d41fff1d658.png Graphic file (type bmp)
+<C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/7ba2aa7ff7884883ba
+0b8d41fff1d658.png>
+File: C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/d7b41c6174cc3
+3b86f8ba5af7b155aac.png Graphic file (type bmp)
+<C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/d7b41c6174cc33b86f
+8ba5af7b155aac.png>
+[29]) [30] (entries/2023/2023-06-20_get-morning-gunk-head_ENCHANTING.tex
+File: C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/e52d38aa55015
+9dbdfffb51f467d3181.png Graphic file (type bmp)
+<C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/e52d38aa550159dbdf
+ffb51f467d3181.png>
+)
+[31] (entries/2023/2023-06-20_get-morning-gunk-head_ANALOGY.tex
+File: C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/7d5775ddd2daf
+a8d5f7486fcd8153f4d.png Graphic file (type bmp)
+<C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/7d5775ddd2dafa8d5f
+7486fcd8153f4d.png>
+) [32]
+(entries/2023/2023-07-04_growth-minded-celebrations-disagreements_INTERESTING.t
+ex
+File: C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/2b453d0ec14d6
+57a3b483629a0bb5049.png Graphic file (type bmp)
+<C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/2b453d0ec14d657a3b
+483629a0bb5049.png>
+) [33]
+(entries/2023/2023-07-04_growth-minded-celebrations-disagreements_DESIGN.tex
+File: C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/3f32fd57ed485
+e7fbe63e01388968b2e.png Graphic file (type bmp)
+<C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/3f32fd57ed485e7fbe
+63e01388968b2e.png>
+File: C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/413b01b7afb53
+8ea5fdc14b5121b8ce1.png Graphic file (type bmp)
+<C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/413b01b7afb538ea5f
+dc14b5121b8ce1.png>
+)
+[34]
+(entries/2023/2023-07-04_growth-minded-celebrations-disagreements_ENCHANTING.te
+x
+File: C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/95ce04bfd88b6
+8f181fae2b8008884c4.png Graphic file (type bmp)
+<C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/95ce04bfd88b68f181
+fae2b8008884c4.png>
+) [35]
+(entries/2023/2023-07-04_growth-minded-celebrations-disagreements_ANALOGY.tex
+File: C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/ec2d11376a50b
+5b95ed8fafa2a1248ea.png Graphic file (type bmp)
+<C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/ec2d11376a50b5b95e
+d8fafa2a1248ea.png>
+)
+[36] (entries/2023/2023-07-18_notemaking-stability-identity_INTERESTING.tex
+File: C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/32158f14c766b
+982f668efb4c6d0b086.png Graphic file (type bmp)
+<C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/32158f14c766b982f6
+68efb4c6d0b086.png>
+)
+[37] (entries/2023/2023-07-18_notemaking-stability-identity_DESIGN.tex
+Missing character: There is no 👇 in font Arial/OT:script=latn;language=dflt;map
+ping=tex-text;!
+File: C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/7242a0028ed70
+42356b60fb43e859a7f.png Graphic file (type bmp)
+<C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/7242a0028ed7042356
+b60fb43e859a7f.png>
+File: C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/f23378b86c6a4
+fa4934a6e67ad8214c4.jpg Graphic file (type bmp)
+<C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/f23378b86c6a4fa493
+4a6e67ad8214c4.jpg>
+File: C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/669f3d6a74b4a
+898d2552096a8059b32.jpg Graphic file (type bmp)
+<C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/669f3d6a74b4a898d2
+552096a8059b32.jpg>
+File: C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/0e1a12675da4e
+543c48357e412059298.png Graphic file (type bmp)
+<C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/0e1a12675da4e543c4
+8357e412059298.png>
+Missing character: There is no 🙌 in font Arial/OT:script=latn;language=dflt;map
+ping=tex-text;!
+Missing character: There is no 😉 in font Arial/OT:script=latn;language=dflt;map
+ping=tex-text;!
+) [38] (entries/2023/2023-07-18_notemaking-stability-identity_ENCHANTING.tex
+File: C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/57397cf83afbd
+0839c40e2f4588528f7.png Graphic file (type bmp)
+<C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/57397cf83afbd0839c
+40e2f4588528f7.png>
+)
+[39] (entries/2023/2023-07-18_notemaking-stability-identity_ANALOGY.tex
+File: C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/e6065ef385b6f
+a7b015360f75677a46f.png Graphic file (type bmp)
+<C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/e6065ef385b6fa7b01
+5360f75677a46f.png>
+)
+[40] (entries/2023/2023-08-01_setbacks-sheerans-law_INTERESTING.tex
+File: C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/b953a0872accb
+3dc6bb6f2a178a996bf.png Graphic file (type bmp)
+<C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/b953a0872accb3dc6b
+b6f2a178a996bf.png>
+) [41]
+(entries/2023/2023-08-01_setbacks-sheerans-law_DESIGN.tex
+File: C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/ba6e65ca8fbe8
+85761902f18cf82fd47.jpg Graphic file (type bmp)
+<C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/ba6e65ca8fbe885761
+902f18cf82fd47.jpg>
+File: C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/ef540b5d7078d
+7a3bb2eccfa0a17d5b3.png Graphic file (type bmp)
+<C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/ef540b5d7078d7a3bb
+2eccfa0a17d5b3.png>
+) [42]
+(entries/2023/2023-08-01_setbacks-sheerans-law_ENCHANTING.tex
+File: C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/69c7efdb0223e
+6a9c5a23e04ad1c2086.png Graphic file (type bmp)
+<C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/69c7efdb0223e6a9c5
+a23e04ad1c2086.png>
+) [43]
+(entries/2023/2023-08-01_setbacks-sheerans-law_ANALOGY.tex
+File: C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/3f7e88cd1ea1a
+94a1542a601750092ba.png Graphic file (type bmp)
+<C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/3f7e88cd1ea1a94a15
+42a601750092ba.png>
+) [44]
+(entries/2023/2023-08-15_maximizing-vs-optimizing-day_INTERESTING.tex
+File: C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/022b6820907d5
+2948c4d1b3d5d0b0960.png Graphic file (type bmp)
+<C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/022b6820907d52948c
+4d1b3d5d0b0960.png>
+File: C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/d8798cfbb71e8
+8c29c4c8f90ccd37c10.jpg Graphic file (type bmp)
+<C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/d8798cfbb71e88c29c
+4c8f90ccd37c10.jpg>
+File: C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/b9ba1a72fd2e6
+38929a2cd017cc21ab9.jpg Graphic file (type bmp)
+<C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/b9ba1a72fd2e638929
+a2cd017cc21ab9.jpg>
+
+Missing character: There is no 😅 in font Arial/OT:script=latn;language=dflt;map
+ping=tex-text;!
+) [45] (entries/2023/2023-08-15_maximizing-vs-optimizing-day_DESIGN.tex
+File: C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/02617de01bb56
+b5e4cdbe0c2f8630a77.png Graphic file (type bmp)
+<C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/02617de01bb56b5e4c
+dbe0c2f8630a77.png>
+File: C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/c4f44d23ede27
+67cd247a8d40bb926f1.png Graphic file (type bmp)
+<C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/c4f44d23ede2767cd2
+47a8d40bb926f1.png>
+File: C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/5c6f220dcc459
+157954e6985f84eaed4.png Graphic file (type bmp)
+<C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/5c6f220dcc45915795
+4e6985f84eaed4.png>
+File: C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/6adf867499e80
+22c8dd0d62fd782b4dd.png Graphic file (type bmp)
+<C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/6adf867499e8022c8d
+d0d62fd782b4dd.png>
+)
+[46] (entries/2023/2023-08-15_maximizing-vs-optimizing-day_ENCHANTING.tex
+File: C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/6c1f59884d7ff
+9741b2f69ab58910ad9.png Graphic file (type bmp)
+<C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/6c1f59884d7ff9741b
+2f69ab58910ad9.png>
+)
+[47] (entries/2023/2023-08-15_maximizing-vs-optimizing-day_ANALOGY.tex
+File: C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/c98eb4a3a2207
+32fc112b54b95fee5a3.png Graphic file (type bmp)
+<C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/c98eb4a3a220732fc1
+12b54b95fee5a3.png>
+)
+[48]
+(entries/2023/2023-08-29_multitasking-myth-passion-connected-legacy_INTERESTING
+.tex
+File: C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/670288eb559b5
+ee6db052186071eea59.png Graphic file (type bmp)
+<C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/670288eb559b5ee6db
+052186071eea59.png>
+) [49]
+(entries/2023/2023-08-29_multitasking-myth-passion-connected-legacy_DESIGN.tex
+Missing character: There is no 🤯 in font Arial/OT:script=latn;language=dflt;map
+ping=tex-text;!
+File: C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/207e4a66ce09b
+d435e4244f91be4b33b.jpeg Graphic file (type bmp)
+<C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/207e4a66ce09bd435e
+4244f91be4b33b.jpeg>
+File: C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/e5781bcea64dc
+5808e70829bcdb27f58.jpeg Graphic file (type bmp)
+<C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/e5781bcea64dc5808e
+70829bcdb27f58.jpeg>
+File: C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/790e099f8e93a
+81f4889d7ff1f30ef8a.jpeg Graphic file (type bmp)
+<C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/790e099f8e93a81f48
+89d7ff1f30ef8a.jpeg>
+File: C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/9e3e74f1a336c
+86f6a8bc78749fb7aea.jpeg Graphic file (type bmp)
+<C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/9e3e74f1a336c86f6a
+8bc78749fb7aea.jpeg>
+File: C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/858a1287c0c87
+6dece0c25acd86315a3.jpeg Graphic file (type bmp)
+<C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/858a1287c0c876dece
+0c25acd86315a3.jpeg>
+[50]
+Missing character: There is no 😅 in font Arial/OT:script=latn;language=dflt;map
+ping=tex-text;!
+) [51]
+(entries/2023/2023-08-29_multitasking-myth-passion-connected-legacy_ENCHANTING.
+tex
+File: C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/8d21e9072dbde
+b49a7ed266b04a87b5d.png Graphic file (type bmp)
+<C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/8d21e9072dbdeb49a7
+ed266b04a87b5d.png>
+) [52]
+(entries/2023/2023-08-29_multitasking-myth-passion-connected-legacy_ANALOGY.tex
+File: C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/548295fed295d
+35b22510cae3ecd872e.png Graphic file (type bmp)
+<C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/548295fed295d35b22
+510cae3ecd872e.png>
+Missing character: There is no 🐢 in font Arial/OT:script=latn;language=dflt;map
+ping=tex-text;!
+) [53]
+(entries/2023/2023-09-12_visual-ideas-system-capture-ideas-organizing-chaos-sto
+rytelling_INTERESTING.tex
+File: C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/cb8677d622a81
+faf7efe5b2367569ec5.png Graphic file (type bmp)
+<C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/cb8677d622a81faf7e
+fe5b2367569ec5.png>
+
+Missing character: There is no ❤ in font Arial/OT:script=latn;language=dflt;map
+ping=tex-text;!
+Missing character: There is no ️ in font Arial/OT:script=latn;language=dflt;map
+ping=tex-text;!
+) [54]
+(entries/2023/2023-09-12_visual-ideas-system-capture-ideas-organizing-chaos-sto
+rytelling_DESIGN.tex
+Missing character: There is no ❌ in font Arial/OT:script=latn;language=dflt;map
+ping=tex-text;!
+Missing character: There is no ✅ in font Arial/OT:script=latn;language=dflt;map
+ping=tex-text;!
+Missing character: There is no ❌ in font Arial/OT:script=latn;language=dflt;map
+ping=tex-text;!
+Missing character: There is no ✅ in font Arial/OT:script=latn;language=dflt;map
+ping=tex-text;!
+Missing character: There is no 🤓 in font Arial/OT:script=latn;language=dflt;map
+ping=tex-text;!
+File: C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/7bb458ec3f665
+3cb7cb47fdec6f1055f.png Graphic file (type bmp)
+<C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/7bb458ec3f6653cb7c
+b47fdec6f1055f.png>
+) [55]
+(entries/2023/2023-09-12_visual-ideas-system-capture-ideas-organizing-chaos-sto
+rytelling_ANALOGY.tex
+File: C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/0823c7ce1446d
+9148c87f68d276d7c74.png Graphic file (type bmp)
+<C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/0823c7ce1446d9148c
+87f68d276d7c74.png>
+
+Missing character: There is no 🤣 in font Arial/OT:script=latn;language=dflt;map
+ping=tex-text;!
+) [56]
+(entries/2023/2023-09-26_difference-thinking-overthinking_INTERESTING.tex
+File: C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/494044774bd84
+df13d79269d4eee358a.png Graphic file (type bmp)
+<C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/494044774bd84df13d
+79269d4eee358a.png>
+)
+[57] (entries/2023/2023-09-26_difference-thinking-overthinking_DESIGN.tex
+File: C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/e4501303039c3
+4891f93620af8c6b57e.jpg Graphic file (type bmp)
+<C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/e4501303039c34891f
+93620af8c6b57e.jpg>
+File: C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/2aadc144dbb14
+228079e7cd74dd212ae.png Graphic file (type bmp)
+<C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/2aadc144dbb1422807
+9e7cd74dd212ae.png>
+File: C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/2f4d836a93e1a
+e9b0b465738675a3ff5.png Graphic file (type bmp)
+<C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/2f4d836a93e1ae9b0b
+465738675a3ff5.png>
+
+[58]) [59]
+(entries/2023/2023-09-26_difference-thinking-overthinking_ENCHANTING.tex
+File: C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/6b362b893fd5e
+e44eb19af82ec4fc9d9.png Graphic file (type bmp)
+<C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/6b362b893fd5ee44eb
+19af82ec4fc9d9.png>
+)
+[60] (entries/2023/2023-09-26_difference-thinking-overthinking_ANALOGY.tex
+File: C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/2e9ce9df99942
+4ac058af2a48688e854.png Graphic file (type bmp)
+<C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/2e9ce9df999424ac05
+8af2a48688e854.png>
+File: C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/371d9a62cd167
+3f63833193d2345dcb8.png Graphic file (type bmp)
+<C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/371d9a62cd1673f638
+33193d2345dcb8.png>
+File: C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/5647859d2e86c
+bf8a3b0b1151780b06d.png Graphic file (type bmp)
+<C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/5647859d2e86cbf8a3
+b0b1151780b06d.png>
+File: C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/9236c6492fa4e
+b12467fed6711957866.png Graphic file (type bmp)
+<C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/9236c6492fa4eb1246
+7fed6711957866.png>
+)
+[61] (entries/2023/2023-10-10_2-types-burnout_INTERESTING.tex
+File: C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/d3c342fc707ff
+cfa87e63aef80783852.png Graphic file (type bmp)
+<C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/d3c342fc707ffcfa87
+e63aef80783852.png>
+) [62]
+(entries/2023/2023-10-10_2-types-burnout_DESIGN.tex
+File: C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/1a29501342754
+e2a5ab8755d58f6cdd2.png Graphic file (type bmp)
+<C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/1a29501342754e2a5a
+b8755d58f6cdd2.png>
+File: C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/15429511ba767
+a3d315fbf7b5d99d6a2.jpeg Graphic file (type bmp)
+<C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/15429511ba767a3d31
+5fbf7b5d99d6a2.jpeg>
+
+Missing character: There is no 👉 in font Arial/OT:script=latn;language=dflt;map
+ping=tex-text;!
+File: C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/d73592712824a
+dbf33478ffed441400e.png Graphic file (type bmp)
+<C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/d73592712824adbf33
+478ffed441400e.png>
+) [63] (entries/2023/2023-10-10_2-types-burnout_ENCHANTING.tex
+File: C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/680c5d0c4f89b
+9d6f94e26019d957778.png Graphic file (type bmp)
+<C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/680c5d0c4f89b9d6f9
+4e26019d957778.png>
+) [64]
+(entries/2023/2023-10-10_2-types-burnout_ANALOGY.tex
+File: C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/8af2dfe8f8ae8
+cdccca6de9e490c0ecf.png Graphic file (type bmp)
+<C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/8af2dfe8f8ae8cdccc
+a6de9e490c0ecf.png>
+) [65]
+(entries/2023/2023-10-24_commitment-game-speed-ally-not-way-think_INTERESTING.t
+ex
+File: C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/7996382e97a67
+68dab599a668cb33679.png Graphic file (type bmp)
+<C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/7996382e97a6768dab
+599a668cb33679.png>
+) [66]
+(entries/2023/2023-10-24_commitment-game-speed-ally-not-way-think_DESIGN.tex
+File: C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/30dc79f4e9f85
+26aa93e9a3eac4f23e4.png Graphic file (type bmp)
+<C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/30dc79f4e9f8526aa9
+3e9a3eac4f23e4.png>
+)
+[67]
+(entries/2023/2023-10-24_commitment-game-speed-ally-not-way-think_ENCHANTING.te
+x
+File: C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/859d58fff569b
+da38051a26c447ed423.png Graphic file (type bmp)
+<C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/859d58fff569bda380
+51a26c447ed423.png>
+) [68]
+(entries/2023/2023-10-24_commitment-game-speed-ally-not-way-think_ANALOGY.tex
+File: C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/be1c67c534895
+65dffbae712c43c679f.png Graphic file (type bmp)
+<C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/be1c67c53489565dff
+bae712c43c679f.png>
+
+Missing character: There is no 😆 in font Arial/OT:script=latn;language=dflt;map
+ping=tex-text;!
+) [69]
+(entries/2023/2023-11-07_teaching-breakdowns-true-wealth-insights_INTERESTING.t
+ex
+File: C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/d5e3615459bdb
+fc8807ca218c5f8574d.png Graphic file (type bmp)
+<C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/d5e3615459bdbfc880
+7ca218c5f8574d.png>
+
+Missing character: There is no 😊 in font Arial/OT:script=latn;language=dflt;map
+ping=tex-text;!
+) [70]
+(entries/2023/2023-11-07_teaching-breakdowns-true-wealth-insights_DESIGN.tex
+File: C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/61c404c5e46db
+c29a8bfe65ab06f98ca.png Graphic file (type bmp)
+<C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/61c404c5e46dbc29a8
+bfe65ab06f98ca.png>
+File: C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/7fbb3f280fc0b
+100379774bb53d82efd.png Graphic file (type bmp)
+<C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/7fbb3f280fc0b10037
+9774bb53d82efd.png>
+)
+[71]
+(entries/2023/2023-11-07_teaching-breakdowns-true-wealth-insights_ENCHANTING.te
+x
+File: C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/4e5298c0b0f65
+953688f782ed6873a53.png Graphic file (type bmp)
+<C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/4e5298c0b0f6595368
+8f782ed6873a53.png>
+) [72]
+(entries/2023/2023-11-07_teaching-breakdowns-true-wealth-insights_ANALOGY.tex
+File: C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/56c55ae390f7b
+98ec0631d35bf2a54c1.png Graphic file (type bmp)
+<C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/56c55ae390f7b98ec0
+631d35bf2a54c1.png>
+
+Missing character: There is no 😆 in font Arial/OT:script=latn;language=dflt;map
+ping=tex-text;!
+
+Underfull \hbox (badness 1033) in paragraph at lines 13--14
+[]\TU/Arial(0)/m/n/10 I used to think a couple thousand bucks was crazy to pay 
+for some online
+ []
+
+) [73]
+(entries/2023/2023-11-21_visual-ideas-habit-tracking-comparisons-accuracy-overr
+ated_INTERESTING.tex
+File: C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/636ecfc27c95a
+03bbba72e20f8fef0e1.png Graphic file (type bmp)
+<C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/636ecfc27c95a03bbb
+a72e20f8fef0e1.png>
+) [74]
+(entries/2023/2023-11-21_visual-ideas-habit-tracking-comparisons-accuracy-overr
+ated_DESIGN.tex
+Missing character: There is no 😑 in font Arial/OT:script=latn;language=dflt;map
+ping=tex-text;!
+Missing character: There is no 😆 in font Arial/OT:script=latn;language=dflt;map
+ping=tex-text;!
+File: C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/1afb25b6fde30
+ffd46e0a22b7004e1a3.png Graphic file (type bmp)
+<C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/1afb25b6fde30ffd46
+e0a22b7004e1a3.png>
+File: C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/52174a5b10a1c
+0d100c7586b6738d5b9.png Graphic file (type bmp)
+<C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/52174a5b10a1c0d100
+c7586b6738d5b9.png>
+[75]) [76]
+(entries/2023/2023-11-21_visual-ideas-habit-tracking-comparisons-accuracy-overr
+ated_ENCHANTING.tex
+File: C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/ba4b39f984351
+8fbc0a74184b308b1c7.png Graphic file (type bmp)
+<C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/ba4b39f9843518fbc0
+a74184b308b1c7.png>
+) [77]
+(entries/2023/2023-11-21_visual-ideas-habit-tracking-comparisons-accuracy-overr
+ated_ANALOGY.tex
+File: C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/d8a8338874c51
+a0dce49431b2e13d9a2.png Graphic file (type bmp)
+<C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/d8a8338874c51a0dce
+49431b2e13d9a2.png>
+) [78]
+(entries/2023/2023-12-05_feel-lost-think-youre-going_INTERESTING.tex
+File: C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/2bcf422a2647f
+c7b577ce853437d6c34.png Graphic file (type bmp)
+<C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/2bcf422a2647fc7b57
+7ce853437d6c34.png>
+) [79]
+(entries/2023/2023-12-05_feel-lost-think-youre-going_DESIGN.tex
+File: C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/0458fc1f74df6
+b8619f5ce614f655f5e.png Graphic file (type bmp)
+<C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/0458fc1f74df6b8619
+f5ce614f655f5e.png>
+File: C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/aca5fa69baacc
+0e4f42e18cd70f09951.png Graphic file (type bmp)
+<C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/aca5fa69baacc0e4f4
+2e18cd70f09951.png>
+) [80]
+(entries/2023/2023-12-05_feel-lost-think-youre-going_ENCHANTING.tex
+File: C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/e1465b6cdbb5a
+a73f8e1521561ad2869.png Graphic file (type bmp)
+<C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/e1465b6cdbb5aa73f8
+e1521561ad2869.png>
+) [81]
+(entries/2023/2023-12-05_feel-lost-think-youre-going_ANALOGY.tex
+File: C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/024f81ca093ec
+5da5f08264ff4fae777.png Graphic file (type bmp)
+<C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/024f81ca093ec5da5f
+08264ff4fae777.png>
+
+Missing character: There is no 😆 in font Arial/OT:script=latn;language=dflt;map
+ping=tex-text;!
+Missing character: There is no 🤔 in font Arial/OT:script=latn;language=dflt;map
+ping=tex-text;!
+) [82]
+(entries/2023/2023-12-19_solve-problems-using-ancient-zen-buddhist-mindset-shos
+hin_ENCHANTING.tex
+File: C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/c9b024bb932aa
+ba345699a745ef657f6.png Graphic file (type bmp)
+<C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/c9b024bb932aaba345
+699a745ef657f6.png>
+) [83]
+(entries/2023/2023-12-19_solve-problems-using-ancient-zen-buddhist-mindset-shos
+hin_ANALOGY.tex
+File: C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/ec4502cf38ad8
+61fe1c29b36bca938de.png Graphic file (type bmp)
+<C:/Users/James/Documents/GitHub/VisualIdeasBook/data/images/ec4502cf38ad861fe1
+c29b36bca938de.png>
+) [84]
+
+enddocument/afterlastpage (AED): lastpage setting LastPage.
+(archive_2023.aux)
+ ***********
+LaTeX2e <2025-11-01>
+L3 programming layer <2026-03-20>
+ ***********
+ ) 
+Here is how much of TeX's memory you used:
+ 7132 strings out of 402807
+ 268749 string characters out of 5445135
+ 600619 words of memory out of 5000000
+ 35616 multiletter control sequences out of 15000+600000
+ 630628 words of font info for 70 fonts, out of 8000000 for 9000
+ 1348 hyphenation exceptions out of 8191
+ 73i,11n,93p,549b,414s stack positions out of 10000i,1000n,20000p,200000b,200000s
+
+Output written on archive_2023.pdf (84 pages).
