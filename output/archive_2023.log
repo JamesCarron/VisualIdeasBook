@@ -1,0 +1,615 @@
+This is XeTeX, Version 3.141592653-2.6-0.999998 (MiKTeX 26.2) (preloaded format=xelatex 2026.5.12)  15 MAY 2026 10:52
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./archive_2023.tex
+(archive_2023.tex
+LaTeX2e <2025-11-01>
+L3 programming layer <2026-03-20>
+
+(C:\Users\jcarron\AppData\Local\Programs\MiKTeX\tex/latex/subfiles\subfiles.cls
+Document Class: subfiles 2020/11/14 v2.2 Multi-file projects (class)
+Preamble taken from file `archive.tex'
+(C:\Users\jcarron\AppData\Local\Programs\MiKTeX\tex/latex/import\import.sty
+Package: import 2020/04/01  v 6.2
+)
+(archive.tex
+(C:\Users\jcarron\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2025/01/22 v1.4n Standard LaTeX document class
+(C:\Users\jcarron\AppData\Local\Programs\MiKTeX\tex/latex/base\size11.clo
+File: size11.clo 2025/01/22 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count271
+\c@section=\count272
+\c@subsection=\count273
+\c@subsubsection=\count274
+\c@paragraph=\count275
+\c@subparagraph=\count276
+\c@figure=\count277
+\c@table=\count278
+\abovecaptionskip=\skip49
+\belowcaptionskip=\skip50
+\bibindent=\dimen150
+)
+(C:\Users\jcarron\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
+Package: geometry 2026/03/07 v6.0 Page Geometry
+(C:\Users\jcarron\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+)
+(C:\Users\jcarron\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(C:\Users\jcarron\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2024/12/12 v1.0g TeX engine tests
+))
+\Gm@cnth=\count279
+\Gm@cntv=\count280
+\c@Gm@tempcnt=\count281
+\Gm@bindingoffset=\dimen151
+\Gm@wd@mp=\dimen152
+\Gm@odd@mp=\dimen153
+\Gm@even@mp=\dimen154
+\Gm@layoutwidth=\dimen155
+\Gm@layoutheight=\dimen156
+\Gm@layouthoffset=\dimen157
+\Gm@layoutvoffset=\dimen158
+\Gm@dimlist=\toks18
+
+(C:\Users\jcarron\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg
+))
+(C:\Users\jcarron\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2024/12/31 v1.2e Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\jcarron\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2024/08/06 v1.4g Standard LaTeX Graphics (DPC,SPQR)
+(C:\Users\jcarron\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2023/12/02 v1.11 sin cos tan (DPC)
+)
+(C:\Users\jcarron\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics
+.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: xetex.def on input line 106.
+
+(C:\Users\jcarron\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\xetex.de
+f
+File: xetex.def 2025/11/01 v5.0p Graphics/color driver for xetex
+))
+\Gin@req@height=\dimen159
+\Gin@req@width=\dimen160
+)
+(C:\Users\jcarron\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
+Package: xcolor 2024/09/29 v3.02 LaTeX color extensions (UK)
+
+(C:\Users\jcarron\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cf
+g
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: xetex.def on input line 274.
+
+(C:\Users\jcarron\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.lt
+x)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1349.
+Package xcolor Info: Model `RGB' extended on input line 1365.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1367.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1370.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1371.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1372.
+)
+(C:\Users\jcarron\AppData\Local\Programs\MiKTeX\tex/latex/fancyhdr\fancyhdr.sty
+Package: fancyhdr 2025/02/07 v5.2 Extensive control of page headers and footers
+
+\f@nch@headwidth=\skip51
+\f@nch@offset@elh=\skip52
+\f@nch@offset@erh=\skip53
+\f@nch@offset@olh=\skip54
+\f@nch@offset@orh=\skip55
+\f@nch@offset@elf=\skip56
+\f@nch@offset@erf=\skip57
+\f@nch@offset@olf=\skip58
+\f@nch@offset@orf=\skip59
+\f@nch@height=\skip60
+\f@nch@footalignment=\skip61
+\f@nch@widthL=\skip62
+\f@nch@widthC=\skip63
+\f@nch@widthR=\skip64
+\@temptokenb=\toks19
+) (C:\Users\jcarron\AppData\Local\Programs\MiKTeX\tex/latex/parskip\parskip.sty
+Package: parskip 2021-03-14 v2.0h non-zero parskip adjustments
+
+(C:\Users\jcarron\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.s
+ty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+
+(C:\Users\jcarron\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
+Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
+)
+(C:\Users\jcarron\AppData\Local\Programs\MiKTeX\tex/latex/kvsetkeys\kvsetkeys.s
+ty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+))
+(C:\Users\jcarron\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
+Package: etoolbox 2025/10/02 v2.5m e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count282
+))
+(C:\Users\jcarron\AppData\Local\Programs\MiKTeX\tex/latex/ragged2e\ragged2e.sty
+Package: ragged2e 2023/06/22 v3.6 ragged2e Package
+\CenteringLeftskip=\skip65
+\RaggedLeftLeftskip=\skip66
+\RaggedRightLeftskip=\skip67
+\CenteringRightskip=\skip68
+\RaggedLeftRightskip=\skip69
+\RaggedRightRightskip=\skip70
+\CenteringParfillskip=\skip71
+\RaggedLeftParfillskip=\skip72
+\RaggedRightParfillskip=\skip73
+\JustifyingParfillskip=\skip74
+\CenteringParindent=\skip75
+\RaggedLeftParindent=\skip76
+\RaggedRightParindent=\skip77
+\JustifyingParindent=\skip78
+)
+(C:\Users\jcarron\AppData\Local\Programs\MiKTeX\tex/latex/fontspec\fontspec.sty
+
+(C:\Users\jcarron\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xparse\xpa
+rse.sty
+(C:\Users\jcarron\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
+Package: expl3 2026-03-20 L3 programming layer (loader) 
+
+(C:\Users\jcarron\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-x
+etex.def
+File: l3backend-xetex.def 2026-02-18 L3 backend support: XeTeX
+\g__graphics_track_int=\count283
+\g__pdfannot_backend_int=\count284
+\g__pdfannot_backend_link_int=\count285
+))
+Package: xparse 2025-10-09 L3 Experimental document command parser
+)
+Package: fontspec 2025/09/29 v2.9g Font selection for XeLaTeX and LuaLaTeX
+
+(C:\Users\jcarron\AppData\Local\Programs\MiKTeX\tex/latex/fontspec\fontspec-xet
+ex.sty
+Package: fontspec-xetex 2025/09/29 v2.9g Font selection for XeLaTeX and LuaLaTe
+X
+\l__fontspec_script_int=\count286
+\l__fontspec_language_int=\count287
+\l__fontspec_strnum_int=\count288
+\l__fontspec_tmp_int=\count289
+\l__fontspec_tmpa_int=\count290
+\l__fontspec_tmpb_int=\count291
+\l__fontspec_tmpc_int=\count292
+\l__fontspec_em_int=\count293
+\l__fontspec_emdef_int=\count294
+\l__fontspec_strong_int=\count295
+\l__fontspec_strongdef_int=\count296
+\l__fontspec_tmpa_dim=\dimen161
+\l__fontspec_tmpb_dim=\dimen162
+\l__fontspec_tmpc_dim=\dimen163
+
+(C:\Users\jcarron\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
+Package: fontenc 2025/07/18 v2.1d Standard LaTeX package
+)
+(C:\Users\jcarron\AppData\Local\Programs\MiKTeX\tex/latex/fontspec\fontspec.cfg
+)))
+(C:\Users\jcarron\AppData\Local\Programs\MiKTeX\tex/latex/lastpage\lastpage.sty
+Package: lastpage 2025/08/14 v2.1h lastpage: 2.09 or 2e? (HMM)
+
+(C:\Users\jcarron\AppData\Local\Programs\MiKTeX\tex/latex/lastpage\lastpage2e.s
+ty
+Package: lastpage2e 2025/08/14 v2.1h Decide which 2e lastpage version to use (H
+MM)
+
+(C:\Users\jcarron\AppData\Local\Programs\MiKTeX\tex/latex/lastpage\lastpagemode
+rn.sty
+Package: lastpagemodern 2025-08-14 v2.1h Refers to last page's name (HMM; JPG)
+\c@lastpagecount=\count297
+) 
+))
+(C:\Users\jcarron\AppData\Local\Programs\MiKTeX\tex/latex/subfiles\subfiles.sty
+Package: subfiles 2020/11/14 v2.2 Multi-file projects (package)
+)
+
+Package fontspec Info: 
+(fontspec)             Font family 'Arial(0)' created for font 'Arial' with
+(fontspec)             options [Ligatures=TeX].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"Arial/OT:script=latn;language=dflt;mapping=tex-text;
+"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
+(fontspec)             <->"Arial/OT:script=latn;language=dflt;+smcp;mapping=tex
+-text;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->"Arial/B/OT:script=latn;language=dflt;mapping=tex-tex
+t;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.:
+(fontspec)             <->"Arial/B/OT:script=latn;language=dflt;+smcp;mapping=t
+ex-text;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->"Arial/I/OT:script=latn;language=dflt;mapping=tex-tex
+t;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
+(fontspec)             <->"Arial/I/OT:script=latn;language=dflt;+smcp;mapping=t
+ex-text;"
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
+(fontspec)             <->"Arial/BI/OT:script=latn;language=dflt;mapping=tex-te
+xt;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
+(fontspec)             <->"Arial/BI/OT:script=latn;language=dflt;+smcp;mapping=
+tex-text;"
+
+)) (archive_2023.aux)
+\openout1 = `archive_2023.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 2.
+LaTeX Font Info:    ... okay on input line 2.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 2.
+LaTeX Font Info:    ... okay on input line 2.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 2.
+LaTeX Font Info:    ... okay on input line 2.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 2.
+LaTeX Font Info:    ... okay on input line 2.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 2.
+LaTeX Font Info:    ... okay on input line 2.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 2.
+LaTeX Font Info:    ... okay on input line 2.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 2.
+LaTeX Font Info:    ... okay on input line 2.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 2.
+LaTeX Font Info:    ... okay on input line 2.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: xetex
+*geometry* verbose mode - [ preamble ] result:
+* driver: xetex
+* paper: a5paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(51.21495pt, 318.67088pt, 51.21495pt)
+* v-part:(T,H,B)=(51.21495pt, 483.69687pt, 62.59605pt)
+* \paperwidth=421.10078pt
+* \paperheight=597.50787pt
+* \textwidth=318.67088pt
+* \textheight=483.69687pt
+* \oddsidemargin=-21.05504pt
+* \evensidemargin=-21.05504pt
+* \topmargin=-58.05504pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=11.0pt
+* \footskip=28.45274pt
+* \marginparwidth=59.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+
+Package fontspec Info: 
+(fontspec)             Adjusting the maths setup (use [no-math] to avoid
+(fontspec)             this).
+
+\symlegacymaths=\mathgroup4
+LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 2.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 2.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 2.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 2.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 2.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 2.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 2.
+LaTeX Font Info:    Redeclaring math accent \check on input line 2.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 2.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 2.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 2.
+LaTeX Font Info:    Redeclaring math symbol \colon on input line 2.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 2.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 2.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 2.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 2.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 2.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 2.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 2.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 2.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 2.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 2.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 2.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 2.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 2.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `normal' on input line 2.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> TU/Arial(0)/m/n on input line 2.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `bold' on input line 2.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> TU/Arial(0)/m/n on input line 2.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  TU/Arial(0)/m/n --> TU/Arial(0)/m/n on input line 2.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> TU/Arial(0)/m/it on input line 2.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> TU/Arial(0)/b/n on input line 2.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 2.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 2.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  TU/Arial(0)/m/n --> TU/Arial(0)/b/n on input line 2.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> TU/Arial(0)/b/it on input line 2.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 2.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 2.
+[1
+
+]
+File: C:/GitHub/VisualIdeasBook/data/images/5d6dff56e22281550173223d586e5cbc.pn
+g Graphic file (type bmp)
+<C:/GitHub/VisualIdeasBook/data/images/5d6dff56e22281550173223d586e5cbc.png>
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <10.95> on input line 49.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 49.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 49.
+ [2]
+File: C:/GitHub/VisualIdeasBook/data/images/83267f37543d91d3b4b7158f09afd947.pn
+g Graphic file (type bmp)
+<C:/GitHub/VisualIdeasBook/data/images/83267f37543d91d3b4b7158f09afd947.png>
+ [3]
+File: C:/GitHub/VisualIdeasBook/data/images/dc43a3771c86d16b2096e4d244d0b157.pn
+g Graphic file (type bmp)
+<C:/GitHub/VisualIdeasBook/data/images/dc43a3771c86d16b2096e4d244d0b157.png>
+ [4]
+File: C:/GitHub/VisualIdeasBook/data/images/4a3ade94062600bd699b36e6d90993fb.pn
+g Graphic file (type bmp)
+<C:/GitHub/VisualIdeasBook/data/images/4a3ade94062600bd699b36e6d90993fb.png>
+ [5]
+File: C:/GitHub/VisualIdeasBook/data/images/67c165b435353791ba61ef8b5ba1f471.pn
+g Graphic file (type bmp)
+<C:/GitHub/VisualIdeasBook/data/images/67c165b435353791ba61ef8b5ba1f471.png>
+ [6]
+File: C:/GitHub/VisualIdeasBook/data/images/badb981bf35963e6f26bb34abc3d301e.pn
+g Graphic file (type bmp)
+<C:/GitHub/VisualIdeasBook/data/images/badb981bf35963e6f26bb34abc3d301e.png>
+ [7]
+File: C:/GitHub/VisualIdeasBook/data/images/e8f70e6cc9303004d74aba687bef4717.pn
+g Graphic file (type bmp)
+<C:/GitHub/VisualIdeasBook/data/images/e8f70e6cc9303004d74aba687bef4717.png>
+ [8]
+File: C:/GitHub/VisualIdeasBook/data/images/8da9bf15f767b0c1cfc0af1726d5dbca.pn
+g Graphic file (type bmp)
+<C:/GitHub/VisualIdeasBook/data/images/8da9bf15f767b0c1cfc0af1726d5dbca.png>
+ [9]
+File: C:/GitHub/VisualIdeasBook/data/images/2750da5366f1b38fefb6b1e8bcdff7c1.pn
+g Graphic file (type bmp)
+<C:/GitHub/VisualIdeasBook/data/images/2750da5366f1b38fefb6b1e8bcdff7c1.png>
+ [10]
+File: C:/GitHub/VisualIdeasBook/data/images/a5a9179e83c9e0d66ecd508f0305d102.pn
+g Graphic file (type bmp)
+<C:/GitHub/VisualIdeasBook/data/images/a5a9179e83c9e0d66ecd508f0305d102.png>
+ [11]
+File: C:/GitHub/VisualIdeasBook/data/images/0aaae0c6aae10f566a16d1f14ff65181.pn
+g Graphic file (type bmp)
+<C:/GitHub/VisualIdeasBook/data/images/0aaae0c6aae10f566a16d1f14ff65181.png>
+ [12]
+File: C:/GitHub/VisualIdeasBook/data/images/f4bccdc24537d9b0b6cf175e8bc9325e.pn
+g Graphic file (type bmp)
+<C:/GitHub/VisualIdeasBook/data/images/f4bccdc24537d9b0b6cf175e8bc9325e.png>
+ [13]
+File: C:/GitHub/VisualIdeasBook/data/images/336a3df0f51023ce33f1440a740f4ca8.pn
+g Graphic file (type bmp)
+<C:/GitHub/VisualIdeasBook/data/images/336a3df0f51023ce33f1440a740f4ca8.png>
+ [14]
+File: C:/GitHub/VisualIdeasBook/data/images/d7b41c6174cc33b86f8ba5af7b155aac.pn
+g Graphic file (type bmp)
+<C:/GitHub/VisualIdeasBook/data/images/d7b41c6174cc33b86f8ba5af7b155aac.png>
+ [15]
+File: C:/GitHub/VisualIdeasBook/data/images/e52d38aa550159dbdfffb51f467d3181.pn
+g Graphic file (type bmp)
+<C:/GitHub/VisualIdeasBook/data/images/e52d38aa550159dbdfffb51f467d3181.png>
+ [16]
+File: C:/GitHub/VisualIdeasBook/data/images/7d5775ddd2dafa8d5f7486fcd8153f4d.pn
+g Graphic file (type bmp)
+<C:/GitHub/VisualIdeasBook/data/images/7d5775ddd2dafa8d5f7486fcd8153f4d.png>
+ [17]
+File: C:/GitHub/VisualIdeasBook/data/images/2b453d0ec14d657a3b483629a0bb5049.pn
+g Graphic file (type bmp)
+<C:/GitHub/VisualIdeasBook/data/images/2b453d0ec14d657a3b483629a0bb5049.png>
+
+[18]
+File: C:/GitHub/VisualIdeasBook/data/images/95ce04bfd88b68f181fae2b8008884c4.pn
+g Graphic file (type bmp)
+<C:/GitHub/VisualIdeasBook/data/images/95ce04bfd88b68f181fae2b8008884c4.png>
+ [19]
+File: C:/GitHub/VisualIdeasBook/data/images/ec2d11376a50b5b95ed8fafa2a1248ea.pn
+g Graphic file (type bmp)
+<C:/GitHub/VisualIdeasBook/data/images/ec2d11376a50b5b95ed8fafa2a1248ea.png>
+ [20]
+File: C:/GitHub/VisualIdeasBook/data/images/32158f14c766b982f668efb4c6d0b086.pn
+g Graphic file (type bmp)
+<C:/GitHub/VisualIdeasBook/data/images/32158f14c766b982f668efb4c6d0b086.png>
+ [21]
+File: C:/GitHub/VisualIdeasBook/data/images/f23378b86c6a4fa4934a6e67ad8214c4.jp
+g Graphic file (type bmp)
+<C:/GitHub/VisualIdeasBook/data/images/f23378b86c6a4fa4934a6e67ad8214c4.jpg>
+ [22]
+File: C:/GitHub/VisualIdeasBook/data/images/57397cf83afbd0839c40e2f4588528f7.pn
+g Graphic file (type bmp)
+<C:/GitHub/VisualIdeasBook/data/images/57397cf83afbd0839c40e2f4588528f7.png>
+ [23]
+File: C:/GitHub/VisualIdeasBook/data/images/b953a0872accb3dc6bb6f2a178a996bf.pn
+g Graphic file (type bmp)
+<C:/GitHub/VisualIdeasBook/data/images/b953a0872accb3dc6bb6f2a178a996bf.png>
+ [24]
+File: C:/GitHub/VisualIdeasBook/data/images/69c7efdb0223e6a9c5a23e04ad1c2086.pn
+g Graphic file (type bmp)
+<C:/GitHub/VisualIdeasBook/data/images/69c7efdb0223e6a9c5a23e04ad1c2086.png>
+ [25]
+File: C:/GitHub/VisualIdeasBook/data/images/6c1f59884d7ff9741b2f69ab58910ad9.pn
+g Graphic file (type bmp)
+<C:/GitHub/VisualIdeasBook/data/images/6c1f59884d7ff9741b2f69ab58910ad9.png>
+ [26]
+File: C:/GitHub/VisualIdeasBook/data/images/c98eb4a3a220732fc112b54b95fee5a3.pn
+g Graphic file (type bmp)
+<C:/GitHub/VisualIdeasBook/data/images/c98eb4a3a220732fc112b54b95fee5a3.png>
+ [27]
+File: C:/GitHub/VisualIdeasBook/data/images/670288eb559b5ee6db052186071eea59.pn
+g Graphic file (type bmp)
+<C:/GitHub/VisualIdeasBook/data/images/670288eb559b5ee6db052186071eea59.png>
+ [28]
+File: C:/GitHub/VisualIdeasBook/data/images/8d21e9072dbdeb49a7ed266b04a87b5d.pn
+g Graphic file (type bmp)
+<C:/GitHub/VisualIdeasBook/data/images/8d21e9072dbdeb49a7ed266b04a87b5d.png>
+ [29]
+File: C:/GitHub/VisualIdeasBook/data/images/548295fed295d35b22510cae3ecd872e.pn
+g Graphic file (type bmp)
+<C:/GitHub/VisualIdeasBook/data/images/548295fed295d35b22510cae3ecd872e.png>
+ [30]
+File: C:/GitHub/VisualIdeasBook/data/images/7bb458ec3f6653cb7cb47fdec6f1055f.pn
+g Graphic file (type bmp)
+<C:/GitHub/VisualIdeasBook/data/images/7bb458ec3f6653cb7cb47fdec6f1055f.png>
+ [31]
+File: C:/GitHub/VisualIdeasBook/data/images/0823c7ce1446d9148c87f68d276d7c74.pn
+g Graphic file (type bmp)
+<C:/GitHub/VisualIdeasBook/data/images/0823c7ce1446d9148c87f68d276d7c74.png>
+ [32]
+File: C:/GitHub/VisualIdeasBook/data/images/494044774bd84df13d79269d4eee358a.pn
+g Graphic file (type bmp)
+<C:/GitHub/VisualIdeasBook/data/images/494044774bd84df13d79269d4eee358a.png>
+
+[33]
+File: C:/GitHub/VisualIdeasBook/data/images/2aadc144dbb14228079e7cd74dd212ae.pn
+g Graphic file (type bmp)
+<C:/GitHub/VisualIdeasBook/data/images/2aadc144dbb14228079e7cd74dd212ae.png>
+ [34]
+File: C:/GitHub/VisualIdeasBook/data/images/2f4d836a93e1ae9b0b465738675a3ff5.pn
+g Graphic file (type bmp)
+<C:/GitHub/VisualIdeasBook/data/images/2f4d836a93e1ae9b0b465738675a3ff5.png>
+ [35]
+File: C:/GitHub/VisualIdeasBook/data/images/6b362b893fd5ee44eb19af82ec4fc9d9.pn
+g Graphic file (type bmp)
+<C:/GitHub/VisualIdeasBook/data/images/6b362b893fd5ee44eb19af82ec4fc9d9.png>
+ [36]
+File: C:/GitHub/VisualIdeasBook/data/images/d3c342fc707ffcfa87e63aef80783852.pn
+g Graphic file (type bmp)
+<C:/GitHub/VisualIdeasBook/data/images/d3c342fc707ffcfa87e63aef80783852.png>
+ [37]
+File: C:/GitHub/VisualIdeasBook/data/images/d73592712824adbf33478ffed441400e.pn
+g Graphic file (type bmp)
+<C:/GitHub/VisualIdeasBook/data/images/d73592712824adbf33478ffed441400e.png>
+ [38]
+File: C:/GitHub/VisualIdeasBook/data/images/680c5d0c4f89b9d6f94e26019d957778.pn
+g Graphic file (type bmp)
+<C:/GitHub/VisualIdeasBook/data/images/680c5d0c4f89b9d6f94e26019d957778.png>
+ [39]
+File: C:/GitHub/VisualIdeasBook/data/images/8af2dfe8f8ae8cdccca6de9e490c0ecf.pn
+g Graphic file (type bmp)
+<C:/GitHub/VisualIdeasBook/data/images/8af2dfe8f8ae8cdccca6de9e490c0ecf.png>
+ [40]
+File: C:/GitHub/VisualIdeasBook/data/images/30dc79f4e9f8526aa93e9a3eac4f23e4.pn
+g Graphic file (type bmp)
+<C:/GitHub/VisualIdeasBook/data/images/30dc79f4e9f8526aa93e9a3eac4f23e4.png>
+ [41]
+File: C:/GitHub/VisualIdeasBook/data/images/859d58fff569bda38051a26c447ed423.pn
+g Graphic file (type bmp)
+<C:/GitHub/VisualIdeasBook/data/images/859d58fff569bda38051a26c447ed423.png>
+ [42]
+File: C:/GitHub/VisualIdeasBook/data/images/be1c67c53489565dffbae712c43c679f.pn
+g Graphic file (type bmp)
+<C:/GitHub/VisualIdeasBook/data/images/be1c67c53489565dffbae712c43c679f.png>
+ [43]
+File: C:/GitHub/VisualIdeasBook/data/images/d5e3615459bdbfc8807ca218c5f8574d.pn
+g Graphic file (type bmp)
+<C:/GitHub/VisualIdeasBook/data/images/d5e3615459bdbfc8807ca218c5f8574d.png>
+ [44]
+File: C:/GitHub/VisualIdeasBook/data/images/7fbb3f280fc0b100379774bb53d82efd.pn
+g Graphic file (type bmp)
+<C:/GitHub/VisualIdeasBook/data/images/7fbb3f280fc0b100379774bb53d82efd.png>
+ [45]
+File: C:/GitHub/VisualIdeasBook/data/images/4e5298c0b0f65953688f782ed6873a53.pn
+g Graphic file (type bmp)
+<C:/GitHub/VisualIdeasBook/data/images/4e5298c0b0f65953688f782ed6873a53.png>
+ [46]
+File: C:/GitHub/VisualIdeasBook/data/images/56c55ae390f7b98ec0631d35bf2a54c1.pn
+g Graphic file (type bmp)
+<C:/GitHub/VisualIdeasBook/data/images/56c55ae390f7b98ec0631d35bf2a54c1.png>
+ [47]
+File: C:/GitHub/VisualIdeasBook/data/images/636ecfc27c95a03bbba72e20f8fef0e1.pn
+g Graphic file (type bmp)
+<C:/GitHub/VisualIdeasBook/data/images/636ecfc27c95a03bbba72e20f8fef0e1.png>
+
+[48]
+File: C:/GitHub/VisualIdeasBook/data/images/1afb25b6fde30ffd46e0a22b7004e1a3.pn
+g Graphic file (type bmp)
+<C:/GitHub/VisualIdeasBook/data/images/1afb25b6fde30ffd46e0a22b7004e1a3.png>
+ [49]
+File: C:/GitHub/VisualIdeasBook/data/images/ba4b39f9843518fbc0a74184b308b1c7.pn
+g Graphic file (type bmp)
+<C:/GitHub/VisualIdeasBook/data/images/ba4b39f9843518fbc0a74184b308b1c7.png>
+ [50]
+File: C:/GitHub/VisualIdeasBook/data/images/d8a8338874c51a0dce49431b2e13d9a2.pn
+g Graphic file (type bmp)
+<C:/GitHub/VisualIdeasBook/data/images/d8a8338874c51a0dce49431b2e13d9a2.png>
+ [51]
+File: C:/GitHub/VisualIdeasBook/data/images/2bcf422a2647fc7b577ce853437d6c34.pn
+g Graphic file (type bmp)
+<C:/GitHub/VisualIdeasBook/data/images/2bcf422a2647fc7b577ce853437d6c34.png>
+ [52]
+File: C:/GitHub/VisualIdeasBook/data/images/0458fc1f74df6b8619f5ce614f655f5e.pn
+g Graphic file (type bmp)
+<C:/GitHub/VisualIdeasBook/data/images/0458fc1f74df6b8619f5ce614f655f5e.png>
+ [53]
+File: C:/GitHub/VisualIdeasBook/data/images/e1465b6cdbb5aa73f8e1521561ad2869.pn
+g Graphic file (type bmp)
+<C:/GitHub/VisualIdeasBook/data/images/e1465b6cdbb5aa73f8e1521561ad2869.png>
+ [54]
+File: C:/GitHub/VisualIdeasBook/data/images/024f81ca093ec5da5f08264ff4fae777.pn
+g Graphic file (type bmp)
+<C:/GitHub/VisualIdeasBook/data/images/024f81ca093ec5da5f08264ff4fae777.png>
+ [55]
+File: C:/GitHub/VisualIdeasBook/data/images/ec4502cf38ad861fe1c29b36bca938de.pn
+g Graphic file (type bmp)
+<C:/GitHub/VisualIdeasBook/data/images/ec4502cf38ad861fe1c29b36bca938de.png>
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 20.74242pt, for example:
+(fancyhdr)                \setlength{\headheight}{20.74242pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-8.74242pt}.
+
+[56] 
+enddocument/afterlastpage (AED): lastpage setting LastPage.
+(archive_2023.aux)
+ ***********
+LaTeX2e <2025-11-01>
+L3 programming layer <2026-03-20>
+ ***********
+ ) 
+Here is how much of TeX's memory you used:
+ 6263 strings out of 402807
+ 178695 string characters out of 5444721
+ 598485 words of memory out of 5000000
+ 35033 multiletter control sequences out of 15000+600000
+ 630636 words of font info for 71 fonts, out of 8000000 for 9000
+ 1348 hyphenation exceptions out of 8191
+ 93i,12n,110p,568b,360s stack positions out of 10000i,1000n,20000p,200000b,200000s
+
+Output written on archive_2023.pdf (56 pages).

@@ -2810,12 +2810,12 @@
       "image_url": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/a5ecb6c9-74b9-4d1e-8956-c97065463456/Perfectionist_Vs_ITERATOR_Paper_Plane_Cliff.png",
       "image_path": "data\\images\\3af18e080df5ebfafe96ac38e039d4d6.png",
       "image_hash": "8ffd0aa0db0854fc",
-      "text": "If you're a recovering perfectionist, remember this: daily 1% improvement feels slow, but it's far faster than waiting for your work to be perfect before you share.<br/><br/><strong>Read the full post here.</strong>",
+      "text": "If you're a recovering perfectionist, remember this: daily 1% improvement feels slow, but it's far faster than waiting for your work to be perfect before you share.",
       "fetch_failed": false,
       "fetch_error": "",
       "ignored": false,
-      "done": false,
-      "text_original": ""
+      "done": true,
+      "text_original": "If you're a recovering perfectionist, remember this: daily 1% improvement feels slow, but it's far faster than waiting for your work to be perfect before you share.<br/><br/><strong>Read the full post here.</strong>"
     },
     {
       "post_url": "https://idea-milanicreative.beehiiv.com/p/putting-it-all-into-perspective",
@@ -2829,7 +2829,7 @@
       "text": "P.S. If you’re ready for a new beginning, enrollment for Cohort 9 (January) of Thinking in Visual Metaphors is now open.",
       "fetch_failed": false,
       "fetch_error": "",
-      "ignored": false,
+      "ignored": true,
       "done": false,
       "text_original": ""
     },
@@ -2846,7 +2846,7 @@
       "fetch_failed": false,
       "fetch_error": "",
       "ignored": false,
-      "done": false,
+      "done": true,
       "text_original": ""
     },
     {
@@ -2861,7 +2861,7 @@
       "text": "The most interesting thing about a fixed vs growth mindset is where and how it's applied.<br/><br/><strong>Example:</strong> We can be growth minded about getting good at basketball, but fixed in our math ability. We each have self-belief blind spots where we see things as fixed.<br/><br/>The good news is self-awareness of these spots is a useful first step to getting closer to where we want to be.",
       "fetch_failed": false,
       "fetch_error": "",
-      "ignored": false,
+      "ignored": true,
       "done": false,
       "text_original": ""
     },
@@ -2874,12 +2874,12 @@
       "image_url": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/86914a75-5335-43a5-a07e-fd453cfc2b7b/SONDER_What_We_See_In_Someone_s_Life_Vs_What_We_Don_t_Heart_Iceberg.png",
       "image_path": "data\\images\\1f461a4e51b14ffcdfe9a0f758ff9b37.png",
       "image_hash": "bcb5e150616bb1d2",
-      "text": "One of my favorite idea learned this year from Adam Grant: <br/>the word \"<strong>sonder\"</strong> from the <strong>Dictionary of Obscure Sorrows by John Koenig</strong><br/><br/>Some of my other favorites from the dictionary:<br/><br/><strong>HARMONIA</strong><br/>n.an itchy sense of dread when life feels just a hint too peaceful—when everyone seems to get along suspiciously well, with an eerie stillness that makes you want to brace for the inevitable collapse, or burn it down yourself.<br/>(I feel like I’m in an unhealthy constant state of harmonia. Am I the only one? 🤔)<br/><br/><strong>ANCHORAGE</strong><br/>n.the desire to hold on to time as it passes, like trying to keep your grip on a rock in the middle of a river, feeling the weight of the current against your chest while your elders float on downstream, calling over the roar of the rapids, “Just let go—it’s okay—let go.”",
+      "text": "<strong>HARMONIA</strong><br/>An itchy sense of dread when life feels just a hint too peaceful—when everyone seems to get along suspiciously well, with an eerie stillness that makes you want to brace for the inevitable collapse, or burn it down yourself.<br/><br/><strong>ANCHORAGE</strong><br/>The desire to hold on to time as it passes, like trying to keep your grip on a rock in the middle of a river, feeling the weight of the current against your chest while your elders float on downstream, calling over the roar of the rapids, “Just let go—it’s okay—let go.”",
       "fetch_failed": false,
       "fetch_error": "",
       "ignored": false,
-      "done": false,
-      "text_original": ""
+      "done": true,
+      "text_original": "One of my favorite idea learned this year from Adam Grant: <br/>the word \"<strong>sonder\"</strong> from the <strong>Dictionary of Obscure Sorrows by John Koenig</strong><br/><br/>Some of my other favorites from the dictionary:<br/><br/><strong>HARMONIA</strong><br/>n.an itchy sense of dread when life feels just a hint too peaceful—when everyone seems to get along suspiciously well, with an eerie stillness that makes you want to brace for the inevitable collapse, or burn it down yourself.<br/>(I feel like I’m in an unhealthy constant state of harmonia. Am I the only one? 🤔)<br/><br/><strong>ANCHORAGE</strong><br/>n.the desire to hold on to time as it passes, like trying to keep your grip on a rock in the middle of a river, feeling the weight of the current against your chest while your elders float on downstream, calling over the roar of the rapids, “Just let go—it’s okay—let go.”"
     },
     {
       "post_url": "https://idea-milanicreative.beehiiv.com/p/building-a-creative-habit-in-2025",
@@ -2893,7 +2893,7 @@
       "text": "The start of a new year is a perfect time to dive into making stuff of your own!",
       "fetch_failed": false,
       "fetch_error": "",
-      "ignored": false,
+      "ignored": true,
       "done": false,
       "text_original": ""
     },
@@ -2906,12 +2906,12 @@
       "image_url": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/9cff8654-1d8a-4ef9-908c-6b7f4187bfdb/When_Tired_Don_t_Quit_Rest_Stairs.png",
       "image_path": "data\\images\\33867e956aa95ebd6c768779a125c99f.png",
       "image_hash": "f62d6b5c39265285",
-      "text": "<strong>There's a reason why dough must rest before it can rise.</strong><br/><br/>This is something I'm still working on.<br/><br/>Resting may seem commonsensical, but when you've built habits around rolling forward at full momentum, it can be tough slowing down.<br/><br/>Earlier this year, I scheduled a weekend to relax, but I was shocked how little I could shut off without feeling guilty or anxious I should be doing more. It wasn't until last month when I got sick I realized there's only so far you can go if you don't learn to rest.",
+      "text": "There's a reason why dough must rest before it can rise.",
       "fetch_failed": false,
       "fetch_error": "",
       "ignored": false,
-      "done": false,
-      "text_original": ""
+      "done": true,
+      "text_original": "<strong>There's a reason why dough must rest before it can rise.</strong><br/><br/>This is something I'm still working on.<br/><br/>Resting may seem commonsensical, but when you've built habits around rolling forward at full momentum, it can be tough slowing down.<br/><br/>Earlier this year, I scheduled a weekend to relax, but I was shocked how little I could shut off without feeling guilty or anxious I should be doing more. It wasn't until last month when I got sick I realized there's only so far you can go if you don't learn to rest."
     },
     {
       "post_url": "https://idea-milanicreative.beehiiv.com/p/building-a-creative-habit-in-2025",
@@ -2926,7 +2926,7 @@
       "fetch_failed": false,
       "fetch_error": "",
       "ignored": false,
-      "done": false,
+      "done": true,
       "text_original": ""
     },
     {
@@ -2941,7 +2941,7 @@
       "text": "A mistake a lot of folks make:<br/><br/>Falling into \"the collector's fallacy\" trap--<br/>Believing that by collecting more information, we somehow absorb it to grow.<br/><br/>It feels productive to:<br/><br/>highlight more books<br/><br/>bookmark more articles<br/><br/>listen to more podcasts<br/><br/>“If more information was the answer, then we'd all be billionaires with perfect abs.”<br/><br/>Real progress happens through decisions, action and commitment.",
       "fetch_failed": false,
       "fetch_error": "",
-      "ignored": false,
+      "ignored": true,
       "done": false,
       "text_original": ""
     },
@@ -2954,12 +2954,12 @@
       "image_url": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/d24b0169-1c7d-4b3d-9400-96d6e70f0237/Community_Tree_What_You_Accomplish_Together.png",
       "image_path": "data\\images\\b00a1548d330ba327803eb0a29582711.png",
       "image_hash": "ed2cd2875b387885",
-      "text": "“If we only do what we’re familiar with, we might miss what we’ve been made for.”",
+      "text": "If we only do what we’re familiar with, we might miss what we’ve been made for.",
       "fetch_failed": false,
       "fetch_error": "",
       "ignored": false,
-      "done": false,
-      "text_original": ""
+      "done": true,
+      "text_original": "“If we only do what we’re familiar with, we might miss what we’ve been made for.”"
     },
     {
       "post_url": "https://idea-milanicreative.beehiiv.com/p/the-problem-with-low-hanging-fruit",
@@ -2970,12 +2970,12 @@
       "image_url": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/1fd25553-63a9-4483-9ffc-67870fe820d0/Doesn_t_Matter_How_High_You_Clumb_Wrong_Mountain_Volcano_Status.png",
       "image_path": "data\\images\\b895e36605db1947861ca587163275b7.png",
       "image_hash": "eda1d2861ea94b2d",
-      "text": "<strong>Friendly reminder:</strong> Always check you’re climbing the right mountain.",
+      "text": "Always check you’re climbing the right mountain.",
       "fetch_failed": false,
       "fetch_error": "",
       "ignored": false,
-      "done": false,
-      "text_original": ""
+      "done": true,
+      "text_original": "<strong>Friendly reminder:</strong> Always check you’re climbing the right mountain."
     },
     {
       "post_url": "https://idea-milanicreative.beehiiv.com/p/the-art-of-remixing-ideas",
@@ -2986,12 +2986,12 @@
       "image_url": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/b197e890-cf52-4ffd-a30f-d237d526e9c2/Beginners_talking_masters_listening.png",
       "image_path": "data\\images\\04b8e093afdbfbde13e2415e4f7923ef.png",
       "image_hash": "bb93396893c05b2d",
-      "text": "<strong>Speaking to impress vs listening to understand.</strong>",
+      "text": "Speaking to impress vs listening to understand.",
       "fetch_failed": false,
       "fetch_error": "",
       "ignored": false,
-      "done": false,
-      "text_original": ""
+      "done": true,
+      "text_original": "<strong>Speaking to impress vs listening to understand.</strong>"
     },
     {
       "post_url": "https://idea-milanicreative.beehiiv.com/p/the-art-of-remixing-ideas",
@@ -3018,12 +3018,12 @@
       "image_url": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/8a0d41f8-3c48-493d-a53d-2278415f7f2f/How_Time_Feels_Surrounded_By_Right_Vs_Wrong_People_Clock.png",
       "image_path": "data\\images\\3943cb56e0fc88deaf54286864b250d3.png",
       "image_hash": "f9643431c29e5b96",
-      "text": "When you're surrounded by the right people, <br/>hours feel like minutes.<br/><br/>When you're surrounded by the wrong people, <br/>minutes feel like hours.<br/><br/>Login or Subscribe to participate",
+      "text": "When you're surrounded by the right people, <br/>hours feel like minutes.<br/><br/>When you're surrounded by the wrong people, <br/>minutes feel like hours.",
       "fetch_failed": false,
       "fetch_error": "",
       "ignored": false,
-      "done": false,
-      "text_original": ""
+      "done": true,
+      "text_original": "When you're surrounded by the right people, <br/>hours feel like minutes.<br/><br/>When you're surrounded by the wrong people, <br/>minutes feel like hours.<br/><br/>Login or Subscribe to participate"
     },
     {
       "post_url": "https://idea-milanicreative.beehiiv.com/p/the-art-of-remixing-ideas",
@@ -3082,12 +3082,12 @@
       "image_url": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/1dbbd015-33bd-4b04-88ce-dfa5c2b06209/Reaching_Potential_Stairs_With_A_Goal_Vs_System.png",
       "image_path": "data\\images\\e2279be7724c25f806a8a3882e69d1e4.png",
       "image_hash": "ed29b21ec1c9d493",
-      "text": "You do not rise to the level of your goals. <br/>You fall to the level of your systems.<br/><br/>One of my favorite quotes from the book, <strong>“Atomic Habits.”</strong>",
+      "text": "You do not rise to the level of your goals. <br/>You fall to the level of your systems.",
       "fetch_failed": false,
       "fetch_error": "",
       "ignored": false,
-      "done": false,
-      "text_original": ""
+      "done": true,
+      "text_original": "You do not rise to the level of your goals. <br/>You fall to the level of your systems.<br/><br/>One of my favorite quotes from the book, <strong>“Atomic Habits.”</strong>"
     },
     {
       "post_url": "https://idea-milanicreative.beehiiv.com/p/are-you-reaching-your-full-potential",
@@ -3101,7 +3101,7 @@
       "text": "Join over 4 million Americans who start their day with 1440 – your daily digest for unbiased, fact-centric news. From politics to sports, we cover it all by analyzing over 100 sources. Our concise, 5-minute read lands in your inbox each morning at no cost. Experience news without the noise; let 1440 help you make up your own mind. Sign up now and invite your friends and family to be part of the informed.<br/><br/>Sign up today!",
       "fetch_failed": false,
       "fetch_error": "",
-      "ignored": false,
+      "ignored": true,
       "done": false,
       "text_original": ""
     },
@@ -3149,7 +3149,7 @@
       "text": "<strong>Motion = staying busy </strong><br/><strong>Action = focused execution</strong><br/><br/>I used to wear “being busy” as a badge of honor. But a lesson I’m relearning is doing a lot and doing what matters are not the same thing.<br/><br/>What’s worse is the busier I get, the less I focus on the latter.<br/><br/>Don’t make this same mistake. Create space for a few moments today to think about how you might position this week to take action on the things that matter most.",
       "fetch_failed": false,
       "fetch_error": "",
-      "ignored": false,
+      "ignored": true,
       "done": false,
       "text_original": ""
     },
@@ -3165,7 +3165,7 @@
       "text": "Leadership is not about being in charge. <br/>It’s about taking care of those in your charge.",
       "fetch_failed": false,
       "fetch_error": "",
-      "ignored": false,
+      "ignored": true,
       "done": false,
       "text_original": ""
     },
@@ -3178,12 +3178,12 @@
       "image_url": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/0dab47ac-1b6e-47c9-b663-834365553fa6/Thinking_Vs_Overthinking_-_Zone_Tea_Cup.png",
       "image_path": "data\\images\\3653bb3f6faaccaf8f34032f1d2ff363.png",
       "image_hash": "ebb1942c4abb95a4",
-      "text": "<strong>The sweet spot for how much to think before acting.</strong><br/>(this may only make sense if you drink tea 😆)",
+      "text": "The sweet spot for how much to think before acting.",
       "fetch_failed": false,
       "fetch_error": "",
       "ignored": false,
-      "done": false,
-      "text_original": ""
+      "done": true,
+      "text_original": "<strong>The sweet spot for how much to think before acting.</strong><br/>(this may only make sense if you drink tea 😆)"
     },
     {
       "post_url": "https://idea-milanicreative.beehiiv.com/p/what-tea-can-teach-us-about-overthinking",
@@ -3229,7 +3229,7 @@
       "text": "<strong>What’s the lesson?</strong><br/><br/>For my fellow recovering perfectionists, it’s difficult to know what works until you share your work. When you get caught in the weeds of messing with subtle details, it doesn’t always mean you’re making an improvement! (a humbling lesson)<br/><br/>Back to the drawing board! 😆",
       "fetch_failed": false,
       "fetch_error": "",
-      "ignored": false,
+      "ignored": true,
       "done": false,
       "text_original": ""
     },
@@ -3246,7 +3246,7 @@
       "fetch_failed": false,
       "fetch_error": "",
       "ignored": false,
-      "done": false,
+      "done": true,
       "text_original": ""
     },
     {
@@ -3262,7 +3262,7 @@
       "fetch_failed": false,
       "fetch_error": "",
       "ignored": false,
-      "done": false,
+      "done": true,
       "text_original": ""
     },
     {
@@ -3274,12 +3274,12 @@
       "image_url": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/7ad433b3-fcc5-4ec9-a30c-f0144886dbbb/Wisdom_Is_Not_Learned_Letters_Its_Earned.png",
       "image_path": "data\\images\\61b25f9cc21dc98f828d34e41261ac0e.png",
       "image_hash": "fba5daadd4024316",
-      "text": "Mistakes are the portals of discovery.<br/><br/>A key lesson I've learned after teaching high school for over 20 years:<br/><strong>You can’t shortcut the experience that comes through trial &amp; error.</strong><br/><br/>Knowledge is learned. Wisdom is earned.",
+      "text": "Mistakes are the portals of discovery.<br/><strong>You can’t shortcut the experience that comes through trial &amp; error.</strong><br/><br/>Knowledge is learned. Wisdom is earned.",
       "fetch_failed": false,
       "fetch_error": "",
       "ignored": false,
-      "done": false,
-      "text_original": ""
+      "done": true,
+      "text_original": "Mistakes are the portals of discovery.<br/><br/>A key lesson I've learned after teaching high school for over 20 years:<br/><strong>You can’t shortcut the experience that comes through trial &amp; error.</strong><br/><br/>Knowledge is learned. Wisdom is earned."
     },
     {
       "post_url": "https://idea-milanicreative.beehiiv.com/p/why-there-s-no-shortcut-to-getting-wiser",
@@ -3306,12 +3306,12 @@
       "image_url": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/61d5e0f8-8b93-4ace-8fd3-fdf899e2d652/How_Much_You_Respect_Yourself_Graph.png",
       "image_path": "data\\images\\c732bc52667602096ee0894ed1509a18.png",
       "image_hash": "ea90956dc99276c5",
-      "text": "Version 1: Published 3/20/24",
+      "text": "",
       "fetch_failed": false,
       "fetch_error": "",
-      "ignored": false,
+      "ignored": true,
       "done": false,
-      "text_original": ""
+      "text_original": "Version 1: Published 3/20/24"
     },
     {
       "post_url": "https://idea-milanicreative.beehiiv.com/p/why-there-s-no-shortcut-to-getting-wiser",
@@ -3322,12 +3322,12 @@
       "image_url": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/cb2312b4-6215-4b60-958c-7f6c9e35c4b7/How_Much_You_Respect_Yourself_Graph.png",
       "image_path": "data\\images\\c07cd5fce9ca5b81ff9380f52775b6bf.png",
       "image_hash": "ea95942dc99a7a85",
-      "text": "Version 2: Published 9/29/24<br/><br/>Login or Subscribe to participate<br/><br/>The visual is far from perfect. But the beauty (and irritating thing 😆) about social media is that people forget!<br/><br/>In a few months, you can make a significant or subtle change and try again.",
+      "text": "",
       "fetch_failed": false,
       "fetch_error": "",
-      "ignored": false,
+      "ignored": true,
       "done": false,
-      "text_original": ""
+      "text_original": "Version 2: Published 9/29/24<br/><br/>Login or Subscribe to participate<br/><br/>The visual is far from perfect. But the beauty (and irritating thing 😆) about social media is that people forget!<br/><br/>In a few months, you can make a significant or subtle change and try again."
     },
     {
       "post_url": "https://idea-milanicreative.beehiiv.com/p/why-there-s-no-shortcut-to-getting-wiser",
@@ -3342,7 +3342,7 @@
       "fetch_failed": false,
       "fetch_error": "",
       "ignored": false,
-      "done": false,
+      "done": true,
       "text_original": ""
     },
     {
@@ -3358,7 +3358,7 @@
       "fetch_failed": false,
       "fetch_error": "",
       "ignored": false,
-      "done": false,
+      "done": true,
       "text_original": ""
     },
     {
@@ -3389,7 +3389,7 @@
       "text": "Multiply the quantity of the object…",
       "fetch_failed": false,
       "fetch_error": "",
-      "ignored": false,
+      "ignored": true,
       "done": false,
       "text_original": ""
     },
@@ -3402,12 +3402,12 @@
       "image_url": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/bd762aa5-1196-42ae-a9e2-626b97325fd1/Value_Of_Your_Money_Vs_Time_Gems_Diamond.png",
       "image_path": "data\\images\\f46edc8abf8f86f01ae85681802fc6a5.png",
       "image_hash": "e59a9668c9d7984c",
-      "text": "…or scale its size.<br/><br/>P.S. When you’re ready to start creating your own visuals, <strong>sign up for the next cohort of Thinking in Visual Metaphors ↗</strong> .",
+      "text": "…or scale its size.",
       "fetch_failed": false,
       "fetch_error": "",
-      "ignored": false,
+      "ignored": true,
       "done": false,
-      "text_original": ""
+      "text_original": "…or scale its size.<br/><br/>P.S. When you’re ready to start creating your own visuals, <strong>sign up for the next cohort of Thinking in Visual Metaphors ↗</strong> ."
     },
     {
       "post_url": "https://idea-milanicreative.beehiiv.com/p/embrace-fomo",
@@ -3422,7 +3422,7 @@
       "fetch_failed": false,
       "fetch_error": "",
       "ignored": false,
-      "done": false,
+      "done": true,
       "text_original": ""
     },
     {
@@ -3434,12 +3434,12 @@
       "image_url": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/465c0f3d-1e17-4215-9068-94e57f1fb26b/Your_Energy_Fear_Of_Missing_Out_Joy_Matches_Burning.png",
       "image_path": "data\\images\\504cd821383602c220a0c9f984868b3f.png",
       "image_hash": "bf2c4d77e2391284",
-      "text": "Missing out’ is what makes our choices meaningful.<br/><br/>One of my favorite quotes from one of my favorite books, <strong>“4000 Weeks: Time Management for Mortals” by Oliver Burkeman. </strong><br/><br/>Embrace the joy of missing out by focusing on what truly matters and saving your energy for what counts.",
+      "text": "Missing out’ is what makes our choices meaningful.<br/><br/>Embrace the joy of missing out by focusing on what truly matters and saving your energy for what counts.",
       "fetch_failed": false,
       "fetch_error": "",
       "ignored": false,
-      "done": false,
-      "text_original": ""
+      "done": true,
+      "text_original": "Missing out’ is what makes our choices meaningful.<br/><br/>One of my favorite quotes from one of my favorite books, <strong>“4000 Weeks: Time Management for Mortals” by Oliver Burkeman. </strong><br/><br/>Embrace the joy of missing out by focusing on what truly matters and saving your energy for what counts."
     },
     {
       "post_url": "https://idea-milanicreative.beehiiv.com/p/visual-ideas-understand-deeply",
@@ -3470,7 +3470,7 @@
       "fetch_failed": false,
       "fetch_error": "",
       "ignored": false,
-      "done": false,
+      "done": true,
       "text_original": ""
     },
     {
@@ -3482,12 +3482,12 @@
       "image_url": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/59290546-247f-4748-a77c-b2e2027cca2b/Listening_To_Win_Vs_Learn_Open_Blocked_Doors.png",
       "image_path": "data\\images\\6072056478874332b36e4fd95207e563.png",
       "image_hash": "ad97d2680d9e1aa5",
-      "text": "When you talk, you are only repeating<br/><br/>what you already know.<br/><br/>But if you listen, you may learn something new.<br/><br/>Inspired by Carolyn Coughlin, co-founder of Cultivating Leadership",
+      "text": "When you talk, you are only repeating<br/><br/>what you already know.<br/><br/>But if you listen, you may learn something new.",
       "fetch_failed": false,
       "fetch_error": "",
       "ignored": false,
-      "done": false,
-      "text_original": ""
+      "done": true,
+      "text_original": "When you talk, you are only repeating<br/><br/>what you already know.<br/><br/>But if you listen, you may learn something new.<br/><br/>Inspired by Carolyn Coughlin, co-founder of Cultivating Leadership"
     },
     {
       "post_url": "https://idea-milanicreative.beehiiv.com/p/visual-ideas-shouldnt-present-data-instead",
@@ -3502,7 +3502,7 @@
       "fetch_failed": false,
       "fetch_error": "",
       "ignored": false,
-      "done": false,
+      "done": true,
       "text_original": ""
     },
     {
@@ -3514,12 +3514,12 @@
       "image_url": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/0250ccd0-a054-4d09-b0e9-646e244b97b7/Peter_Attia_Graph_Lean_Muscle.PNG",
       "image_path": "data\\images\\34dfbfbf68ffcffd6e56a4a8ba7d96c8.png",
       "image_hash": "8fcce04fe0e01db6",
-      "text": "Today’s quick lesson if you are trying to convey a message in a visual:<br/><strong>Stop presenting data. Instead, present the point of the data. </strong><br/><br/>For example, here’s ONE of the interpretations of the data (there are many other helpful interpretations that EACH deserve their own visual):",
+      "text": "",
       "fetch_failed": false,
       "fetch_error": "",
       "ignored": false,
-      "done": false,
-      "text_original": ""
+      "done": true,
+      "text_original": "Today’s quick lesson if you are trying to convey a message in a visual:<br/><strong>Stop presenting data. Instead, present the point of the data. </strong><br/><br/>For example, here’s ONE of the interpretations of the data (there are many other helpful interpretations that EACH deserve their own visual):"
     },
     {
       "post_url": "https://idea-milanicreative.beehiiv.com/p/visual-ideas-shouldnt-present-data-instead",
@@ -3530,12 +3530,12 @@
       "image_url": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/d1e6847d-7db3-455f-8233-872bda7a1b56/Peter_Attia_s_Graph.png",
       "image_path": "data\\images\\206b9417657fc1bf2309b48d062be4ce.png",
       "image_hash": "ba65379ac1cdc489",
-      "text": "Based on Dr. Peter Attia’s Data<br/><br/>It’s true we lose some nuance from simplifying, but we also save our reader from spending as much time as I did to interpret the data.<br/><br/>You can always complement the visual with the hardcore data in an appendix (or if giving a live-presentation, a QR code to a website with the charts)<br/><br/>P.S. If you want to go deeper to learn how to create visual metaphors, <strong>click here to sign up for the waitlist. </strong>",
+      "text": "",
       "fetch_failed": false,
       "fetch_error": "",
-      "ignored": false,
+      "ignored": true,
       "done": false,
-      "text_original": ""
+      "text_original": "Based on Dr. Peter Attia’s Data<br/><br/>It’s true we lose some nuance from simplifying, but we also save our reader from spending as much time as I did to interpret the data.<br/><br/>You can always complement the visual with the hardcore data in an appendix (or if giving a live-presentation, a QR code to a website with the charts)<br/><br/>P.S. If you want to go deeper to learn how to create visual metaphors, <strong>click here to sign up for the waitlist. </strong>"
     },
     {
       "post_url": "https://idea-milanicreative.beehiiv.com/p/visual-ideas-shouldnt-present-data-instead",
@@ -3550,7 +3550,7 @@
       "fetch_failed": false,
       "fetch_error": "",
       "ignored": false,
-      "done": false,
+      "done": true,
       "text_original": ""
     },
     {
@@ -3562,12 +3562,12 @@
       "image_url": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/2f20b8c3-9fc1-4ba8-9bc7-74f7fb945517/first_step_to_action_from_idea_cliff.png",
       "image_path": "data\\images\\d3b0b6c5904017573a85006d404c3019.png",
       "image_hash": "c79a38ed9016cd1e",
-      "text": "<strong>The distance between your dreams and reality is not as far as you think.</strong><br/><br/>I overplan. Overanalyze. Overthink most things. It may be why my <strong>overthinking visual carousel </strong>struck a chord with so many folks a couple weeks ago.<br/><br/>Before I made my first online post, I kept thinking I had to figure everything out before starting.<br/><br/>Questions like:<br/><br/>What's my niche?<br/><br/>Who am I to talk about this?<br/><br/>And hasn't everything that needs to be said about everything already been said?!<br/><br/>So I kept thinking...and waiting...for over 10+ years!<br/><br/>The biggest lesson I learned after starting was you can't steer a parked car (as the saying goes).<br/><br/>99% of that analysis paralysis was just in my head.",
+      "text": "The distance between your dreams and reality is not as far as you think.",
       "fetch_failed": false,
       "fetch_error": "",
       "ignored": false,
-      "done": false,
-      "text_original": ""
+      "done": true,
+      "text_original": "<strong>The distance between your dreams and reality is not as far as you think.</strong><br/><br/>I overplan. Overanalyze. Overthink most things. It may be why my <strong>overthinking visual carousel </strong>struck a chord with so many folks a couple weeks ago.<br/><br/>Before I made my first online post, I kept thinking I had to figure everything out before starting.<br/><br/>Questions like:<br/><br/>What's my niche?<br/><br/>Who am I to talk about this?<br/><br/>And hasn't everything that needs to be said about everything already been said?!<br/><br/>So I kept thinking...and waiting...for over 10+ years!<br/><br/>The biggest lesson I learned after starting was you can't steer a parked car (as the saying goes).<br/><br/>99% of that analysis paralysis was just in my head."
     },
     {
       "post_url": "https://idea-milanicreative.beehiiv.com/p/visual-ideas-making-daily-visuals-superpower",
@@ -3578,12 +3578,12 @@
       "image_url": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/9d0f0b2a-21fe-42a5-b817-cb2dab2c8f83/Untitled_Artwork_6.png",
       "image_path": "data\\images\\5ae69c5bc648b9f5cd740f5e0080bb94.png",
       "image_hash": "ea78b5374ac0d386",
-      "text": "<strong>It gets messier before it doesn't. </strong><br/><br/>One of the most beneficial aspects of writing is that it gives your memory and thinking structure. Random events and emotions can be organized with a beginning, middle and end.<br/><br/>But often, I find myself creating more chaos in the process before finding the thread to tie everything together.<br/><br/>Ah but the satisfaction and clarity once that baggage you’ve been carrying is organized feels oh so good! 😁<br/><br/>“This is the only real concern of the artist, <br/>to recreate out of the disorder of life <br/>that order which is art.”",
+      "text": "It gets messier before it doesn't.",
       "fetch_failed": false,
       "fetch_error": "",
       "ignored": false,
-      "done": false,
-      "text_original": ""
+      "done": true,
+      "text_original": "<strong>It gets messier before it doesn't. </strong><br/><br/>One of the most beneficial aspects of writing is that it gives your memory and thinking structure. Random events and emotions can be organized with a beginning, middle and end.<br/><br/>But often, I find myself creating more chaos in the process before finding the thread to tie everything together.<br/><br/>Ah but the satisfaction and clarity once that baggage you’ve been carrying is organized feels oh so good! 😁<br/><br/>“This is the only real concern of the artist, <br/>to recreate out of the disorder of life <br/>that order which is art.”"
     },
     {
       "post_url": "https://idea-milanicreative.beehiiv.com/p/visual-ideas-making-daily-visuals-superpower",
@@ -3594,12 +3594,12 @@
       "image_url": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/176235c8-52f4-47ba-9abd-b3ef6e3aa01f/21_firefly.jpeg",
       "image_path": "data\\images\\755767468ae14c102ee8154d60a9e02f.jpeg",
       "image_hash": "e64ca16c9ee168b6",
-      "text": "This is the 21st visual I ever made (very different than today I know 😅)",
+      "text": "",
       "fetch_failed": false,
       "fetch_error": "",
-      "ignored": false,
+      "ignored": true,
       "done": false,
-      "text_original": ""
+      "text_original": "This is the 21st visual I ever made (very different than today I know 😅)"
     },
     {
       "post_url": "https://idea-milanicreative.beehiiv.com/p/visual-ideas-making-daily-visuals-superpower",
@@ -3610,12 +3610,12 @@
       "image_url": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/7ec12b9f-626a-44a4-8282-8b2a171cd500/Firefly_Ideas_in_your_Feed.PNG.png",
       "image_path": "data\\images\\cdfb206b7fab4ea04315384ede477878.png",
       "image_hash": "bc3cd3e1d66942a1",
-      "text": "Here’s that same firefly repurposed a year later!<br/><br/>This is a superpower because the more you create, the more you CAN create!<br/><br/>For example, this <strong>recent carousel on the difference between amateurs vs professionals</strong><strong>*</strong> that went viral were mostly visuals I gave new life by repurposing them.<br/><br/>This means even though in the beginning you’re doing a lot of heavy lifting, the more reps you do, the bigger you grow your personal library of assets. And that means you don’t always have to start from scratch!<br/><br/>P.S. If you’re ready to start building your own visual library, you may want to join the next cohort of <strong>Thinking in Visual Metaphors</strong> in September. Be sure to sign up for the waitlist to be one of the first to know when registration starts!",
+      "text": "",
       "fetch_failed": false,
       "fetch_error": "",
-      "ignored": false,
+      "ignored": true,
       "done": false,
-      "text_original": ""
+      "text_original": "Here’s that same firefly repurposed a year later!<br/><br/>This is a superpower because the more you create, the more you CAN create!<br/><br/>For example, this <strong>recent carousel on the difference between amateurs vs professionals</strong><strong>*</strong> that went viral were mostly visuals I gave new life by repurposing them.<br/><br/>This means even though in the beginning you’re doing a lot of heavy lifting, the more reps you do, the bigger you grow your personal library of assets. And that means you don’t always have to start from scratch!<br/><br/>P.S. If you’re ready to start building your own visual library, you may want to join the next cohort of <strong>Thinking in Visual Metaphors</strong> in September. Be sure to sign up for the waitlist to be one of the first to know when registration starts!"
     },
     {
       "post_url": "https://idea-milanicreative.beehiiv.com/p/visual-ideas-making-daily-visuals-superpower",
@@ -3626,12 +3626,12 @@
       "image_url": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/8284eb67-aac2-4d52-825b-add0979159ac/3.png",
       "image_path": "data\\images\\11e7b17799d0c82d0c1d0f04b2b1860e.png",
       "image_hash": "bb95c03d943f63c0",
-      "text": "*I should note to be an amateur is a beautiful thing. “Amateur” comes from the Latin word for lover (amator). I’m a proud amateur guitarist! 😬 The problem comes <em>if I want to become a pro</em> guitarist. Pursuing it as a career forces changes in my mindset that need to happen if I want to avoid disappointment.",
+      "text": "",
       "fetch_failed": false,
       "fetch_error": "",
-      "ignored": false,
+      "ignored": true,
       "done": false,
-      "text_original": ""
+      "text_original": "*I should note to be an amateur is a beautiful thing. “Amateur” comes from the Latin word for lover (amator). I’m a proud amateur guitarist! 😬 The problem comes <em>if I want to become a pro</em> guitarist. Pursuing it as a career forces changes in my mindset that need to happen if I want to avoid disappointment."
     },
     {
       "post_url": "https://idea-milanicreative.beehiiv.com/p/visual-ideas-making-daily-visuals-superpower",
@@ -3646,7 +3646,7 @@
       "fetch_failed": false,
       "fetch_error": "",
       "ignored": false,
-      "done": false,
+      "done": true,
       "text_original": ""
     },
     {
@@ -3662,7 +3662,7 @@
       "fetch_failed": false,
       "fetch_error": "",
       "ignored": false,
-      "done": false,
+      "done": true,
       "text_original": ""
     },
     {
@@ -3674,12 +3674,12 @@
       "image_url": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/2df57c4d-bddd-407d-a62d-484d504a4056/Businesses_Grow_Like_Bamboo_2.png",
       "image_path": "data\\images\\e4cdf7e00d13e62329d9b688265dc5a4.png",
       "image_hash": "fa948d2bf0a50fc1",
-      "text": "Most progress is invisible until it's not.<br/><br/>When I first learned to play the guitar—<br/><br/>E-chord? No problem. <br/>C-chord? No problem. <br/>But then I got to the G-chord, and I was like, what the hell is this?!<br/><br/>I thought, \"how in the world do fingers make this shape?\"<br/><br/>Day to day, I tried to play that freaking G-chord.<br/><br/>But no sound. All I felt was the pain of metal strings carving into my fingers. I couldn't see progress but for some reason I trusted the process.<br/><br/>And eventually one day out of no where, I heard <em>strum</em>...<br/>the sweet release of that G-chord! 🫠<br/><br/>That was the first time in my life I had proof that just because you can't see progress doesn't mean you're not making progress.",
+      "text": "Most progress is invisible until it's not.<br/><br/>Just because you can't see progress doesn't mean you're not making progress.",
       "fetch_failed": false,
       "fetch_error": "",
       "ignored": false,
-      "done": false,
-      "text_original": ""
+      "done": true,
+      "text_original": "Most progress is invisible until it's not.<br/><br/>When I first learned to play the guitar—<br/><br/>E-chord? No problem. <br/>C-chord? No problem. <br/>But then I got to the G-chord, and I was like, what the hell is this?!<br/><br/>I thought, \"how in the world do fingers make this shape?\"<br/><br/>Day to day, I tried to play that freaking G-chord.<br/><br/>But no sound. All I felt was the pain of metal strings carving into my fingers. I couldn't see progress but for some reason I trusted the process.<br/><br/>And eventually one day out of no where, I heard <em>strum</em>...<br/>the sweet release of that G-chord! 🫠<br/><br/>That was the first time in my life I had proof that just because you can't see progress doesn't mean you're not making progress."
     },
     {
       "post_url": "https://idea-milanicreative.beehiiv.com/p/visual-ideas-stepping-off-sidelines",
@@ -3693,7 +3693,7 @@
       "text": "<strong>A critical shift in thinking to make for leaders. </strong>",
       "fetch_failed": false,
       "fetch_error": "",
-      "ignored": false,
+      "ignored": true,
       "done": false,
       "text_original": ""
     },
@@ -3710,7 +3710,7 @@
       "fetch_failed": false,
       "fetch_error": "",
       "ignored": false,
-      "done": false,
+      "done": true,
       "text_original": ""
     },
     {
@@ -3726,7 +3726,7 @@
       "fetch_failed": false,
       "fetch_error": "",
       "ignored": false,
-      "done": false,
+      "done": true,
       "text_original": ""
     },
     {
@@ -3738,12 +3738,12 @@
       "image_url": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/c6b518b8-773b-4a4e-868b-40304bb93d5b/2_Day_Rule_Bike_Habit.png",
       "image_path": "data\\images\\503f6b35b967b6ae47a9c1f99a5367e3.png",
       "image_hash": "ed6130b6d226cb8d",
-      "text": "<strong>Avoid the second mistake.</strong><br/>Inspired by James Clear’s book, <strong>Atomic Habits</strong>.<br/><br/>Now the trick is how?<br/><br/>The best piece of advice I’ve heard from James Clear is, “reduce the scope to maintain the habit.”<br/><br/>Most of my life I’ve held almost impossible to meet standards, for myself and others. While this was useful to me for a season, I realized over time those standards distorted my creative output into an all or nothing approach.<br/><br/>The harsh truth is that <strong>a balanced life doesn’t mean balanced days.</strong> Balance comes in the form of an averaging of your days.<br/><br/>There will be days when I only get a few push-ups or a brisk walk in for exercise. There are days when I get home so late that I only have enough time with the kids for a short cuddle and bedtime story.<br/><br/>The point is to embrace the imperfect messiness of it all. Miss a day, you’re human. Try your best to get back on the bike day 2, even if it means you don’t go as far forward as you’d like.<br/><br/>A little progress is still progress.",
+      "text": "<strong>Avoid the second mistake.</strong><br/>A balanced life doesn’t mean balanced days.</strong> Balance comes in the form of an averaging of your days.<br/><br/>There will be days when I only get a few push-ups or a brisk walk in for exercise. There are days when I get home so late that I only have enough time with the kids for a short cuddle and bedtime story.<br/><br/>The point is to embrace the imperfect messiness of it all. Miss a day, you’re human. Try your best to get back on the bike day 2, even if it means you don’t go as far forward as you’d like.<br/><br/>A little progress is still progress.",
       "fetch_failed": false,
       "fetch_error": "",
       "ignored": false,
-      "done": false,
-      "text_original": ""
+      "done": true,
+      "text_original": "<strong>Avoid the second mistake.</strong><br/>Inspired by James Clear’s book, <strong>Atomic Habits</strong>.<br/><br/>Now the trick is how?<br/><br/>The best piece of advice I’ve heard from James Clear is, “reduce the scope to maintain the habit.”<br/><br/>Most of my life I’ve held almost impossible to meet standards, for myself and others. While this was useful to me for a season, I realized over time those standards distorted my creative output into an all or nothing approach.<br/><br/>The harsh truth is that <strong>a balanced life doesn’t mean balanced days.</strong> Balance comes in the form of an averaging of your days.<br/><br/>There will be days when I only get a few push-ups or a brisk walk in for exercise. There are days when I get home so late that I only have enough time with the kids for a short cuddle and bedtime story.<br/><br/>The point is to embrace the imperfect messiness of it all. Miss a day, you’re human. Try your best to get back on the bike day 2, even if it means you don’t go as far forward as you’d like.<br/><br/>A little progress is still progress."
     },
     {
       "post_url": "https://idea-milanicreative.beehiiv.com/p/visual-ideas-james-clear-teaches-fighting-perfectionism",
@@ -3770,12 +3770,12 @@
       "image_url": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/c27098c8-c221-47cf-962f-b71fabd51eb1/Photograph_Negatives_What_We_See_Vs_Don_t_See.png",
       "image_path": "data\\images\\a805c243f8b393c74310115be856084e.png",
       "image_hash": "f528752a99dd8855",
-      "text": "<strong>Friendly reminder of the day.</strong><br/><br/>I try to think of my visual metaphors as “friendly reminders” to the reader (and myself). I hope they FEEL true, like a familiar echo…that somehow got lost in the sea of relentless noise.<br/><br/>This one is a simple reminder to myself that the negative stuff we each face day in and day out are what help us appreciate the positive stuff.<br/><br/>If you like friendly reminders, I posted a bunch more<strong> to start the week here. </strong>",
+      "text": "",
       "fetch_failed": false,
       "fetch_error": "",
       "ignored": false,
-      "done": false,
-      "text_original": ""
+      "done": true,
+      "text_original": "<strong>Friendly reminder of the day.</strong><br/><br/>I try to think of my visual metaphors as “friendly reminders” to the reader (and myself). I hope they FEEL true, like a familiar echo…that somehow got lost in the sea of relentless noise.<br/><br/>This one is a simple reminder to myself that the negative stuff we each face day in and day out are what help us appreciate the positive stuff.<br/><br/>If you like friendly reminders, I posted a bunch more<strong> to start the week here. </strong>"
     },
     {
       "post_url": "https://idea-milanicreative.beehiiv.com/p/visual-ideas-james-clear-teaches-fighting-perfectionism",
@@ -3786,12 +3786,12 @@
       "image_url": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/ff1ec4eb-49f7-4ea6-b6ff-4d12689d4afd/What_Routines_Feel_Like_Primrose_Steps.png",
       "image_path": "data\\images\\630ecc5198b8512a2ad8272038ed66bb.png",
       "image_hash": "fbb0c4e573325cc0",
-      "text": "<strong>Perception vs reality of routines</strong><br/><br/>I used to hate routines. But nothing gets you to love routines faster than having kids. 😆",
+      "text": "Perception vs reality of routines",
       "fetch_failed": false,
       "fetch_error": "",
       "ignored": false,
-      "done": false,
-      "text_original": ""
+      "done": true,
+      "text_original": "<strong>Perception vs reality of routines</strong><br/><br/>I used to hate routines. But nothing gets you to love routines faster than having kids. 😆"
     },
     {
       "post_url": "https://idea-milanicreative.beehiiv.com/p/visual-ideas-people-get-wrong-stand-creator",
@@ -3806,7 +3806,7 @@
       "fetch_failed": false,
       "fetch_error": "",
       "ignored": false,
-      "done": false,
+      "done": true,
       "text_original": ""
     },
     {
@@ -3818,12 +3818,12 @@
       "image_url": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/24f8719e-ee31-4d38-8b04-7db31680566e/IMG_2858.PNG",
       "image_path": "data\\images\\10351bae12fbf3ca9801464bdb323c5f.png",
       "image_hash": "f21d99f0e062e1cb",
-      "text": "Try it yourself! Here’s a simple exercise to make straight motion:",
+      "text": "",
       "fetch_failed": false,
       "fetch_error": "",
       "ignored": false,
-      "done": false,
-      "text_original": ""
+      "done": true,
+      "text_original": "Try it yourself! Here’s a simple exercise to make straight motion:"
     },
     {
       "post_url": "https://idea-milanicreative.beehiiv.com/p/visual-ideas-people-get-wrong-stand-creator",
@@ -3834,12 +3834,12 @@
       "image_url": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/72f13a92-4d6b-4132-ba77-c94b6563a562/IMG_2856.PNG",
       "image_path": "data\\images\\a5b2ac22a98d07d49ee2819371e604f3.png",
       "image_hash": "e7839a2c65c3b638",
-      "text": "Draw a simple circle",
+      "text": "",
       "fetch_failed": false,
       "fetch_error": "",
       "ignored": false,
-      "done": false,
-      "text_original": ""
+      "done": true,
+      "text_original": "Draw a simple circle"
     },
     {
       "post_url": "https://idea-milanicreative.beehiiv.com/p/visual-ideas-people-get-wrong-stand-creator",
@@ -3850,12 +3850,12 @@
       "image_url": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/ddd918e8-b76b-4bd9-a034-14a68d30e1cd/IMG_2857.PNG",
       "image_path": "data\\images\\07128bf0fadd1c067fc77d361f55fe53.png",
       "image_hash": "b21ccf63701c33e3",
-      "text": "And make some straight lines over it!<br/><br/>It’s as simple as that!<br/><br/>And by the way, if you’re keen to learn how to make visual metaphors, enrollment for Thinking in Visual Metaphors is open for another week! 28 students have already enrolled in Cohort 5!",
+      "text": "",
       "fetch_failed": false,
       "fetch_error": "",
       "ignored": false,
-      "done": false,
-      "text_original": ""
+      "done": true,
+      "text_original": "And make some straight lines over it!<br/><br/>It’s as simple as that!<br/><br/>And by the way, if you’re keen to learn how to make visual metaphors, enrollment for Thinking in Visual Metaphors is open for another week! 28 students have already enrolled in Cohort 5!"
     },
     {
       "post_url": "https://idea-milanicreative.beehiiv.com/p/visual-ideas-people-get-wrong-stand-creator",
@@ -3870,7 +3870,7 @@
       "fetch_failed": false,
       "fetch_error": "",
       "ignored": false,
-      "done": false,
+      "done": true,
       "text_original": ""
     },
     {
@@ -3898,12 +3898,12 @@
       "image_url": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/feac04e5-6fd1-4470-817d-97d70589772b/Hard_Work_Straight_Path_Road_Expectation_Vs_Reality.png",
       "image_path": "data\\images\\a63a99c60eb0ddf4b9ba25859ff33661.png",
       "image_hash": "bf8dd136c1b46a21",
-      "text": "<strong>The price of admission for success.</strong>",
+      "text": "The price of admission for success.",
       "fetch_failed": false,
       "fetch_error": "",
       "ignored": false,
-      "done": false,
-      "text_original": ""
+      "done": true,
+      "text_original": "<strong>The price of admission for success.</strong>"
     },
     {
       "post_url": "https://idea-milanicreative.beehiiv.com/p/visual-ideas-focusing-one-thing-time-superpower",
@@ -8340,9 +8340,9 @@
   ],
   "year_checksums": {
     "2022": "f7bcd2519d9b7a525b8e6f6d1b79fecfde198aeed0c2459c186426b698d12dfa",
-    "2025": "6c44333844c51c5ebe3996ad3c6999c8fa4e7ef83335532271917d5937f9c569",
-    "2023": "c33a26e0f20e0be73b4f00f13a425de224ae3aed9d6642e70536590f527839c5",
-    "2024": "9453fd057a919b7a31c231351e7b6b15ff7c18e896670d2dfbb31db99bc641a9",
-    "2026": "ad17884f8621cd728fbf1f4cfa8a445b149376840d1d9de1674f80530ac76a48"
+    "2025": "e6a4cb9ea9b671b912f056a0c4d1be9593bb9b4cf9cc31c4a710c417943558bb",
+    "2023": "312877dc7153bf143a961becc70651530bbc8a91d6f3012b6795ec21d1d45c27",
+    "2024": "43f1aa4e05a3a2296c156d329b7cafd49bdfe3ef2bbabf7a26bb3849e0e26b1f",
+    "2026": "7747d6e7ca2f5bed633de8c55961c4b0d615c97c18e5bfa2d40d555f94016511"
   }
 }

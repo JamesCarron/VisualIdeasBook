@@ -78,7 +78,8 @@ _BOILERPLATE_CHUNK_RE = re.compile(
     r"(subscribe below|thanks for reading|made this newsletter with beehiiv|"
     r"say hi on |visual i\.?d\.?e\.?a|thinking in visual metaphors|"
     r"reply any time|cohort \d+ is|straight into (their|your) inbox|"
-    r"getting .{0,50} subscriber)",
+    r"getting .{0,50} subscriber|join the waiting list|"
+    r"best place to start and scale a newsletter)",
     re.IGNORECASE,
 )
 
@@ -208,13 +209,19 @@ def _year_preamble() -> str:
 
 def _cover_page(year: str) -> str:
     return (
+        "% " + ("=" * 69) + "\n"
+        "% " + year + "\n"
+        "% " + ("=" * 69) + "\n"
+        "\n"
         "\\thispagestyle{empty}\n"
+        "\n"
         "\\vspace*{\\fill}\n"
+        "\n"
         "\\begin{center}\n"
-        "{\\fontsize{72}{86}\\selectfont\\bfseries " + year + "}\n"
+        "    {\\fontsize{72}{86}\\selectfont\\bfseries " + year + "}\n"
         "\\end{center}\n"
+        "\n"
         "\\vspace*{\\fill}\n"
-        "\\newpage\n"
     )
 
 
@@ -234,43 +241,56 @@ def _render_page(
     count = len(images)
     h_frac = IMAGE_HEIGHT_BY_COUNT.get(count, IMAGE_HEIGHT_BY_COUNT[4])
 
-    parts: list[str] = []
-    parts.append(r"\renewcommand{\theposttitle}{" + _escape_latex(post_title) + "}")
-    parts.append(r"\renewcommand{\thepostdate}{" + _escape_latex(post_date) + "}")
-    parts.append(r"\vspace*{\fill}")
+    lines: list[str] = []
+
+    # Comment header so the file is easy to navigate
+    lines.append(f"% {post_date}  {post_title}  [{section}]")
+    lines.append("")
+
+    # Metadata commands used by header/footer
+    lines.append(r"\renewcommand{\theposttitle}{" + _escape_latex(post_title) + "}")
+    lines.append(r"\renewcommand{\thepostdate}{" + _escape_latex(post_date) + "}")
+    lines.append("")
+
+    lines.append(r"\vspace*{\fill}")
 
     if section_intro:
-        parts.append(r"\begin{center}")
-        parts.append(r"\begin{minipage}{0.92\textwidth}")
-        parts.append(r"\small")
-        parts.append(section_intro)
-        parts.append(r"\end{minipage}")
-        parts.append(r"\end{center}")
-        parts.append(r"\vspace{4mm}")
+        lines.append("")
+        lines.append(r"\begin{center}")
+        lines.append(r"    \begin{minipage}{0.92\textwidth}")
+        lines.append(r"        \small")
+        lines.append(f"        {section_intro}")
+        lines.append(r"    \end{minipage}")
+        lines.append(r"\end{center}")
+        lines.append(r"\vspace{4mm}")
 
     for i, (img_path, caption_latex) in enumerate(images):
         if i > 0:
-            parts.append(r"\vspace{5mm}")
-        parts.append(r"\begin{center}")
-        parts.append(
-            r"\includegraphics[width=\textwidth, height="
+            lines.append("")
+            lines.append(r"\vspace{5mm}")
+        lines.append("")
+        lines.append(r"\begin{center}")
+        lines.append(
+            r"    \includegraphics[width=\textwidth, height="
             f"{h_frac}"
             r"\textheight, keepaspectratio]{"
             + img_path
             + "}"
         )
-        parts.append(r"\end{center}")
+        lines.append(r"\end{center}")
         if caption_latex:
-            parts.append(r"\vspace{2mm}")
-            parts.append(r"\begin{center}")
-            parts.append(r"\begin{minipage}{0.92\textwidth}")
-            parts.append(r"\small")
-            parts.append(caption_latex)
-            parts.append(r"\end{minipage}")
-            parts.append(r"\end{center}")
+            lines.append("")
+            lines.append(r"\vspace{2mm}")
+            lines.append(r"\begin{center}")
+            lines.append(r"    \begin{minipage}{0.92\textwidth}")
+            lines.append(r"        \small")
+            lines.append(f"        {caption_latex}")
+            lines.append(r"    \end{minipage}")
+            lines.append(r"\end{center}")
 
-    parts.append(r"\vspace*{\fill}")
-    return "\n".join(parts)
+    lines.append("")
+    lines.append(r"\vspace*{\fill}")
+    return "\n".join(lines)
 
 
 # --- Grouping ---------------------------------------------------------
@@ -432,7 +452,7 @@ def generate_pdf(
         images: list[tuple[str, str]] = []
         for entry in group:
             img_path = _tex_path(entry.image_path, output_path.parent)
-            caption_latex = _html_to_latex(entry.text)
+            caption_latex = _html_to_latex(_strip_boilerplate(entry.text))
             images.append((img_path, caption_latex))
 
         page_tex = _render_page(section, intro_latex, images, post_title, post_date)
@@ -440,10 +460,11 @@ def generate_pdf(
         year_pages[year].append(page_tex)
 
     # Write per-year .tex files with inlined content
+    page_sep = "\n\n\\newpage\n\n% " + "-" * 69 + "\n\n"
     for year, pages in year_pages.items():
         cover = _cover_page(year)
-        body = ("\n\\newpage\n").join(pages)
-        year_tex = _year_preamble() + cover + body + _POSTAMBLE
+        body = page_sep.join(pages)
+        year_tex = _year_preamble() + "\n" + cover + page_sep + body + _POSTAMBLE
         year_tex_path = output_path.parent / f"archive_{year}.tex"
         year_tex_path.write_text(year_tex, encoding="utf-8")
         log.info("Wrote year LaTeX: %s", year_tex_path)

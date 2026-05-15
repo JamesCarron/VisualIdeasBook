@@ -21,6 +21,17 @@ ALLOWED_IMAGE_EXTS = {".jpg", ".jpeg", ".png", ".gif", ".webp"}
 # Beehiiv post dates render as "Apr 29, 2026". Match month abbr + day + year.
 DATE_RE = re.compile(r"\b([A-Z][a-z]{2,9})\s+(\d{1,2}),?\s+(\d{4})\b")
 
+# Newsletter footer boilerplate that appears at the end of every post.
+# Matched against plain text of each paragraph before it is included.
+_BOILERPLATE_RE = re.compile(
+    r"(subscribe below|thanks for reading|made this newsletter with beehiiv|"
+    r"say hi on |visual i\.?d\.?e\.?a|thinking in visual metaphors|"
+    r"reply any time|cohort \d+ is|straight into (their|your) inbox|"
+    r"getting .{0,50} subscriber|join the waiting list|"
+    r"best place to start and scale a newsletter)",
+    re.IGNORECASE,
+)
+
 
 def fetch_post_html(url: str, timeout: float = 30.0) -> str:
     resp = httpx.get(
@@ -62,7 +73,9 @@ def parse_post_date(soup: BeautifulSoup) -> str:
     month_str, day, year = match.groups()
     for fmt in ("%b %d %Y", "%B %d %Y"):
         try:
-            return datetime.strptime(f"{month_str} {day} {year}", fmt).strftime("%Y-%m-%d")
+            return datetime.strptime(f"{month_str} {day} {year}", fmt).strftime(
+                "%Y-%m-%d"
+            )
         except ValueError:
             continue
     return ""
@@ -165,7 +178,7 @@ def extract_section_pairs(
                 if el.find_parent("a") is not None:
                     continue
                 cleaned = _clean_text_html(el)
-                if cleaned:
+                if cleaned and not _BOILERPLATE_RE.search(cleaned):
                     items.append(("text", cleaned))
 
         if not any(kind == "img" for kind, _ in items):
@@ -208,7 +221,9 @@ def _image_filename(url: str) -> str:
     return f"{digest}{ext}"
 
 
-def download_image(url: str, images_dir: Path, timeout: float = 30.0) -> tuple[Path, str]:
+def download_image(
+    url: str, images_dir: Path, timeout: float = 30.0
+) -> tuple[Path, str]:
     """Download image to cache and return (local_path, perceptual_hash_hex)."""
     images_dir.mkdir(parents=True, exist_ok=True)
     local_path = images_dir / _image_filename(url)
